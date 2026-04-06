@@ -1,0 +1,6 @@
+{bitmap
+    {frame "universal_carrier_mk2_00.tga"}
+    {frame "universal_carrier_mk2_01.tga"}
+    {frame "universal_carrier_mk2_02.tga"}
+    {frame "universal_carrier_mk2_03.tga"}
+}

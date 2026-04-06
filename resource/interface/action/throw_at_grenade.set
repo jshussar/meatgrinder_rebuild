@@ -1,0 +1,12 @@
+{action
+	{cursor "attack"}
+	{fx "flashattackat"}
+	{item "throwable" "grenade" "at"}
+	{item_in_box}
+	{button}
+	{RequireSelect}
+	{NotifySelect}
+	{NotifyDoubleClick}
+	{ShowCount}
+	{AimEntities}
+}

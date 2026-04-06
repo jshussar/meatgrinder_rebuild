@@ -1,0 +1,6 @@
+{bitmap
+    {frame "hurribomber_mk2c_00.tga"}
+    {frame "hurribomber_mk2c_01.tga"}
+    {frame "hurribomber_mk2c_02.tga"}
+    {frame "hurribomber_mk2c_03.tga"}
+}

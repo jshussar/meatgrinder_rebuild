@@ -1,0 +1,6 @@
+{bitmap
+    {frame "kfz15_kos_00.tga"}
+    {frame "kfz15_kos_01.tga"}
+    {frame "kfz15_kos_02.tga"}
+    {frame "kfz15_kos_03.tga"}
+}

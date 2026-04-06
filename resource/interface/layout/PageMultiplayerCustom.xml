@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout xmlns="http://www.digitalmindsoft.eu/xmllayout"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.digitalmindsoft.eu/xmllayout LayoutSchema.xsd"
+        version="1" skin="main_menu_dark_skin">
+    <Properties>
+        <session.debug>false</session.debug>
+    </Properties>
+    <Content>
+        <StackPanel>
+            <Children>
+                <DialogRef refid="gui_background" shared="true"/>
+                <FrameView resource="/interface/skin/game/frame/bkg" header="true"/>
+                <DockPanel>
+                    <Children>
+                        <DialogRef resource="components/PageHeader.xml" placement="top"/>
+                        <StackPanel placement="center">
+                            <Insets left="28" right="28"  bottom="28"/>
+                            <Children>
+                                <PercentPanel stretch="true" direction="horizontal" gap="8">
+                                    <MaxSize x="2184" y="1088" />
+                                    <Children>
+                                        <FrameView percent="0.6" resource="/interface/skin/game/frame/window_single" header="true">
+                                            <HeaderContent>
+                                                <DockPanel>
+                                                    <Children>
+                                                        <FlowPanel valign="center" placement="center">
+                                                            <Children>
+                                                                <DialogRef refid="gui_breadcrumbs" shared="true"/>
+                                                            </Children>
+                                                        </FlowPanel>
+                                                        <PictureButton placement="right" id="btn_back" centerX="true" centerY="true">
+                                                            <Resource value="/interface/skin/game/button/back"/>
+                                                        </PictureButton>
+                                                    </Children>
+                                                </DockPanel>
+                                            </HeaderContent>
+                                            <Content>
+                                                <PercentPanel direction="vertical" stretch="true">
+                                                    <Children>
+                                                        <StackPanel percent="0.6" >
+                                                            <Children>
+                                                                <DockPanel id="session_list_block">
+                                                                    <Children>
+                                                                        <FlowPanel id="session_list_buttons" placement="top" direction="horizontal" halign="center" valign="stretch" gap="55">
+                                                                            <Insets bottom="23" top="25"/>
+                                                                            <Children>
+                                                                                <BackgroundPanel backgroundResource="/interface/skin/game/frame/window_single/halo_button" sizeMode="fromContent" >
+                                                                                    <Insets right="25" left="25"/>
+                                                                                    <Children>
+                                                                                        <MenuLinkButton id="btn_host_game">
+                                                                                            <Insets left="15" right="15"  />
+                                                                                            <Text value="HOST GAME" key="main_menu2/multiplayer/session/host_game" />
+                                                                                            <Sound value="gui/ui_next_item0" />
+                                                                                        </MenuLinkButton>
+                                                                                    </Children>
+                                                                                </BackgroundPanel>
+                                                                                <BackgroundPanel backgroundResource="/interface/skin/game/frame/window_single/halo_button" sizeMode="fromContent" >
+                                                                                    <Insets right="25" left="25"/>
+                                                                                    <Children>
+                                                                                        <MenuLinkButton id="btn_filter">
+                                                                                            <Visible value="false" />
+                                                                                            <Insets left="3" right="3" />
+                                                                                            <Text value="FILTER" key="main_menu2/multiplayer/session/filter" />
+                                                                                        </MenuLinkButton>
+                                                                                    </Children>
+                                                                                </BackgroundPanel>
+                                                                                <MenuLinkButton id="btn_ip_list">
+                                                                                    <Visible value="false" />
+                                                                                    <Insets left="3" right="3" />
+                                                                                    <Text value="IP LIST" key="main_menu2/multiplayer/session/ip_list" />
+                                                                                </MenuLinkButton>
+                                                                                <BackgroundPanel backgroundResource="/interface/skin/game/frame/window_single/halo_button" sizeMode="fromContent" >
+                                                                                    <Insets right="25" left="25"/>
+                                                                                    <Children>
+                                                                                        <MenuLinkButton id="btn_refresh">
+                                                                                            <Insets left="3" right="3" />
+                                                                                            <Text value="REFRESH" key="main_menu2/multiplayer/session/refresh" />
+                                                                                        </MenuLinkButton>
+                                                                                    </Children>
+                                                                                </BackgroundPanel>
+
+                                                                                <BackgroundPanel backgroundResource="/interface/skin/game/frame/window_single/halo_button" sizeMode="fromContent" >
+                                                                                    <Insets right="25" left="25"/>
+                                                                                    <Children>
+                                                                                        <MenuLinkButton id="btn_join_game">
+                                                                                            <Insets left="3" right="3" />
+                                                                                            <Text value="JOIN" key="main_menu2/multiplayer/session/join_game" />
+                                                                                        </MenuLinkButton>
+                                                                                    </Children>
+                                                                                </BackgroundPanel>
+
+                                                                            </Children>
+                                                                        </FlowPanel>
+                                                                        <StackPanel placement="center" percent="0.5" >
+                                                                            <Children>
+                                                                                <FrameView resource="/interface/skin/game/frame/window" placement="center" header="true">
+                                                                                    <HeaderContent>
+                                                                                        <StackPanel id="session_list_header" skin="main_menu_dark_skin_small">
+                                                                                            <Insets left="3" right="8" bottom="5" />
+                                                                                        </StackPanel>
+                                                                                    </HeaderContent>
+                                                                                    <Content>
+                                                                                        <StackPanel id="session_list_container" skin="main_menu_dark_skin_small">
+                                                                                            <Insets left="3" right="8" bottom="1" />
+                                                                                        </StackPanel>
+                                                                                    </Content>
+                                                                                </FrameView>
+
+                                                                            </Children>
+
+                                                                        </StackPanel>
+                                                                    </Children>
+                                                                </DockPanel>
+                                                            </Children>
+                                                        </StackPanel>
+                                                        <!--<StackPanel percent="0.4">
+                                                            <Children>
+                                                                <DialogRef refid="gui_chatview" shared="true" enableif="!session.debug"/>
+                                                                <FrameView percent="0.6" resource="/interface/skin/game/frame/window_misc" header="true" enableif="session.debug">
+                                                                    <HeaderContent>
+                                                                        <FlowPanel halign="center" valign="center">
+                                                                            <Children>
+                                                                                <FlowPanel direction="horizontal">
+                                                                                    <Children>
+                                                                                        <StaticText>
+                                                                                            <Text value="session list debug" textTransform="toupper"/>
+                                                                                        </StaticText>
+                                                                                        <StaticText id="session_debug_counter">
+                                                                                            <Text value="(0)" textTransform="toupper"/>
+                                                                                        </StaticText>
+                                                                                    </Children>
+                                                                                </FlowPanel>
+                                                                            </Children>
+                                                                        </FlowPanel>
+                                                                    </HeaderContent>
+                                                                    <Content>
+                                                                        <ScrollPane>
+                                                                            <Children>
+                                                                                <ScrollableContent>
+                                                                                    <Children>
+                                                                                        <FlowPanel direction="vertical"  valign="top" id="session_debug_container" gap="10" />
+                                                                                    </Children>
+                                                                                </ScrollableContent>
+                                                                            </Children>
+                                                                            <ScrollBars horizontal="never" vertical="always" />
+                                                                        </ScrollPane>
+                                                                    </Content>
+                                                                </FrameView>
+                                                            </Children>
+                                                        </StackPanel>-->
+                                                    </Children>
+                                                </PercentPanel>
+                                            </Content>
+                                        </FrameView>
+                                        <PercentPanel percent="0.4" stretch="true" gap="2">
+<!--                                            <Insets all="10"/>-->
+                                            <Children>
+                                                <DockPanel percent="0.1" vgap="2">
+                                                    <Children>
+                                                        <DialogRef resource="components/MenuUserProfile.xml" placement="top"  />
+                                                    </Children>
+                                                </DockPanel>
+												<!--<PercentPanel percent="0.5" gap="2" direction="vertical">
+													<Children>
+														<DialogRef resource="components/MenuChat.xml" placement="center"  />
+													</Children>
+												</PercentPanel>-->
+                                                <PercentPanel percent="0.9" gap="2" direction="vertical" enableif="!session.debug">
+                                                    <Children>
+                                                        <DialogRef resource="components/MenuFriends.xml" percent="1" />
+                                                        <DialogRef resource="components/MenuParty.xml" percent="0">
+														<Visible value="false"/> <!--party hidden-->
+                                                            <MaxSize x="400" />
+                                                        </DialogRef>
+                                                    </Children>
+                                                </PercentPanel>
+                                            </Children>
+                                        </PercentPanel>
+                                    </Children>
+                                </PercentPanel>
+                            </Children>
+                        </StackPanel>
+                    </Children>
+
+                </DockPanel>
+
+            </Children>
+        </StackPanel>
+    </Content>
+</Layout>

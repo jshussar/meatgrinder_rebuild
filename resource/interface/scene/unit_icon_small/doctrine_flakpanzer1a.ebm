@@ -1,0 +1,6 @@
+{bitmap
+    {frame "flakpanzer1a_00.tga"}
+    {frame "flakpanzer1a_01.tga"}
+    {frame "flakpanzer1a_02.tga"}
+    {frame "flakpanzer1a_03.tga"}
+}

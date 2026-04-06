@@ -1,0 +1,6 @@
+{bitmap
+    {frame "single_tankman(rus)_00.tga"}
+    {frame "single_tankman(rus)_01.tga"}
+    {frame "single_tankman(rus)_02.tga"}
+    {frame "single_tankman(rus)_03.tga"}
+}

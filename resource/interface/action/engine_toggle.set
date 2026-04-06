@@ -1,0 +1,10 @@
+{action
+	{able_vehicle}
+	{NotifySelect}
+	{button "engine_toggle"}
+	{Key "actions/engine_toggle"}
+	{apply_to_all}	; action will be applied to whole commander's squad, if commander is selected
+	{instant
+		{effect "engine_toggle"}
+	}
+}

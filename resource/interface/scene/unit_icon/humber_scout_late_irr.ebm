@@ -1,0 +1,6 @@
+{bitmap
+    {frame "humber_scout_00.tga"}
+    {frame "humber_scout_01.tga"}
+    {frame "humber_scout_02.tga"}
+    {frame "humber_scout_03.tga"}
+}

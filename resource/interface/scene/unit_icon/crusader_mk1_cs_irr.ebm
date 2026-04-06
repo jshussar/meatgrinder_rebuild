@@ -1,0 +1,6 @@
+{bitmap
+    {frame "crusader_mk1_cs_00.tga"}
+    {frame "crusader_mk1_cs_01.tga"}
+    {frame "crusader_mk1_cs_02.tga"}
+    {frame "crusader_mk1_cs_03.tga"}
+}

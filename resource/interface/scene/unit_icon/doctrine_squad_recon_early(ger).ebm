@@ -1,0 +1,6 @@
+{bitmap
+    {frame "doctrine_squad_pz_recon_00.tga"}
+    {frame "doctrine_squad_pz_recon_01.tga"}
+    {frame "doctrine_squad_pz_recon_02.tga"}
+    {frame "doctrine_squad_pz_recon_03.tga"}
+}

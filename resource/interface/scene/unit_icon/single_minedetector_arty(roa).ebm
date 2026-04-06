@@ -1,0 +1,6 @@
+{bitmap
+    {frame "single_minedetector(roa)_00.tga"}
+    {frame "single_minedetector(roa)_01.tga"}
+    {frame "single_minedetector(roa)_02.tga"}
+    {frame "single_minedetector(roa)_03.tga"}
+}

@@ -1,0 +1,64 @@
+{settings
+	{panel_control_front_default
+		{"throw_ap_grenade"
+			{condition "disabled"}
+		}
+		{"throw_at_grenade"
+			{condition "disabled"}
+		}
+		{"throw_sk_grenade"
+			{condition "disabled"}
+		}
+		{"bazooka_shot"
+			{condition "disabled"}
+		}
+		{"attack"
+			{condition "disabled"}
+		}
+		{"attack_ground"
+			{condition "disabled"}
+		}
+		{"attack_melee"
+			{condition "disabled"}
+		}
+		{"heal"
+			{condition "disabled"}
+		}
+		{"mine_ap"
+			{condition "disabled"}
+		}
+		{"mine_at"
+			{condition "disabled"}
+		}
+		{"put_dynamite"
+			{condition "disabled"}
+		}
+		{"foxhole"
+			{condition "disabled"}
+		}
+		{"foxhole_big"
+			{condition "disabled"}
+		}
+		{"emit"
+			{condition "disabled"}
+		}
+		{"gc_cp_dummy"
+			{condition "disabled"}
+		}
+	}
+	{map_control_big
+		{position 180 180}
+		{scale 0.28}
+		{opacity 0.9}
+		{active}
+		{clickable}
+		{show_tracers}
+		{show_compass_icons}
+		{docking topleft}
+		{docking_editor topleft}
+	}
+	{ui
+		{chats 110338190872137322}
+	}
+	{highlight_silhouettes 0}
+}

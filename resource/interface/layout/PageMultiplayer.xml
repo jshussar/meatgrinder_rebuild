@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout xmlns="http://www.digitalmindsoft.eu/xmllayout"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.digitalmindsoft.eu/xmllayout LayoutSchema.xsd"
+        version="1" skin="main_menu_dark_skin">
+	<Content>
+		<StackPanel>
+			<Children>
+				<DialogRef refid="gui_background" shared="true"/>
+				<FrameView resource="/interface/skin/game/frame/bkg" header="true"/>
+				<DockPanel>
+					<Children>
+						<PercentPanel  direction="horizontal" placement="bottom">
+							<Children>
+								<FlowPanel placement="left" halign="left" valign="bottom" justify="false">
+									<Insets bottom="25" left="25"/>
+									<Children>
+										<BackgroundPanel backgroundResource="/interface/skin/game/frame/window_single/halo_bkg_line" placement="center" zoomMode="stretch"/>
+										<DialogRef resource="components/MenuUserProfile.xml">
+											<MinSize x="270" y="64"/>
+											<MaxSize x="270" y="64"/>
+										</DialogRef>
+									</Children>
+								</FlowPanel>
+							</Children>
+						</PercentPanel>
+						<DialogRef resource="components/PageHeader.xml" placement="top"/>
+						<StackPanel placement="center">
+							<Insets left="28" right="28" bottom="28"/>
+							<Children>
+								<PercentPanel stretch="true" direction="horizontal" gap="8">
+									<MaxSize x="2184" y="1300" />
+									<Children>
+										<FrameView percent="0.55" resource="/interface/skin/game/frame/window_single" header="true">
+											<HeaderContent>
+												<FlowPanel valign="center">
+													<Insets left="25"/>
+													<Children>
+														<DialogRef refid="gui_breadcrumbs" shared="true"/>
+													</Children>
+												</FlowPanel>
+											</HeaderContent>
+											<Content>
+												<PercentPanel>
+													<Children>
+														<DockPanel percent="0.01">
+															<Children>
+																<StackPanel placement="center">
+																	<Children>
+																		<PictureDialog resource="" zoomMode="fill"/>
+																	</Children>
+																</StackPanel>
+															</Children>
+														</DockPanel>
+														<FlowPanel percent="0.715" id="menu_multiplayer_content" halign="stretch" gap="5">
+															<Children>
+<!--																<LargeFrameButton id="btn_training_game"> temporary removed training game in mp-->
+<!--																	<Text key="main_menu2/skirmish/training_game"/>-->
+<!--																	<Sound value="gui/ui_next_item" />-->
+<!--																	<Resource value="/interface/skin/game/button/window/large"/>-->
+<!--																	<Description key="main_menu2/skirmish/training_game_desc"/>-->
+<!--																</LargeFrameButton>-->
+																<LargeFrameButton id="btn_skirmish_game">
+																	<Text key="main_menu2/multiplayer/skirmish_game"/>
+																	<Sound value="gui/ui_next_item" />
+																	<Resource value="/interface/skin/game/button/window/large"/>
+																	<Description key="main_menu2/multiplayer/skirmish_game_desc"/>
+																</LargeFrameButton>
+																<LargeFrameButton id="btn_custom_game">
+																	<Text key="main_menu2/multiplayer/custom_game"/>
+																	<Sound value="gui/ui_next_item" />
+																	<Resource value="/interface/skin/game/button/window/large"/>
+																	<Description key="main_menu2/multiplayer/custom_game_desc"/>
+																</LargeFrameButton>
+																<LargeFrameButton id="btn_local_game">
+																	<Text key="main_menu2/multiplayer/local_game"/>
+																	<Sound value="gui/ui_next_item" />
+																	<Resource value="/interface/skin/game/button/window/large"/>
+																	<Description key="main_menu2/multiplayer/local_game_desc"/>
+																</LargeFrameButton>
+															</Children>
+														</FlowPanel>
+													</Children>
+												</PercentPanel>
+											</Content>
+										</FrameView>
+										<StackPanel percent="0" placement="bottom" >
+											<Children>
+												<PictureDialog id="banner" resource="" zoomMode="fill"/>
+											</Children>
+										</StackPanel>
+										<PercentPanel percent="0.5" placement="center" direction="horizontal" gap="8" stretch="false">
+											<Children>
+												<PictureDialog resource="/map/single/header" zoomMode="fit" centerX="true" centerY="true" placement="center">
+													<MaxSize x="650" y="650" />
+													<Ables mouse="false"/>
+												</PictureDialog>
+											</Children>
+										</PercentPanel>
+									</Children>
+								</PercentPanel>
+							</Children>
+						</StackPanel>
+					</Children>
+				</DockPanel>
+			</Children>
+		</StackPanel>
+	</Content>
+</Layout>

@@ -1,0 +1,6 @@
+{bitmap
+    {frame "single_officer(roa)_00.tga"}
+    {frame "single_officer(roa)_01.tga"}
+    {frame "single_officer(roa)_02.tga"}
+    {frame "single_officer(roa)_03.tga"}
+}

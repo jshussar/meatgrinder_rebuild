@@ -1,0 +1,9 @@
+{action
+	{cursor "attack"}
+	{fx "flashred"}
+	{button}
+	{NotifySelect}
+	{NotifyDoubleClick}
+	{AimEntities}
+	{Key "actions/suppression_fire"}
+}

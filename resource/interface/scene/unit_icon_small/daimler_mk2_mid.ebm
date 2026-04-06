@@ -1,0 +1,6 @@
+{bitmap
+    {frame "daimler_mk2_00.tga"}
+    {frame "daimler_mk2_01.tga"}
+    {frame "daimler_mk2_02.tga"}
+    {frame "daimler_mk2_03.tga"}
+}

@@ -1,0 +1,8 @@
+{action
+	{cursor}
+	{fx "flashcover"}
+	{aimRayTrace}
+	{DoubleClickAction}
+	{ableDrag}
+}
+

@@ -1,0 +1,292 @@
+; // YOU NEED A GAME RESTART FOR CHANGES IN THIS FILE TO TAKE EFFECT.
+
+(define "digging"
+	{Action "%name"
+		{Cursor "dig"}
+		{Button}
+		{fx "flashred"}
+		{Entity "%entity"}
+		{item "%item"}
+		{item_in_box}
+		{RequireSelect}
+		{NotifySelect}
+		{Spacing %spacing}
+		{Cost %cost}
+		{Rotation %rotation}
+		{AbleRotate}
+		{AbleEnqueue}
+		%d
+		{ShowCount}
+		{TerrainRestrictions %restrictions}
+		{Key "actions/%name"}
+		{Instructions
+			{bind range 1}
+			{disable_action_restart}
+			{free_hands}
+			{take_item}
+			{reserve_hands}
+			{animations "%animation %animation" random loop totaltime %time paint 1}
+			{install "%entity" %rotation}
+			{unreserve_hands}
+			{free_hands}
+			{fsm_request nocheck "hold-nothing"}
+			%e
+		}
+	}
+)
+
+(define "construction"
+	{Action "%name"
+		{Button}
+		{cursor "use"}
+		{fx "flashred"}
+		{Entity "%entity"}
+		{item "%item"}
+		{item_in_box}
+		{RequireSelect}
+		{NotifySelect}
+		{Spacing %spacing}
+		{Cost %cost}
+		{Rotation %rotation}
+		{AbleRotate}
+		{AbleEnqueue}
+		%d
+		{TerrainRestrictions %restrictions}
+		{Key "actions/%name"}
+		{Instructions
+			{bind range 1}
+			{disable_action_restart}
+			{free_hands}
+			{reserve_hands}
+			;{install_begin "%entity" %rotation}
+			{animations "%animation %animation" random loop totaltime %time paint 1}
+			;{install_end}
+			{install "%entity" %rotation}
+			{unreserve_hands}
+			{fsm_request nocheck "hold-nothing"}
+			%e
+		}
+	}
+)
+
+(define "fortify"
+	{Action "%name"
+		{Cursor "barricade"}
+		%b
+		{fx "flashred"}
+		{Entity "%entity"}
+		{item "%item"}
+		{item_in_box}
+		{Spacing %spacing}
+		{Cost %cost}
+		{Rotation %rotation}
+		{AbleRotate}
+		{AbleEnqueue}
+		%d
+		{ShowCount}
+		{TerrainRestrictions %restrictions}
+		{Key "actions/%name"}
+		{Instructions
+			{bind range 1}
+			{disable_action_restart}
+			{free_hands}
+			{reserve_hands}
+			{animations "%animation %animation" random loop totaltime %time paint 1}
+			{install "%entity" %rotation}
+			{unreserve_hands}
+			{fsm_request nocheck "hold-nothing"}
+		}
+	}
+)
+
+(define "fortify_mp"
+	{Action "%name"
+		{Cursor "barricade"}
+		{fx "flashred"}
+		{Entity "%entity"}
+		{Cost %cost}
+		{Rotation %rotation}
+		{AbleRotate}
+		;{AbleEnqueue} not supported yet. leads to negative mp.
+		{ShowCount}
+		{TerrainRestrictions %restrictions}
+		{Key "actions/%name"}
+		{Instructions
+			{bind range 1}
+			{disable_action_restart}
+			{free_hands}
+			{reserve_hands}
+			{install_begin "%entity" %rotation}
+			{animations "squat_repair_1 squat_repair_2" random loop totaltime %time paint 1}
+			{install_end}
+			{unreserve_hands}
+			{fsm_request nocheck "hold-nothing"}
+		}
+	}
+)
+
+(define "entrenchment"
+	("digging"		name(%name) entity(%entity) animation(%animation) time(%time) rotation(%rotation) restrictions(%restrictions) cost(%cost) d({AbleDrag}) spacing(%spacing) item(%item))
+)
+
+(define "entrenchment_rotate"
+	("digging"		name(%name) entity(%entity) animation(%animation) time(%time) rotation(%rotation) restrictions(%restrictions) cost(%cost) d() spacing(%spacing) item(%item) e())
+)
+
+(define "entrenchment_rotate_draggable"
+	("digging"		name(%name) entity(%entity) animation(%animation) time(%time) rotation(%rotation) restrictions(%restrictions) cost(%cost) d({AbleDrag}) spacing(%spacing) item(%item) e())
+)
+
+(define "entrenchment_rotate_expendable"
+	("digging"		name(%name) entity(%entity) animation(%animation) time(%time) rotation(%rotation) restrictions(%restrictions) cost(%cost) d() spacing(%spacing) item(%item) e({remove_from_inventory}))
+)
+
+(define "building"
+	("construction"	name(%name) entity(%entity) animation(%animation) time(%time) rotation(%rotation) restrictions(%restrictions) cost(%cost) d() spacing(%spacing) item(%item) e())
+)
+
+(define "building_expendable"
+	("construction"	name(%name) entity(%entity) animation(%animation) time(%time) rotation(%rotation) restrictions(%restrictions) cost(%cost) d() spacing(%spacing) item(%item) e({remove_from_inventory}) )
+)
+
+(define "fortification_draggable"
+	("fortify"		name(%name) entity(%entity) animation(%animation) time(%time) rotation(%rotation) restrictions("water") cost(%cost) b({Button}) d({AbleDrag})	spacing(%spacing) item(%item))
+)
+
+(define "fortification_mp"
+	("fortify_mp"	name(%name) entity(%entity) animation(%animation) time(%time) rotation(%rotation) restrictions("water") cost(0))
+)
+
+(define "cheap_sandbag"
+	{Action "%name"
+		{Cursor "barricade"}
+		{Button}
+		{fx "flashred"}
+		{Entity "%entity"}
+		{item "foxhole"}
+		{item_in_box}
+		{Spacing %spacing}
+		{Cost 1}
+		{Rotation %rotation}
+		{AbleRotate}
+		{AbleEnqueue}
+		{AbleDrag}
+		{ShowCount}
+		{TerrainRestrictions "water"}
+		{Instructions
+			{bind range 1}
+			{disable_action_restart}
+			{free_hands}
+			{reserve_hands}
+			{animations "%animation %animation" random loop totaltime %time paint 1}
+			{install "%entity" %rotation}
+			{unreserve_hands}
+			{fsm_request nocheck "hold-nothing"}
+		}
+	}
+)
+
+
+;foxhole
+("entrenchment_rotate"		name(foxhole)			entity(soldier_foxhole)		animation(stand_dig_trench)			time(60)	rotation(-90.0)	spacing(100) cost(1)	item(foxhole)	restrictions("bridge bridge_wood shallow_water ice water"))
+;("entrenchment_rotate"		name(mg_foxhole)		entity(mg_foxhole)			animation(stand_dig_trench)			time(60)	rotation(-90.0)	spacing(180) cost(15)	item(trench)	restrictions("bridge bridge_wood shallow_water ice water"))
+
+("entrenchment_rotate_draggable"		name(foxhole_big)		entity(trench_dirt_straight)		animation(dig_pickaxe_01)	time(120)	rotation(-90.0)	spacing(50) cost(25)	item(trench)	restrictions("bridge bridge_wood shallow_water ice water"))
+("entrenchment_rotate"		name(mortar_pit)		entity(trench_dirt_mortar_engineer)	animation(dig_pickaxe_01)	time(90)	rotation(90.0)	spacing(180) cost(40)	item(trench)	restrictions("bridge bridge_wood shallow_water ice water"))
+("entrenchment_rotate"		name(tank_cover)		entity(tank_cover)			animation(dig_pickaxe_01)			time(120)	rotation(-90.0)	spacing(180) cost(50)	item(trench)	restrictions("bridge bridge_wood shallow_water ice water"))
+
+; medic rally
+("building_expendable"		name(medic_rally)		entity(medic_rally)			animation(squat_construct_sandbag)	time(30)	rotation(0.0)	spacing(100) cost(1)	item(tent_kit)	restrictions("shallow_water water"))
+
+;barricade
+;("cheap_sandbag"	name(barricade_sq)		entity(barricade_sq)		animation(squat_construct_sandbag)	time(20)	rotation(0.0)	spacing(1.8))
+;("cheap_sandbag"	name(barricade)			entity(barricade)			animation(squat_construct_sandbag)	time(20)	rotation(0.0)	spacing(2.1))
+
+{action "barricade"
+	{cursor "barricade"}
+	{fx "flashred"}
+	{item "sandbag_kit"}
+	{item_in_box}
+	{entity "sandbag3"}
+	{Button}
+	{Cost 1}
+	{TerrainRestrictions "water"}
+	{Spacing 1.8}
+	{AbleRotate}
+	{AbleEnqueue}
+	{AbleDrag}
+	{ShowCount}
+	{Key "actions/barricade"}
+	{instructions
+		{bind range 1}
+		{disable_action_restart}
+		;
+		{take_item}
+		{free_hands}
+		{reserve_hands}
+		{animations "squat_repair_1 squat_repair_2" random loop totaltime 20 paint 1}
+		{install "sandbag3" 0.0}
+		{unreserve_hands}
+		{remove_from_inventory}
+		{fsm_request nocheck "hold-nothing"}
+	}
+}
+
+
+;hedgehog
+("fortification_draggable"	name(hedgehog)			entity(hedgehog_service)	animation(squat_repair_1)			time(60)	rotation(0.0)	spacing(2.0)	cost(1) item(hedgehog_kit))
+
+;barbwire
+("fortification_draggable"	name(barbwire)			entity(barbwire)			animation(squat_repair_1)			time(5)		rotation(0.0)	spacing(1.4)	cost(1) item(barbwire_kit))
+
+
+
+;new additions-------------------------------------
+
+;adding observation tower
+("entrenchment_rotate"		name(observation_tower)		entity(watch_tower)			animation(squat_construct_sandbag)	time(60)	rotation(0.0)	spacing(100) cost(25)	item(trench)	restrictions("shallow_water water"))
+
+;germany and finland
+;adding dragons teeth
+("fortification_draggable"	name(dragons_teeth)			entity(omaha_dot04)	animation(squat_repair_1)			time(30)	rotation(0.0)	spacing(2.0)	cost(2) item(gold_bar))
+;regelbau AT gun cover
+("entrenchment_rotate"		name(regelbau)		entity(regelbau_h667)		animation(stand_dig_01)				time(120)	rotation(90.0)	spacing(180) cost(50)	item(gold_bar)	restrictions("bridge bridge_wood shallow_water ice water"))
+
+
+; finland 
+("entrenchment_rotate"		name(fin_bunker)		entity(45mm_pillbox)		animation(stand_dig_01)				time(120)	rotation(-90.0)	spacing(180) cost(25)	item(engineering_fin)	restrictions("bridge bridge_wood shallow_water ice water"))
+("entrenchment_rotate_expendable" name(fin_coastal_gun)	entity(regelbau_670)	animation(stand_dig_01)				time(180)	rotation(180.0)	spacing(180) cost(50)	item(engineering_fin)	restrictions("bridge bridge_wood shallow_water ice water"))
+("entrenchment_rotate_expendable" name(fin_raised_bunker)	entity(regelbau_vf62)	animation(stand_dig_01)			time(180)	rotation(180.0)	spacing(180) cost(50)	item(engineering_fin)	restrictions("bridge bridge_wood shallow_water ice water"))
+("entrenchment_rotate"		name(fin_round_bunker)		entity(casemate)		animation(stand_dig_01)				time(60)	rotation(0.0)	spacing(180) cost(25)	item(engineering_fin)	restrictions("bridge bridge_wood shallow_water ice water"))
+("entrenchment_rotate"		name(aa_raised)		entity(aa_regelbau)		animation(stand_dig_01)						time(120)	rotation(90.0)	spacing(180) cost(25)	item(engineering_fin)	restrictions("bridge bridge_wood shallow_water ice water"))
+("fortification_draggable"	name(concrete_wall)			entity(regelbau_wall01)	animation(stand_dig_01)				time(60)	rotation(0.0)	spacing(2.5) cost(25)   item(engineering_fin))
+
+
+
+
+;conquest
+("fortification_mp"			name(heavy_mg_mg34)				entity(heavy_mg_mg34)			time(30)	rotation(-90.0) restrictions("water"))
+("fortification_mp"			name(heavy_mg_maxim)			entity(heavy_mg_maxim)			time(30)	rotation(-90.0) restrictions("water"))
+("fortification_mp"			name(heavy_mg_maxim_m1910_30)	entity(heavy_mg_maxim_m1910_30)	time(30)	rotation(-90.0) restrictions("water"))
+("fortification_mp"			name(heavy_mg_m1917_30cal)		entity(heavy_mg_m1917_30cal)	time(30)	rotation(-90.0) restrictions("water"))
+; Automatic medic 
+
+(define "automedic"
+	{Action "%name"
+		{Cursor "medkit"}
+		{Button}
+		{fx "flashred"}
+		{Entity "medic_zone_vis"}
+		{AbleRotate}
+		{ScaleFromSize 10} ; <- must match medic tent extender radius to fit visuals
+		{HideLdragArrow}
+		{TerrainRestrictions %restrictions}
+		{Key "actions/%name"}
+		{Instructions
+			{install "%entity"}
+		}
+	}
+)
+
+("automedic"		name(auto_medic_place_flag) entity(medic_zone) restrictions("water") )
+

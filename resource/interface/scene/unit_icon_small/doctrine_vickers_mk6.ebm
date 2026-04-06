@@ -1,0 +1,6 @@
+{bitmap
+    {frame "vickers_mk6_00.tga"}
+    {frame "vickers_mk6_01.tga"}
+    {frame "vickers_mk6_02.tga"}
+    {frame "vickers_mk6_03.tga"}
+}

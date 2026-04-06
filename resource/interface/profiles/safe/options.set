@@ -1,0 +1,91 @@
+{options
+	{video
+		{resolution
+			{custom_mode "1280x720"}
+			{mode "1280x720"}
+		}
+		{preset "low"}
+		{hdr 0}
+		{window_mode windowed}
+		{vertical_sync}
+		{antialiasing none}
+		{detail detail_low}
+		{shadow none}
+		{filtering bilinear}
+		{model_quality low}
+		{fx_quality low}
+		{bumpType none}
+		{specular 0}
+		{environment 0}
+		{waterBump 0}
+		{water_reflection none}
+		{grass 0}
+		{bloom 0}
+		{_ssao off}
+		{vls 0}
+		{dof 0}
+		{fxaa 0}
+		{lens_refraction 0}
+		{softIntersection 0}
+		{glow 0}
+		{rim_light 0}
+		{filmGrain 0}
+		{alphaToCoverage 0}
+		{clip_distance 0.25}
+	}
+	{sound
+		{speaker_config use_system_settings}
+		{rate "44_khz"}
+		{buffers "64"}
+		{enable_hit_sound}
+		{volume
+			{master 100}
+			{effects 30}
+			{emotions 50}
+			{environment 40}
+			{interface 30}
+			{game_music 40}
+			{narrator 100}
+		}
+	}
+	{game
+		{difficulty easy}
+		{fog_of_war fog_realistic}
+		{subtitles}
+		{invert_mouse_wheel 0}
+		{invert_camera_third_person 0}
+		{camera_scroll_speed 0.2}
+		{camera_speed_third_person 0.2}
+		{hints}
+		{action_by_left_click 0}
+		{threat_markers}
+		{selection_circle
+			{start_radius 64}
+			{growth_per_second 256}
+			{max_radius 256}
+		}
+		{bcap
+			{preset standard}
+			{video_quality medium}
+		}
+		{multiplayer
+			{userName "Player"}
+			{gameEnum ""}
+			{message_chatwheel
+				{message_chatwheel_team_v2 "3 6 7 1 2 0 9 8"}
+				{message_chatwheel_allchat_v2 "3 6 7 1 2 0 9 8"}
+			}
+			{notification_chatwheel
+				{chatwheel_variants "6"}
+				{top attackhere}
+				{topright defendhere}
+				{bottomright enemyhere}
+				{bottom goinghere}
+				{bottomleft helphere}
+				{topleft watchout}
+			}
+		}
+	}
+	{mods
+	}
+}

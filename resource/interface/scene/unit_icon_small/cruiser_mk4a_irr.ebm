@@ -1,0 +1,6 @@
+{bitmap
+    {frame "cruiser_mk4a_00.tga"}
+    {frame "cruiser_mk4a_01.tga"}
+    {frame "cruiser_mk4a_02.tga"}
+    {frame "cruiser_mk4a_03.tga"}
+}

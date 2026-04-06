@@ -1,0 +1,6 @@
+{bitmap
+    {frame "daimler_dingo_00.tga"}
+    {frame "daimler_dingo_01.tga"}
+    {frame "daimler_dingo_02.tga"}
+    {frame "daimler_dingo_03.tga"}
+}

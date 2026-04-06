@@ -1,0 +1,6 @@
+{bitmap
+    {frame "minedetectors_00.tga"}
+    {frame "minedetectors_01.tga"}
+    {frame "minedetectors_02.tga"}
+    {frame "minedetectors_03.tga"}
+}

@@ -1,0 +1,6 @@
+{bitmap
+	{frame "tiger_p_00.tga"}
+	{frame "tiger_p_01.tga"}
+	{frame "tiger_p_02.tga"}
+	{frame "tiger_p_03.tga"}
+}

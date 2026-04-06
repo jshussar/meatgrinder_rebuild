@@ -1,0 +1,6 @@
+{action
+	{cursor "collect" "inventory_full"}
+	{fx "flashgreen"}
+	{Button}
+	{Key "actions/collect"}
+}

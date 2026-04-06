@@ -1,0 +1,6 @@
+{bitmap
+    {frame "typhoon_mk1b_00.tga"}
+    {frame "typhoon_mk1b_01.tga"}
+    {frame "typhoon_mk1b_02.tga"}
+    {frame "typhoon_mk1b_03.tga"}
+}

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Layout xmlns="http://www.digitalmindsoft.eu/xmllayout"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.digitalmindsoft.eu/xmllayout LayoutSchema.xsd"
+        version="1" skin="main_menu_dark_skin">
+	<Content>
+		<StackPanel>
+			<Children>
+				<DialogRef refid="gui_background" shared="true"/>
+				<FrameView resource="/interface/skin/game/frame/bkg" header="true"/>
+				<DockPanel id="session_main">
+					<Children>
+						<DialogRef resource="components/PageHeader.xml" placement="top" />
+						<StackPanel placement="center">
+							<Insets left="28" right="28" bottom="28"/>
+							<Children>
+								<PercentPanel stretch="true" direction="horizontal" gap="5">
+									<MaxSize x="2184" y="1300" />
+									<Children>
+										<FrameView percent="0.6" resource="/interface/skin/game/frame/window_single" header="true">
+											<HeaderContent>
+												<DockPanel>
+													<Children>
+														<FlowPanel valign="center" placement="center">
+															<Children>
+																<DialogRef refid="gui_breadcrumbs" shared="true"/>
+															</Children>
+														</FlowPanel>
+														<PictureButton placement="right" id="btn_back" centerY="true">
+															<Resource value="/interface/skin/game/button/back"/>
+														</PictureButton>
+													</Children>
+												</DockPanel>
+											</HeaderContent>
+											<Content>
+												<PercentPanel>
+													<Insets top="5"/>
+													<Children>
+														<DockPanel percent="0.285">
+															<Children>
+																<PercentPanel placement="center" gap="4" direction="horizontal">
+																	<Insets all="6"/>
+																	<Children>
+																		<StackPanel percent="1" placement="center">
+																		<Insets all="1"/>
+																			<Children>
+																				<PictureDialog id="map_preview" zoomMode="fill" centerY="true" centerX="true"/>
+																				<StackPanel>
+																					<Insets all="-6"/>
+																					<Children>
+																						<LargeFrameButton id="btn_game_info">
+																							<Resource value="/interface/skin/game/button/window/large"/>
+																						</LargeFrameButton>
+																						<!-- <FrameView resource="/interface/skin/game/frame/window1" id="panel_comment">
+																							<Content>
+																								<StaticText id="txt_comment">
+																									<Ables mouse="true"/>
+																								</StaticText>
+																							</Content>
+																						</FrameView> -->
+																					</Children>
+																				</StackPanel>
+																			</Children>
+																		</StackPanel>
+																	</Children>
+																</PercentPanel>
+															</Children>
+															<!--<Children>
+																<StackPanel placement="center">
+																	<Insets all="5"/>
+																	<Children>
+																		<PictureDialog id="map_preview" zoomMode="fit" placement="center" centerY="true" centerX="true"/>
+																	</Children>
+																</StackPanel>
+															</Children> -->
+														</DockPanel>
+														<DockPanel percent="0.715">
+															<Insets top="5"/>
+															<Children>
+															<!--	<FlowPanel placement="top" halign="stretch" gap="2">
+																	<Insets bottom="5"/>
+																	<Children>
+																		<LargeFrameButton id="btn_game_info">
+																			<Resource value="/interface/skin/game/button/window/large"/>
+																		</LargeFrameButton>
+																		<FrameView resource="/interface/skin/game/frame/window1" id="panel_comment">
+																			<PreferredSize y="65"/>
+																			<Content>
+																				<StaticText id="txt_comment" >
+																					<Ables mouse="true"/>
+																				</StaticText>
+																			</Content>
+																		</FrameView>
+																	</Children>
+																</FlowPanel>-->
+																<PercentPanel placement="center" gap="10" direction="horizontal">
+																	<Children>
+																		<PercentPanel percent="0.37" gap="10" direction="vertical">
+																		<Children>
+																			<StackPanel percent="0.77" placement="top"  id="panel_players">
+																				<MinSize y="380"/>
+																			</StackPanel>
+																			<FlowPanel placement="bottom" direction="vertical" gap="10" halign="center">
+																				<Children>
+																					<FlowPanel id="panel_comment">
+																						<MaxSize y="50"/>
+																						<Children>
+																							<StaticText id="txt_comment">
+																								<Ables mouse="true"/>
+																							</StaticText>
+																						</Children>
+																					</FlowPanel>
+																					<FlowPanel id="xp_info" direction="horizontal">
+																						<Children>
+																							<FlowPanel valign="center">
+																								<Children>
+																									<PictureDialog id="img_xp_info" resource="/interface/pages/multi/gs_xp_game_icon">
+																										<Ables mouse="true"/>
+																										<Hint key="mp/gs/xp_gain_hint"/>
+																									</PictureDialog>
+																								</Children>
+																							</FlowPanel>
+																							<StaticText id="txt_xp_info">
+																								<Ables mouse="true"/>
+																							</StaticText>
+																						</Children>
+																					</FlowPanel>
+																					<FlowPanel id="vac_info" direction="horizontal">
+																						<Children>
+																							<FlowPanel valign="center">
+																								<Children>
+																									<PictureDialog resource="/interface/pages/multi/vac">
+																										<Ables mouse="true"/>
+																										<Hint key="mp/gs/vac_secured_hint"/>
+																									</PictureDialog>
+																								</Children>
+																							</FlowPanel>
+																							<StaticText>
+																								<Ables mouse="true"/>
+																								<Text key="mp/gs/vac_secured" textFormat="f(anka)s(15)"/>
+																								<Hint key="mp/gs/vac_secured_hint"/>
+																							</StaticText>
+																						</Children>
+																					</FlowPanel>
+																				</Children>
+																			</FlowPanel>
+																		</Children>
+																	</PercentPanel>
+																		<DockPanel percent="0.63">
+																			<Children>
+																				<FrameView resource="/interface/skin/game/frame/window4" placement="center">
+																					<Content>
+																						<DockPanel vgap="5">
+																							<Insets all="20"/>
+																							<Children>
+																									<StaticText placement="top">
+																										<Text key="mp/lobby2/pnl_session_set"/>
+																									</StaticText>
+																								<StackPanel id="panel_settings" placement="center"/>
+																							</Children>
+																						</DockPanel>
+																					</Content>
+																				</FrameView>
+																				<DockPanel placement="bottom">
+																					<Insets top="5" />
+																					<Children>
+																						<FlowPanel placement="center" direction="vertical" halign="left" justify="false">
+																							<Children>
+																								<MenuButton id="btn_advanced">
+																									<Text key="mp/lobby2/button/advanced" textFormat="m(upper)"/>
+																									<Hint key="mp/lobby/button/advanced"/>
+																								</MenuButton>
+																								<MenuButton id="btn_result">
+																									<Text key="mp/lobby2/button/results" textFormat="m(upper)"/>
+																									<Hint key="mp/lobby/button/results"/>
+																								</MenuButton>
+																							</Children>
+																						</FlowPanel>
+																						<FlowPanel placement="right" direction="vertical" halign="stretch" valign="center">
+																							<Children>
+																								<FlowPanel placement="center" halign="center">
+																									<Children>
+																										<MenuButton id="btn_ready">
+																											<Visible value="false"/>
+																											<Text key="mp/lobby2/button/ready" textFormat="s(24)" />
+																											<Sound value="gui/ui_next_item" />
+																											<Resource value="/interface/skin/game/button/start_button" />
+																										</MenuButton>
+																										<MenuButton id="btn_cancel">
+																											<Visible value="false"/>
+																											<Text key="mp/lobby2/button/cancel" textFormat="s(24)"/>
+																											<Sound value="gui/ui_next_item" />
+																											<Resource value="/interface/skin/game/button/start_button" />
+																										</MenuButton>
+																									</Children>
+																								</FlowPanel>
+																								<FlowPanel direction="horizontal" valign="bottom" justify="false">
+																									<Children>
+																										<MenuButton id="btn_start">
+																											<Visible value="false"/>
+																											<Text key="mp/lobby2/button/start" textFormat="s(24)"/>
+																											<Sound value="gui/ui_next_item" />
+																											<Resource value="/interface/skin/game/button/start_button" />
+																										</MenuButton>
+																									</Children>
+																								</FlowPanel>
+																							</Children>
+																						</FlowPanel>
+																					</Children>
+																				</DockPanel>
+																			</Children>
+																		</DockPanel>
+																	</Children>
+																</PercentPanel>
+															</Children>
+														</DockPanel>
+													</Children>
+												</PercentPanel>
+											</Content>
+										</FrameView>
+										<PercentPanel percent="0.4" stretch="true" gap="2">
+											<!--<Insets all="10"/>-->
+											<Children>
+												<DockPanel percent="0.1" vgap="2">
+													<Children>
+														<DialogRef resource="components/MenuUserProfile.xml" placement="top"  />
+													</Children>
+												</DockPanel>
+												<PercentPanel percent="0.5" gap="2" direction="vertical">
+													<Children>
+														<DialogRef resource="components/MenuChat.xml" placement="center"  />
+													</Children>
+												</PercentPanel>
+												<PercentPanel percent="0.4" gap="2" direction="horizontal">
+													<Children>
+														<FrameView percent="0.5" resource="/interface/skin/game/frame/window">
+															<Children>
+																<ClickablePictureDialog id="minimap_preview" zoomMode="fit" centerX="true" centerY="true" placement="center">
+																<Ables mouse="false"/>
+																</ClickablePictureDialog>
+															</Children>
+														</FrameView>
+														<DialogRef resource="components/MenuFriends.xml" percent="0.5" />
+														<DialogRef resource="components/MenuParty.xml" percent="0">
+														<Visible value="false"/> <!--party hidden-->
+															<MaxSize x="400" />
+														</DialogRef>
+													</Children>
+												</PercentPanel>
+											</Children>
+										</PercentPanel>
+									</Children>
+								</PercentPanel>
+							</Children>
+						</StackPanel>
+					</Children>
+				</DockPanel>
+			</Children>
+		</StackPanel>
+	</Content>
+</Layout>

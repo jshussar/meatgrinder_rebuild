@@ -1,0 +1,367 @@
+{keys
+	;control_manual
+	{"control_manual/toggle"
+		{value KEY_E}
+		{single}
+	}
+	{"control_manual/modify"
+		{value ""}
+	}
+	{"control_manual/forward"
+		{value KEY_W}
+		{single}
+	}
+	{"control_manual/backward"
+		{value KEY_S}
+		{single}
+	}
+	{"control_manual/left"
+		{value KEY_A}
+		{single}
+	}
+	{"control_manual/right"
+		{value KEY_D}
+		{single}
+	}
+	{"control_manual/sprint"
+		{value KEY_LSHIFT}
+	}
+	{"control_manual/toggle_prone"
+		{value KEY_LCONTROL}
+	}
+	{"control_manual/toggle_crouch"
+		{value KEY_LALT}
+	}
+	{"control_manual/helicopter_up"
+		{value KEY_Q}
+		{single}
+	}
+	{"control_manual/helicopter_down"
+		{value KEY_LALT}
+		{single}
+	}
+	{"control_manual/fire"
+		{value MOUSE_LEFT}
+		{noedit}
+	}
+	{"control_manual/quick_aim"
+		{value MOUSE_RIGHT}
+	}
+	{"control_manual/weapon_reload"
+		{value KEY_R}
+	}
+	{"control_manual/next_ammo"
+		{value KEY_SPACE}
+	}
+	{"control_manual/special_action"
+		{value MOUSE3}
+		{single}
+	}
+	{"control_manual/next_weapon"
+		{value MOUSE4}
+		{single}
+	}
+	{"control_manual/weapon1"
+		{value KEY_1}
+	}
+	{"control_manual/weapon2"
+		{value KEY_2}
+	}
+	{"control_manual/weapon3"
+		{value KEY_3}
+	}
+	{"control_manual/weapon4"
+		{value KEY_4}
+	}
+	{"control_manual/weapon5"
+		{value KEY_5}
+	}
+	{"control_manual/weapon6"
+		{value KEY_6}
+	}
+	{"control_manual/weapon7"
+		{value KEY_7}
+	}
+	{"control_manual/weapon8"
+		{value KEY_8}
+	}
+	{"control_manual/visionmode"
+		{value KEY_0}
+	}
+	{"control_manual/squadmember1"
+		{value KEY_F1}
+		{noedit}
+	}
+	{"control_manual/squadmember2"
+		{value KEY_F2}
+		{noedit}
+	}
+	{"control_manual/squadmember3"
+		{value KEY_F3}
+		{noedit}
+	}
+	{"control_manual/squadmember4"
+		{value KEY_F4}
+		{noedit}
+	}
+	{"control_manual/squadmember5"
+		{value KEY_F5}
+		{noedit}
+	}
+	{"control_manual/squadmember6"
+		{value KEY_F6}
+		{noedit}
+	}
+	{"control_manual/squadmember7"
+		{value KEY_F7}
+		{noedit}
+	}
+	{"control_manual/squadmember8"
+		{value KEY_F8}
+		{noedit}
+	}
+	{"control_manual/squadmember9"
+		{value KEY_F9}
+		{noedit}
+	}
+	{"control_manual/squadmember10"
+		{value KEY_F10}
+		{noedit}
+	}
+	{"control_manual/squadmember11"
+		{value KEY_F11}
+		{noedit}
+	}
+	{"control_manual/squadmember12"
+		{value KEY_F12}
+		{noedit}
+	}
+	{"control_manual/order_squad"
+		{value MOUSE_MIDLE}
+		{single}
+	}
+	
+	; actions
+	{"actions/cycle_pose"
+		{value KEY_LCONTROL}
+	}
+	{"actions/toggle_attack"
+		{value KEY_COMMA}
+	}
+	{"actions/toggle_position"
+		{value KEY_PERIOD}
+	}
+	{"actions/lock_ammo"
+		{value ""}
+	}
+	{"actions/throw_ap_grenade"
+		{value KEY_F1}
+	}
+	{"actions/throw_at_grenade"
+		{value KEY_F2}
+	}
+	{"actions/throw_sk_grenade"
+		{value KEY_F3}
+	}
+	{"actions/bazooka_shot"
+		{value KEY_F4}
+	}
+	{"actions/attack"
+		{value KEY_F5}
+	}
+	{"actions/attack_ground"
+		{value KEY_F6}
+	}
+	{"actions/attack_melee"
+		{value KEY_F7}
+	}
+	{"actions/heal"
+		{value KEY_F8}
+	}
+	{"actions/emit"
+		{value KEY_G}
+	}
+	{"actions/cancel"
+		{value KEY_F}
+	}
+	{"actions/examine"
+		{value KEY_X}
+	}
+	{"actions/drop"
+		{value KEY_B}
+	}
+	{"actions/rotate"
+		{value ""}
+	}
+	{"actions/repair"
+		{value "SHIFT + KEY_R"}
+	}
+	{"actions/attach"
+		{value "SHIFT + KEY_G"}
+	}
+	{"actions/smoke_decoy"
+		{value MOUSE3}
+	}
+	
+	; control_camera
+	{"control_camera/center_active"
+		{value "SHIFT + KEY_F"}
+	}
+	{"control_camera/mouse_rotate"
+		{value MOUSE_MIDLE}
+		{single}
+	}
+	{"control_camera/zoom_in"
+		{value KEY_ADD}
+		{single}
+	}
+	{"control_camera/zoom_out"
+		{value KEY_NUMPADMINUS}
+		{single}
+	}
+	{"control_camera/rotate_left"
+		{value ""}
+		{single}
+	}
+	{"control_camera/rotate_right"
+		{value ""}
+		{single}
+	}
+	{"control_camera/increase_view"
+		{value ""}
+		{single}
+	}
+	{"control_camera/decrease_view"
+		{value ""}
+		{single}
+	}
+	
+	; interface
+	{"interface/toggle_objectives"
+		{value "~DOUBLE + KEY_O"}
+	}
+	{"interface/toggle_message_history"
+		{value "~DOUBLE + KEY_H"}
+	}
+	{"interface/toggle_equipment"
+		{value "~DOUBLE + KEY_I"}
+	}
+	{"interface/toggle_map"
+		{value "~DOUBLE + KEY_M"}
+	}
+	{"interface/toggle_map_control"
+		{value "~DOUBLE + CTRL + KEY_M"}
+	}
+	{"interface/show_selection_circle"
+		{value KEY_L}
+	}
+	{"interface/stuff_highlight"
+		{value KEY_C}
+		{single}
+	}
+	{"interface/corpses_highlight"
+		{value KEY_V}
+		{single}
+	}
+	{"interface/slowdown"
+		{value KEY_BACKSPACE}
+	}
+	{"interface/pause"
+		{value KEY_PAUSE}
+		{noedit}
+	}
+	{"interface/screenshot"
+		{value KEY_SYSRQ}
+		{noedit}
+	}
+	{"interface/videocapture"
+		{value KEY_F11}
+	}
+	{"interface/game_menu"
+		{value KEY_ESC}
+		{noedit}
+	}
+	
+	; multiplayer
+	{"multiplayer/chat_team"
+		{value KEY_Z}
+	}
+	{"multiplayer/chat_all"
+		{value "SHIFT + KEY_Z"}
+	}
+	{"multiplayer/push_to_talk"
+		{value KEY_T}
+	}
+	{"multiplayer/toggle_microphone"
+		{value "CTRL + KEY_T"}
+	}
+	{"multiplayer/show_notification"
+		{value KEY_N}
+	}
+	{"multiplayer/show_statistics"
+		{value "~DOUBLE + KEY_TAB"}
+		{single}
+	}
+	{"multiplayer/leave_unit"
+		{value "DOUBLE + KEY_J"}
+	}
+	
+	; groups
+	{"groups/dismiss_squad"
+		{value KEY_K}
+	}
+	{"groups/assign_1"
+		{value "SHIFT + KEY_1"}
+	}
+	{"groups/assign_2"
+		{value "SHIFT + KEY_2"}
+	}
+	{"groups/assign_3"
+		{value "SHIFT + KEY_3"}
+	}
+	{"groups/assign_4"
+		{value "SHIFT + KEY_4"}
+	}
+	{"groups/assign_5"
+		{value "SHIFT + KEY_5"}
+	}
+	{"groups/assign_6"
+		{value "SHIFT + KEY_6"}
+	}
+	{"groups/assign_7"
+		{value "SHIFT + KEY_7"}
+	}
+	{"groups/assign_8"
+		{value "SHIFT + KEY_8"}
+	}
+	{"groups/assign_9"
+		{value "SHIFT + KEY_9"}
+	}
+	{"groups/select_1"
+		{value KEY_1}
+	}
+	{"groups/select_2"
+		{value KEY_2}
+	}
+	{"groups/select_3"
+		{value KEY_3}
+	}
+	{"groups/select_4"
+		{value KEY_4}
+	}
+	{"groups/select_5"
+		{value KEY_5}
+	}
+	{"groups/select_6"
+		{value KEY_6}
+	}
+	{"groups/select_7"
+		{value KEY_7}
+	}
+	{"groups/select_8"
+		{value KEY_8}
+	}
+	{"groups/select_9"
+		{value KEY_9}
+	}
+}

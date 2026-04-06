@@ -1,0 +1,7 @@
+{action
+	{cursor}
+	{fx "flashattack"}
+	{button}
+	{AimEntities}
+	{DoubleClickAction}
+}

@@ -1,0 +1,11 @@
+{action
+	{cursor}
+	{fx "flashred"}
+	{item "mine antipersonnel"}
+	{item_in_box}
+	{button}
+	{ShowCount}
+	{abledrag}
+	{Key "actions/mine_ap"}
+;	{entity "mine_antipersonnel_vis"}
+}

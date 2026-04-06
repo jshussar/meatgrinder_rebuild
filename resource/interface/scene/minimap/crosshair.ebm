@@ -1,0 +1,10 @@
+{bitmap
+	{Axis 16 16}
+	{Animation  Play Loop }
+	{Frame  "crosshair_00.tga" 100 }
+	{Frame  "crosshair_01.tga" 100 }
+	{Frame  "crosshair_02.tga" 100 }
+	{Frame  "crosshair_03.tga" 100 }
+	{Frame  "crosshair_04.tga" 100 }
+	{Frame  "crosshair_05.tga" 100 }
+}

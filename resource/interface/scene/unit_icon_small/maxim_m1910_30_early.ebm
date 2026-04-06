@@ -1,0 +1,6 @@
+{bitmap
+    {frame "maxim_m1910_30_00.tga"}
+    {frame "maxim_m1910_30_01.tga"}
+    {frame "maxim_m1910_30_02.tga"}
+    {frame "maxim_m1910_30_03.tga"}
+}

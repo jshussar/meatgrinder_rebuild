@@ -1,0 +1,6 @@
+{bitmap
+    {frame "t12gmc_jap_00.tga"}
+    {frame "t12gmc_jap_01.tga"}
+    {frame "t12gmc_jap_02.tga"}
+    {frame "t12gmc_jap_03.tga"}
+}

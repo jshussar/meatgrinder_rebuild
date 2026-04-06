@@ -1,0 +1,6 @@
+Get-ChildItem *.tga | ForEach-Object {
+    magick $_.Name -crop 100x48+3+3 +repage -background transparent -gravity center -extent 116x48 $_.Name
+}
+
+# single
+magick $N -crop 100x48+3+3 +repage -background transparent -gravity center -extent 116x48 $N

@@ -1,0 +1,18 @@
+{action
+	{cursor}
+	{fx "flashred"}
+	{item "wirecutters"}
+	{item_in_box}
+	{target volume "cut" able touch}
+	{button}
+	{abledrag}
+	{instructions
+		{bind range 0.5}
+		{disable_action_restart}
+		{take_item}
+		{reserve_hands}
+		{animations "stand_cut_wire" random loop totaltime 4}
+		{effect_object "change_model"}
+		{unreserve_hands}
+	}
+}

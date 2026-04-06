@@ -1,0 +1,13 @@
+{action
+	{target ground}
+	{cursor}
+	{fx "flashmine"}
+	{item "mine_detector"}
+	{item_in_box}
+	{button}
+	{Key "actions/mine_detection"}
+	{instructions
+		{take_item}
+		{bind}
+	}
+}

@@ -1,0 +1,6 @@
+{bitmap
+    {frame "std_bren_enfield(eng)_00.tga"}
+    {frame "std_bren_enfield(eng)_01.tga"}
+    {frame "std_bren_enfield(eng)_02.tga"}
+    {frame "std_bren_enfield(eng)_03.tga"}
+}

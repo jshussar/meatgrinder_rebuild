@@ -1,0 +1,6 @@
+{bitmap
+    {frame "m5a1_halftrack_00.tga"}
+    {frame "m5a1_halftrack_01.tga"}
+    {frame "m5a1_halftrack_02.tga"}
+    {frame "m5a1_halftrack_03.tga"}
+}

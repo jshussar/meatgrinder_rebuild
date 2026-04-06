@@ -1,0 +1,33 @@
+{action
+	{target ground}
+	{item "sandbag_vehicle"}
+	{item_in_box}
+	{able_vehicle}
+	{notifyselect}
+	{button "sandbag_vehicle"}
+	{Key "actions/sandbag_vehicle"}
+;	{ShowCount}
+	{instant ; only instant instructions supported
+		{if props "cannon_sandbag_standard"
+			{effect "construction_sandbag_cannon_standard"}
+		}
+		{if props "cannon_sandbag_small"
+			{effect "construction_sandbag_cannon_shallow"}
+		}
+		{if props "cannon_sandbag_standard_ai"
+			{effect "construction_sandbag_cannon_standard_ai"}
+		}
+		{if props "cannon_sandbag_small_ai"
+			{effect "construction_sandbag_cannon_shallow_ai"}
+		}
+		{if props "sandbag_tank_near"
+			{effect "construction_sandbag_cannon_shallow"}
+		}
+		{if props "sandbag_tank_far"
+			{effect "construction_sandbag_cannon_shallow"}
+		}
+		{if not props "no_sandbags"
+			{remove_from_inventory}
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{action
+	;{target ground}
+	;{fx "flashred"}
+	{notifyselect}
+	{Key "actions/bagpipe"}
+	{item "bagpipes"}
+	{item_in_box}
+	{button "bagpipes"}
+	{instant ; only instant instructions supported
+		{if props "human"
+			{effect "play_bagpipes"}
+        }
+	}
+}
+

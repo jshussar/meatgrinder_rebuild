@@ -1,0 +1,6 @@
+{bitmap
+    {frame "churchill_mk1_00.tga"}
+    {frame "churchill_mk1_01.tga"}
+    {frame "churchill_mk1_02.tga"}
+    {frame "churchill_mk1_03.tga"}
+}

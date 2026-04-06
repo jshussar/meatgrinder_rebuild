@@ -1,0 +1,859 @@
+{minimap
+	(define "scale"
+		{scale (* 1.1 %s)}
+	)
+	{settings
+		{max_tracers		100	}
+		{tracer_length		0.9	} ; 0.9
+		{rotation_speed		1	}
+		{padding			25	}; 10
+		{margin				25	}; 10
+	}
+	{colors
+		{neutral			0xffffffff}
+		{self				0xff5691FF}
+		{ally				0xff54C600}
+		{coop_ally			0xff00D3B7}
+		{enemy				0xffD9412B}
+		{selected			0xffffffff}
+		{friendly_tracer	0xff00FF00}
+		{enemy_tracer		0xffE1008F}
+	}
+	{frequencies ; flashing speed of certain minimap entities
+		{flag_capturing 2}
+		{flag_losing 2}
+		{selected_units 1}
+	}
+	{view "armored_artillery"
+		("scale" s(0.80))
+		{props "sexton_mk2"}
+	}
+	{view "armored_artillery"
+		("scale" s(0.80))
+		{props "bishop"}
+	}
+	{view "armored_artillery"
+		("scale" s(0.80))
+		{props "hummel"}
+	}
+	{view "armored_artillery"
+		("scale" s(0.80))
+		{props "grille_k"}
+	}
+	{view "armored_artillery"
+		("scale" s(0.80))
+		{props "wespe"}
+	}
+	{view "armored_artillery"
+		("scale" s(0.80))
+		{props "t19_hmc"}
+	}
+	{view "armored_artillery"
+		("scale" s(0.80))
+		{props "m7b1_hmc"}
+	}
+	{view "armored_artillery"
+		("scale" s(0.80))
+		{props "m12_gmc"}
+	}
+	{view "automedic"
+		{tags "automedic"}
+		("scale" s(1.0))
+	}
+	{view "c_aa_lite"
+		("scale" s(0.70))
+		{props "c_aa_lite"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "morris_c9_aa"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "crusader_aa_mk1"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "crusader_aa_mk2"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "l62"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "t60"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "sdkfz251d_21"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "m15a1_cgmc"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "grille_m"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "wirbelwind"}
+	}
+	{view "s_aa_gun_heavy"
+		("scale" s(0.85))
+		{props "ostwind"}
+	}
+	{view "car_scout"
+		("scale" s(0.70))
+		{props "m3a1_commander"}
+	}
+	{view "car_scout"
+		("scale" s(0.70))
+		{props "ba20_command"}
+	}
+	{view "car_scout"
+		("scale" s(0.70))
+		{props "sdkfz250a_3"}
+	}
+	{view "s_mlrs"
+		("scale" s(0.75))
+		{props "pz38h_w40"}
+	}
+	{view "s_mlrs"
+		("scale" s(0.75))
+		{props "rocket"}
+	}
+	{view "t_mlrs"
+		("scale" s(0.75))
+		{props "c_rok_lite"}
+	}
+	{view "t_mlrs"
+		("scale" s(0.75))
+		{props "c_rok_med"}
+	}
+	{view "t_mlrs"
+		("scale" s(0.75))
+		{props "c_rok_hvy"}
+	}
+	{view "s_mlrs"
+		("scale" s(0.75))
+		{props "katusha"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "bedford_oyd_engineer"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "bedford_qld_engineer"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "ford_v3000_eng"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "ford_3ton_eng"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "blitz3_6_engineering"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "kettenkrad_eng"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "cckw_engineer_late"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "cckw_engineer"}
+	}
+	{view "car_eng"
+		("scale" s(0.60))
+		{props "zis5eng"}
+	}
+	{view "car_ammo"
+		("scale" s(0.60))
+		{props "bedford_qld_art_ammo"}
+	}
+	{view "car_ammo"
+		("scale" s(0.60))
+		{props "bedford_oyd_art_ammo"}
+	}
+	{view "car_ammo"
+		("scale" s(0.60))
+		{props "blast_large"}
+	}
+	{view "car_fuel"
+		("scale" s(0.55))
+		{props "fuel_tank"}
+	}
+	{view "ampulomet"
+		("scale" s(0.70))
+		{props "m41_ampulomet"}
+	}
+	{view "cannon"
+		("scale" s(0.70))
+		{props "20mm_l39"}
+	}
+	{view "s_aa_gun"
+		("scale" s(0.80))
+		{props "staghound_mkaa"}
+	}
+	{view "s_aa_gun"
+		("scale" s(0.80))
+		{props "volvo_127d_itk40"}
+	}
+	{view "s_aa_gun"
+		("scale" s(0.80))
+		{props "muzzle_20mm_25mm_auto"}
+	}
+	{view "s_aa_gun"
+		("scale" s(0.80))
+		{props "m16_mgmc"}
+	}
+	{view "s_aa_gun"
+		("scale" s(0.80))
+		{props "m13_mgmc"}
+        }
+	{view "jeep"
+		("scale" s(0.70))
+		{props "willys_mb_vgo_eng"}
+        }
+	{view "jeep"
+		("scale" s(0.70))
+		{props "willys_mb_mg_eng"}
+        }
+	{view "jeep"
+		("scale" s(0.70))
+		{props "willys_mb_50cal"}
+        }
+	{view "jeep"
+		("scale" s(0.70))
+		{props "willys_mb_30cal"}
+        }
+	{view "jeep"
+		("scale" s(0.70))
+		{props "kubelwagen_mg"}
+	}
+	{view "jeep"
+		("scale" s(0.70))
+		{props "gaz67b"}
+	}
+	{view "moto"
+		("scale" s(0.65))
+		{props "m42_truppenfahrrad"}
+	}
+	{view "moto"
+		("scale" s(0.70))
+		{props "moto"}
+        }
+	{view "s_h_m_g"
+		("scale" s(0.70))
+		{props "zis5_dshk"}
+        }
+	{view "car"
+		("scale" s(0.80))
+		{props "car"}
+	}
+	{view "heavy_mortar"
+		("scale" s(0.60))
+		{props "120mm_pm38"}
+	}
+	{view "heavy_mortar"
+		("scale" s(0.60))
+		{props "107mm_ml4_2"}
+	}
+	{view "heavy_mortar"
+		("scale" s(0.60))
+		{props "120mm_sgrw42"}
+	}
+	{view "heavy_mortar"
+		("scale" s(0.60))
+		{props "200mm_ldgw40"}
+	}
+	{view "heavy_mortar"
+		("scale" s(0.60))
+		{props "120mm_krh40"}
+	}
+	{view "heavy_mortar"
+		("scale" s(0.60))
+		{props "170mm_minewerfer"}
+	}
+	{view "heavy_mortar"
+		("scale" s(0.60))
+		{props "107mm_m2"}
+	}
+	{view "mortar"
+		("scale" s(0.60))
+		{props "mortar"}
+	}
+	{view "mg_stan"
+		("scale" s(0.70))	
+		{props "mg_stan"}
+	}
+	{view "aircraft"
+		("scale" s(0.70))
+		{props "hurribomber_mk2c"}
+	}
+	{view "aircraft"
+		("scale" s(0.70))
+		{props "hurricane_mk1a"}
+	}
+	{view "aircraft_scout"
+		("scale" s(0.60))
+		{props "vision_lev01_air"}
+	}
+	{view "aircraft_scout"
+		("scale" s(0.60))
+		{props "blenheim_mk1_eng_recon"}
+	}
+	{view "aircraft_scout"
+		("scale" s(0.60))
+		{props "typhoon_mk1b_recon"}
+	}
+	{view "quest"
+		{props "stretcher_vehicle"}
+		("scale" s(0.7))
+	}
+	{view "quest"
+		{tags "quest"}
+		("scale" s(0.7))
+		{color 0xffffffff}
+	}
+	{view "ammo"
+		("scale" s(0.55))
+		{props "ammo_crate"}
+	}
+	{view "ammo"
+		("scale" s(0.55))
+		{props "ammo_map"}
+	}
+	{view "aircraft"
+		("scale" s(0.70))
+		{props "airborne"}
+	}
+	{view "marine"
+		("scale" s(0.70))
+		{props "marine"}
+	}
+	{view "artillery_heavy"
+		("scale" s(0.75))
+		{props "c_mtr_s_hvy"}
+	}
+	{view "artillery_heavy"
+		("scale" s(0.80))
+		{props "c_how_s_hvy"}
+	}
+	{view "cannon_arty"
+		("scale" s(0.80))
+		{props "detect_artillery"}
+	}
+	{view "Field gun"
+		("scale" s(0.70))
+		{props "c_sup_lite"}
+	}
+	{view "Field gun"
+		("scale" s(0.70))
+		{props "76mm_m43"}
+	}
+	{view "car_scout"
+		("scale" s(0.80))
+		{props "150mm_sw34"}
+	}
+	{view "cannon"
+		("scale" s(0.70))
+		{props "cannon_small"}
+	}
+	{view "c_aa_heavy"
+		("scale" s(0.70))
+		{props "40mm_qf40"}
+	}
+	{view "c_aa_heavy"
+		("scale" s(0.70))
+		{props "40mm_m1"}
+	}
+	{view "c_aa_heavy"
+		("scale" s(0.70))
+		{props "40mm_itk38b"}
+	}
+	{view "c_aa_heavy"
+		("scale" s(0.70))
+		{props "37mm_flak37"}
+	}
+	{view "c_aa_heavy"
+		("scale" s(0.70))
+		{props "37mm_61k"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "76mm_qf17"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "76mm_qf17_25"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "76mm_qf17_early"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "76mm_qf17_late"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "76mm_qf17_mid"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "94mm_qf_3_7_aa"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "94mm_qf_3_7_aa_early"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "94mm_qf_3_7_aa_late"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "94mm_qf_how"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "94mm_qf_how_early"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "75mm_k44"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "88mm_flak36"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "88mm_flak18"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "90mm_m1a1"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "100mm_bs3"}
+	}
+	{view "cannon_heavy"
+		("scale" s(0.80))
+		{props "88mm_pak4341"}
+	}
+	{view "cannon_medium"
+		("scale" s(0.75))
+		{props "cannon"}
+	}
+	{view "emplacement"
+		("scale" s(0.85))
+		{props "cannon_small"}
+	}
+	{view "tank_spg_h"
+		("scale" s(1))
+		{props "churchill_mk4_avre"}
+	}
+	{view "tank_spg_h"
+		("scale" s(1))
+		{props "bison"}
+	}
+	{view "tank_spg_h"
+		("scale" s(1))
+		{props "kv2_40"}
+	}
+	{view "tank_spg_h"
+		("scale" s(1))
+		{props "sturmpanzer4"}
+	}
+	{view "tank_spg_h"
+		("scale" s(1))
+		{props "sturmtiger"}
+	}
+	{view "tank_spg_h"
+		("scale" s(1))
+		{props "churchill_mk5"}
+	}
+	{view "tank_spg_h"
+		("scale" s(1))
+		{props "churchill_mk8"}
+	}
+	{view "tank_spg"
+		("scale" s(1))
+		{props "sherman1b"}
+	}
+	{view "tank_spg"
+		("scale" s(1))
+		{props "m4a3_105_hvss"}
+	}
+	{view "tank_spg"
+		("scale" s(1))
+		{props "m4_105"}
+	}
+	{view "tank_spg"
+		("scale" s(1))
+		{props "m4a3_105"}
+	}
+	{view "tank_spg"
+		("scale" s(1))
+		{props "cromwell6"}
+	}
+	{view "tank_spg"
+		("scale" s(1))
+		{props "cromwell8"}
+	}
+	{view "tank_spg"
+		("scale" s(1))
+		{props "spg"}
+	}
+	{view "tank_td"
+		("scale" s(1))
+		{props "hetzer"}
+	}
+	{view "tank_td_h"
+		("scale" s(1.05))
+		{props "nashorn"}
+	}
+	{view "tank_td_h"
+		("scale" s(1.05))
+		{props "isu152_fin"}
+	}
+	{view "tank_td_h"
+		("scale" s(1.05))
+		{props "isu122s"}
+	}
+	{view "tank_td_h"
+		("scale" s(1.05))
+		{props "detect_td_heavy"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "m8_hmc"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "aec_mk1"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "aec_mk2"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "aec_mk3"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "daimler_mk1"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "daimler_mk1_lj"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "daimler_mk2"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "daimler_mk2_lj"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "daimler_mk2_mid"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "staghound_mk1"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "staghound_mk2"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "staghound_mk3"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "ba10"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "ba6_fin"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "ba10_fin"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "ba10m_fin"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "m8_greyhound"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "sdkfz234_2"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "sdkfz234_3"}
+	}
+	{view "tank_td_l"
+		("scale" s(1))
+		{props "detect_td_light"}
+	}
+	{view "tank_h"
+		("scale" s(1))
+		{props "panzer5a"}
+	}
+	{view "tank_h"
+		("scale" s(1))
+		{props "panzer5d"}
+	}
+	{view "tank_h"
+		("scale" s(1))
+		{props "panzer5g"}
+	}
+	{view "tank_td"
+		("scale" s(1))
+		{props "td"}
+	}
+	{view "tank_l"
+		("scale" s(1))
+		{props "light"}
+	}
+	{view "tank_l_flame"
+		("scale" s(0.95))
+		{props "kht130"}
+	}
+	{view "tank_l_flame"
+		("scale" s(0.95))
+		{props "kht26"}
+	}
+	{view "tank_m_flame"
+		("scale" s(0.95))
+		{props "t3485_44a_flame"}
+	}
+	{view "tank_m_flame"
+		("scale" s(0.95))
+		{props "sherman5_croc"}
+	}
+	{view "tank_m_flame"
+		("scale" s(0.95))
+		{props "t3476_43_flame"}
+	}
+	{view "tank_m_flame"
+		("scale" s(0.95))
+		{props "m4a3_75w"}
+	}
+	{view "tank_m_flame"
+		("scale" s(0.95))
+		{props "panzer3_flamm"}
+	}
+	{view "tank_m"
+		("scale" s(1))
+		{props "medium"}
+	}
+	{view "tank_h_flame"
+		("scale" s(0.95))
+		{props "kv8"}
+	}
+	{view "tank_h_flame"
+		("scale" s(0.95))
+		{props "churchill_mk7_croc"}
+	}
+	{view "tank_h"
+		("scale" s(1))
+		{props "heavy"}
+	}
+	{view "btr_flame"
+		("scale" s(0.75))
+		{props "sdkfz251d_16"}
+	}
+	{view "btr"
+		("scale" s(0.75))
+		{props "vehicle"}
+	}	
+	{view "bleeding_human"
+		("scale" s(0.40))
+		{tags "bleeding"}
+	}
+	{view "human"
+		("scale" s(0.60))
+		{props "human"}
+	}
+	{view "point"
+		{tags "pointer"}
+	}
+	{view "point"
+		{tags "pointer_attack"}
+		{color 0xffff4046}
+	}
+	{view "point"
+		{tags "pointer_defend"}
+		{color 0xff4083ff}
+	}
+	{view "point"
+		{tags "pointer_enemy"}
+		{color 0xff262626}
+	}
+	{view "point"
+		{tags "pointer_going"}
+		{color 0xffffffff}
+	}
+	{view "point"
+		{tags "pointer_watchout"}
+		{color 0xffffd640}
+	}
+	{view "point"
+		{tags "pointer_help"}
+		{color 0xff52ff40}
+	}
+	{view "point"
+		("scale" s(1.0))
+		{tags "user_guide"}
+		{color 0xffff0000}
+	}
+	{view "flag_slave"
+		("scale" s(0.65))
+		{props "flag_slave"}
+	}
+	{view "fortification"
+		("scale" s(0.25))
+		{props "fortification"}
+	}
+	{view "mappoint"
+		("scale" s(0.75))
+		{props "flag"}
+	}
+	{view "waypoint"
+		{tags "waypoint"}
+		("scale" s(0.3))
+	}
+	{view "empty"
+		{tags "do_not_show_on_minimap"}
+		("scale" s(0.4))
+	}
+	{view "spawn_a"
+		{tags "spawn_team_a"}
+		("scale" s(0.7))
+		{color 0xffffffff}
+	}
+	{view "spawn_b"
+		{tags "spawn_team_b"}
+		("scale" s(0.7))
+		{color 0xffffffff}
+	}
+	{view "arrow_straight"
+		{tags "arrow_enemy_straight"}
+		("scale" s(0.5))
+		{color 0xffffffff}
+	}
+	{view "arrow_straight"
+		{tags "arrow_friendly_straight"}
+		("scale" s(0.5))
+		{color 0xffffffff}
+	}
+	{view "crosshair"
+		{tags "crosshair"}
+		("scale" s(0.6))
+		{color 0xffffffff}
+	}
+	{view "arrow_attack"
+		{tags "arrow_enemy"}
+		("scale" s(0.4))
+		{color 0xffffffff}
+	}	
+	{view "arrow_attack"
+		{tags "arrow_friendly"}
+		("scale" s(0.4))
+		{color 0xffffffff}
+	}	
+	{view "artillery_warning"
+		{tags "artillery_minimap_signal_heavy"}
+		("scale" s(0.80))
+		{color 0xffFF0000}
+	}
+	{view "artillery_warning"
+		{tags "artillery_minimap_signal_medium"}
+		("scale" s(0.50))
+		{color 0xffFF0000}
+	}
+	{view "artillery_warning"
+		{tags "artillery_minimap_signal_light"}
+		("scale" s(0.30))
+		{color 0xffFF0000}
+	}
+	{view "artillery_warning"
+		{tags "conquest_spawn_indicator"}
+		("scale" s(0.30))
+		;{color 0xff00001a}
+		{color 0xffff4046}
+	}
+
+	;// MP point markers
+
+;	{view "mp_point_a"
+;		{tags "mp_point_a_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}
+;	{view "mp_point_b"
+;		{tags "mp_point_b_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}	
+;	{view "mp_point_c"
+;		{tags "mp_point_c_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}	
+;	{view "mp_point_d"
+;		{tags "mp_point_d_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}	
+;	{view "mp_point_e"
+;		{tags "mp_point_e_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}	
+;	{view "mp_point_f"
+;		{tags "mp_point_f_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}	
+;	{view "mp_point_g"
+;		{tags "mp_point_g_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}	
+;	{view "mp_point_h"
+;		{tags "mp_point_h_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}	
+;	{view "mp_point_i"
+;		{tags "mp_point_i_marker"}
+;		("scale" s(0.6))
+;		{color 0xffffffff}
+;	}	
+	
+
+	
+}
