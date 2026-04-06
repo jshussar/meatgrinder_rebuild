@@ -1,0 +1,48 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 19:38:45 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\foot2\foot2.max
+{Skeleton
+	{bone "bm_foot2"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_foot2.ply"}
+	}
+}
+{Volume "bm_foot2"
+	{Box 1.9685 7.87402 1.9685}
+	{Bone "bm_foot2"}
+	{Matrix34
+		0	-1	0
+		-0.00692187	0	0.999976
+		0.999976	0	0.00692188
+		-1.31782	0.0393897	-0.175944
+	}
+}
+{extender "preview"
+	{"stuff"
+		{camera
+			{origin 10 	 1 	 1}
+			{lookat 7 	 0.6 	 0.6}
+			{fov 71}
+			{horizon 75}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 2.5486 	 1.5015 	 5.3404}
+			}
+			{"1"
+				{type directional}
+				{direction -0.474 	 -0.1042 	 -0.1201}
+			}
+			{"2"
+				{type point}
+				{position 0.7818 	 0.0009 	 -6.9527}
+			}
+		}
+	}
+}

@@ -1,0 +1,48 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 18:37:55 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\set1\set1_right_arm1_WORKING.max
+{Skeleton
+	{bone "bm_arm2"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_arm2.ply"}
+	}
+}
+{Volume "bm_arm2"
+	{Box 6.88976 2.95276 4.52756}
+	{Bone "bm_arm2"}
+	{Matrix34
+		-0.172987	-0.98106	0.0871554
+		-0.984808	0.173647	0
+		0.0151335	0.0858312	0.996195
+		0.0342606	0.194304	0.424352
+	}
+}
+{extender "preview"
+	{"stuff"
+		{camera
+			{origin 14.4939 	 0.7453 	 1.2148}
+			{lookat 7 	 0.2 	 0.7}
+			{fov 52}
+			{horizon 10}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 2.5486 	 1.5015 	 5.3404}
+			}
+			{"1"
+				{type directional}
+				{direction -0.474 	 -0.1042 	 -0.1201}
+			}
+			{"2"
+				{type point}
+				{position 0.7818 	 0.0009 	 -6.9527}
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{Game_entity
+	(include "/properties/human_part.ext")
+	(include "/properties/shadow/human_part.inc" scale(0.8))
+	{props "bm_limb_a" "flesh"}
+	{Extension "bm_torso8.mdl"}
+	{Volume "bm_torso8"
+	}
+	{mass 55}
+}

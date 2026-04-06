@@ -1,0 +1,21 @@
+{Skeleton
+	{bone "bm_torso1"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_torso1.ply"}
+	}
+}
+{Volume "bm_torso1"
+	{Box 6.88976 4.92126 9.84252}
+	{Bone "bm_torso1"}
+	{Matrix34
+		0	-0.996195	-0.0871564
+		-1	0	0
+		0	-0.0871561	0.996195
+		0.00639692	-0.010343	0.86837
+	}
+}

@@ -1,0 +1,12 @@
+{Game_entity
+	(include "/properties/bm_limb_b.ext")
+	(include "/properties/shadow/human_part.inc" scale(0.3))
+	{props "bm_limb_b" "flesh"}
+	{extender "stuff"
+		{item "bm_arm2"}
+	}	
+	{Extension "bm_arm2.mdl"}
+	{Volume "bm_arm2"
+	}
+	{mass 6}
+}

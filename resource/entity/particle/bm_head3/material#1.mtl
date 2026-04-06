@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "head_512_v1"}
+	{blend none}
+}

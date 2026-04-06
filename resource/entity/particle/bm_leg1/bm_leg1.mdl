@@ -1,0 +1,24 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 18:52:01 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\set1\set1_left_leg1_WORKING.max
+{Skeleton
+	{bone "bm_leg1"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_leg1.ply"}
+	}
+}
+{Volume "bm_leg1"
+	{Box 4.72441 6.35056 13.7795}
+	{Bone "bm_leg1"}
+	{Matrix34
+		0	-0.929134	-0.369744
+		-0.967787	0.0930903	-0.233929
+		-0.251771	-0.357833	0.899203
+		-0.315563	-0.330353	0.126324
+	}
+}

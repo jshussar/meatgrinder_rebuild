@@ -1,0 +1,24 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 21:08:45 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\hand2\hand2.max
+{Skeleton
+	{bone "bm_hand2"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_hand2.ply"}
+	}
+}
+{Volume "bm_hand2"
+	{Box 2.95276 1.9685 0.984252}
+	{Bone "bm_hand2"}
+	{Matrix34
+		-0.172987	-0.984923	0.0013186
+		-0.798027	0.140945	0.585907
+		0.57726	-0.100302	0.810377
+		-0.183397	-0.397898	0.272325
+	}
+}

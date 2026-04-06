@@ -1,0 +1,48 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 22:54:19 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\stump4\stump4.max
+{Skeleton
+	{bone "bm_stump4"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_stump4.ply"}
+	}
+}
+{Volume "bm_stump4"
+	{Box 5.90551 1.9685 1.9685}
+	{Bone "bm_stump4"}
+	{Matrix34
+		-0.0153864	-0.996269	0.0849244
+		-0.998983	0.011715	-0.0435568
+		-0.0423996	0.0855071	0.995435
+		-0.00488979	0.566301	0.264454
+	}
+}
+{extender "preview"
+	{"stuff"
+		{camera
+			{origin 14.4939 	 0.7453 	 1.2148}
+			{lookat 7 	 0.3 	 0.8}
+			{fov 50}
+			{horizon 10}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 2.5486 	 1.5015 	 5.3404}
+			}
+			{"1"
+				{type directional}
+				{direction -0.474 	 -0.1042 	 -0.1201}
+			}
+			{"2"
+				{type point}
+				{position 0.7818 	 0.0009 	 -6.9527}
+			}
+		}
+	}
+}

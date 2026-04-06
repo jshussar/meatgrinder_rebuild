@@ -1,0 +1,24 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 20:34:43 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\torso6\torso6.max
+{Skeleton
+	{bone "bm_torso6"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_torso6.ply"}
+	}
+}
+{Volume "bm_torso6"
+	{Polyhedron "bm_torso6.vol"}
+	{Bone "bm_torso6"}
+	{Matrix34
+		-0.0958362	-0.848365	0.520665
+		-0.153575	0.529411	0.834349
+		0.983479	0	0.181024
+		-1.79769	4.36454	-1.11769
+	}
+}

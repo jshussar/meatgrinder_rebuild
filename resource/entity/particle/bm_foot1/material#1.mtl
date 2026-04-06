@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "leg_512_v2"}
+	{blend none}
+}

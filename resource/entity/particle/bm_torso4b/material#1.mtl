@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "set2_torso1_1024_v2b"}
+	{blend none}
+}

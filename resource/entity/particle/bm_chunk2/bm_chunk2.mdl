@@ -1,0 +1,24 @@
+;Exported by: Sinki
+;Date:        Mon Feb 13 21:18:33 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\chunk2\chunk2.max
+{Skeleton
+	{bone "bm_chunk2"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_chunk2.ply"}
+	}
+}
+{Volume "bm_chunk2"
+	{Box 1.9685 1.5748 3.93701}
+	{Bone "bm_chunk2"}
+	{Matrix34
+		-0.193116	-0.981054	-0.0154732
+		0.00767618	-0.0172802	0.999821
+		0.981146	-0.192962	-0.0108678
+		-0.175538	-0.522415	-0.135338
+	}
+}

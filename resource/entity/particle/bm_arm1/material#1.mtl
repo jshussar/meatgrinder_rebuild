@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "arm_512_v1"}
+	{blend none}
+}

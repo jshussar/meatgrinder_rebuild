@@ -1,0 +1,24 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 22:24:21 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\stump2\stump2.max
+{Skeleton
+	{bone "bm_stump2"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_stump2.ply"}
+	}
+}
+{Volume "bm_stump2"
+	{Box 2.95276 3.54331 5.51181}
+	{Bone "bm_stump2"}
+	{Matrix34
+		-0.0020411	-0.999921	0.0124456
+		-0.9995	0.00164733	-0.0315774
+		-0.0315541	0.0125027	0.999424
+		-0.0751526	0.0930585	-0.610714
+	}
+}

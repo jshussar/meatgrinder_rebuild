@@ -1,0 +1,24 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 19:51:57 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\leg4\leg4.max
+{Skeleton
+	{bone "bm_leg4"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_leg4.ply"}
+	}
+}
+{Volume "bm_leg4"
+	{Box 2.95276 3.93701 7.87402}
+	{Bone "bm_leg4"}
+	{Matrix34
+		0	-1	0
+		-1	0	0
+		0	0	1
+		-0.449622	0.0662306	5.12817
+	}
+}

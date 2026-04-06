@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "belly_256_v1"}
+	{blend none}
+}

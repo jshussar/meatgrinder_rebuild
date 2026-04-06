@@ -1,0 +1,24 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 20:11:53 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\arm5\arm5.max
+{Skeleton
+	{bone "bm_arm5"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_arm5.ply"}
+	}
+}
+{Volume "bm_arm5"
+	{Box 2.3622 3.93701 5.90551}
+	{Bone "bm_arm5"}
+	{Matrix34
+		0.303805	-0.938314	0.165133
+		-0.951375	-0.308034	0
+		-0.0508677	0.157103	0.986271
+		-0.522458	-4.91002	0.902477
+	}
+}

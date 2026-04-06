@@ -1,0 +1,24 @@
+;Exported by: Sinki
+;Date:        Tue Feb 14 20:58:37 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\guts3\guts3.max
+{Skeleton
+	{bone "bm_guts3"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_guts3.ply"}
+	}
+}
+{Volume "bm_guts3"
+	{Box 0.984252 2.95276 0.984252}
+	{Bone "bm_guts3"}
+	{Matrix34
+		0.230641	-0.972866	0.0183281
+		0.953422	0.222186	-0.204011
+		-0.194404	-0.0645271	-0.978797
+		0.05331	0.091609	0.257017
+	}
+}

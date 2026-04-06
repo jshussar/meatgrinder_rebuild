@@ -1,0 +1,48 @@
+;Exported by: Sinki
+;Date:        Sun Feb 12 17:04:34 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\head1.max
+{Skeleton
+	{bone "bm_head1"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_head1.ply"}
+	}
+}
+{Volume "bm_head1"
+	{Box 2.3622 2.95276 4.52756}
+	{Bone "bm_head1"}
+	{Matrix34
+		0	-1	0
+		-1	0	0
+		0	0	1
+		-0.204908	-0.0536909	0.820683
+	}
+}
+{extender "preview"
+	{"stuff"
+		{camera
+			{origin 15 	 0.7453 	 1.2148}
+			{lookat 7 	 0.5 	 0.75}
+			{fov 29}
+			{horizon 10}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 2.5486 	 1.5015 	 5.3404}
+			}
+			{"1"
+				{type directional}
+				{direction -0.474 	 -0.1042 	 -0.1201}
+			}
+			{"2"
+				{type point}
+				{position 0.7818 	 0.0009 	 -6.9527}
+			}
+		}
+	}
+}

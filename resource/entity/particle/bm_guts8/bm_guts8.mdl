@@ -1,0 +1,25 @@
+;Exported by: Sinki
+;Date:        Wed Feb 15 19:33:52 2023
+;File:        C:\Custom\Call To Arms\models\Body_parts_models\Finished\guts8\guts8.max
+{Skeleton
+	{bone "bm_guts8"
+		{parameters "CommonMesh;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "bm_guts8.ply"}
+	}
+}
+{xform scale 1.7}
+{Volume "bm_guts8"
+	{Box 1.9685 1.37795 1.37795}
+	{Bone "bm_guts8"}
+	{Matrix34
+		-0.0447869	-0.998932	-0.0113764
+		0.998961	-0.0448803	0.00798827
+		0.00849008	0.0110073	-0.999904
+		0.0336779	0.073649	0.017799
+	}
+}

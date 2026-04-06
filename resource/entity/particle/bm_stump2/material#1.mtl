@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "stump_256_v1"}
+	{blend none}
+}
