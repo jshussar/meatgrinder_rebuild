@@ -1,0 +1,64 @@
+{fx
+	{sound "human/action/healing"}
+	{#+ particleview
+		{generator
+			{totalparticles 10}
+			{emissionarea
+				{radius 0.2 0.2}
+				{alpha0 0}
+				{alpha1 180}
+				{speed 0.02}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 2}
+			}
+		}
+		{offset 0 0 20}
+		{mover
+			{damping 0.95}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/particle/heal_p"
+					{scale 1
+						{npower
+							{min 0.2}
+							{max 0.75}
+							{pow 0.5}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.5}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{#+ spriteview
+		{sprite "$/particle/heal_p"
+			{timer
+				{mode play loop }
+				{duration 1}
+			}
+			{scale 1
+				{peak
+					{min 0.3}
+					{max 0.4}
+				}
+			}
+		}
+		{offset 0 0 20}
+		{halo}
+		{autovisible}
+	}
+}

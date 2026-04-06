@@ -1,0 +1,79 @@
+{fx
+	{#+ lightview
+		{type spot}
+		{animator
+			{highlight 0xa0a0a0}
+		}
+		{falloff 2.5}
+		{theta 11}
+		{phi 13}
+		{radius 8000}
+		{priority 10}
+		{effectonground}
+		{intensity 10}
+	}
+	{#+ spriteview flash
+		{sprite "$/flash/flash_g03"
+			{light 1
+				{peak
+					{min 0.28}
+					{max 0.3}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 4}
+			}
+			{scale 0.3
+				{peak
+					{min 0.25}
+					{max 0.25}
+				}
+			}
+			{## highlight 0xff65b4ff}
+			{##+ turn 1
+				{peak
+					{min 0}
+					{max 60}
+				}
+			}
+		}
+	}
+	{#+ spriteview cone
+		{sprite "$/flash/light"
+			{light 1
+				{peak
+					{min 0.11}
+					{max 0.12}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 4}
+			}
+			{scalex 10}
+			{scaley 2}
+		}
+		{orientation trace}
+		{softintersection}
+	}
+	{#+ spriteview cone
+		{sprite "$/flash/light"
+			{light 1
+				{peak
+					{min 0.21}
+					{max 0.23}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 4}
+			}
+			{scalex 4}
+			{scaley 1.5}
+			{highlight 0xffffe2c0}
+		}
+		{orientation trace}
+		{softintersection}
+	}
+}

@@ -1,0 +1,140 @@
+{fx
+	{particleview 1
+		{generator
+			{emissionarea
+				{radius 1.5 1.5}
+				{alpha0 0}
+				{alpha1 0}
+				{speed 0.25}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 0.75 0.25}
+			}
+			{totalparticles 0}
+			{particlesinblock 1}
+		}
+		{mover
+			{gravity
+				{value 1}
+			}
+			{collisions
+				{terrain}
+				{restitution 0}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/water/wave"
+					{scale 1
+						{npower
+							{min 0}
+							{max 0.35 0.05}
+							{pow 2}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{visibility 1
+						{npower
+							{min 0.7 0.3}
+							{max 0}
+							{pow 3}
+						}
+					}
+					{preturn 180 180}
+				}
+				{flags ground }
+			}
+		}
+		{notifyowner}
+	}
+	{particleview 2
+		{generator
+			{emissionarea
+				{radius 0.375 0.125}
+				{alpha0 15}
+				{alpha1 45}
+				{speed 1}
+			}
+			{particleinit
+				{speed 0.55 0.45}
+				{lifetime 0.75 0.25}
+			}
+			{totalparticles 2}
+			{particlesinblock 2}
+			{axisz}
+		}
+		{mover
+			{gravity
+				{value 0.125}
+			}
+			{nodependonwind}
+			{damping 0.985}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/water/splash_water_a2"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{turn 1
+						{npower
+							{min 0}
+							{max 0 60}
+							{pow 1}
+						}
+					}
+					{scale 1
+						{npower
+							{min 0.08}
+							{max 0}
+							{pow 3}
+						}
+					}
+					{highlight 0xfff0fefe}
+					{preturn 180 180}
+					{visibility 1
+						{peak
+							{min 0.3}
+							{max 1}
+						}
+					}
+				}
+				{sprite "$/water/water2"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{turn 1
+						{npower
+							{min 0}
+							{max 0 60}
+							{pow 1}
+						}
+					}
+					{scale 1
+						{npower
+							{min 0.08}
+							{max 0}
+							{pow 3}
+						}
+					}
+					{highlight 0xfff0fefe}
+					{preturn 180 180}
+					{visibility 1
+						{peak
+							{min 0.3}
+							{max 1}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

@@ -1,0 +1,141 @@
+{fx
+	{particleview wash
+		{generator
+			{totalparticles 10}
+			{emissionarea
+				{radius 0.1}
+				{alpha0 0}
+				{speed 0.2}
+			}
+			{particleinit
+				{speed -1 -0.5}
+				{lifetime 1.5 0.5}
+			}
+			{autoturn}
+		}
+		{mover
+			{damping 0.97}
+			{gravity
+				{value 0}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.05}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{flags ground }
+				{sprite "$/water/wash_new02"
+					{preturn 90 10}
+					{scaley 1
+						{linear
+							{min 0.1}
+							{max 0.4 0.1}
+						}
+					}
+					{scalex 1
+						{linear
+							{min 0.45 0.15}
+							{max 0.85 0.35}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 1}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+				}
+				{sprite "$/water/wash_new02"
+					{preturn 90}
+					{scaley 1
+						{linear
+							{min 0.2}
+							{max 0.425 0.075}
+						}
+					}
+					{scalex 1
+						{linear
+							{min 0.475 0.125}
+							{max 0.85 0.35}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.7 0.1}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+				}
+			}
+		}
+		{notifyowner}
+		{offset 0 0 -10}
+	}
+	{particleview drops
+		{generator
+			{totalparticles 50}
+			{emissionarea
+				{radius 8 8}
+				{alpha0 0}
+				{alpha1 5 5}
+			}
+			{particleinit
+				{speed 1 1}
+				{lifetime 0.4 0.15}
+			}
+			{axisz}
+		}
+		{mover
+			{damping 0.95}
+			{gravity
+				{value 0.2}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.05}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/water/splash_water_a2"
+					{scale 1
+						{linear
+							{min 0.125 0.025}
+							{max 0.25 0.05}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 90}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+		{offset 0 0 -15}
+	}
+}

@@ -1,0 +1,51 @@
+{fx
+	{spriteview
+		{sprite "$/flash/halo03"
+			{timer
+				{mode play loop }
+				{duration 1}
+			}
+			{scale 1
+				{peak
+					{min 0.05}
+					{max 0.15}
+				}
+			}
+			{light 1
+				{linear
+					{min 0.4}
+					{max 0}
+				}
+			}
+			{highlight 0xffff733a}
+		}
+		{offset 0 0 20}
+		{halo}
+		{autovisible}
+	}
+	{spriteview
+		{sprite "$/interface/personage_p2"
+			{timer
+				{mode play loop }
+				{duration 1}
+			}
+			{scale 1
+				{peak
+					{min 0.25}
+					{max 0.2}
+				}
+			}
+			{light 1
+			}
+			{visibility 1
+				{peak
+					{min 1}
+					{max 0.6}
+				}
+			}
+		}
+		{offset 0 0 20}
+		{halo}
+		{autovisible}
+	}
+}

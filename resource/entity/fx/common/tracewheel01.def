@@ -1,0 +1,21 @@
+{fx
+	{spriteview start
+		{sprite "$/particle/tracewheel01"
+			{visibility 1
+				{linear
+					{min 0.425 0.025}
+					{max 0}
+				}
+			}
+			{timer
+				{duration 2}
+			}
+			{preturn 0 4}
+			{scalex 0.08}
+			{scaley 0.12}
+		}
+		{usedirection}
+		{ground}
+		{layer grounddynamic}
+	}
+}

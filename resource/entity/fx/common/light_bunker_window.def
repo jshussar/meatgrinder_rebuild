@@ -1,0 +1,108 @@
+{fx
+	{##+ particleview flies
+		{generator
+			{totalparticles 20}
+			{emissionarea
+				{radius 3 7}
+				{alpha0 0}
+				{alpha1 360}
+			}
+			{particleinit
+				{speed 7}
+				{lifetime 0.3 0.2}
+			}
+			{axisz}
+			{particlesinblock 1}
+		}
+		{mover
+			{gravity
+				{value 0}
+			}
+			{damping 0.01}
+			{collisions
+				{terrain}
+				{restitution 0.4}
+			}
+			{nodependonwind}
+		}
+		{notifyowner}
+		{visualizer
+			{stage 
+				{sprite "$/particle/oskolkim"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{scale 0.1 0.05}
+					{light 0.6 0.2}
+				}
+			}
+		}
+	}
+	{#+ lightview
+		{type spot}
+		{animator
+			{highlight 0xffffffdb}
+		}
+		{falloff 4}
+		{theta 70}
+		{phi 140}
+		{radius 180}
+		{priority 10}
+		{effectonground}
+	}
+	{spriteview flash
+		{sprite "$/flash/flash_g03"
+			{timer
+				{mode play loop }
+				{duration 2}
+			}
+			{scale 0.4}
+			{highlight 0xffffffd4}
+			{light 0.4}
+		}
+		{orientation normal}
+		{offset 0 0 5}
+	}
+	{#+ spriteview
+		{sprite "/texture/fx/flash/light_win2"
+			{timer
+				{mode play loop }
+				{duration 1}
+			}
+			{light 1
+				{peak
+					{min 0.25}
+					{max 0.25}
+				}
+			}
+			{scalex 2}
+			{scaley 1.75}
+			{highlight 0xffffffd1}
+		}
+		{orientation normal}
+		{offset 0 0 0}
+	}
+	{#+ particleview netrogat
+		{generator
+			{emissionarea
+				{radius 1}
+				{alpha0 0}
+				{speed 0.01}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 0.05}
+			}
+		}
+		{mover}
+		{visualizer
+			{stage 
+				{sprite "/texture/fx/particle/glass_small"
+					{scale 0.01}
+				}
+			}
+		}
+	}
+	{storeable 1}
+}

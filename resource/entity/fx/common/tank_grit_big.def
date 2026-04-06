@@ -1,0 +1,269 @@
+{fx
+	{#+ particleview
+		{generator
+			{totalparticles 40}
+			{emissionarea
+				{radius 0}
+				{alpha0 5 5}
+				{alpha1 5 5}
+				{speed 0.2}
+				{theta -45}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 0.8 0.2}
+			}
+		}
+		{mover
+			{gravity
+				{value 0.15}
+			}
+			{damping 0.97}
+			{collisions
+				{terrain}
+				{restitution 0.5}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/particle/grit"
+					{scale 0.15 0.05}
+					{preturn 0 180}
+				}
+				{sprite "$/particle/grit2"
+					{scale 0.2 0.1}
+					{## highlight 0xff0e0e0e}
+					{preturn 0 180}
+				}
+				{sprite "$/particle/listya3"
+					{scale 0.08 0.05}
+					{preturn 0 180}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{#+ particleview
+		{generator
+			{totalparticles 40}
+			{emissionarea
+				{radius 3 3}
+				{alpha0 5}
+				{alpha1 5}
+				{speed 0.2}
+				{## psi 45}
+				{theta -45}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 0.8 0.2}
+			}
+		}
+		{mover
+			{gravity
+				{value 0.15}
+			}
+			{damping 0.97}
+			{collisions
+				{terrain}
+				{restitution 0.5}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/explosion/dirt_new"
+					{scale 0.025 0.005}
+					{preturn 0 180}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{##+ particleview grit
+		{generator
+			{totalparticles 40}
+			{emissionarea
+				{radius 0}
+				{alpha0 5}
+				{alpha1 5}
+				{speed 0.2}
+				{## psi 45}
+				{theta -45}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 0.8 0.2}
+			}
+		}
+		{mover
+			{gravity
+				{value 0.15}
+			}
+			{damping 0.97}
+			{collisions
+				{terrain}
+				{restitution 0.5}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/particle/grit"
+					{scale 0.3 0.2}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+				}
+				{sprite "$/particle/grit2"
+					{scale 0.3 0.2}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{##+ particleview rock
+		{generator
+			{totalparticles 40}
+			{emissionarea
+				{radius 0}
+				{alpha0 5}
+				{alpha1 5}
+				{speed 0.2}
+				{## psi 45}
+				{theta -45}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 0.8 0.2}
+			}
+		}
+		{mover
+			{gravity
+				{value 0.15}
+			}
+			{damping 0.97}
+			{collisions
+				{terrain}
+				{restitution 0.5}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/particle/grunt3"
+					{scale 0.055 0.045}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{##+ particleview rock
+		{generator
+			{totalparticles 40}
+			{emissionarea
+				{radius 0}
+				{alpha0 5}
+				{alpha1 5}
+				{speed 0.2}
+				{## psi 45}
+				{theta -45}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 0.8 0.2}
+			}
+		}
+		{mover
+			{gravity
+				{value 0.15}
+			}
+			{damping 0.97}
+			{collisions
+				{terrain}
+				{restitution 0.5}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/particle/listya3"
+					{scale 0.125 0.075}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{highlight 0xff613a0e}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{##+ particleview dirt
+		{generator
+			{totalparticles 40}
+			{emissionarea
+				{radius 0}
+				{alpha0 5}
+				{alpha1 5}
+				{speed 0.2}
+				{## psi 45}
+				{theta -45}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 0.8 0.2}
+			}
+		}
+		{mover
+			{gravity
+				{value 0.15}
+			}
+			{damping 0.97}
+			{collisions
+				{terrain}
+				{restitution 0.5}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smokesmal4"
+					{scale 0.45 0.15}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{highlight 0xff573b1c}
+					{visibility 0.8 0.2}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

@@ -1,0 +1,169 @@
+{fx
+	{particleview drops1
+		{generator
+			{emissionarea
+				{radius 0.05 0.05}
+				{alpha0 0}
+				{alpha1 0 2.5}
+				{speed 0.4}
+			}
+			{particleinit
+				{speed 0.55 0.05}
+				{lifetime 1}
+			}
+		}
+		{#+ mover
+			{damping 0.985}
+			{gravity
+				{value 0.15}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.35}
+				{objects}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/water/water_i03"
+					{timer
+						{mode play }
+						{duration 1.25}
+					}
+					{preturn 180 180}
+					{scaley 1
+						{npower
+							{min 0.02 0.01}
+							{max 0}
+							{pow 0.5}
+						}
+					}
+					{scalex 1
+						{npower
+							{min 0}
+							{max 0.3 0.1}
+							{pow 0.85}
+						}
+					}
+					{visibility 0.4 0.1}
+					{highlight 0xffcff0fe}
+				}
+				{flags trace }
+			}
+			{stage collided 
+				{sprite "$/water/wave"
+					{scale 1
+						{npower
+							{min 0}
+							{max 0.35 0.05}
+							{pow 0.5}
+						}
+					}
+					{timer
+						{mode play }
+						{duration 0.5}
+					}
+					{visibility 1
+						{npower
+							{min 0.5}
+							{max 0}
+							{pow 0.75}
+						}
+					}
+					{highlight 0xffffffff}
+					{preturn 180 180}
+				}
+				{flags killparticle ground }
+			}
+		}
+		{notifyowner}
+	}
+	{particleview drops2
+		{generator
+			{emissionarea
+				{radius 0.05 0.05}
+				{alpha0 0}
+				{alpha1 0 2.5}
+				{speed 0.2}
+			}
+			{particleinit
+				{speed 0.6}
+				{lifetime 1}
+			}
+		}
+		{mover
+			{damping 0.985}
+			{gravity
+				{value 0.15}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.35}
+				{objects}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/water/splash_water_a1"
+					{timer
+						{mode play }
+						{duration 1.25}
+					}
+					{preturn 180 180}
+					{scaley 1
+						{npower
+							{min 0.01}
+							{max 0.2}
+							{pow 0.5}
+						}
+					}
+					{scalex 1
+						{npower
+							{min 0.01}
+							{max 0.2}
+							{pow 0.5}
+						}
+					}
+					{visibility 0.15 0.05}
+					{highlight 0xffffffff}
+				}
+				{flags trace }
+			}
+			{stage collided 
+				{sprite "$/water/splash_water_a2"
+					{scale 1
+						{npower
+							{min 0.07}
+							{max 0.15}
+							{pow 0.5}
+						}
+					}
+					{timer
+						{mode play }
+						{duration 0.4 0.05}
+					}
+					{visibility 1
+						{npower
+							{min 0.6}
+							{max 0}
+							{pow 3}
+						}
+					}
+					{highlight 0xffeaf5fe}
+					{preturn 180 180}
+					{shifty 1
+						{npower
+							{min 0}
+							{max 5}
+							{pow 1}
+						}
+					}
+				}
+				{flags killparticle }
+			}
+		}
+		{notifyowner}
+	}
+}

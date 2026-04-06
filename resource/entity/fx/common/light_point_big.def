@@ -1,0 +1,39 @@
+{fx
+	{lightview
+		{type spot}
+		{animator
+			{highlight 0xffe2f5ff}
+		}
+		{radius 500}
+		{priority 10}
+		{effectonground}
+		{nightonly}
+		{attenuation0 0.2}
+		{attenuation1 0.4}
+		{falloff 0.5}
+		{phi 140}
+		{theta 90}
+	}
+	{#+ particleview
+		{generator
+			{emissionarea
+				{radius 1}
+				{alpha0 0}
+				{speed 0.01}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 0.05}
+			}
+		}
+		{mover}
+		{visualizer
+			{stage 
+				{sprite "/texture/fx/particle/glass_small"
+					{scale 0.01}
+				}
+			}
+		}
+	}
+	{storeable 1}
+}

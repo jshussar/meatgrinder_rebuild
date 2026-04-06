@@ -1,0 +1,106 @@
+{fx
+	{#+ lightview
+		{type point}
+		{animator
+			{highlight 0xa0a0a0}
+		}
+		{attenuation0 0.2}
+		{attenuation1 3}
+		{## falloff 1.5}
+		{## theta 80}
+		{## phi 179}
+		{radius 100}
+		{priority 10}
+		{effectonground}
+	}
+	{spriteview flash
+		{sprite "$/flash/halo01"
+			{light 1
+				{peak
+					{min 0.2}
+					{max 0.5}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 2}
+			}
+			{scale 0.1}
+			{highlight 0xfffd9430}
+		}
+	}
+	{##+ particleview flies
+		{generator
+			{totalparticles 10}
+			{emissionarea
+				{radius 3 7}
+				{alpha0 0}
+				{alpha1 360}
+			}
+			{particleinit
+				{speed 7}
+				{lifetime 0.3 0.2}
+			}
+			{axisz}
+			{particlesinblock 1}
+		}
+		{mover
+			{gravity
+				{value 0}
+			}
+			{damping 0.01}
+			{collisions
+				{terrain}
+				{restitution 0.4}
+			}
+			{nodependonwind}
+		}
+		{notifyowner}
+		{visualizer
+			{stage 
+				{sprite "$/particle/grit2"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{scale 0.04 0.01}
+					{light 0.6 0.2}
+				}
+			}
+		}
+	}
+	{#+ spriteview cone
+		{sprite "$/flash/flash_g03a"
+			{light 1
+				{peak
+					{min 0.3}
+					{max 0.7}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 1}
+			}
+			{scalex 0.05}
+			{scaley 0.05}
+		}
+		{## orientation trace}
+	}
+	{spriteview flash
+		{sprite "$/flash/halo02"
+			{light 1
+				{peak
+					{min 0.02}
+					{max 0.1}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 5}
+			}
+			{scale 0.5}
+			{highlight 0xff809ee4}
+		}
+	}
+	{storeable 1}
+}

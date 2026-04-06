@@ -1,0 +1,17 @@
+{fx
+	{lightview
+		{type spot}
+		{animator
+			{highlight 0xfffdec9b}
+			{visibility 0.7}
+		}
+		{attenuation0 0.2}
+		{attenuation1 5}
+		{falloff 2}
+		{theta 30}
+		{phi 70}
+		{radius 700}
+		{priority 10}
+		{effectonground}
+	}
+}

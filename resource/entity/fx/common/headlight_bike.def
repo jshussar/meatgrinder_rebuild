@@ -1,0 +1,84 @@
+{fx
+	{spriteview "light slit"
+		{sprite "$/flash/flash_g03"
+			{light 1
+				{peak
+					{min 0.35}
+					{max 0.35}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 2}
+			}
+			{## scale 0.06}
+			{preturn 90}
+			{scalex 0.02}
+			{scaley 0.02}
+			{highlight 0xffffffba}
+			{turn 0}
+		}
+		{halo
+			{usedirection}
+		}
+		{## orientation normalYZ}
+	}
+	{spriteview "light sprite"
+		{sprite "$/flash/light"
+			{light 1
+				{peak
+					{min 0.05}
+					{max 0.05}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 3}
+			}
+			{scalex 0.15}
+			{scaley 0.3}
+			{turn 0}
+			{preturn 0}
+			{highlight 0xffffffba}
+		}
+		{orientation trace}
+	}
+	{##+ spriteview
+		{sprite "$/flash/halo01"
+			{light 1
+				{peak
+					{min 0.13}
+					{max 0.12}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 2}
+			}
+			{scale 0.08}
+			{highlight 0xfffdec9b}
+		}
+		{halo
+			{usedirection}
+		}
+	}
+	{##+ spriteview "light sprite"
+		{sprite "$/flash/light"
+			{light 1
+				{peak
+					{min 0.28}
+					{max 0.3}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 3}
+			}
+			{scalex 0.75}
+			{scaley 0.5}
+			{turn -5}
+			{preturn 0}
+		}
+		{orientation normalXZ}
+	}
+}
