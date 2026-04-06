@@ -1,0 +1,63 @@
+{fx
+	{constrain ground}
+	{particleview particles
+		{generator
+			{totalparticles 40}
+			{emissionarea
+				{radius 30 24}
+				{alpha0 32}
+				{speed 0}
+				{distributionlaw disk}
+				{alpha1 32}
+			}
+			{particleinit
+				{speed 0.002}
+				{lifetime 15 5}
+			}
+			{axisz}
+		}
+		{mover
+			{damping 0}
+			{gravity
+				{value 0}
+			}
+			{collisions
+				{terrain}
+				{restitution 0}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/flash/halo02"
+					{timer
+						{mode play loop }
+						{duration -1}
+					}
+					{scale 0.5
+						{linear
+							{min 0.035 0.015}
+							{max 0.035 0.015}
+						}
+					}
+					{light 1
+						{linear
+							{min 0.4 0.2}
+							{max 0}
+						}
+					}
+					{highlight 0xffff7b00}
+					{turn 1
+						{linear
+							{min 0}
+							{max 180}
+						}
+					}
+				}
+				{flags ground }
+			}
+		}
+		{notifyowner}
+	}
+	{storeable 1}
+}

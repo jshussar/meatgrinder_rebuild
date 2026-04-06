@@ -1,0 +1,15 @@
+{bitmap
+	
+        {Axis  128 128 }
+
+        {Filtering  1 }
+	
+        {AlphaChannel  1 }
+
+	{Blend  Light }
+
+;	{Animation  Play }
+
+	{Frame  "pointer_01.dds"}
+
+}

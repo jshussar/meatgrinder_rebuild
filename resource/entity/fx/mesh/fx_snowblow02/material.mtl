@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "snow_fx2"}
+	{blend blend}
+}

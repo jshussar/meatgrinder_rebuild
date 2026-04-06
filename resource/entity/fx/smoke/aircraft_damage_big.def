@@ -1,0 +1,157 @@
+{fx
+	{## fire}
+	{particleview
+		{#+ generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 10 10}
+				{alpha1 -1}
+				{speed 4}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 4 1}
+			}
+			{particlesinblock 1}
+			{timetolive 20}
+			{axisz}
+		}
+		{#+ mover
+			{damping 0.999}
+			{gravity
+				{value 0}
+			}
+		}
+		{#+ visualizer
+			{stage 
+				{sprite "$/smoke/smoke05"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05 0.03}
+							{max 1.1 0.4}
+						}
+					}
+					{visibility 1
+						{## peak
+							{min 0}
+							{max 1}
+						}
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{## highlight 0xffffffd7}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{particleview
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 10 10}
+				{alpha1 -1}
+				{speed 6}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 1.5 0.5}
+			}
+			{particlesinblock 1}
+			{timetolive 20}
+			{axisz}
+		}
+		{mover
+			{damping 0.999}
+			{gravity
+				{value 0}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/explosion/fire_blast"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05 0.03}
+							{max 0.3 0.1}
+						}
+					}
+					{visibility 1
+						{## peak
+							{min 0}
+							{max 0.45 0.15}
+						}
+						{## linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 0 120}
+					{timer
+						{mode play }
+						{duration 0.6}
+					}
+					{highlight 0xffffd7ab}
+					{light 1
+						{linear
+							{min 0.75 0.25}
+							{max 0}
+						}
+					}
+				}
+				{sprite "$/explosion/exp_blast02"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05 0.03}
+							{max 0.4 0.2}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.45 0.15}
+						}
+						{## linear
+							{min 0.2}
+							{max 0}
+						}
+					}
+					{preturn 0 120}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffffd7ab}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

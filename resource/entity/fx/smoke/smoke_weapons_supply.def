@@ -1,0 +1,163 @@
+{fx
+	{## fire}
+	{particleview
+		{generator
+			{totalparticles 20}
+			{emissionarea
+				{radius 0}
+				{alpha0 10 10}
+				{alpha1 -1}
+			}
+			{particleinit
+				{speed 0.35 0.05}
+				{lifetime 8 1}
+			}
+			{particlesinblock 1}
+			{axisz}
+			{timetolive 30}
+		}
+		{mover
+			{damping 0.999}
+			{gravity
+				{value -0.001}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_g04e"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05}
+							{max 0.35 0.05}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.6}
+						}
+					}
+					{preturn 180 50}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xff0083ff}
+				}
+				{sprite "$/smoke/smoke_g04e"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 40}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05}
+							{max 0.25 0.05}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.6}
+						}
+					}
+					{preturn 180 50}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xff00a9ff}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{particleview
+		{generator
+			{totalparticles 20}
+			{emissionarea
+				{radius 0}
+				{alpha0 10 10}
+				{alpha1 -1}
+			}
+			{particleinit
+				{speed 0.35 0.05}
+				{lifetime 2 0.5}
+			}
+			{particlesinblock 1}
+			{axisz}
+			{timetolive 30}
+		}
+		{mover
+			{damping 0.999}
+			{gravity
+				{value -0.001}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_small_white"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05}
+							{max 0.15}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.6}
+						}
+					}
+					{preturn 180 50}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xff00a9ff}
+				}
+				{## sprite "$/smoke/smoke_g04e"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 40}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05}
+							{max 0.25 0.05}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.6}
+						}
+					}
+					{preturn 180 50}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xff94fe00}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

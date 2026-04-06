@@ -1,0 +1,36 @@
+{fx
+	{particleview 7
+		{entitygenerator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0.05 0.05}
+				{alpha0 0}
+				{alpha1 2.5 2.5}
+				{theta 25}
+				{## distributionlaw sphere}
+				{psi 7 8}
+			}
+			{particleinit
+				{speed 7}
+				{lifetime 10}
+			}
+			{entity "shell_rifle"
+				{align invz}
+				{spinz 300}
+				{spinx 300}
+			}
+				{particlesinblock 1}
+				{timetolive 0.1}
+			}
+			{mover
+				{gravity
+					{value 0.01}
+				}
+				{collisions
+					{objects}
+					{terrain}
+				}
+			}
+		{autopause}
+	}
+}

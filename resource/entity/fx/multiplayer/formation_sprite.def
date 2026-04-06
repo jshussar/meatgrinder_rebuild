@@ -1,0 +1,10 @@
+{fx
+	{#+ decalview
+		{sprite "$/interface/formation"
+			{scale 0.1 0.1}
+		}
+		{dynamic}
+		{ground}
+		{layer groundshadow}
+	}
+}

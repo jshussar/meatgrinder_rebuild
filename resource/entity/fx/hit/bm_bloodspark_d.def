@@ -1,0 +1,62 @@
+{fx
+	{#+ particleview blood_streaks
+		{generator
+			{emissionarea
+				{radius 1 1}
+				{alpha0 7.5 7.5}
+				{alpha1 90 90}
+			}
+			{particleinit
+				{speed 0.5 0.5}
+				{lifetime 0.25 0.05}
+			}
+			{timetolive 0.01}
+			{totalparticles 45}
+			{particlesinblock 45}
+		}
+		{mover
+			{damping 1}
+			{## gravity
+				{value 3}
+			}
+			{collisions
+				{terrain}
+				{restitution 10}
+			}
+		}
+		{visualizer
+			{stage 
+				{flags trace }
+				{sprite "$/particle/bm_blood_f"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0x61210e}
+					;{highlight 0xffa43d3c}
+					{scalex
+						{linear
+							{min 0.1}
+							{max 0.1 0.05}
+						}
+					}
+					{scaley
+						{linear
+							{min 0.01 0.005}
+							{max 0.018 0.012}
+						}
+					}
+					{## preturn 0 180}
+					{visibility 1
+						{power
+							{min 1}
+							{max 0}
+							{pow 1}
+						}
+					}
+				}
+			}
+		}
+	}
+
+}

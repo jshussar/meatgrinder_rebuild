@@ -1,0 +1,98 @@
+{fx
+	{spriteview point2
+		{notifyowner}
+		{sprite "/texture/fx/objectives/cross2"
+			{highlight 0xfffebaa4}
+			{timer
+				{mode play }
+				{duration 0.9}
+			}
+			{scale 1
+				{linear
+					{min 0}
+					{max 0.6}
+				}
+			}
+			{light 1
+				{linear
+					{min 1}
+					{max 0}
+				}
+			}
+			{preturn 1
+				{linear
+					{min 0}
+					{max 10}
+				}
+			}
+			{turn 1
+				{linear
+					{min 0}
+					{max 55}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+	{##+ spriteview point4
+		{notifyowner}
+		{sprite "/texture/fx/objectives/point_00"
+			{highlight 0xff822a19}
+			{timer
+				{mode play }
+				{duration 0.3}
+			}
+			{scale 1
+				{linear
+					{min 0.4}
+					{max 0.4}
+				}
+			}
+			{light 1
+				{linear
+					{min 1}
+					{max 0}
+				}
+			}
+			{preturn 1
+				{linear
+					{min 45}
+					{max 45}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+	{##+ spriteview point
+		{notifyowner}
+		{sprite "/texture/fx/objectives/point_00"
+			{highlight 0xfffd5f0f}
+			{timer
+				{mode play }
+				{duration 0.5}
+			}
+			{scale 1
+				{linear
+					{min 0.5}
+					{max 0.3}
+				}
+			}
+			{light 1
+				{linear
+					{min 0.5}
+					{max 0}
+				}
+			}
+			{preturn 1
+				{linear
+					{min 0}
+					{max 0}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+}

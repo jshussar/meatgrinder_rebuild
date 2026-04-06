@@ -1,0 +1,83 @@
+{fx
+	{constrain ground}
+	{particleview smoke
+		{generator
+			{totalparticles 60}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 5 5}
+				{speed 0}
+			}
+			{particleinit
+				{speed 0.1 0.05}
+				{lifetime 3.5 3}
+			}
+			{timetolive 4.5}
+		}
+		{mover
+			{damping 0.95}
+			{gravity
+				{value -0.006}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.05}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smokesmal4"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 200}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{scale 1.5
+						{linear
+							{min 0.08 0.03}
+							{max 0.4 0.2}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.5}
+							{max 0}
+						}
+					}
+				}
+				{sprite "$/smoke/smokesmal4"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 200}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{scale 1.6
+						{linear
+							{min 0.08 0.03}
+							{max 0.4 0.2}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.5}
+							{max 0}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

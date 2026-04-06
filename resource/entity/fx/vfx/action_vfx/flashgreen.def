@@ -1,0 +1,32 @@
+{fx
+	{spriteview
+		{notifyowner}
+		{sprite "/texture/fx/objectives/spot_dash"
+			{highlight 0xffffffff}
+			{timer
+				{mode play }
+				{duration 0.5}
+			}
+			{scale 1
+				{linear
+					{min 0.3}
+					{max 0.1}
+				}
+			}
+			{light 1
+				{linear
+					{min 0.25}
+					{max 0}
+				}
+			}
+			{turn 1
+				{linear
+					{min 40}
+					{max 0}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+}

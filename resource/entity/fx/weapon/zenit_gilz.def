@@ -1,0 +1,68 @@
+{fx
+	{particleview
+		{generator
+			{totalparticles 50}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 5}
+				{speed 0.15}
+				{theta -40}
+			}
+			{particleinit
+				{speed 1.15 0.15}
+				{lifetime 2.5 0.5}
+			}
+			{particlesinblock 1}
+			{timetolive 0.12}
+		}
+		{mover
+			{gravity
+				{value 0.1}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.2}
+				{once}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/particle/gilzal"
+					{turn 1
+						{linear
+							{min 0 60}
+							{max 290 210}
+						}
+					}
+					{scaley 0.06}
+					{scalex 0.03}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{light 1
+						{peak
+							{min 0}
+							{max 1}
+						}
+					}
+				}
+			}
+			{stage collided dying 
+				{sprite "$/particle/gilzal"
+					{preturn 180 180}
+					{prescaley 0.06}
+					{prescalex 0.03}
+					{timer
+						{mode play }
+						{duration 1 0.5}
+					}
+				}
+				{flags ground }
+			}
+		}
+		{autopause}
+	}
+}

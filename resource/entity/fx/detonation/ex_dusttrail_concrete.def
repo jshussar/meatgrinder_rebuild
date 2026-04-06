@@ -1,0 +1,151 @@
+{fx
+	{fire}
+	{particleview
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 10 10}
+				{alpha1 -1}
+				{speed 0.1}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 2.5 0.5}
+			}
+			{particlesinblock 1}
+			{axisz}
+			{timetolive 1}
+		}
+		{#+ mover
+			{damping 0.999}
+			{gravity
+				{value 0}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_g04f"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0}
+							{max 0.35 0.05}
+						}
+					}
+					{visibility 1
+						{## peak
+							{min 0.3}
+							{max 0.6}
+						}
+						{linear
+							{min 0.3}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xfffebc8a}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{particleview
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 10 10}
+				{alpha1 -1}
+				{speed 0.1}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 1.5 0.5}
+			}
+			{particlesinblock 1}
+			{axisz}
+			{timetolive 1}
+		}
+		{mover
+			{damping 0.999}
+			{gravity
+				{value 0}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smokesmal4"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0}
+							{max 1.5 0.5}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.6}
+						}
+						{## linear
+							{min 0.2}
+							{max 0}
+						}
+					}
+					{preturn 180 50}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffcea177}
+				}
+				{## sprite "$/smoke/smokesmal4"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 1}
+							{max 3.5 0.5}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.3}
+						}
+						{## linear
+							{min 0.2}
+							{max 0}
+						}
+					}
+					{preturn 180 50}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xff6b6660}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

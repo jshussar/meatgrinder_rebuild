@@ -1,0 +1,65 @@
+{fx ;------------------------------------- for corpse explosion
+{#+ particleview fragments
+		{generator
+			{emissionarea
+				{radius 0.5 0.5}
+				{alpha0 45 45}
+				{alpha1 45 45}
+			}
+			{particleinit
+				{speed 5 0.1}
+				{lifetime 3 1}
+			}
+			{timetolive 0.05}
+			{totalparticles 40}
+			{particlesinblock 40}
+		}
+		{mover
+			{damping 1}
+			{gravity
+				{value 0.35}
+			}
+			{collisions
+				{terrain}
+				{restitution 0}
+				{once}
+			}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/particle/bm_blood_d"
+					{highlight 0x61210e}	
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{scale 0.016 0.003}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+				{sprite "$/particle/bm_blood_d"
+					{highlight 0x78300a}					
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{scale 0.02 0.003}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+			}			
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{fx
+	{spriteview
+		{sprite "$/particle/suspect01"
+			{scale 0.7}
+		}
+	}
+}

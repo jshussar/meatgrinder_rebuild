@@ -1,0 +1,61 @@
+{fx
+	{particleview
+		{generator
+			{totalparticles 10}
+			{emissionarea
+				{radius 125 125}
+				{alpha0 -20}
+				{alpha1 -10 5}
+			}
+			{particleinit
+				{speed 4 1}
+				{lifetime 5 1}
+			}
+		}
+		{mover
+			{damping 5}
+			{gravity
+				{value 0.003}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.3}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/particle/listya2_out"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 150}
+						}
+					}
+					{scale 0.1
+						{linear
+							{min 0.05 0.05}
+							{max 0.1 0.1}
+						}
+					}
+					{visibility 1
+						{## linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 90 90}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{## highlight 0xff818181}
+					{## light 1}
+				}
+			}
+			{## stage dying 
+				{sprite "/texture/fx/particle/listya2"}
+			}
+		}
+	}
+	{storeable 1}
+}

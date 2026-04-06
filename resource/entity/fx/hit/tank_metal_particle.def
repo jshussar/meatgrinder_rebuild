@@ -1,0 +1,20 @@
+{fx
+	{particleview pieces
+		{entitygenerator
+			{totalparticles 4}
+			{emissionarea
+				{radius 5}
+				{alpha0 0 5}
+				{alpha1 15 10}
+			}
+			{particleinit
+				{speed 4 5}
+				{lifetime 0.1 0.1}
+			}
+			{entity "#metall1"}
+			{entity "#metall3"}
+			{entity "#metall2"}
+		}
+	}
+	{#+ sound "crush/medium/metal"}
+}

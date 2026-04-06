@@ -1,0 +1,58 @@
+{fx
+	{#+ particleview _grounddust2
+		{generator
+			{totalparticles 10}
+			{emissionarea
+				{radius 37.5 37.5}
+				{alpha0 90}
+				{alpha1 90}
+			}
+			{particleinit
+				{speed 2.5 2.5}
+				{lifetime 2.5 1.5}
+			}
+			{axisz}
+			{particlesinblock 10}
+			{timetolive 0.01}
+		}
+		{offset 0 0 0}
+		{mover
+			{gravity
+				{value 0.02}
+			}
+			{damping 0.2}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smokesmal4a"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 90 90}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 90}
+						}
+					}
+					{scale 0
+						{linear
+							{min 0.75 0.25}
+							{max 2.5 0.5}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.45 0.15}
+							{max 0}
+						}
+					}
+					{## highlight 0xffdec9ab}
+					{## light 0.8}
+				}
+			}
+		}
+		{autopause}
+	}
+}

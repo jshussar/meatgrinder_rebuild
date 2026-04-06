@@ -1,0 +1,300 @@
+{fx
+	{##fire}
+	{#+ particleview dirt
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 10 10}
+				{alpha1 -1}
+				{speed 1}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 2 1}
+			}
+			{particlesinblock 1}
+			{axisz}
+			{timetolive 0.5}
+		}
+		{mover
+			{damping 0.999}
+			{gravity
+				{value 0.05}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/explosion/dirt_new"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 300}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05}
+							{max 0.25 0.15}
+						}
+					}
+					{visibility 1
+						{## peak
+							{min 0}
+							{max 0.2}
+						}
+						{linear
+							{min 0.5 0.2}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffffffff}
+				}
+				{##+ sprite "$/particle/wood_splinter3"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.02}
+							{max 0.055 0.005}
+						}
+					}
+					{visibility 1
+						{## peak
+							{min 0}
+							{max 0.2}
+						}
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffe6c7a5}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{##+ particleview
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 10 10}
+				{alpha1 -1}
+				{speed 1}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 2.5 0.5}
+			}
+			{particlesinblock 1}
+			{axisz}
+			{timetolive 2}
+		}
+		{#+ mover
+			{damping 0.999}
+			{gravity
+				{value 0}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smokesmal4"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.2 0.1}
+							{max 0.9 0.3}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.3 0.1}
+						}
+						{## linear
+							{min 0.2}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffcab9a4}
+				}
+				{##+ sprite "$/smoke/smokesmal4"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.1}
+							{max 0.5}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.3}
+						}
+						{## linear
+							{min 0.2}
+							{max 0}
+						}
+					}
+					{preturn 180 50}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xff6b6660}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{#+ particleview wood
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 5 5}
+				{alpha0 45 45}
+				{alpha1 90}
+				{speed 1}
+			}
+			{particleinit
+				{speed 1 1}
+				{lifetime 5}
+			}
+			{particlesinblock 1}
+			{axisz}
+			{timetolive 0.5}
+		}
+		{mover
+			{damping 0.999}
+			{gravity
+				{value 0.05}
+			}
+		}
+		{visualizer
+			{stage 
+				{##+ sprite "$/explosion/dirt_new"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05}
+							{max 0.3 0.1}
+						}
+					}
+					{visibility 1
+						{## peak
+							{min 0}
+							{max 0.2}
+						}
+						{linear
+							{min 0.3}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffe6c7a5}
+				}
+				{#+ sprite "$/particle/wood_splinter3"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.02}
+							{max 0.055 0.005}
+						}
+					}
+					{visibility 1
+						{## peak
+							{min 0}
+							{max 0.2}
+						}
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffffffff}
+				}
+				{sprite "$/particle/wood_splinter1"
+					{turn 1
+						{linear
+							{min 0 60}
+							{max 0 100}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.02}
+							{max 0.055 0.005}
+						}
+					}
+					{visibility 1
+						{## peak
+							{min 0}
+							{max 0.2}
+						}
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffffffff}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

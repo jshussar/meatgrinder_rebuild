@@ -1,0 +1,13 @@
+;Exported by:	 SergeyChehov
+;Date:			 02.06.2018 15:17:52
+;File:			 C:\Users\SergeyChehov\Documents\3dsMax\scenes\goh\elm_tree.max
+{skeleton
+	{bone "mesh"
+		{orientation
+			1 	 0 	 0
+			0 	 -1 	 0
+			0 	 0 	 1
+		}
+		{VolumeView "mesh.ply"}
+	}
+}

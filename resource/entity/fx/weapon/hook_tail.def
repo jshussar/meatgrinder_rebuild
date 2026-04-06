@@ -1,0 +1,135 @@
+{fx
+	{particleview tail
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 0}
+				{speed 2}
+			}
+			{particleinit
+				{speed -0.1}
+				{lifetime 4}
+			}
+		}
+		{mover
+			{## damping 0.95}
+			{## gravity
+				{value 0.1}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{flags trace }
+				{sprite "$/particle/doski2"
+					{visibility 1
+						{## linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0}
+					{scalex 0.75
+						{## linear
+							{min 0.25}
+							{max 0.1}
+						}
+					}
+					{scaley 0.0075}
+					{## highlight 0xff0a0a0a}
+					{## shifty 1
+						{linear
+							{min 0}
+							{max -500}
+						}
+					}
+					{## shiftx 1
+						{linear
+							{min 0}
+							{max -500}
+						}
+					}
+					{## shiftz 1
+						{linear
+							{min 0}
+							{max -500}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{##+ particleview "tail test"
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 0}
+				{speed 2}
+			}
+			{particleinit
+				{speed -10}
+				{lifetime 4}
+			}
+		}
+		{mover
+			{## damping 0.95}
+			{gravity
+				{value 0.1}
+			}
+		}
+		{visualizer
+			{stage 
+				{flags trace }
+				{sprite "$/particle/doski2"
+					{visibility 1
+						{## linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0}
+					{scalex 0.4
+						{## linear
+							{min 0.25}
+							{max 0.1}
+						}
+					}
+					{scaley 0.0075}
+					{## highlight 0xff0a0a0a}
+					{## shifty 1
+						{linear
+							{min 0}
+							{max -500}
+						}
+					}
+					{## shiftx 1
+						{linear
+							{min 0}
+							{max -500}
+						}
+					}
+					{## shiftz 1
+						{linear
+							{min 0}
+							{max -500}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

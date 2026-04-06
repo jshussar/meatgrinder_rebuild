@@ -1,0 +1,43 @@
+{fx
+	{lightview
+		{type point}
+		{#+ animator
+			{highlight 0xfffe5822}
+			{visibility 1
+				{linear
+					{min 0.7 0.1}
+					{max 1}
+				}
+			}
+			{timer
+				{mode play }
+				{duration 0.5}
+			}
+		}
+		{attenuation0 0.15}
+		{attenuation1 0.9}
+		{radius 400}
+		{priority 5}
+		{effectonground}
+		{offset 0 0 10}
+		{pulseperiod 0.095 0.015}
+	}
+	{storeable 1}
+	{particleview
+		{generator
+			{emissionarea
+				{radius 1}
+			}
+			{particleinit
+				{speed 1}
+				{lifetime 1}
+			}
+		}
+		{mover}
+		{#+ visualizer
+			{stage 
+				{sprite "/texture/fx/tracers/trace_heat"}
+			}
+		}
+	}
+}

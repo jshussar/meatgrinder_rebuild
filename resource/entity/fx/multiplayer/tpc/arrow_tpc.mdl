@@ -1,0 +1,21 @@
+;Exported by:	 SergeyChehov
+;Date:			 24.10.2021 12:12:23
+;File:			 C:\Users\SergeyChehov\Documents\3dsMax\scenes\arrow_tps.max
+{skeleton
+	{animation
+		{sequence "idle" {speed 1}{autostart}}
+	}
+	{bone "basis"
+		{orientation
+			1 	 0 	 0
+			0 	 -1 	 0
+			0 	 0 	 1
+		}
+		{bone "arrow_tpc"
+			{VolumeView "arrow_tpc.ply"}
+		}
+		{bone "arrow_tpc1"
+			{VolumeView "arrow_tpc1.ply"}
+		}
+	}
+}

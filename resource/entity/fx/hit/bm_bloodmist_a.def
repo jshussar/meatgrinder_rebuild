@@ -1,0 +1,59 @@
+{fx
+	{#+ particleview
+		{generator
+			{totalparticles 10}
+			{particlesinblock 10}
+			{emissionarea
+				{radius 0}
+				{alpha0 1 0.5}
+				{alpha1 0.2 0.7}
+			}
+			{particleinit
+				{speed 0.1 1.1}
+				{lifetime 0.3 0.1}
+			}
+			{timetolive 0.05}
+		}
+		{mover
+			{gravity
+				{value -0.01}
+			}
+			{damping 0.81}
+			{collisions
+				{terrain}
+				{restitution 0.4}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/particle/blood_splash"
+					{scale 1
+						{linear
+							{min 0.0075 0.0025}
+							{max 0.04 0.01}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					;{preturn 180 90}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

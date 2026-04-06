@@ -1,0 +1,22 @@
+{fx
+	{spriteview spot
+		{sprite "/texture/fx/flash/halo02"
+			{scale 1}
+			{highlight 0xff551400}
+			{light 0.7}
+			{visibility 0.1}
+			{timer
+				{mode play }
+				{duration 1}
+			}
+		}
+		{autovisible}
+		{usedirection}
+		{ground}
+		{offset 0 0 2}
+		{## orientation}
+		{## blend}
+		{layer grounddynamic}
+	}
+	{storeable 1}
+}

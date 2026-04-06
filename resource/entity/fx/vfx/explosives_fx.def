@@ -1,0 +1,88 @@
+{fx
+	{spriteview
+		{sprite "$/flash/halo02"
+			{timer
+				{mode play loop }
+				{duration 2}
+			}
+			{scale 1
+				{peak
+					{min 0.2}
+					{max 0.4}
+				}
+			}
+			{light 1
+				{peak
+					{min 0.1}
+					{max 0.4}
+				}
+			}
+			{highlight 0xfffe9442}
+		}
+		{offset 0 0 30}
+		{halo}
+		{autovisible}
+	}
+	{#+ particleview
+		{generator
+			{totalparticles 10}
+			{emissionarea
+				{radius 0.2 0.2}
+				{alpha0 0}
+				{alpha1 180}
+				{speed 0.02}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 2}
+			}
+		}
+		{offset 0 0 30}
+		{mover
+			{damping 0.95}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/interface/explosives"
+					{scale 1
+						{npower
+							{min 0.4}
+							{max 0.6}
+							{pow 0.5}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 1}
+						}
+					}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{spriteview
+		{sprite "$/interface/explosives"
+			{timer
+				{mode play loop }
+				{duration 2}
+			}
+			{scale 1
+				{peak
+					{min 0.4}
+					{max 0.55}
+				}
+			}
+			{highlight 0xffa1958c}
+		}
+		{offset 0 0 30}
+		{halo}
+		{autovisible}
+	}
+}

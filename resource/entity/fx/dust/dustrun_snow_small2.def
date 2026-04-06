@@ -1,0 +1,144 @@
+{fx
+	{particleview
+		{generator
+			{totalparticles 30}
+			{emissionarea
+				{radius 2 2}
+				{alpha0 0}
+				{alpha1 5}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 5 3}
+			}
+			{particlesinblock 1}
+		}
+		{#+ mover
+			{gravity
+				{value -0.03}
+			}
+			{damping 0.81}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_g04d"
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.45 0.15}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{visibility 1
+						{## linear
+							{min 0.2}
+							{max 0}
+						}
+						{peak
+							{min 0}
+							{max 0.15 0.05}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 180 180}
+					{## highlight 0xffb49a3f}
+				}
+				{sprite "$/smoke/smoke_g04f"
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.45 0.15}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{visibility 1
+						{## linear
+							{min 0.2}
+							{max 0}
+						}
+						{peak
+							{min 0}
+							{max 0.15 0.05}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 180 180}
+					{## highlight 0xffffc03a}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{#+ particleview
+		{generator
+			{totalparticles 20}
+			{emissionarea
+				{radius 2 2}
+				{alpha0 0}
+				{alpha1 5}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 7.5 2.5}
+			}
+			{particlesinblock 1}
+		}
+		{mover
+			{gravity
+				{value -0.03}
+			}
+			{damping 0.81}
+		}
+		{visualizer
+			{stage 
+				{## sprite "$/smoke/smoke_g04a"
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.9 0.1}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{visibility 1
+						{## linear
+							{min 0.15 0.05}
+							{max 0}
+						}
+						{peak
+							{min 0}
+							{max 0.15 0.05}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 180 180}
+					{## highlight 0xff714911}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

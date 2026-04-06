@@ -1,0 +1,37 @@
+{fx
+	{constrain ground}
+	{spriteview
+		{sprite "$/objectives/task_pointer"
+			{light 1
+				{peak
+					{min 0.2}
+					{max 0.9}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 3}
+			}
+			{## scalex 1}
+			{## scaley 1}
+			{visibility 1
+				{## linear
+					{min 1}
+					{max 0}
+				}
+				{peak
+					{min 0}
+					{max 0.5}
+				}
+			}
+			{## scale 1}
+			{## preturn 90}
+			{highlight 0xff00a9ff}
+			{scalex 1}
+			{scaley 3}
+		}
+		{orientation trace}
+		{offset 0 0 0}
+		{usedirection}
+	}
+}

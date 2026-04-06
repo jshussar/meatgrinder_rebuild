@@ -1,0 +1,17 @@
+;Exported by:	 SergeyChehov
+;Date:			 18.02.2020 00:43:18
+;File:			 C:\Users\SergeyChehov\Documents\3dsMax\autoback\[a[er+test.max
+{skeleton
+	{animation
+		{sequence "wind" {speed 0.5}{autostart}}
+	}
+	{bone "body"
+		{parameters "commonmesh;"}
+		{orientation
+			1 	 0 	 0
+			0 	 -1 	 0
+			0 	 0 	 1
+		}
+		{VolumeView "body.ply"}
+	}
+}

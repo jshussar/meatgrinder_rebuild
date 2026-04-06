@@ -1,0 +1,22 @@
+{fx
+	{fire}
+	{#+ spriteview flare
+		{sprite "/texture/fx/flash/halo03"
+			{light 0.5}
+			{scale 1
+				{linear
+					{min 0.025 0.005}
+					{max 0.025 0.005}
+				}
+			}
+			{timer
+				{mode play loop }
+				{duration 0.1}
+			}
+			{highlight 0xffffd7ab}
+		}
+		{autovisible}
+		{## halo}
+		{## orientation billboard}
+	}
+}

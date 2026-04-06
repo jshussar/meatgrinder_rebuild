@@ -1,0 +1,355 @@
+{fx
+	{#+ particleview "dust up"
+		{generator
+			{totalparticles 30}
+			{particlesinblock 30}
+			{emissionarea
+				{radius 50 25}
+				{alpha0 -12.5 -12.5}
+				{alpha1 -12.5 -12.5}
+			}
+			{particleinit
+				{speed 1 2}
+				{lifetime 7.5 2.5}
+			}
+			{timetolive 0.3}
+			{axisz}
+		}
+		{mover
+			{damping 0.97}
+			{gravity
+				{value -0.01}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_small_white"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 250}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.45 0.15}
+							{max 1.75 0.75}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.35 0.15}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.7}
+						}
+					}
+					{## highlight 0xff747474}
+				}
+			}
+		}
+		{##+ notifyowner}
+	}
+	{#+ particleview "dust up high"
+		{generator
+			{totalparticles 25}
+			{particlesinblock 25}
+			{emissionarea
+				{radius 37.5 37.5}
+				{alpha0 25 25}
+				{alpha1 25 25}
+			}
+			{particleinit
+				{speed 3 3}
+				{lifetime 10 2}
+			}
+			{timetolive 0.3}
+			{axisz}
+		}
+		{mover
+			{damping 0.98}
+			{gravity
+				{value -0.01}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smokesmal4a"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 250}
+						}
+					}
+					{scale 1
+						{linear
+							{min 3.5 1.5}
+							{max 10 2}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.3 0.2}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.7}
+						}
+					}
+					{## highlight 0xff747474}
+				}
+				{##+ sprite "$/smoke/smoke_small_ground"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 250}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.75 0.25}
+							{max 3 1}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.2 0.1}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.7}
+						}
+					}
+					{## highlight 0xff747474}
+				}
+			}
+		}
+		{##+ notifyowner}
+	}
+	{#+ particleview "dust ground close"
+		{generator
+			{totalparticles 30}
+			{particlesinblock 30}
+			{emissionarea
+				{radius 50 50}
+				{alpha0 85 5}
+				{alpha1 85 5}
+			}
+			{particleinit
+				{speed 5 5}
+				{lifetime 2 1}
+			}
+			{timetolive 0.3}
+			{axisz}
+		}
+		{mover
+			{damping 0.95}
+			{gravity
+				{value 0}
+			}
+		}
+		{visualizer
+			{stage 
+				{##+ sprite "$/smoke/sm06_loop"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 50 50}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.3 0.1}
+							{max 0.9 0.1}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.75 0.25}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.7}
+						}
+					}
+					{highlight 0xffffd5a4}
+				}
+				{sprite "$/smoke/sm06_loop"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 50 50}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.3 0.1}
+							{max 0.9 0.1}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.7}
+						}
+					}
+					{## highlight 0xfffdeab6}
+				}
+			}
+		}
+		{##+ notifyowner}
+		{offset 0 0 -5}
+	}
+	{#+ particleview "dust ground"
+		{generator
+			{totalparticles 75}
+			{particlesinblock 75}
+			{emissionarea
+				{radius 150 150}
+				{alpha0 80 10}
+				{alpha1 80 10}
+			}
+			{particleinit
+				{speed 2 2}
+				{lifetime 7.5 2.5}
+			}
+			{timetolive 0.3}
+			{axisz}
+		}
+		{mover
+			{damping 0.95}
+			{gravity
+				{value -0.005}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_small_white"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 250}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.3 0.2}
+							{max 1.1 0.3}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.2 0.1}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.7}
+						}
+					}
+					{## highlight 0xff747474}
+				}
+			}
+		}
+		{##+ notifyowner}
+		{offset 0 0 -5}
+	}
+	{#+ particleview "dust ground2"
+		{generator
+			{totalparticles 30}
+			{particlesinblock 30}
+			{emissionarea
+				{radius 150 150}
+				{alpha0 80 10}
+				{alpha1 80 10}
+			}
+			{particleinit
+				{speed 2 2}
+				{lifetime 7.5 2.5}
+			}
+			{timetolive 0.3}
+			{axisz}
+		}
+		{mover
+			{damping 0.95}
+			{gravity
+				{value -0.005}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_turb"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 250}
+						}
+					}
+					{scale 1
+						{linear
+							{min 3 1}
+							{max 7.5 2.5}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.35 0.15}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.7}
+						}
+					}
+					{## highlight 0xff747474}
+				}
+			}
+		}
+		{##+ notifyowner}
+		{offset 0 0 -5}
+	}
+}

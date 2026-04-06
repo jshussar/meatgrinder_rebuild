@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "mud_tex"}
+	{specular "mud_tex_sp"}
+	{color "230 230 230 99"}
+	{blend none}
+}

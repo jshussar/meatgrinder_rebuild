@@ -1,0 +1,8 @@
+{game_entity
+	;{color 0xff00524a}
+	{extension "fx_snowblow02.mdl"}
+	{constrain surface}
+	{NoCastShadows}
+	{NoGetShadows}
+	{NoGroupMesh 1} 
+}

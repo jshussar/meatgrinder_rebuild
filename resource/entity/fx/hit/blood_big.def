@@ -1,0 +1,274 @@
+{fx
+	{sound "hit/human/bullet/"}
+	{#+ particleview splash
+		{generator
+			{totalparticles 4}
+			{particlesinblock 4}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 180 180}
+			}
+			{particleinit
+				{speed 0.5 0.5}
+				{lifetime 0.225 0.025}
+			}
+			{timetolive 0.1}
+		}
+		{mover
+			{gravity
+				{value 0.05}
+			}
+			{damping 0.81}
+			{## collisions
+				{terrain}
+				{restitution 0.4}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/particle/blood_splatter"
+					{scale 1
+						{power
+							{min 0.04}
+							{max 0.06 0.01}
+							{pow 1}
+						}
+					}
+					{visibility 1
+						{## linear
+							{min 1}
+							{max 0}
+						}
+						{npower
+							{min 1}
+							{max 0}
+							{pow 2}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{## highlight 0xff621300}
+				}
+				{## flags trace }
+				{## sprite "$/particle/blood_splash"
+					{scale 1
+						{power
+							{min 0.02}
+							{max 0.06 0.01}
+							{pow 0.9}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{## highlight 0xff893c39}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{particleview splash_smoke
+		{generator
+			{totalparticles 20}
+			{particlesinblock 20}
+			{emissionarea
+				{radius 0}
+				{alpha0 90 90}
+				{alpha1 90 90}
+			}
+			{particleinit
+				{speed 7.5 2.5}
+				{lifetime 0.5 0.3}
+			}
+			{timetolive 0.1}
+			{axisz}
+		}
+		{mover
+			{gravity
+				{value 0.01}
+			}
+			{damping 0.5}
+			{## collisions
+				{terrain}
+				{restitution 0.4}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smokesmal4"
+					{scale 1
+						{power
+							{min 0.3}
+							{max 0.35 0.05}
+							{pow 0.8}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.3 0.1}
+							{max 0}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{highlight 0xffd2cabf}
+				}
+				{## flags trace }
+			}
+		}
+		{notifyowner}
+	}
+	{#+ particleview sparks
+		{generator
+			{emissionarea
+				{radius 1 1}
+				{alpha0 90 90}
+				{alpha1 90 90}
+			}
+			{particleinit
+				{speed 1.5 0.5}
+				{lifetime 0.25 0.05}
+			}
+			{timetolive 0.01}
+			{totalparticles 10}
+			{particlesinblock 10}
+		}
+		{mover
+			{damping 0.95}
+			{gravity
+				{value 0.1}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.5}
+			}
+		}
+		{visualizer
+			{stage 
+				{flags trace }
+				{sprite "$/particle/blood_drop"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{scalex 1
+						{## linear
+							{min 0.2}
+							{max 0.01}
+						}
+						{npower
+							{min 0.5}
+							{max 0.1}
+							{pow 1}
+						}
+					}
+					{scaley 0.05 0.03}
+					{highlight 0xffaa6262}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+				}
+			}
+		}
+	}
+	{#+ particleview blood_streaks
+		{generator
+			{emissionarea
+				{radius 1 1}
+				{alpha0 7.5 7.5}
+				{alpha1 180 180}
+			}
+			{particleinit
+				{speed 0 1}
+				{lifetime 0.4 0.1}
+			}
+			{timetolive 0.01}
+			{totalparticles 10}
+			{particlesinblock 10}
+		}
+		{mover
+			{damping 1}
+			{## gravity
+				{value 0.01}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.5}
+			}
+		}
+		{visualizer
+			{stage 
+				{flags trace }
+				{sprite "$/particle/blood_splash2"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffa43d3c}
+					{scalex 1
+						{linear
+							{min 0.02}
+							{max 0.06 0.02}
+						}
+					}
+					{scaley 0.095 0.055
+						{linear
+							{min 0.095 0.055}
+							{max 0.01}
+						}
+					}
+					{## preturn 0 180}
+					{visibility 1
+						{power
+							{min 1}
+							{max 0}
+							{pow 1}
+						}
+					}
+				}
+				{## sprite "$/additional/blood1"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xff410000}
+					{scalex 1
+						{linear
+							{min 0.07}
+							{max 0.14 0.04}
+						}
+					}
+					{scaley 0.025 0.005}
+					{preturn 0}
+					{visibility 1
+						{power
+							{min 1}
+							{max 0}
+							{pow 1}
+						}
+					}
+				}
+			}
+		}
+	}
+}

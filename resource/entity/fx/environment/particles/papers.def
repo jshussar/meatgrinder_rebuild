@@ -1,0 +1,97 @@
+{fx
+	{particleview
+		{generator
+			{totalparticles 4}
+			{emissionarea
+				{radius 70 70}
+				{alpha0 7 3}
+				{alpha1 -5}
+				{speed 1}
+			}
+			{particleinit
+				{speed 2.5 1.5}
+				{lifetime 12}
+			}
+		}
+		{mover
+			{damping 5}
+			{gravity
+				{value 0}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.3}
+			}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/particle/papers03"
+					{turn 1
+						{linear
+							{min 30 15}
+							{max 0 150}
+						}
+					}
+					{scale 0.5
+						{linear
+							{min 0.12 0.02}
+							{max 0.3 -0.1}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 90 90}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{light 1}
+				}
+				{sprite "$/particle/papers03"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 150}
+						}
+					}
+					{scale 0.2
+						{linear
+							{min 0.075 0.025}
+							{max 0.17 0.02}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 90 90}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{## light 1}
+					{highlight 0xfffbfbfb}
+				}
+			}
+			{stage collided
+				{sprite "/texture/fx/particle/papers03"
+					{visibility 1}
+					{scale 0.1}
+					{timer
+						{mode play}
+						{duration 10}
+					}
+					{turn 105 75}
+				}
+				{flags killparticle}
+			}
+		}
+		{offset 0 0 7}
+	}
+}

@@ -1,0 +1,284 @@
+{fx
+	{#+ particleview fragments
+		{generator
+			{emissionarea
+				{radius 1 1}
+				{alpha0 45 45}
+				{alpha1 45 45}
+				{theta 0}
+			}
+			{particleinit
+				{speed 80 20}
+				{lifetime 0.75 0.25}
+			}
+			{timetolive 0.01}
+			{totalparticles 75}
+			{particlesinblock 75}
+		}
+		{mover
+			{damping 1}
+			{gravity
+				{value 0.15}
+			}
+			{collisions
+				{terrain}
+				{restitution 0}
+				{once}
+			}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/particle/pieces"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{scale 0.03 0.02}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+				{sprite "$/particle/pieces2"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{scale 0.03 0.02}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+			}
+			{stage collided 
+				{sprite "$/explosion/bum_one_var"
+					{timer
+						{mode play }
+						{duration 0.5}
+					}
+					{visibility 1
+						{npower
+							{min 1}
+							{max 0}
+							{pow 2}
+						}
+					}
+					{scalex 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.25 0.05}
+						}
+					}
+					{scaley 1
+						{## linear
+							{min 0.035 0.015}
+							{max 0.15 0.05}
+						}
+						{npower
+							{min 0.035 0.015}
+							{max 0.115 0.035}
+							{pow 0.5}
+						}
+					}
+					{preturn 0 10}
+					{shifty 1}
+				}
+			}
+		}
+	}
+	{#+ particleview "fragments dust"
+		{generator
+			{emissionarea
+				{radius 1 1}
+				{alpha0 45 45}
+				{alpha1 45 45}
+				{theta 0}
+			}
+			{particleinit
+				{speed 80 20}
+				{lifetime 4 1}
+			}
+			{timetolive 0.01}
+			{totalparticles 75}
+			{particlesinblock 75}
+		}
+		{mover
+			{damping 1}
+			{gravity
+				{value 0.15}
+			}
+			{collisions
+				{terrain}
+				{restitution 0}
+				{once}
+			}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/particle/pieces"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{scale 0.03 0.02}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+				{sprite "$/particle/pieces2"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{scale 0.03 0.02}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+			}
+			{stage collided 
+				{sprite "$/smoke/smokesmal4"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.4 0.1}
+							{max 1.4 0.5}
+						}
+					}
+					{preturn 0 180}
+					{highlight 0xfffeeacf}
+					{shifty 1
+						{linear
+							{min 0}
+							{max -5 -5}
+						}
+					}
+				}
+			}
+		}
+	}
+	{#+ particleview "fragments big"
+		{generator
+			{emissionarea
+				{radius 1 1}
+				{alpha0 45 45}
+				{alpha1 45 45}
+				{theta 0}
+			}
+			{particleinit
+				{speed 47.5 17.5}
+				{lifetime 5.5 1.5}
+			}
+			{timetolive 0.01}
+			{totalparticles 50}
+			{particlesinblock 50}
+		}
+		{mover
+			{damping 1}
+			{gravity
+				{value 0.15}
+			}
+			{collisions
+				{terrain}
+				{restitution 0}
+				{once}
+			}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/particle/pieces"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{scale 0.07 0.02}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+				{sprite "$/particle/pieces2"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{scale 0.07 0.02}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+			}
+			{stage collided 
+				{sprite "$/smoke/smokesmal4"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{#+ visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{preturn 0 180}
+					{scale 1
+						{linear
+							{min 0.75 0.15}
+							{max 2 0.5}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{highlight 0xfffeeacf}
+					{shiftz 1
+						{linear
+							{min 0}
+							{max -2.5 -2.5}
+						}
+					}
+				}
+			}
+		}
+	}
+}

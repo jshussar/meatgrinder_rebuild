@@ -1,0 +1,85 @@
+{fx ;-------------------------------------small round drops fly out and fall on the ground
+	{#+ particleview fragments
+		{generator
+			{emissionarea
+				{radius 0.1 0.1}
+				{alpha0 15 15}
+				{alpha1 15 15}
+			}
+			{particleinit
+				{speed 1 0.1}
+				{lifetime 3 1}
+			}
+			{timetolive 0.5}
+			{totalparticles 25}
+			{particlesinblock 25}
+		}
+		{mover
+			{damping 1}
+			{gravity
+				{value 0.1}
+			}
+			{collisions
+				{terrain}
+				{restitution 0}
+				{once}
+			}
+		}
+		{visualizer
+			{stage initial 
+				{sprite "$/particle/cow_2"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 180 0}
+					{scalex 0.5
+						{linear
+							{min 0.025}
+							{max 0.075}
+						}
+					}
+					{scaley 0.5
+						{linear
+							{min 0.025}
+							{max 0.075}
+						}
+					}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+				{sprite "$/particle/grunt4"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 180 0}
+					{scalex 0.5
+						{linear
+							{min 0.05}
+							{max 0.15}
+						}
+					}
+					{scaley 0.5
+						{linear
+							{min 0.05}
+							{max 0.15}
+						}
+					}
+					{visibility 1}
+					{turn 1
+						{linear
+							{min 0 360}
+							{max 0 360}
+						}
+					}
+				}
+			}			
+		}
+	}
+}

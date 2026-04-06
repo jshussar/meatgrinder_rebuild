@@ -1,0 +1,15 @@
+{material bump
+      {diffuse "/entity/landscape/stamp/cover/puddle_04"
+		
+      {Axis 384 384}
+	
+      }
+	
+      {bump "/entity/landscape/stamp/cover/puddle_04_bp"}
+		
+      {specular "/entity/landscape/stamp/cover/puddle_04_sp"}
+		
+      {color "230 230 230 30"} 
+      {Blend blend}
+
+}

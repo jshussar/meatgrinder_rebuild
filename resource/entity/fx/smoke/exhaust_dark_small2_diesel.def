@@ -1,0 +1,160 @@
+{fx
+	{#+ particleview quick
+		{generator
+			{totalparticles 20}
+			{emissionarea
+				{radius 0}
+				{alpha0 0 5}
+				{alpha1 5 5}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 0.8 0.2}
+			}
+		}
+		{mover
+			{gravity
+				{value -0.01}
+			}
+			{damping 0.92}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_anim2"
+					{preturn 0 180}
+					{visibility 1
+						{linear
+							{min 0.1}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.45 0.05}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{## highlight 0xff90e2ff}
+				}
+				{##+ sprite "$/smoke/smoke_anim"
+					{preturn 90 90}
+					{visibility 1
+						{linear
+							{min 0.1}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.45 0.05}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffffffff}
+				}
+			}
+		}
+		{notifyowner}
+	}
+	{#+ particleview "long lasting"
+		{generator
+			{totalparticles 20}
+			{emissionarea
+				{radius 0}
+				{alpha0 0 5}
+				{alpha1 5 5}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 1.5 0.5}
+			}
+		}
+		{mover
+			{gravity
+				{value -0.01}
+			}
+			{damping 0.92}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_small_white"
+					{preturn 0 180}
+					{visibility 1
+						{## linear
+							{min 0.15 0.05}
+							{max 0}
+						}
+						{peak
+							{min 0}
+							{max 0.075 0.025}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.05}
+							{max 0.3 0.1}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{## highlight 0xff90e2ff}
+				}
+				{##+ sprite "$/smoke/smoke_anim"
+					{preturn 90 90}
+					{visibility 1
+						{linear
+							{min 0.1}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.45 0.05}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{highlight 0xffffffff}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

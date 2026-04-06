@@ -1,0 +1,56 @@
+{fx
+	{particleview drops
+		{generator
+			{emissionarea
+				{radius 0}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 240}
+			}
+			{totalparticles 1}
+			{particlesinblock 1}
+			{timetolive 1}
+		}
+		{offset 0 0 -0.3}
+		{mover
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{flags ground }
+					{sprite "$/particle/bm_blood_e"
+					{highlight 0x78300a}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{scalex
+						{linear
+							{min 0.03}
+							{max 0.12}
+						}
+					}
+					{scaley
+						{linear
+							{min 0.03}
+							{max 0.27}
+						}
+					}
+					{visibility 1
+						{npower
+							{min 1}
+							{max 0.5}
+							{pow 1}
+						}
+					}
+					{preturn 0 90}
+				}
+				{flags killparticle ground }
+			}
+		}
+		{ground}
+		{layer groundshadow}
+		{notifyowner}
+	}
+}

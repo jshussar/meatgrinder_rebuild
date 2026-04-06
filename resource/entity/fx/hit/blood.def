@@ -1,0 +1,40 @@
+{fx
+	{#+ decalview
+		{sprite "$/particle/blood_splash"
+			{visibility 1
+				{linear
+					{min 0.25 0.05}
+					{max 0}
+				}
+			}
+			{timer
+				{duration 5}
+			}
+			{scale 0.175 0.075}
+			{preturn -36 144}
+		}
+		{dynamic}
+		{ground}
+		{layer groundshadow}
+		{notifyowner}
+	}
+	{#+ decalview
+		{sprite "$/particle/blood_splatter"
+			{visibility 1
+				{linear
+					{min 0.75 0.15}
+					{max 0}
+				}
+			}
+			{timer
+				{duration 10}
+			}
+			{scale 0.125 0.025}
+			{preturn 180 180}
+		}
+		{dynamic}
+		{ground}
+		{layer groundshadow}
+		{notifyowner}
+	}
+}

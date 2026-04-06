@@ -1,0 +1,8 @@
+{game_entity
+	(include "/properties/small_part.inc")
+	{extension "mud_sp_mesh.mdl"}
+	{simulatorID "water"}
+	{constrain water}
+	{volume defaultmaterial "dummy"}
+}
+

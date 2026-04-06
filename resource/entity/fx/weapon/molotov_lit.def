@@ -1,0 +1,133 @@
+{fx
+	{#+ lightview Light
+		{animator
+			{timer
+				{mode loop }
+				{duration 1}
+			}
+			{visibility 1}
+			{scale 1}
+		}
+		{type point}
+		{radius 40}
+		{effectonground}
+		{nightonly}
+	}
+	{spriteview Fire
+		{sprite "$/explosion/flare"
+			{scalex 0.02}
+			{scaley 0.04}
+			{preturn 90}
+		}
+		{orientation normalYZ}
+		{## autovisible}
+	}
+	{spriteview "Fire 2"
+		{sprite "$/explosion/flare"
+			{scalex 0.02}
+			{scaley 0.02}
+			{preturn 180}
+		}
+		{orientation normalXZ}
+		{## autovisible}
+	}
+	{particleview Drips
+		{generator
+			{emissionarea
+				{alpha0 0}
+				{theta 90}
+				{radius 0.1}
+				{distributionlaw disk}
+				{speed 0.015 0.005}
+			}
+			{particleinit
+				{speed 0.2 0.1}
+				{lifetime 1 0.25}
+			}
+			{totalparticles 1}
+		}
+		{mover
+			{nodependonwind}
+			{collisions
+				{terrain}
+				{objects}
+				{restitution 0.5}
+			}
+			{gravity
+				{value 0.05}
+			}
+			{damping 0.95}
+		}
+		{visualizer
+			{stage 
+				{flags trace }
+				{sprite "$/flash/flashss3"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{light 1
+						{linear
+							{min 3 2}
+							{max 0}
+						}
+					}
+					{scalex 0.06}
+					{scaley 0.02 0.005}
+				}
+			}
+		}
+	}
+	{particleview Smoke
+		{generator
+			{emissionarea
+				{radius 1}
+				{speed 0.5}
+				{alpha1 0}
+				{distributionlaw sphere}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 2.25 0.75}
+			}
+			{totalparticles 1}
+		}
+		{mover
+			{damping 0.98}
+			{gravity
+				{value -0.006}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_g04e"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 180 180}
+					{scale 1
+						{npower
+							{min 0.0045 -0.0005}
+							{max 0.065 0.015}
+							{pow 1}
+						}
+					}
+					{turn 1
+						{linear
+							{min 10 10}
+							{max 20 20}
+						}
+					}
+					{visibility 1
+						{npower
+							{min 0.025 -0.015}
+							{max 0}
+							{pow 0.7 -0.1}
+						}
+					}
+				}
+			}
+		}
+	}
+}

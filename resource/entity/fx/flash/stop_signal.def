@@ -1,0 +1,55 @@
+{fx
+	{##+ spriteview FlashSSP
+		{sprite "$/flash/flashss"
+			{scale 0.08}
+			{light 1}
+			{timer
+				{duration 20}
+			}
+			{visibility 0.01}
+		}
+		{autovisible}
+		{halo
+			{usedirection}
+		}
+	}
+	{spriteview Glow
+		{sprite "/texture/fx/flash/halo01"
+			{scale 0.013}
+			{light 1
+				{peak
+					{min 0.8}
+					{max 0.9}
+				}
+			}
+			{timer
+				{mode loop pingpong}
+				{duration 2}
+			}
+			{highlight 0xffff4646}
+		}
+		{halo
+			{usedirection}
+		}
+	}
+	{spriteview Glow
+		{sprite "/texture/fx/flash/halo01"
+			{scale 0.08}
+			{light 1
+				{peak
+					{min 0.13}
+					{max 0.11}
+				}
+			}
+			{timer
+				{mode loop pingpong }
+				{duration 2}
+			}
+			{highlight 0xffaf0400}
+		}
+		{#+ halo
+			{usedirection}
+		}
+		{nightonly}
+	}
+}

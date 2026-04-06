@@ -1,0 +1,73 @@
+{fx
+	{spriteview point
+		{notifyowner}
+		{sprite "/texture/fx/objectives/spot_dash"
+			{highlight 0xffffffff}
+			{timer
+				{mode play }
+				{duration 0.4}
+			}
+			{scale 1
+				{linear
+					{min 0.2}
+					{max 0.1}
+				}
+			}
+			{light 1
+				{linear
+					{min 0.3}
+					{max 0}
+				}
+			}
+			{turn 1
+				{linear
+					{min 0}
+					{max 0}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+	{spriteview point
+		{notifyowner}
+		{sprite "/texture/fx/objectives/shape_01"
+			{timer
+				{mode play }
+				{duration 0.5}
+			}
+			{scale 1
+				{linear
+					{min 0.11}
+					{max 0.05}
+				}
+			}
+			{light 1
+				{linear
+					{min 0.3}
+					{max 0}
+				}
+			}
+			{## preturn 1
+				{linear
+					{min 0}
+					{max 90}
+				}
+			}
+			{visibility 0.3
+				{linear
+					{min 0}
+					{max 1}
+				}
+			}
+			{turn 90
+				{linear
+					{min 60}
+					{max 30}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+}

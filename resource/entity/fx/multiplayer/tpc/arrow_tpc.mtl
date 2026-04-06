@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "arrow_tpc"}
+	{blend add}
+}

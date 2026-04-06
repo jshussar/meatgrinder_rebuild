@@ -1,0 +1,48 @@
+{fx
+	{spriteview
+		{notifyowner}
+		{sprite "/texture/fx/objectives/cross1"
+			{highlight 0xffd93e00}
+			{timer
+				{mode play }
+				{duration 0.5}
+			}
+			{scale 1
+				{linear
+					{min 0.2}
+					{max 0.05}
+				}
+			}
+			{light 1
+				{linear
+					{min 1}
+					{max 0}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+	{## spriteview
+		{sprite "/texture/fx/flash/flashss3"
+			{timer
+				{mode play }
+				{duration 1}
+			}
+			{scale 1
+				{linear
+					{min 2}
+					{max 0}
+				}
+			}
+			{light 1
+				{linear
+					{min 0}
+					{max 1}
+				}
+			}
+		}
+		{layer debug}
+		{ground}
+	}
+}

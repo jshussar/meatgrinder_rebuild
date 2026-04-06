@@ -1,0 +1,22 @@
+{fx
+	{spriteview
+		{sprite "$/particle/blood_splatter"
+					{highlight 0x61210e}
+			{visibility 1
+				{linear
+					{min 1 0.4}
+					{max 0}
+				}
+			}
+			{timer
+				{duration 240}
+			}
+			{scale 0.03 0.01}
+			{preturn 90 90}
+		}
+		{ground}
+		;{layer groundshadow}
+		{layer grounddecal}
+		{notifyowner}
+	}
+}

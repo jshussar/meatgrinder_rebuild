@@ -1,0 +1,79 @@
+{fx
+	{spriteview
+		{notifyowner}
+		{sprite "/texture/fx/objectives/cross"
+			{highlight 0xfffd3d00}
+			{timer
+				{mode play }
+				{duration 0.5}
+			}
+			{scale 1
+				{linear
+					{min 0.5}
+					{max 0}
+				}
+			}
+			{light 1
+				{linear
+					{min 1}
+					{max 0}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+		{orientation billboard}
+	}
+	{spriteview
+		{notifyowner}
+		{sprite "/texture/fx/objectives/pointer_01"
+			{highlight 0xfffe3e00}
+			{timer
+				{mode play }
+				{duration 1}
+			}
+			{scale 1
+				{linear
+					{min 0.3}
+					{max 0}
+				}
+			}
+			{light 1
+				{linear
+					{min 1}
+					{max 0}
+				}
+			}
+			{## preturn 45}
+		}
+		{ground}
+		{layer debug}
+				{orientation billboard}
+	}
+	
+	{spriteview
+		{notifyowner}
+		{sprite "/texture/fx/flash/flashss3"
+			{highlight 0xfffd3d00}
+			{timer
+				{mode play }
+				{duration 0.5}
+			}
+			{scale 1
+				{linear
+					{min 10}
+					{max 0}
+				}
+			}
+			{light 1
+				{linear
+					{min 0.2}
+					{max 0}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+				{orientation billboard}
+	}
+}

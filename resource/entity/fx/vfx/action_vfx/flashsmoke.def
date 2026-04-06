@@ -1,0 +1,62 @@
+{fx
+	{spriteview point
+		{notifyowner}
+		{sprite "/texture/fx/objectives/shape_01"
+			{highlight 0xff5f5b55}
+			{timer
+				{mode play }
+				{duration 0.4}
+			}
+			{scale 1
+				{linear
+					{min 0.15}
+					{max 0.25}
+				}
+			}
+			{light 1
+				{linear
+					{min 1}
+					{max 0}
+				}
+			}
+			{preturn 1
+				{linear
+					{min 0}
+					{max 5}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+	{spriteview point
+		{notifyowner}
+		{sprite "/texture/fx/objectives/shape_01"
+			{highlight 0xff98958b}
+			{timer
+				{mode play }
+				{duration 0.7}
+			}
+			{scale 1
+				{linear
+					{min 0.25}
+					{max 0.25}
+				}
+			}
+			{light 1
+				{linear
+					{min 0.5}
+					{max 0}
+				}
+			}
+			{preturn 1
+				{linear
+					{min 0}
+					{max 10}
+				}
+			}
+		}
+		{ground}
+		{layer debug}
+	}
+}

@@ -1,0 +1,60 @@
+{fx
+	{fogable never}
+	{particleview
+		{generator
+			{totalparticles 200}
+			{emissionarea
+				{radius 95 -55}
+				{alpha0 90}
+				{alpha1 85 5}
+				{speed 0.05}
+				{distributionlaw sphere}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 7 1}
+			}
+			{axisz}
+		}
+		{offset 0 0 90}
+		{mover
+			{damping 0.993}
+			{collisions
+				{terrain}
+				{restitution 0.4}
+			}
+		}
+		{visualizer
+			{stage initial 
+				{flags ground trace }
+				{sprite "$/smoke/sm06_loop_s"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 150}
+						}
+					}
+					{scale 5
+						{linear
+							{min 1.5 0.5}
+							{max 2.5 0.5}
+						}
+					}
+					{visibility 1
+						{peak
+							{min 0}
+							{max 0.3}
+						}
+					}
+					{highlight 0xffc8c8bd}
+				}
+			}
+		}
+		{notifyowner}
+	}
+}

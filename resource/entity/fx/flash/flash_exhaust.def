@@ -1,0 +1,74 @@
+{fx
+	{fogable never}
+	{constrain ground}
+	{#+ lightview
+		{type point}
+		{#+ animator
+			{highlight 0xffff9439}
+			{visibility 1
+				{linear
+					{min 1}
+					{max 0}
+				}
+			}
+			{timer
+				{mode play }
+				{duration 0.1}
+			}
+		}
+		{attenuation0 0.01}
+		{attenuation1 0.2}
+		{radius 20}
+		{priority 5}
+		{## effectonground}
+		{offset 0 0 0}
+		{pulseperiod 1}
+		{nightonly}
+	}
+	{particleview "fire flames"
+		{generator
+			{totalparticles 1}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 0}
+				{speed 0.02}
+				{distributionlaw sphere}
+			}
+			{particleinit
+				{lifetime 0.05}
+				{speed 0}
+			}
+			{axisz}
+		}
+		{mover
+			{damping 0.99}
+			{gravity
+				{value -0.001}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/explosion/flametrower"
+					{timer
+						{mode play }
+						{duration 1}
+					}
+					{scale 1
+						{linear
+							{min 0.015 0.005}
+							{max 0.04}
+						}
+					}
+					{light 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+				}
+			}
+		}
+		{offset 0 0 0}
+	}
+}

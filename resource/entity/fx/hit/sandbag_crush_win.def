@@ -1,0 +1,161 @@
+{fx
+	{sound "crush/small/sandbag"}
+	{#+ particleview pieces
+		{entitygenerator
+			{totalparticles 4}
+			{emissionarea
+				{radius 2.5 2.5}
+				{alpha0 0}
+				{alpha1 50 20}
+			}
+			{particleinit
+				{speed 4 1}
+				{lifetime 10}
+			}
+			{entity "#sandbag_01_win"
+				{fx "ex_dusttrail_brick"}
+			}
+			{axisz}
+			{timetolive 0.01}
+			{particlesinblock 4}
+			{entity "#sandbag_02_win"
+			}
+		}
+		{mover
+			{collisions
+				{terrain}
+			}
+			{nodependonwind}
+		}
+	}
+	{#+ particleview dust
+		{generator
+			{totalparticles 20}
+			{particlesinblock 20}
+			{emissionarea
+				{radius 14 14}
+				{alpha0 30}
+				{alpha1 80 10}
+			}
+			{particleinit
+				{speed 4.5 3.5}
+				{lifetime 2 1}
+			}
+			{timetolive 1}
+			{axisz}
+		}
+		{mover
+			{damping 0.85}
+			{gravity
+				{value 0.01}
+			}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_g04d"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.4}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.35 0.05}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 90 90}
+				}
+				{##+ sprite "$/smoke/smoke_g04"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 100}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.4}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.35 0.05}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 90 90}
+				}
+				{##+ sprite "$/smoke/smokesmal4b_ground"
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 150}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 1.5 0.5}
+							{max 2.5 0.5}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 90 30}
+				}
+			}
+		}
+	}
+	{particleview pieces
+		{entitygenerator
+			{totalparticles 4}
+			{emissionarea
+				{radius 11.5 3.5}
+				{alpha0 0}
+				{alpha1 50 20}
+			}
+			{particleinit
+				{speed 1.5 0.5}
+				{lifetime 2}
+			}
+			{entity "#sandbag_01_win"
+				{fx "ex_dusttrail_brick"}
+			}
+			{axisz}
+			{timetolive 0.01}
+			{particlesinblock 4}
+			{entity "#sandbag_02_win"
+			}
+		}
+		{mover
+			{collisions
+				{terrain}
+			}
+			{nodependonwind}
+		}
+	}
+}

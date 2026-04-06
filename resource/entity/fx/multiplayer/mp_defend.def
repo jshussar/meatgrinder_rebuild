@@ -1,0 +1,24 @@
+{entity
+ {spriteview
+  {sprite "/texture/fx/interface/defend"
+   {timer
+    {mode play loop }
+    {duration 2.5}
+   }
+   {scale 1.2
+    {peak
+     {min 0.20}
+     {max 0.25}
+    }
+   }
+   {light 1
+    {linear
+     {min 1.0}
+     {max 0.5}
+    }
+   }
+  }
+  {offset 0 0 100}
+  {halo}
+ }
+}

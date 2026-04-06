@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  30 65 }
+	{Filtering  1 }
+	{AlphaChannel  0 }
+	{Blend  none }
+	{Frame  "fx.dds" }
+}

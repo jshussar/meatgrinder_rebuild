@@ -1,0 +1,173 @@
+{fx
+	{##+ particleview central
+		{generator
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 90}
+				{speed 0.2}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 0.08}
+			}
+			{totalparticles 3}
+			{axisz}
+		}
+		{mover
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/fire_particle_01"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{scale 1
+						{linear
+							{min 0.005 0.005}
+							{max 0.045 0.005}
+						}
+					}
+					{light 1
+						{peak
+							{min 0}
+							{max 1}
+						}
+					}
+					{preturn 180 180}
+					{highlight 0xfffdba5b}
+				}
+			}
+		}
+	}
+	{#+ particleview sparkles
+		{generator
+			{emissionarea
+				{alpha0 0}
+				{alpha1 20 20}
+				{theta 0}
+				{radius 0.4}
+				{distributionlaw disk}
+			}
+			{particleinit
+				{speed 2 1}
+				{lifetime 0.55 0.15}
+			}
+			{totalparticles 5}
+			{## axisz}
+			{## particlesinblock 22.5 7.5}
+		}
+		{mover
+			{nodependonwind}
+			{collisions
+				{terrain}
+				{## objects}
+				{restitution 0.5}
+			}
+			{gravity
+				{value 0.2}
+			}
+			{damping 0.93}
+		}
+		{visualizer
+			{stage 
+				{flags trace }
+				{sprite "$/flash/flashss3"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{light 1}
+					{scalex 1
+						{linear
+							{min 0.175 0.025}
+							{max 0}
+						}
+					}
+					{scaley 0.015 0.005}
+				}
+			}
+		}
+	}
+	{##+ spriteview "halo night"
+		{sprite "$/flash/flashss1"
+			{timer
+				{mode play loop }
+				{duration 0.1}
+			}
+			{light 1
+				{peak
+					{min 0}
+					{max 0.22}
+				}
+			}
+			{scale 3.5}
+		}
+		{halo}
+		{nightonly}
+		{autovisible}
+	}
+	{#+ spriteview halo
+		{sprite "$/flash/halo02"
+			{timer
+				{mode play loop }
+				{duration 0.1}
+			}
+			{light 1
+				{peak
+					{min 0}
+					{max 0.15}
+				}
+			}
+			{scale 0.015}
+			{highlight 0xffffff8c}
+		}
+		{halo}
+		{autovisible}
+	}
+	{#+ particleview central
+		{generator
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 90}
+				{speed 0.2}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 0.08}
+			}
+			{totalparticles 3}
+			{axisz}
+		}
+		{mover
+			{nodependonwind}
+		}
+		{#+ visualizer
+			{stage 
+				{sprite "$/flash/flash_g03"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{scale 1
+						{linear
+							{min 0.005 0.005}
+							{max 0.05}
+						}
+					}
+					{light 1
+						{peak
+							{min 0}
+							{max 0.1}
+						}
+					}
+					{preturn 180 180}
+					{highlight 0xfffdba5b}
+				}
+			}
+		}
+	}
+}

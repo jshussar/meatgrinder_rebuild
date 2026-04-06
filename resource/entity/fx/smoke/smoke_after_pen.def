@@ -1,0 +1,192 @@
+{fx
+	{##+ particleview smoke
+		{generator
+			{totalparticles 5}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 1 1}
+				{speed 0.2}
+			}
+			{particleinit
+				{speed 0.05 0.05}
+				{lifetime 1 0.5}
+			}
+			{## particlesinblock 40}
+			{timetolive 2.5}
+		}
+		{mover
+			{gravity
+				{value -0.005}
+			}
+			{damping 0.99}
+			{collisions
+				{terrain}
+				{restitution 0.8}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke04"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 120}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.0225 0.0075}
+							{max 0.1 0.02}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.75 0.15}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.35 0.15}
+						}
+					}
+					{## highlight 0xff414140}
+				}
+			}
+		}
+		{autopause}
+	}
+	{##+ particleview smoke
+		{generator
+			{totalparticles 5}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 1 1}
+				{speed 0.2}
+			}
+			{particleinit
+				{speed 0.2 0.1}
+				{lifetime 1.15 0.35}
+			}
+			{## particlesinblock 40}
+			{timetolive 2.5}
+		}
+		{mover
+			{gravity
+				{value -0.005}
+			}
+			{damping 0.99}
+			{collisions
+				{terrain}
+				{restitution 0.8}
+			}
+			{## nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/sm03"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 50}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.020 0.007}
+							{max 0.135 0.045}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.5 0.1}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.35 0.15}
+						}
+					}
+					{highlight 0xffb0b0af}
+				}
+			}
+		}
+		{autopause}
+	}
+	{particleview smoke
+		{generator
+			{totalparticles 5}
+			{emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 1 1}
+				{speed 0.2}
+			}
+			{particleinit
+				{speed 0.15 0.05}
+				{lifetime 2 1}
+			}
+			{## particlesinblock 40}
+			{timetolive 2.5}
+		}
+		{mover
+			{gravity
+				{value -0.002}
+			}
+			{damping 0.99}
+			{collisions
+				{## terrain}
+				{restitution 1}
+				{## objects}
+			}
+			{## nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/smoke/smoke_g04a"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 0 180}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 50}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.015 0.005}
+							{max 0.115 0.035}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.3 0.1}
+							{max 0}
+						}
+						{## peak
+							{min 0}
+							{max 0.35 0.15}
+						}
+					}
+					{highlight 0xffb0b0af}
+				}
+			}
+		}
+		{autopause}
+	}
+}

@@ -1,0 +1,26 @@
+{fx
+	{spriteview
+		{sprite "$/interface/flag_6"
+			{timer
+				{mode play loop }
+				{duration 3}
+			}
+			{scale 1
+				{peak
+					{min 0.19}
+					{max 0.21}
+				}
+			}
+			{light 1
+				{peak
+					{min 0.5}
+					{max 1}
+				}
+			}
+			{highlight 0xfffed9a4}
+		}
+		{offset 0 0 -160}
+		{halo}
+		{autovisible}
+	}
+}

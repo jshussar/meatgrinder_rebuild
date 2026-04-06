@@ -1,0 +1,26 @@
+;Exported by:	 SergeyChehov
+;Date:			 01.03.2018 22:18:26
+;File:			 C:\Users\SergeyChehov\Documents\3dsMax\scenes\goh\snow_drift_uv_animation.max
+{skeleton
+	{bone "base"
+		{animation
+			{uv "run"
+				{shiftV 0 1 0.002 } }
+		}
+		{orientation
+			1 	 0 	 0
+			0 	 -1 	 0
+			0 	 0 	 1
+		}
+		{VolumeView "base.ply"}
+		{bone "base2"
+		{animation
+			{uv "run"
+				{shiftV 0 1 0.004 }
+   		 	}
+		}
+			{Position 0 	 9.7197 	 2.307}
+			{VolumeView "base2.ply"}
+		}
+	}
+}

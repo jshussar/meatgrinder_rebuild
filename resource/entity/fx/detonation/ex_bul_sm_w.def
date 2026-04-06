@@ -1,0 +1,290 @@
+{fx
+	{sound "hit/water/bullet"}
+	{##+ lightview
+		{type point}
+		{animator
+			{scale 1
+				{linear
+					{min 1}
+					{max 0.5}
+				}
+			}
+			{visibility 1
+				{linear
+					{min 1}
+					{max 0}
+				}
+			}
+			{highlight 0x99afb9}
+			{timer
+				{duration 2}
+			}
+		}
+		{attenuation0 0.5}
+		{attenuation1 0.9}
+		{radius 150}
+		{effectonground}
+		{offset 0 0 50}
+	}
+	{#+ spriteview shock1
+		{sprite "$/water/water_ring"
+			{#+ visibility 1
+				{npower
+					{min 1}
+					{max 0}
+					{pow 1}
+				}
+			}
+			{scale 1
+				{npower
+					{min 0}
+					{max 0.25 0.15}
+					{pow 0.8}
+				}
+			}
+			{timer
+				{mode play }
+				{duration 0.5}
+			}
+			{preturn 90 90}
+		}
+		{ground}
+		{layer grounddynamic}
+		{offset 0 0 1}
+		{autovisible}
+		{notifyowner}
+	}
+	{particleview ripples
+		{generator
+			{totalparticles 1}
+			{particlesinblock 1}
+			{emissionarea
+				{radius 0.1 0.1}
+				{alpha0 0}
+				{alpha1 0 -5}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 1.5}
+			}
+			{timetolive 0.1}
+			{axisz}
+		}
+		{mover
+			{damping 0.95}
+			{collisions
+				{terrain}
+				{restitution 0.05}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage initial 
+				{#+ sprite "$/water/wave"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{preturn 90 90}
+					{turn 1
+						{linear
+							{min 0}
+							{max 10}
+						}
+					}
+					{visibility 1
+						{linear
+							{min 0.6}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.5}
+							{max 1.2}
+						}
+					}
+				}
+				{flags ground}
+			}
+		}
+		{notifyowner}
+	}
+	{particleview "water up"
+		{generator
+			{particlesinblock 30}
+			{totalparticles 30}
+			{#+ emissionarea
+				{radius 0}
+				{alpha0 0}
+				{alpha1 15 15}
+			}
+			{#+ particleinit
+				{speed 1.55 1.45}
+				{lifetime 1.05 0.45}
+			}
+			{timetolive 0.1}
+			{axisz}
+		}
+		{mover
+			{damping 0.95}
+			{gravity
+				{value 0.1}
+			}
+			{collisions
+				{terrain}
+				{restitution 0.05}
+			}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage initial 
+				{#+ sprite "$/water/splash_water_a2"
+					{scale 1
+						{linear
+							{min 0.05}
+							{max 0.15 0.05}
+						}
+					}
+					{turn 1
+						{linear
+							{min 0}
+							{max 0 90}
+						}
+					}
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+				}
+			}
+			{##+ stage collided 
+				{sprite "$/water/wave"
+					{timer
+						{mode play }
+						{duration 0.8}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{scale 1
+						{linear
+							{min 0.15 0.05}
+							{max 0.45 0.15}
+						}
+					}
+					{preturn 180.5 179.5}
+				}
+				{flags killparticle ground }
+			}
+		}
+		{notifyowner}
+	}
+	{#+ particleview fuzzy1
+		{generator
+			{emissionarea
+				{radius 15 5}
+				{alpha0 0}
+				{alpha1 0}
+				{distributionlaw sphere}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 0.55 0.15}
+			}
+			{timetolive 0.01}
+			{totalparticles 3}
+			{particlesinblock 3}
+			{axisz}
+		}
+		{mover
+			{damping 0.92}
+			{nodependonwind}
+		}
+		{visualizer
+			{stage 
+				{sprite "$/water/exp_water"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{scale 1
+						{npower
+							{min 0.01}
+							{max 0.075 0.025}
+							{pow 0.4}
+						}
+					}
+					{preturn 90 20}
+				}
+				{flags trace }
+			}
+		}
+		{notifyowner}
+		{offset 0 0 -10}
+	}
+	{#+ particleview fuzzy1
+		{generator
+			{emissionarea
+				{radius 15 5}
+				{alpha0 0}
+				{alpha1 0}
+				{distributionlaw sphere}
+			}
+			{particleinit
+				{speed 0}
+				{lifetime 0.7 0.2}
+			}
+			{timetolive 0.01}
+			{totalparticles 3}
+			{particlesinblock 3}
+			{axisz}
+		}
+		{#+ mover
+			{damping 0.92}
+			{nodependonwind}
+		}
+		{#+ visualizer
+			{stage 
+				{sprite "$/water/exp_water"
+					{timer
+						{mode play }
+						{duration -1}
+					}
+					{visibility 1
+						{linear
+							{min 1}
+							{max 0}
+						}
+					}
+					{scale 1
+						{npower
+							{min 0.01}
+							{max 0.075 0.025}
+							{pow 0.4}
+						}
+					}
+					{preturn 90 20}
+				}
+				{flags trace }
+			}
+		}
+		{notifyowner}
+		{offset 0 0 -20}
+	}
+}
