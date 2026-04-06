@@ -1,0 +1,208 @@
+;SDL
+
+;===================================
+;        INSTRUCTIONS    
+;===================================
+
+; In this file onee configures the humans which are spawned in vehicles or squads
+; The humans have a CP and cost associated with them which collectively add up for the final squad value
+; Check ../settings_inf.set for the global defines for CP, capture weight (CW), score, etc.
+
+;===================================
+;        PRICING CHART	       
+;===================================
+
+; // Standard prices below are for tier2 infantry
+
+;pistol 		= 5
+;p14 			= 8
+;enfield no1 	= 9
+;enfield no4 	= 9
+;sten	 		= 10
+;patchett	 	= 10
+;thompson 20	= 9
+;thompson 30	= 10
+;bren			= 25
+;lewis			= 35
+;vgo			= 40
+;rifle grenade 	= +10 or 5 if squad
+;piat 			= +40
+;mortar 		= +50
+;any % pzfaust 	= +0
+;any pzfaust 	= +0
+;any flamer		= 55
+;engineer		= 50 or 25 if squad
+;miner 			= 40 or 25 if squad
+
+; // price modifiers (If not tier2)
+;tier 0 		= -3, MG -10
+;tier 1 		= -1, MG -10
+;tier 1 vet 	= 0, MG 0
+;tier 2 vet		= +2, MG +5
+;tier 3 		= +5, MG +10
+;tier 3 vet 	= +8, MG +15
+;tier 4 		= +10, MG +20
+;tier 4 vet 	= +12, MG +25
+
+
+;===================================
+;        BREED DECLARATIONS       
+;===================================
+
+; // Specials
+
+{"mp/eng/early/fo_radio_88"						("inf_signaller" side(eng) cost(200.0))}
+{"mp/eng/early/fo_radio_203"					("inf_signaller" side(eng) cost(200.0))}
+
+{"mp/eng/early/driver"							("inf_tankman" side(eng) period(early) cost(5.0))} ; enfield no1
+{"mp/eng/early/crew"							("inf_tankman" side(eng) period(early) cost(5.0))} ; enfield no1
+{"mp/eng/early/mot_scout_driver"				("inf_tankman" side(eng) period(early) cost(5.0))} ; enfield no1
+{"mp/eng/early/mot_scout_gunner"				("inf_tankman" side(eng) period(early) cost(5.0))} ; revolver
+{"mp/eng/early/rec_carrier_driver"				("inf_tankman" side(eng) period(early) cost(5.0))} ; enfield no1
+{"mp/eng/early/rec_carrier_gunner"				("inf_tankman" side(eng) period(early) cost(5.0))} ; enfield no1
+
+{"mp/eng/early/artilleryman"					("inf_tankman" side(eng) period(early) cost(5.0))}
+{"mp/eng/early/tank_commander"					("inf_tankman" side(eng) period(early) cost(5.0))}
+{"mp/eng/early/tankman"							("inf_tankman" side(eng) period(early) cost(5.0))}
+{"mp/eng/early/vehicle_com_cpl"					("inf_tankman" side(eng) period(early) cost(5.0))}
+{"mp/eng/early/vehicle_com_sgt"					("inf_tankman" side(eng) period(early) cost(5.0))}
+{"mp/eng/early/vehicle_crew"					("inf_tankman" side(eng) period(early) cost(5.0))}
+
+{"mp/eng/early/pilot"							("inf_tankman" side(eng) cost(0.0))}
+
+{"mp/eng/early/medic"							("inf_medic" side(eng) cost(40.0))}
+
+{"mp/eng/early/coy_com"							("inf_officer" side(eng) cost(125.0))}
+
+{"mp/eng/early/sniper"							("inf_sniper" side(eng) cost(150.0))}
+
+; // tier 1
+
+{"mp/eng/early/rear_echelon_rifle"				("inf_tier1_eng" side(eng) period(early) cost(8.0))} ; enfield no1
+
+{"mp/eng/early/mp_detach_com"					("inf_tier1_eng" side(eng) period(early) cost(4.0))} ; revolver
+{"mp/eng/early/mp_rifle"						("inf_tier1_eng" side(eng) period(early) cost(8.0))} ; enfield no1
+
+; // tier 2 lite
+
+{"mp/eng/early/mg_crew"							("inf_tankman" side(eng) period(early) cost(5.0))} ; enfield no1
+{"mp/eng/early/mg_crew_asst"					("inf_tankman" side(eng) period(early) cost(5.0))} ; enfield no1
+
+{"mp/eng/early/rifle"							("inf_tier2_lite_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/rifle_band"						("inf_tier2_lite_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/mot_rifle_band"					("inf_tier2_lite_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/rec_rifle"						("inf_tier2_lite_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/rec_carrier_rifle"				("inf_tier2_lite_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+
+; // tier 2
+
+{"mp/eng/early/mg"								("inf_tier2_eng" side(eng) period(early) cost(25.0))} ; bren mk1
+{"mp/eng/early/mg_asst"							("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+
+{"mp/eng/early/antitank_boys"					("inf_tier2_eng" side(eng) period(early) cost(20.0))} ; AT rifle
+{"mp/eng/early/antitank_boys_asst"				("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/antitank_gren"					("inf_tier2_eng" side(eng) period(early) cost(14.0))} ; enfield no1 + grenade
+
+{"mp/eng/early/sec_com"							("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/sec_com_sgt"						("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/sec_2ic"							("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/detach_com_cpl"					("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+
+{"mp/eng/early/mot_sec_com"							("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/mot_sec_2ic"							("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/mot_mg"								("inf_tier2_eng" side(eng) period(early) cost(25.0))} ; bren mk1
+{"mp/eng/early/mot_mg_asst"							("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+
+{"mp/eng/early/mot_scout_sec_com"					("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/mot_scout_detach_com_cpl"			("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/mot_scout_detach_com_lcpl"			("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+
+{"mp/eng/early/rec_sec_com"							("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/rec_carrier_detach_com_sgt"			("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/rec_carrier_detach_com_cpl"			("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+
+{"mp/eng/early/r_eng_sec_com"					("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/r_eng_sec_2ic"					("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/r_eng_builder"					("inf_tier2_eng" side(eng) period(early) cost(25.0))} ; enfield no1
+{"mp/eng/early/r_eng_mine_ap"					("inf_tier2_eng" side(eng) period(early) cost(25.0))} ; enfield no1
+{"mp/eng/early/r_eng_mine_at"					("inf_tier2_eng" side(eng) period(early) cost(25.0))} ; enfield no1
+{"mp/eng/early/r_eng_sapper"					("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/r_eng_boys"						("inf_tier2_eng" side(eng) period(early) cost(20.0))} ; AT rifle
+{"mp/eng/early/r_eng_boys_asst"					("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/r_eng_mg"						("inf_tier2_eng" side(eng) period(early) cost(25.0))} ; bren mk1
+{"mp/eng/early/r_eng_mg_asst"					("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+
+{"mp/eng/early/pio_sec_com"						("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/pio"								("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/pio_builder"						("inf_tier2_eng" side(eng) period(early) cost(25.0))} ; enfield no1
+{"mp/eng/early/pio_gren"						("inf_tier2_eng" side(eng) period(early) cost(14.0))} ; enfield no1 grenade
+{"mp/eng/early/pio_band"						("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/pio_mg"							("inf_tier2_eng" side(eng) period(early) cost(25.0))} ; bren mk1
+{"mp/eng/early/pio_mg_asst"						("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+{"mp/eng/early/pio_boys"						("inf_tier2_eng" side(eng) period(early) cost(20.0))} ; AT rifle
+{"mp/eng/early/pio_boys_asst"					("inf_tier2_eng" side(eng) period(early) cost(9.0))} ; enfield no1
+
+; // tier 2 vet
+
+ 
+; // tier 3
+
+{"mp/eng/early/rec_troop_com"				("inf_tier3_eng" side(eng) period(early) cost(10.0))} ; pistol
+
+{"mp/eng/early/51hl_driver"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_sec_com"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_sec_com_sgt"			("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_detach_com_cpl"			("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_sec_2ic"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_rifle_band"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_rifle"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_mg"						("inf_tier3_eng" side(eng) period(early) cost(35.0))} ; bren mk1
+{"mp/eng/early/51hl_mg_asst"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_at_boys"				("inf_tier3_eng" side(eng) period(early) cost(25.0))} ; AT rifle
+{"mp/eng/early/51hl_at_boys_asst"			("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+
+{"mp/eng/early/51hl_pio_sec_com"			("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/51hl_pio_builder"			("inf_tier3_eng" side(eng) period(early) cost(30.0))} ; enfield no1
+{"mp/eng/early/51hl_pio"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+
+{"mp/eng/early/gds_driver"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_sec_com"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_sec_com_sgt"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_detach_com_cpl"			("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_sec_2ic"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_rifle_band"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_rifle"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_mg"						("inf_tier3_eng" side(eng) period(early) cost(35.0))} ; bren mk1
+{"mp/eng/early/gds_mg_asst"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_at_boys"					("inf_tier3_eng" side(eng) period(early) cost(25.0))} ; AT rifle
+{"mp/eng/early/gds_at_boys_asst"			("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+
+{"mp/eng/early/gds_pio_sec_com"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/gds_pio_builder"				("inf_tier3_eng" side(eng) period(early) cost(30.0))} ; enfield no1
+{"mp/eng/early/gds_pio"						("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+
+{"mp/eng/early/com_subsec_com"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; thompson 20
+{"mp/eng/early/com_subsec_2ic"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/com_rifle_band"				("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+{"mp/eng/early/com_rifle_gren"				("inf_tier3_eng" side(eng) period(early) cost(19.0))} ; enfield no1 grenade
+{"mp/eng/early/com_mg"						("inf_tier3_eng" side(eng) period(early) cost(35.0))} ; bren mk1
+{"mp/eng/early/com_mg_asst"					("inf_tier3_eng" side(eng) period(early) cost(14.0))} ; enfield no1
+
+
+; // tier 4
+
+{"mp/eng/early/hl_bw_driver"				("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_sec_com"				("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_sec_com_sgt"			("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_detach_com_cpl"		("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_sec_2ic"				("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_rifle_band"			("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_rifle"					("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_mg"					("inf_tier4_eng" side(eng) period(early) cost(45.0))} ; bren mk1
+{"mp/eng/early/hl_bw_mg_asst"				("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_at_boys"				("inf_tier4_eng" side(eng) period(early) cost(30.0))} ; AT rifle
+{"mp/eng/early/hl_bw_at_boys_asst"			("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+
+{"mp/eng/early/hl_bw_pio_sec_com"			("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1
+{"mp/eng/early/hl_bw_pio_builder"			("inf_tier4_eng" side(eng) period(early) cost(30.0))} ; enfield no1
+{"mp/eng/early/hl_bw_pio"					("inf_tier4_eng" side(eng) period(early) cost(19.0))} ; enfield no1

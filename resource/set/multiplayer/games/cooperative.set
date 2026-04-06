@@ -1,0 +1,20 @@
+{game
+	{order 100}
+	{minPlayers	1}
+	{maxPlayers	8}
+	{settings
+		{options			fogOfWar difficulty friendlyFire showPiercing showDamageReports enableHardcore enableSpectators}
+		{difficulty			normal}
+		{fogOfWar			fog_realistic}
+		{floraRespawn		0}
+		{friendlyfire		1}
+		;{enableManualControlMode dc_mode}
+		{assignReinforcementsToPlayer}
+	}
+	{teamSettings
+		{teamsMode normal}
+		{teams
+			{"coop"}
+		}
+	}
+}

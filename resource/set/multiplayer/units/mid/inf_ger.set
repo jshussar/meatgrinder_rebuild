@@ -1,0 +1,314 @@
+;SDL
+
+;===================================
+;        INSTRUCTIONS    
+;===================================
+
+; In this file onee configures the humans which are spawned in vehicles or squads
+; The humans have a CP and cost associated with them which collectively add up for the final squad value
+; Check ../settings_inf.set for the global defines for CP, capture weight (CW), score, etc.
+
+;===================================
+;        PRICING CHART	       
+;===================================
+
+; // Standard prices below are for tier2 infantry
+
+;k98 			= 8
+;mp40/mp38 		= 10
+;g41 			= 13
+;g43 			= 13
+;mkb42(h)		= 20
+;stg44			= 20
+;fg42 			= 22
+;MG26(t)		= 25
+;MG13			= 25
+;mg34 drum 		= 35
+;mg34 belt 		= 40
+;mg42 drum 		= 35
+;mg42 belt 		= 40
+;rifle grenade	= +5
+;marksman 		= +2
+;any % pzfaust 	= +0
+;any pzfaust 	= +0
+;any flamer		= 50
+;engineer		= 50
+;miner 			= 40
+
+; // price modifiers (If not tier2)
+;tier 0 		= -3, MG -10
+;tier 1 		= -1, MG -10
+;tier 1 vet 	= 0, MG 0
+;tier 2 vet		= +2, MG +5
+;tier 3 		= +5, MG +10
+;tier 3 vet 	= +8, MG +15
+;tier 4 		= +10, MG +20
+;tier 4 vet 	= +12, MG +25
+
+
+;===================================
+;        BREED DECLARATIONS       
+;===================================
+
+; // Specials
+
+{"mp/ger/mid/signaller"						("inf_signaller" side(ger) period(mid) cost(200.0))}
+
+{"mp/ger/mid/artilleryman"					("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/tankman"						("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/tankman_stug"					("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/tankman_pzjag"					("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/tankman_scout"					("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/tank_commander"				("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/tank_commander_stug"			("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/tank_commander_pzjag"			("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/tank_commander_scout"			("inf_tankman" side(ger) period(mid) cost(5.0))}
+{"mp/ger/mid/pilot"							("inf_tankman" side(ger) period(mid) cost(0.0))}
+
+{"mp/ger/mid/medic"							("inf_medic" side(ger) period(mid) cost(40.0))}
+
+{"mp/ger/mid/officer"						("inf_officer" side(ger) period(mid) cost(125.0))}
+{"mp/ger/mid/officer_lw"					("inf_officer" side(ger) period(mid) cost(150.0))}
+
+{"mp/ger/mid/sniper"						("inf_sniper" side(ger) period(mid) cost(150.0))}
+{"mp/ger/mid/sniper_elite"					("inf_sniper" side(ger) period(mid) cost(170.0))}
+
+; // tier 1
+
+{"mp/ger/mid/osttrupp_1"					("inf_tier1" side(ger) period(mid) cost(7.0))} ; k98
+{"mp/ger/mid/osttrupp_2"					("inf_tier1" side(ger) period(mid) cost(7.0))} ; k98
+
+{"mp/ger/mid/convict_1"						("inf_tier1" side(ger) period(mid) cost(7.0))} ; k98
+{"mp/ger/mid/convict_2"						("inf_tier1" side(ger) period(mid) cost(9.0))} ; mp40
+{"mp/ger/mid/convict_3"						("inf_tier1" side(ger) period(mid) cost(9.0))} ; mp40
+{"mp/ger/mid/convict_mg"					("inf_tier1" side(ger) period(mid) cost(25.0))} ; mg34 drum
+
+;//{"mp/ger/mid/luft_1"						("inf_tier1" side(ger) period(mid) lvl(lvl1)) {cost 9.0}} ; mp40
+;//{"mp/ger/mid/luft_2"						("inf_tier1" side(ger) period(mid) lvl(lvl1)) {cost 7.0}} ; k98
+;//{"mp/ger/mid/luft_3"						("inf_tier1" side(ger) period(mid) lvl(lvl1)) {cost 15.0}} ; mg13
+;//{"mp/ger/mid/luft_4"						("inf_tier1" side(ger) period(mid) lvl(lvl1)) {cost 7.0}} ; k98
+;//{"mp/ger/mid/luft_5"						("inf_tier1" side(ger) period(mid) lvl(lvl1)) {cost 7.0}} ; k98
+
+{"mp/ger/mid/ersatz_rifle"					("inf_tier1" side(ger) period(mid) cost(7.0))} ; k98
+{"mp/ger/mid/ersatz_sl"						("inf_tier1" side(ger) period(mid) cost(9.0))} ; mp40
+{"mp/ger/mid/ersatz_sl_asst"				("inf_tier1" side(ger) period(mid) cost(7.0))} ; k98
+
+; // tier 2 lite 
+
+{"mp/ger/mid/mg_crew"						("inf_tier2_lite" side(ger) period(mid) cost(5.0))} ; p38 pistol
+{"mp/ger/mid/mg_crew_asst"					("inf_tier2_lite" side(ger) period(mid) cost(5.0))} ; k98
+
+{"mp/ger/mid/rifleman_1"					("inf_tier2_lite" side(ger) period(mid) cost(8.0))} ; k98
+;//{"mp/ger/mid/rifleman_2"					("inf_tier2_lite" side(ger) period(mid) cost(8.0))} ; k98
+;//{"mp/ger/mid/rifleman_3"					("inf_tier2_lite" side(ger) period(mid) cost(8.0))} ; k98
+
+{"mp/ger/mid/pz_rifle"						("inf_tier2_lite" side(ger) period(mid) cost(8.0))} ; k98
+
+{"mp/ger/mid/gren_rifle"					("inf_tier2_lite" side(ger) period(mid) cost(8.0))} ; k98
+
+{"mp/ger/mid/recon_rifle"					("inf_tier2_lite" side(ger) period(mid) cost(8.0))} ; k98
+
+{"mp/ger/mid/pz_recon_rifle"				("inf_tier2_lite" side(ger) period(mid) cost(8.0))} ; k98
+
+; // tier 2
+
+{"mp/ger/mid/mg_26t"						("inf_tier2" side(ger) period(mid) cost(25.0))} ; MG26(t)
+{"mp/ger/mid/mg_asst_26t"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/mgun_1"						("inf_tier2" side(ger) period(mid) cost(40.0))} ; MG34 belt
+{"mp/ger/mid/mgun_42"						("inf_tier2" side(ger) period(mid) cost(40.0))} ; MG42 belt
+{"mp/ger/mid/mgun_2"						("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/mgun_2_rifle"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/mgun_3"						("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+
+{"mp/ger/mid/nco"							("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+{"mp/ger/mid/nco_asst"						("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/nco_asst_sa"					("inf_tier2" side(ger) period(mid) cost(13.0))} ; g41
+
+{"mp/ger/mid/rifle_gren"					("inf_tier2" side(ger) period(mid) cost(13.0))} ; k98 + rifle grenade
+{"mp/ger/mid/sl"							("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+{"mp/ger/mid/sl_asst"						("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/sl_asst_sa"					("inf_tier2" side(ger) period(mid) cost(13.0))} ; g41
+
+{"mp/ger/mid/gren_mg"						("inf_tier2" side(ger) period(mid) cost(40.0))} ; MG42 belt
+{"mp/ger/mid/gren_mg_asst"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/gren_rifle_grenadier"			("inf_tier2" side(ger) period(mid) cost(13.0))} ; k98 + rifle grenade
+{"mp/ger/mid/gren_sa"						("inf_tier2" side(ger) period(mid) cost(13.0))} ; g41
+{"mp/ger/mid/gren_sl"						("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+{"mp/ger/mid/gren_sl_asst"					("inf_tier2" side(ger) period(mid) cost(13.0))} ; g41
+
+{"mp/ger/mid/recon_mg"						("inf_tier2" side(ger) period(mid) cost(35.0))} ; mg34 drum
+{"mp/ger/mid/recon_mg42"					("inf_tier2" side(ger) period(mid) cost(35.0))} ; mg42 drum
+{"mp/ger/mid/recon_mg_asst"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/recon_sl"						("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+{"mp/ger/mid/recon_sl_asst"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+
+{"mp/ger/mid/pz_mg_asst"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pz_mg34"						("inf_tier2" side(ger) period(mid) cost(40.0))} ; MG34 belt
+{"mp/ger/mid/pz_mg42"						("inf_tier2" side(ger) period(mid) cost(40.0))} ; MG42 belt
+{"mp/ger/mid/pz_sa"							("inf_tier2" side(ger) period(mid) cost(13.0))} ; g41
+{"mp/ger/mid/pz_sl"							("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+{"mp/ger/mid/pz_sl_asst"					("inf_tier2_lite" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pz_sl_asst_sa"					("inf_tier2" side(ger) period(mid) cost(13.0))} ; g41
+
+{"mp/ger/mid/pz_recon_mg"					("inf_tier2" side(ger) period(mid) cost(35.0))} ; mg34 drum
+{"mp/ger/mid/pz_recon_mg_asst"				("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pz_recon_sl"					("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+{"mp/ger/mid/pz_recon_sl_asst"				("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+
+{"mp/ger/mid/smg_1"							("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+;//{"mp/ger/mid/smg_2"						("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+;//{"mp/ger/mid/smg_3"						("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+;//{"mp/ger/mid/smg_mkb"					("inf_tier2" side(ger) period(mid) cost(18.0))} ; mkb42(h)
+
+;//{"mp/ger/mid/grenadier_1"				("inf_tier2" side(ger) period(mid) cost(10.0))} ; g41
+;//{"mp/ger/mid/grenadier_2"				("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp41
+;//{"mp/ger/mid/grenadier_3"				("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+
+{"mp/ger/mid/antitank_1"					("inf_tier2" side(ger) period(mid) cost(30.0))} ; AT Rifle
+{"mp/ger/mid/antitank_2"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98 + at rifle ammo
+{"mp/ger/mid/antitank_3"					("inf_tier2" side(ger) period(mid) cost(13.0))} ; Rifle Grenade HE and HEAT
+{"mp/ger/mid/antitank_4"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98 + grenade ammo
+
+{"mp/ger/mid/engineer_1"					("inf_tier2" side(ger) period(mid) cost(50.0))}
+{"mp/ger/mid/engineer_2"					("inf_tier2" side(ger) period(mid) cost(50.0))}
+{"mp/ger/mid/flamer"						("inf_tier2" side(ger) period(mid) cost(50.0))}
+
+{"mp/ger/mid/miner-ap"						("inf_tier2" side(ger) period(mid) cost(40.0))}
+{"mp/ger/mid/miner-at"						("inf_tier2" side(ger) period(mid) cost(40.0))}
+{"mp/ger/mid/convict_3"						("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+
+{"mp/ger/mid/scout_1"						("inf_tier2" side(ger) period(mid) cost(18.0))} ; g43 marksman
+{"mp/ger/mid/scout_2"						("inf_tier2" side(ger) period(mid) cost(23.0))} ; mkb42h
+
+{"mp/ger/mid/pioneer_1"						("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pioneer_2"						("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pioneer_3"						("inf_tier2" side(ger) period(mid) cost(50.0))} ; flamethrower
+{"mp/ger/mid/pioneer_4"						("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pioneer_at"					("inf_tier2" side(ger) period(mid) cost(30.0))} ; pzb39
+{"mp/ger/mid/pioneer_builder"				("inf_tier2" side(ger) period(mid) cost(25.0))} ; k98 + engineer
+{"mp/ger/mid/pioneer_mgun"					("inf_tier2" side(ger) period(mid) cost(40.0))} ; mg34 belt
+{"mp/ger/mid/pioneer_mgun_ammo_carrier"		("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pioneer_mgun_asst"				("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pioneer_sl"					("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+{"mp/ger/mid/pioneer_sl_asst"				("inf_tier2" side(ger) period(mid) cost(13.0))} ; g41
+
+{"mp/ger/mid/pz_pio_flame"					("inf_tier2" side(ger) period(mid) cost(50.0))} ; flamethrower
+{"mp/ger/mid/pz_pio_mg"						("inf_tier2" side(ger) period(mid) cost(40.0))} ; mg34 belt
+{"mp/ger/mid/pz_pio_mg_ammo_carrier"		("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pz_pio_mg_asst"				("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pz_pio_rifle"					("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pz_pio_rifle_gren"				("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pz_pio_rifle_mine"				("inf_tier2" side(ger) period(mid) cost(8.0))} ; k98
+{"mp/ger/mid/pz_pio_sl"						("inf_tier2" side(ger) period(mid) cost(10.0))} ; mp40
+{"mp/ger/mid/pz_pio_sl_asst"				("inf_tier2" side(ger) period(mid) cost(13.0))} ; g41
+
+; // tier 2 vet
+
+{"mp/ger/mid/vet_mg"						("inf_tier2" side(ger) period(mid) cost(45.0))} ; mg34 belt
+{"mp/ger/mid/vet_mg_asst"					("inf_tier2" side(ger) period(mid) cost(10.0))} ; k98
+{"mp/ger/mid/vet_mg_ammo"					("inf_tier2" side(ger) period(mid) cost(10.0))} ; k98
+{"mp/ger/mid/vet_nco"						("inf_tier2" side(ger) period(mid) cost(12.0))} ; mp40
+{"mp/ger/mid/vet_nco_asst"					("inf_tier2" side(ger) period(mid) cost(15.0))} ; g41
+{"mp/ger/mid/vet_rifle"						("inf_tier2" side(ger) period(mid) cost(10.0))} ; k98
+{"mp/ger/mid/vet_sa"						("inf_tier2" side(ger) period(mid) cost(15.0))} ; g41
+
+; // tier 3
+
+{"mp/ger/mid/sturm_pio_flame"				("inf_tier3" side(ger) period(mid) cost(50.0))} ; flamethrower
+{"mp/ger/mid/sturm_pio_mg"					("inf_tier3" side(ger) period(mid) cost(50.0))} ; mg42 belt
+{"mp/ger/mid/sturm_pio_mg_asst"				("inf_tier3" side(ger) period(mid) cost(13.0))} ; k98
+{"mp/ger/mid/sturm_pio_rifle"				("inf_tier3" side(ger) period(mid) cost(13.0))} ; k98
+{"mp/ger/mid/sturm_pio_rifle_gren"			("inf_tier3" side(ger) period(mid) cost(13.0))} ; k98
+{"mp/ger/mid/sturm_pio_rifle_mine"			("inf_tier3" side(ger) period(mid) cost(13.0))} ; k98
+{"mp/ger/mid/sturm_pio_sl"					("inf_tier3" side(ger) period(mid) cost(15.0))} ; mp40
+{"mp/ger/mid/sturm_pio_sl_asst"				("inf_tier3" side(ger) period(mid) cost(18.0))} ; g41
+
+; // tier 3 vet 
+
+{"mp/ger/mid/elite_mg"						("inf_tier3" side(ger) period(mid) cost(55.0))} ; mg34 belt
+{"mp/ger/mid/elite_mg_ammo"					("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/elite_mg_asst"					("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/elite_rifle"					("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/elite_sl"						("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/elite_sl_asst"					("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/elite_sl_smg"					("inf_tier3" side(ger) period(mid) cost(18.0))} ; mp38
+
+{"mp/ger/mid/gd_rifle"						("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/gd_sa"							("inf_tier3" side(ger) period(mid) cost(21.0))} ; g41
+{"mp/ger/mid/gd_mg"							("inf_tier3" side(ger) period(mid) cost(55.0))} ; MG34 belt (100 round)
+{"mp/ger/mid/gd_mg_asst"					("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/gd_sl"							("inf_tier3" side(ger) period(mid) cost(18.0))} ; mp40
+{"mp/ger/mid/gd_sl_asst"					("inf_tier3" side(ger) period(mid) cost(21.0))} ; g41
+
+{"mp/ger/mid/gd_pio_flame"					("inf_tier3" side(ger) period(mid) cost(50.0))} ; flamethrower
+{"mp/ger/mid/gd_pio_mg"						("inf_tier3" side(ger) period(mid) cost(55.0))} ; MG34 belt (100 round)
+{"mp/ger/mid/gd_pio_mg_asst"				("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/gd_pio_rifle"					("inf_tier3" side(ger) period(mid) cost(16.0))} ; k98
+{"mp/ger/mid/gd_pio_sa"						("inf_tier3" side(ger) period(mid) cost(21.0))} ; g41
+{"mp/ger/mid/gd_pio_sl"						("inf_tier3" side(ger) period(mid) cost(18.0))} ; mp40
+{"mp/ger/mid/gd_pio_sl_asst"				("inf_tier3" side(ger) period(mid) cost(21.0))} ; g41
+
+; // tier 4
+
+{"mp/ger/mid/blau_1"						("inf_tier3" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/blau_2"						("inf_tier3" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/blau_3"						("inf_tier3" side(ger) period(mid) cost(23.0))} ; g41
+{"mp/ger/mid/blau_4"						("inf_tier3" side(ger) period(mid) cost(60.0))} ; mg34 belt
+{"mp/ger/mid/blau_5"						("inf_tier3" side(ger) period(mid) cost(20.0))} ; mp41
+{"mp/ger/mid/blau_6"						("inf_tier3" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/blau_sl_asst"					("inf_tier3" side(ger) period(mid) cost(23.0))} ; g41
+
+{"mp/ger/mid/fallsch_mg"					("inf_tier4" side(ger) period(mid) cost(60.0))} ; mg42 belt
+{"mp/ger/mid/fallsch_mg_asst"				("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/fallsch_rifle"					("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/fallsch_rifle_grenadier"		("inf_tier4" side(ger) period(mid) cost(23.0))} ; k98 rifle grenade
+{"mp/ger/mid/fallsch_sa"					("inf_tier4" side(ger) period(mid) cost(23.0))} ; g43
+{"mp/ger/mid/fallsch_rifle_scope"			("inf_tier4" side(ger) period(mid) cost(120.0))} ; k98 scope
+{"mp/ger/mid/fallsch_rifle_marksman"		("inf_tier4" side(ger) period(mid) cost(20.0))} ; k98
+{"mp/ger/mid/fallsch_sl"					("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/fallsch_sl_asst"				("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/fallsch_smg"					("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+
+{"mp/ger/mid/fallsch_pio_mg"				("inf_tier4" side(ger) period(mid) cost(60.0))} ; mg42 belt
+{"mp/ger/mid/fallsch_pio_mg_asst"			("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/fallsch_pio_rifle"				("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/fallsch_pio_rifle_grenadier"	("inf_tier4" side(ger) period(mid) cost(23.0))} ; k98 rifle grenade
+{"mp/ger/mid/fallsch_pio_sl"				("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/fallsch_pio_sl_asst"			("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+
+{"mp/ger/mid/fallsch_recon_mg"				("inf_tier4" side(ger) period(mid) cost(60.0))} ; mg42 belt
+{"mp/ger/mid/fallsch_recon_mg_asst"			("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/fallsch_recon_mg_asst_gren"	("inf_tier4" side(ger) period(mid) cost(23.0))} ; k98 rifle grenade
+{"mp/ger/mid/fallsch_recon_mg34"			("inf_tier4" side(ger) period(mid) cost(60.0))} ; mg34 belt
+{"mp/ger/mid/fallsch_recon_sl"				("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/fallsch_recon_sl_asst"			("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+
+{"mp/ger/mid/gebirgs_mg"					("inf_tier4" side(ger) period(mid) cost(60.0))} ; mg34 belt (100 round)
+{"mp/ger/mid/gebirgs_mg_asst"				("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/gebirgs_rifle"					("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/gebirgs_sl"					("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/gebirgs_sl_asst"				("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/gebirgs_smg"					("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+
+{"mp/ger/mid/gebirgs_pio_mg"				("inf_tier4" side(ger) period(mid) cost(60.0))} ; mg34 belt (100 round)
+{"mp/ger/mid/gebirgs_pio_mg_asst"			("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/gebirgs_pio_rifle"				("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/gebirgs_pio_sl"				("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/gebirgs_pio_sl_asst"			("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+
+{"mp/ger/mid/gebirgs_recon_mg"				("inf_tier4" side(ger) period(mid) cost(60.0))} ; mg34 belt (100 round)
+{"mp/ger/mid/gebirgs_recon_mg_asst"			("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/gebirgs_recon_rifle"			("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/gebirgs_recon_sl"				("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/gebirgs_recon_sl_asst"			("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+{"mp/ger/mid/gebirgs_recon_smg"				("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp40
+
+{"mp/ger/mid/brand_1"						("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp41
+{"mp/ger/mid/brand_2"						("inf_tier4" side(ger) period(mid) cost(55.0))} ; MG42 drum
+{"mp/ger/mid/brand_3"						("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/brand_4"						("inf_tier4" side(ger) period(mid) cost(18.0))} ; k98
+{"mp/ger/mid/brand_5"						("inf_tier4" side(ger) period(mid) cost(20.0))} ; mp41
+{"mp/ger/mid/brand_6"						("inf_tier4" side(ger) period(mid) cost(23.0))} ; g41
+
+
+

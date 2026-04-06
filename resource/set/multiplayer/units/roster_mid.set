@@ -1,0 +1,37 @@
+;sdl
+
+;	╔════════════════════════════════════════╗
+;	║    MID WAR June 1941 - Sept 1943       ║
+;	╠═══════╦═══════╦═══════╦═══════╦════════╣
+;	║ AXIS  ║ Ger   ║ Ita   ║ Jap   ║  Fin   ║      
+;	╠═══════╬═══════╬═══════╬═══════╬════════╣    
+;	║ ALLIES║ Rus   ║ Eng   ║ usa   ║        ║
+;	╚═══════╩═══════╩═══════╩═══════╩════════╝
+;_________________________________________________________
+;|              GLOBAL  SETTINGS                         |
+;| this loads setting architecture for declaring units   |
+;|_______________________________________________________|
+(include "settings.set")
+(include "settings_inf.set")
+
+;_________________________________________________________
+;|              INF SETTINGS                             |
+;| this configures the CP, flag capture power and kill   |
+;| points of the different breeds that make inf squads   |
+;|_______________________________________________________|
+(include "mid/inf_ger.set") 
+(include "mid/inf_rus.set")
+(include "mid/inf_fin.set")
+(include "mid/inf_usa.set")
+(include "mid/inf_eng.set")
+
+;_________________________________________________________
+;|            UNIT ROSTERS                               |
+;| this defines the different squads and units available |
+;| and configs their cost, buy menu, cooldowns, etc      |
+;|_______________________________________________________|
+(include "mid/units_ger.set")
+(include "mid/units_rus.set")
+(include "mid/units_fin.set")
+(include "mid/units_usa.set")
+(include "mid/units_eng.set")

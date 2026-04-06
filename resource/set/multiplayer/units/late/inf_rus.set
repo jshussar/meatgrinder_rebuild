@@ -1,0 +1,364 @@
+;SDL
+
+;===================================
+;        INSTRUCTIONS    
+;===================================
+
+; In this file onee configures the humans which are spawned in vehicles or squads
+; The humans have a CP and cost associated with them which collectively add up for the final squad value
+; Check ../settings_inf.set for the global defines for CP, capture weight (CW), score, etc.
+
+;===================================
+;        PRICING CHART	       
+;===================================
+
+; // Standard prices below are for tier2 infantry
+
+;shotgun 		= 5
+;mosin 			= 8
+;pps43 			= 10
+;ppsh41 stick 	= 10
+;svt38/40 		= 13
+;m1928a1 		= 13
+;pps43 			= 10
+;ppsh41 stick 	= 10
+;ppsh41 drum	= 14
+;ppd 			= 14
+;avt40 			= 15
+;dp27			= 35
+;dt				= 35
+;rifle grenade 	= +10 (+5 in squads)
+;any % pzfaust 	= +0
+;any pzfaust 	= +0
+;any flamer		= 60
+;engineer		= 50
+;miner 			= 40
+
+; // price modifiers (If not tier2)
+;tier 0 		= -3, MG -10
+;tier 1 		= -1, MG -10
+;tier 1 vet 	= 0, MG 0
+;tier 2 vet		= +2, MG +5
+;tier 3 		= +5, MG +10
+;tier 3 vet 	= +8, MG +15
+;tier 4 		= +10, MG +20
+;tier 4 vet 	= +12, MG +25
+
+
+;===================================
+;        BREED DECLARATIONS       
+;===================================
+
+;PROJECT REALITY NEW DEFINES-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+;RED ARMY------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{"mp/rus/late/penal_1"						("inf_tier1" side(rus) period(late) year(44 45 46) cost(3.3333))}
+{"mp/rus/late/penal_2"						("inf_tier1" side(rus) period(late) year(44 45 46) cost(3.3333))}
+{"mp/rus/late/penal_3"						("inf_tier1" side(rus) period(late) year(44 45 46) cost(3.3333))}
+{"mp/rus/late/penal_4"						("inf_tier1" side(rus) period(late) year(44 45 46) cost(3.3333))}
+
+{"mp/rus/late/recon_nco"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+{"mp/rus/late/recon_sa"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+{"mp/rus/late/recon_smg"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+
+{"mp/rus/late/nco_pps43"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/senior_sa"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/senior_sa_smg"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/smg_3"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/smg_1"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/smg_2"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/rifleman_3"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/rifleman_1"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/mgun_1"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+{"mp/rus/late/mgun_2"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(11.81818181))}
+
+{"mp/rus/late/rifle_sturm_sl"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(15))}
+{"mp/rus/late/rifle_sturm_sl_asst"		("inf_tier2" side(rus) period(late) year(44 45 46) cost(15))}
+{"mp/rus/late/rifle_sturm_rifle"		("inf_tier2" side(rus) period(late) year(44 45 46) cost(15))}
+{"mp/rus/late/rifle_sturm_autorifle"	("inf_tier2" side(rus) period(late) year(44 45 46) cost(15))}
+{"mp/rus/late/rifle_sturm_mg"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(15))}
+{"mp/rus/late/rifle_sturm_mg_asst"		("inf_tier2" side(rus) period(late) year(44 45 46) cost(15))}
+
+{"mp/rus/late/cav_nco_pps43"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.5))}
+{"mp/rus/late/cav_senior_sa"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.5))}
+{"mp/rus/late/cav_sa"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.5))}
+{"mp/rus/late/cav_smg_drum"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.5))}
+{"mp/rus/late/cav_rifle"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.5))}
+{"mp/rus/late/cav_mg"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.5))}
+{"mp/rus/late/cav_mg_asst_smg"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.5))}
+
+{"mp/rus/late/shisbr_sl"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(21))}
+{"mp/rus/late/shisbr_sl_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(21))}
+{"mp/rus/late/shisbr_wirecutter"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(21))}
+{"mp/rus/late/shisbr_demo"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(21))}
+{"mp/rus/late/shisbr_builder"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(21))}
+{"mp/rus/late/shisbr_flamer"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(21))}
+
+{"mp/rus/late/marine_nco_stick"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(20))}
+{"mp/rus/late/marine_senior_pps43"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(20))}
+{"mp/rus/late/marine_4"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(20))}
+{"mp/rus/late/marine_5"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(20))}
+{"mp/rus/late/marine_3"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(20))}
+{"mp/rus/late/marine_mg_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(20))}
+
+{"mp/rus/late/shock_rifle_sl"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_rifle_sl_asst"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_rifle_sa"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_rifle_smg"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_rifle_mg"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_rifle_mg_asst"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+
+{"mp/rus/late/shock_smg_sl"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_smg_sl_asst"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_smg_smg"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_smg_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_smg_mg_asst"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+{"mp/rus/late/shock_smg_flamer"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(25.5555))}
+
+
+{"mp/rus/late/mountain_nco"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(26.25))}
+{"mp/rus/late/mountain_senior"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(26.25))}
+{"mp/rus/late/mountain_3"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(26.25))}
+{"mp/rus/late/mountain_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(26.25))}
+{"mp/rus/late/mountain_mg_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(26.25))}
+{"mp/rus/late/mountain_at"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(26.25))}
+{"mp/rus/late/mountain_at_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(26.25))}
+
+{"mp/rus/late/vet_rifle_sl"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(19.09090909))}
+{"mp/rus/late/vet_rifle_sl_asst"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(19.09090909))}
+{"mp/rus/late/vet_rifle_sa"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(19.09090909))}
+{"mp/rus/late/vet_rifle_smg"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(19.09090909))}
+{"mp/rus/late/vet_rifle_rifle"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(19.09090909))}
+{"mp/rus/late/vet_rifle_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(19.09090909))}
+{"mp/rus/late/vet_rifle_mg_asst"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(19.09090909))}
+
+{"mp/rus/late/vet_cav_sl"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(16.0714285))}
+{"mp/rus/late/vet_cav_sl_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(16.0714285))}
+{"mp/rus/late/vet_cav_sa"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(16.0714285))}
+{"mp/rus/late/vet_cav_smg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(16.0714285))}
+{"mp/rus/late/vet_cav_rifle"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(16.0714285))}
+{"mp/rus/late/vet_cav_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(16.0714285))}
+{"mp/rus/late/vet_cav_mg_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(16.0714285))}
+
+{"mp/rus/late/para_nco"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.272727))}
+{"mp/rus/late/para_senior"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.272727))}
+{"mp/rus/late/para_smg"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.272727))}
+{"mp/rus/late/para_sa"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.272727))}
+{"mp/rus/late/para_mg_dt"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.272727))}
+{"mp/rus/late/para_mg_dt_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.272727))}
+{"mp/rus/late/para_flamer"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.272727))}
+
+
+;GUARDS------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+{"mp/rus/late/vet_partisan_sl"				("inf_tier1" side(rus) period(late) year(44 45 46) cost(10))}
+{"mp/rus/late/vet_partisan_k98"				("inf_tier1" side(rus) period(late) year(44 45 46) cost(10))}
+{"mp/rus/late/vet_partisan_mosin"			("inf_tier1" side(rus) period(late) year(44 45 46) cost(10))}
+{"mp/rus/late/vet_partisan_drum_pzf"		("inf_tier1" side(rus) period(late) year(44 45 46) cost(10))}
+{"mp/rus/late/vet_partisan_mp40_pzf"		("inf_tier1" side(rus) period(late) year(44 45 46) cost(10))}
+{"mp/rus/late/vet_partisan_mg34"			("inf_tier1" side(rus) period(late) year(44 45 46) cost(10))}
+
+{"mp/rus/late/nkvd_recon_nco"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(5))}
+{"mp/rus/late/nkvd_recon_smg"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(5))}
+{"mp/rus/late/nkvd_recon_rifle"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(5))}
+
+{"mp/rus/late/nkvd_nco_rifle"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+{"mp/rus/late/nkvd_senior_rifle"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+{"mp/rus/late/nkvd_sa"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+{"mp/rus/late/nkvd_rifle"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+{"mp/rus/late/nkvd_mg"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+{"mp/rus/late/nkvd_mg_asst"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(16.666666))}
+
+{"mp/rus/late/nkvd_mountain_nco"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(18.75))}
+{"mp/rus/late/nkvd_mountain_senior"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(18.75))}
+{"mp/rus/late/nkvd_mountain_smg_stick"		("inf_tier2" side(rus) period(late) year(44 45 46) cost(18.75))}
+{"mp/rus/late/nkvd_mountain_rifle"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(18.75))}
+{"mp/rus/late/nkvd_mountain_mg"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(18.75))}
+{"mp/rus/late/nkvd_mountain_mg_asst"		("inf_tier2" side(rus) period(late) year(44 45 46) cost(18.75))}
+
+{"mp/rus/late/nkvd_sapper_nco_rifle"		("inf_tier2" side(rus) period(late) year(44 45 46) cost(22.8571428))}
+{"mp/rus/late/nkvd_senior_rifle"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(22.8571428))}
+{"mp/rus/late/nkvd_sapper_rifle"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(22.8571428))}
+{"mp/rus/late/nkvd_sapper_builder"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(22.8571428))}
+
+{"mp/rus/late/cossack_nco"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(2.1875))}
+{"mp/rus/late/cossack_senior"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(2.1875))}
+{"mp/rus/late/cossack_rifle"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(2.1875))}
+{"mp/rus/late/cossack_mg"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(2.1875))}
+{"mp/rus/late/cossack_mg_asst"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(2.1875))}
+{"mp/rus/late/cossack_crew"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(2.1875))}
+
+{"mp/rus/late/guards_nco_pps43"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.5))}
+{"mp/rus/late/guards_senior_sa"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.5))}
+{"mp/rus/late/guards_riflegrenade_he"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.5))}
+{"mp/rus/late/guards_rifleman_3"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.5))}
+{"mp/rus/late/guards_rifleman_2"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.5))}
+{"mp/rus/late/guards_mgun_1"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.5))}
+{"mp/rus/late/guards_mgun_2"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(27.5))}
+
+{"mp/rus/late/guards_cav_nco_pps43"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(6.5625))}
+{"mp/rus/late/guards_cav_senior_smg_pps43"	("inf_tier3" side(rus) period(late) year(44 45 46) cost(6.5625))}
+{"mp/rus/late/guards_cav_sa"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(6.5625))}
+{"mp/rus/late/guards_cav_crew"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(6.5625))}
+{"mp/rus/late/guards_cav_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(6.5625))}
+{"mp/rus/late/guards_cav_mg_asst_smg"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(6.5625))}
+
+{"mp/rus/late/guards_marine_nco"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/guards_marine_senior"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/guards_marine_smg"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/guards_marine_sa_pzf"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/guards_marine_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/guards_marine_mg_asst"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+
+{"mp/rus/late/elite_guards_nco_pps43"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(31.111111))}
+{"mp/rus/late/elite_guards_senior_sa"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(31.111111))}
+{"mp/rus/late/elite_guards_smg_pps43"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(31.111111))}
+{"mp/rus/late/elite_guards_sa"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(31.111111))}
+{"mp/rus/late/elite_guards_rifle"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(31.111111))}
+{"mp/rus/late/elite_guards_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(31.111111))}
+{"mp/rus/late/elite_guards_mg_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(31.111111))}
+
+{"mp/rus/late/elite_guards_shock_nco"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/elite_guards_shock_senior"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/elite_guards_shock_riflegrenade"	("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/elite_guards_shock_smg"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/elite_guards_shock_mg"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/elite_guards_shock_mg_asst"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+{"mp/rus/late/elite_guards_shock_flamer"		("inf_tier3" side(rus) period(late) year(44 45 46) cost(30))}
+
+{"mp/rus/late/spetsnaz_guards_nco"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(44.4444))}
+{"mp/rus/late/spetsnaz_guards_senior"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(44.4444))}
+{"mp/rus/late/spetsnaz_guards_rifle"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(44.4444))}
+{"mp/rus/late/spetsnaz_guards_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(44.4444))}
+{"mp/rus/late/spetsnaz_guards_at"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(44.4444))}
+{"mp/rus/late/spetsnaz_guards_sniper"			("inf_sniper" side(rus) period(late) year(44 45 46) cost(44.4444))}
+{"mp/rus/late/spetsnaz_guards_sniper_auto"		("inf_sniper" side(rus) period(late) year(44 45 46) cost(44.4444))}
+
+{"mp/rus/late/guard_para_nco"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(33.3333))}
+{"mp/rus/late/guard_para_nco_asst_sa"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(33.3333))}
+{"mp/rus/late/guard_para_sa"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(33.3333))}
+{"mp/rus/late/guard_para_rifle"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(33.3333))}
+{"mp/rus/late/guard_para_riflegrenade"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(33.3333))}
+{"mp/rus/late/guard_para_mg_dt"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(33.3333))}
+{"mp/rus/late/guard_para_mg_asst_dt"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(33.3333))}
+
+
+;SINGLE CALLINS-------------------------------------------------------------------------------------------------------
+;RED ARMY------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+{"mp/rus/late/sniper_auto"						("inf_sniper" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/smg_stick"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/antitank_2"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/antitank_ptrs"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/antitank_asst"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/antitank_5"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/antitank_3"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/miner-ap"							("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/miner-at"							("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/engineer_1"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/engineer_2"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+
+
+;GUARDS------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{"mp/rus/late/guards_rifleman_1"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/guards_smg_1"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/guards_rifleman_sa"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/guards_rifleman_at"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/guards_rifleman_at_asst"			("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/guards_at_rifle"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/guards_at_rifle_asst"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/guards_medic"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/commisar2"						("inf_officer" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+
+
+;SP SECTION
+{"mp/rus/late/pol_nco_pps43"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/pol_senior_sa"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/pol_smg_3"						("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/pol_rifleman_3"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/pol_rifleman_1"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/pol_mgun_1"						("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/pol_mgun_2"						("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/mong_cav_nco_pps43"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/mong_cav_senior_sa"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/mong_cav_smg_drum"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/mong_cav_sa"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/mong_cav_mg"						("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/mong_cav_mg_asst_smg"				("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/mong_cav_rifle"					("inf_tier2" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/yugo_nco_pps43"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/yugo_senior_sa"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/yugo_smg_3"						("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/yugo_rifleman_3"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/yugo_rifleman_1"					("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/yugo_mgun_1"						("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/yugo_mgun_2"						("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+{"mp/rus/late/belo_vet_rifle_sl"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/belo_vet_rifle_sl_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/belo_vet_rifle_sa"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/belo_vet_rifle_smg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/belo_vet_rifle_rifle"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/belo_vet_rifle_mg"				("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+{"mp/rus/late/belo_vet_rifle_mg_asst"			("inf_tier3" side(rus) period(late) year(44 45 46) cost(7.0))}
+
+
+;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+; // Specials
+
+{"mp/rus/late/signaller"					("inf_signaller" side(rus) period(late) year(44 45 46) cost(200.0))}
+
+{"mp/rus/late/artilleryman"					("inf_tankman" side(rus) period(late) year(44 45 46) cost(5.0))} ; mosin
+{"mp/rus/late/tankman"						("inf_tankman" side(rus) period(late) year(44 45 46) cost(5.0))} ; pistol
+{"mp/rus/late/tank_commander"				("inf_tankman" side(rus) period(late) year(44 45 46) cost(5.0))} ; pps43
+{"mp/rus/late/tank_commander_m1928"			("inf_tankman" side(rus) period(late) year(44 45 46) cost(5.0))} ; m1928a1
+{"mp/rus/late/pilot"						("inf_tankman" side(rus) period(late) year(44 45 46) cost(0.0))} ; pistol
+{"mp/rus/late/tankman_ace"					("inf_tankman" side(ger) cost(8.0))}
+{"mp/rus/late/tank_commander_ace"			("inf_tankman" side(ger) cost(15.0))}
+
+{"mp/rus/late/medic"						("inf_medic" side(rus) period(late) year(44 45 46) cost(40.0))}
+
+{"mp/rus/late/commisar"						("inf_officer" side(rus) period(late) year(44 45 46) cost(150.0))}
+{"mp/rus/late/commisar2"					("inf_officer" side(rus) period(late) year(44 45 46) cost(150.0))}
+
+{"mp/rus/late/commisar_sp"					("inf_commisar" side(rus) period(late) year(44 45 46) cost(150.0))}
+
+{"mp/rus/late/sniper"						("inf_sniper" side(rus) period(late) year(44 45 46) cost(150.0))}
+
+; // tier 1 
+
+{"mp/rus/late/nkvd_2"						("inf_tier1" side(rus) period(late) year(44 45 46) cost(7.0))} ; mosin
+{"mp/rus/late/nkvd_3"						("inf_tier1" side(rus) period(late) year(44 45 46) cost(7.0))} ; mosin
+{"mp/rus/late/nkvd_4"						("inf_tier1" side(rus) period(late) year(44 45 46) cost(7.0))} ; mosin
+
+{"mp/rus/late/partisan_1"					("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; mosin
+{"mp/rus/late/partisan_2"					("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; mosin
+{"mp/rus/late/partisan_3"					("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; pps43
+{"mp/rus/late/partisan_4"					("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; shotgun
+{"mp/rus/late/partisan_5"					("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; mp40
+{"mp/rus/late/partisan_6"					("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; mg34
+{"mp/rus/late/partisan_dp"					("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; dp27
+{"mp/rus/late/partisan_drum"				("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; ppsh41 drum
+{"mp/rus/late/partisan_stick"				("inf_tier1" side(rus) period(late) year(44 45 46) cost(8))} ; ppsh41 stick
+
+{"mp/rus/late/conscript_rifle"				("inf_tier1" side(rus) period(late) year(44 45 46) cost(5.625))} ; mosin
+{"mp/rus/late/conscript_nco"				("inf_tier1" side(rus) period(late) year(44 45 46) cost(5.625))} ; ppsh41 drum
+
+
+
+

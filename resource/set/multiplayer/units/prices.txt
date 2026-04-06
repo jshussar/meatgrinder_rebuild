@@ -1,0 +1,76 @@
+; // Standard prices below are for tier2 infantry
+
+;shotgun 		= 5
+;mosin 			= 8
+;pps43 			= 10
+;ppsh41 stick 	= 10
+;svt38/40 		= 13
+;m1928a1 		= 12
+;pps43 			= 10
+;ppsh41 stick 	= 10
+;ppsh41 drum	= 13
+;ppd 			= 13
+;avt40 			= 15
+;dp27			= 40
+;dt				= 40
+;rifle grenade 	= +20
+;any % pzfaust 	= +2
+;any pzfaust 	= +5
+;any flamer		= 60
+;engineer		= 50
+;miner 			= 40
+
+
+;mosin			= 8
+;m27 			= 8
+;m39 			= 8
+;svt38/40 		= 13
+;avt40 			= 15
+;pps43 			= 10
+;m20 			= 10
+;m31 stick 		= 11
+;m31 drum 		= 14
+;ppsh41 drum	= 13
+;chauchat 		= 20
+;madsen 		= 35
+;m26 			= 35
+;dt27 			= 40
+;dp 			= 40
+;rifle grenade 	= +20
+;marksman 		= +2
+;any % pzfaust 	= +2
+;any pzfaust 	= +5
+;any flamer		= 60
+;engineer		= 50
+;miner 			= 40
+
+
+
+;k98 			= 8
+;mp40/mp38 		= 10
+;g41 			= 13
+;g43 			= 13
+;mkb42(h)		= 20
+;stg44			= 20
+;fg42 			= 22
+;mg34 drum 		= 40
+;mg34 belt 		= 45
+;mg42 drum 		= 40
+;mg42 belt 		= 45
+;rifle grenade	= +20
+;marksman 		= +2
+;any % pzfaust 	= +2
+;any pzfaust 	= +5
+;any flamer		= 60
+;engineer		= 50
+;miner 			= 40
+
+; // price modifiers (If not tier2)
+;tier 0 		= -3, MG -10
+;tier 1 		= -1, MG -10
+;tier 1 vet 	= -1, MG -5
+;tier 2 vet		= +2, MG +5
+;tier 3 		= +5, MG +10
+;tier 3 vet 	= +8, MG +15
+;tier 4 		= +10, MG +20
+;tier 4 vet 	= +13, MG +25

@@ -1,0 +1,288 @@
+;SDL
+
+;===================================
+;        INSTRUCTIONS    
+;===================================
+
+; In this file onee configures the humans which are spawned in vehicles or squads
+; The humans have a CP and cost associated with them which collectively add up for the final squad value
+; Check ../settings_inf.set for the global defines for CP, capture weight (CW), score, etc.
+
+;===================================
+;        PRICING CHART	       
+;===================================
+
+; // Standard prices below are for tier2 infantry
+
+;pistol 		= 5
+;p14 			= 8
+;enfield no1 	= 9
+;enfield no4 	= 9
+;sten	 		= 10
+;patchett	 	= 10
+;thompson 20	= 9
+;thompson 30	= 10
+;bren			= 25
+;lewis			= 35
+;vgo			= 40
+;rifle grenade 	= +10 or 5 if squad
+;piat 			= +40
+;mortar 		= +50
+;any % pzfaust 	= +0
+;any pzfaust 	= +0
+;any flamer		= 55
+;engineer		= 50 or 25 if squad
+;miner 			= 40 or 25 if squad
+
+; // price modifiers (If not tier2)
+;tier 0 		= -3, MG -10
+;tier 1 		= -1, MG -10
+;tier 1 vet 	= 0, MG 0
+;tier 2 vet		= +2, MG +5
+;tier 3 		= +5, MG +10
+;tier 3 vet 	= +8, MG +15
+;tier 4 		= +10, MG +20
+;tier 4 vet 	= +12, MG +25
+
+
+;===================================
+;        BREED DECLARATIONS       
+;===================================
+
+;PROJECT REALISM CUSTOM BREEDS
+
+{"mp/eng/late/rec_driver"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(11.25))} 
+{"mp/eng/late/rec_sec_com"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(11.25))} 
+{"mp/eng/late/rec_sec_2ic"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(11.25))} 
+{"mp/eng/late/rec_rifle_band"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(11.25))} 
+
+{"mp/eng/late/recon_sl"									("inf_tier2" side(eng) period(late) year(44 45 46) cost(20))} ; thompson smg
+{"mp/eng/late/recon_rifle"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(10))} ; enfield rifle
+{"mp/eng/late/recon_smg"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(10))} ; sten
+{"mp/eng/late/recon_mortar"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(10))} ; mortar
+
+{"mp/eng/late/can_rifle"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(11))}
+{"mp/eng/late/can_mg"									("inf_tier2" side(eng) period(late) year(44 45 46) cost(11))}
+{"mp/eng/late/can_mg_asst"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(11))}
+{"mp/eng/late/can_sec_2ic"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(11))}
+{"mp/eng/late/can_sec_com"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(11))}
+
+{"mp/eng/late/mot_can_rifle"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(10.8333333))}
+{"mp/eng/late/mot_can_mg"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(10.8333333))}
+{"mp/eng/late/mot_can_mg_asst"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(10.8333333))}
+{"mp/eng/late/mot_can_sec_2ic"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(10.8333333))}
+{"mp/eng/late/mot_can_sec_com"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(10.8333333))}
+
+{"mp/eng/late/eng_rifle"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(14))}
+{"mp/eng/late/eng_mg"									("inf_tier2" side(eng) period(late) year(44 45 46) cost(14))}
+{"mp/eng/late/eng_mg_asst"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(14))}
+{"mp/eng/late/eng_sec_subcom"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(14))}
+{"mp/eng/late/eng_sec_com"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(14))}
+{"mp/eng/late/eng_rifle_gren"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(14))}
+
+{"mp/eng/late/mot_eng_rifle"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(13.3333333))}
+{"mp/eng/late/mot_eng_mg"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(13.3333333))}
+{"mp/eng/late/mot_eng_mg_asst"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(13.3333333))}
+{"mp/eng/late/mot_eng_sec_2ic"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(13.3333333))}
+{"mp/eng/late/mot_eng_sec_com"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(13.3333333))}
+
+{"mp/eng/late/scot_rifle"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(16))}
+{"mp/eng/late/scot_mg"									("inf_tier3" side(eng) period(late) year(44 45 46) cost(16))}
+{"mp/eng/late/scot_mg_asst"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(16))}
+{"mp/eng/late/scot_sec_subcom"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(16))}
+{"mp/eng/late/scot_sec_com"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(16))}
+
+{"mp/eng/late/gds_sec_com"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(37))}
+{"mp/eng/late/gds_sec_2ic"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(37))}
+{"mp/eng/late/gds_rifle"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(37))}
+{"mp/eng/late/gds_ap_miner"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(37))}
+{"mp/eng/late/gds_at_miner"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(37))}
+{"mp/eng/late/gds_builder"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(37))}
+{"mp/eng/late/gds_flamer"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(37))}
+
+{"mp/eng/late/fra_sl"									("inf_tier3" side(eng) period(late) year(44 45 46) cost(3.5714285))}
+{"mp/eng/late/fra_subcom"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(3.5714285))}
+{"mp/eng/late/fra_mg1"									("inf_tier3" side(eng) period(late) year(44 45 46) cost(3.5714285))}
+{"mp/eng/late/fra_mg2"									("inf_tier3" side(eng) period(late) year(44 45 46) cost(3.5714285))}
+{"mp/eng/late/fra_mg_assist1"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(3.5714285))}
+{"mp/eng/late/fra_mg_assist2"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(3.5714285))}
+{"mp/eng/late/fra_rifle"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(3.5714285))}
+
+{"mp/eng/late/1st_air_para_sec_com"						("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_sec_com_cpl"					("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_smg"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_rifle"						("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_piat"						("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_piat_asst"					("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_rec_mg_vgo"					("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_rec_mg_vgo_asst"				("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_mortar"						("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+{"mp/eng/late/1st_air_para_mortar_asst"					("inf_tier4" side(eng) period(late) year(44 45 46) cost(36.3636363636))}
+
+{"mp/eng/late/rm_sec_com"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(31.111111))}
+{"mp/eng/late/rm_sec_subcom"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(31.111111))}
+{"mp/eng/late/rm_rifle"									("inf_tier4" side(eng) period(late) year(44 45 46) cost(31.111111))}
+{"mp/eng/late/rm_mg"									("inf_tier4" side(eng) period(late) year(44 45 46) cost(31.111111))}
+{"mp/eng/late/rm_mg_asst"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(31.111111))}
+
+{"mp/eng/late/can_para_sec_com"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(35))}
+{"mp/eng/late/can_para_sec_2ic"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(35))}
+{"mp/eng/late/can_para_rifle"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(35))}
+{"mp/eng/late/can_para_smg_band"						("inf_tier4" side(eng) period(late) year(44 45 46) cost(35))}
+{"mp/eng/late/can_para_mg"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(35))}
+{"mp/eng/late/can_para_mg_asst"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(35))}
+
+{"mp/eng/late/soe_com"									("inf_tier4" side(eng) period(late) year(44 45 46) cost(43.75))}
+{"mp/eng/late/soe_xo"									("inf_tier4" side(eng) period(late) year(44 45 46) cost(43.75))}
+{"mp/eng/late/soe_delisle"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(43.75))}
+{"mp/eng/late/soe_radio_op"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(43.75))}
+{"mp/eng/late/soe_sten6"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(43.75))}
+
+{"mp/eng/late/sas_sec_com"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_subsec_com"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_tsmg"									("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_rifle"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_piat"									("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_piat_asst"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_mg"									("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_mg_asst"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_at_rifle"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+{"mp/eng/late/sas_medic"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))}
+
+
+{"mp/eng/late/sas_mg_vgo"								("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))} ; vgo
+{"mp/eng/late/sas_mg_asst_vgo"							("inf_tier4" side(eng) period(late) year(44 45 46) cost(41.81818181818182))} ; enfield no4
+
+
+;single callins
+
+{"mp/eng/late/rifle"									("inf_tier2" side(eng) period(late) year(44 45 46) cost(30.4))}
+{"mp/eng/late/smg"										("inf_tier2" side(eng) period(late) year(44 45 46) cost(30.4))}
+
+{"mp/eng/late/mg"										("inf_tier2" side(eng) period(late) year(44 45 46) cost(30.4))}
+{"mp/eng/late/mg_asst"									("inf_tier2" side(eng) period(late) year(44 45 46) cost(30.4))}
+
+{"mp/eng/late/sniper"									("inf_sniper" side(eng) period(late) year(44 45 46) cost(12.9))}
+{"mp/eng/late/sas_sniper"								("inf_sniper" side(eng) period(late) year(44 45 46) cost(36.2))}
+
+{"mp/eng/late/antitank_boys"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(30.4))}
+{"mp/eng/late/antitank_boys_asst"						("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+
+{"mp/eng/late/smg_drum"									("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+
+{"mp/eng/late/antitank_piat"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+{"mp/eng/late/antitank_piat_asst"						("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+
+{"mp/eng/late/r_eng_mine_ap"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+{"mp/eng/late/r_eng_mine_at"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+
+{"mp/eng/late/r_eng_flamer"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+{"mp/eng/late/r_eng_sapper"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+{"mp/eng/late/r_eng_builder"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(8.7))}
+
+
+
+;SP SECTION
+
+{"mp/eng/late/com_delisle"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.0))}
+{"mp/eng/late/com_sniper"								("inf_sniper" side(eng) period(late) year(44 45 46) cost(15.0))}
+
+
+{"mp/eng/late/gds_ad_crew"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(2.857142857))}
+{"mp/eng/late/gds_ad_driver"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(2.857142857))}
+{"mp/eng/late/gds_ad_sec_com"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(2.857142857))}
+{"mp/eng/late/gds_ad_sec_2ic"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(2.857142857))}
+{"mp/eng/late/gds_ad_rifle_gren"						("inf_tier2" side(eng) period(late) year(44 45 46) cost(2.857142857))}
+{"mp/eng/late/gds_ad_rifle_band"						("inf_tier2" side(eng) period(late) year(44 45 46) cost(2.857142857))}
+{"mp/eng/late/gds_ad_mg"								("inf_tier2" side(eng) period(late) year(44 45 46) cost(2.857142857))}
+{"mp/eng/late/gds_ad_mg_asst"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(2.857142857))}
+
+{"mp/eng/late/r_eng_sec_com"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(15.0))}
+{"mp/eng/late/r_eng_sec_2ic"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(15.0))}
+{"mp/eng/late/r_eng_builder"							("inf_tier2" side(eng) period(late) year(44 45 46) cost(15.0))}
+
+{"mp/eng/late/com_subsec_com"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(23))}
+{"mp/eng/late/com_subsec_2ic"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(23))}
+{"mp/eng/late/com_rifle_band"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(23))}
+{"mp/eng/late/com_smg_s"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(23))}
+{"mp/eng/late/com_rifle_piat"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(23))}
+{"mp/eng/late/com_rifle_piat_asst"						("inf_tier3" side(eng) period(late) year(44 45 46) cost(23))}
+{"mp/eng/late/com_mg"									("inf_tier3" side(eng) period(late) year(44 45 46) cost(23))}
+{"mp/eng/late/com_mg_asst"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(23))}
+
+{"mp/eng/late/1st_ad_tank_com_m1928"					("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_tankman"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_driver_smg"						("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_crew"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_sec_com"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_sec_2ic"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_rifle_band"						("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_at_piat"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_at_piat_asst"						("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_mg"								("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+{"mp/eng/late/1st_ad_mg_asst"							("inf_tier3" side(eng) period(late) year(44 45 46) cost(15.8333333333))}
+
+;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+; // Specials
+
+{"mp/eng/late/fo_radio_88"						("inf_signaller" side(eng) period(late) year(44 45 46) cost(8.3))} ; sten mk2
+{"mp/eng/late/fo_radio_114"						("inf_signaller" side(eng) period(late) year(44 45 46) cost(8.3))} ; sten mk2
+{"mp/eng/late/fo_radio_140"						("inf_signaller" side(eng) period(late) year(44 45 46) cost(8.3))} ; sten mk2
+{"mp/eng/late/fo_radio_183"						("inf_signaller" side(eng) period(late) year(44 45 46) cost(8.3))} ; sten mk2
+
+{"mp/eng/late/driver"							("inf_tankman" side(eng) period(late) year(44 45 46) cost(8.3))} ; enfield no4
+{"mp/eng/late/driver_smg"						("inf_tankman" side(eng) period(late) year(44 45 46) cost(10.3))} ; sten mk2
+{"mp/eng/late/crew"								("inf_tankman" side(eng) period(late) year(44 45 46) cost(8.3))} ; enfield no4
+{"mp/eng/late/mot_scout_driver"					("inf_tankman" side(eng) period(late) year(44 45 46) cost(8.3))} ; enfield no4
+{"mp/eng/late/rec_carrier_driver"				("inf_tankman" side(eng) period(late) year(44 45 46) cost(8.3))} ; enfield no4
+
+{"mp/eng/late/artilleryman"						("inf_tankman" side(eng) period(late) year(44 45 46) cost(8.0))}
+{"mp/eng/late/tank_commander"					("inf_tankman" side(eng) period(late) year(44 45 46) cost(15.0))}
+{"mp/eng/late/tank_commander_m1928"				("inf_tankman" side(eng) period(late) year(44 45 46) cost(17.0))}
+{"mp/eng/late/tankman"							("inf_tankman" side(eng) period(late) year(44 45 46) cost(8.0))}
+{"mp/eng/late/vehicle_com_cpl"					("inf_tankman" side(eng) period(late) year(44 45 46) cost(15.0))}
+{"mp/eng/late/vehicle_com_sgt"					("inf_tankman" side(eng) period(late) year(44 45 46) cost(15.0))}
+{"mp/eng/late/vehicle_crew"						("inf_tankman" side(eng) period(late) year(44 45 46) cost(8.0))}
+{"mp/eng/late/tankman_ace"						("inf_tankman" side(eng) period(late) year(44 45 46) cost(8.0))}
+{"mp/eng/late/tank_commander_ace"				("inf_tankman" side(eng) period(late) year(44 45 46) cost(15.0))}
+
+{"mp/eng/late/rm_com_crew"						("inf_tankman" side(eng) period(late) year(44 45 46) cost(10.3))} ; enfield no4
+
+{"mp/eng/late/pilot"							("inf_tankman" side(eng) cost(0.0))}
+
+{"mp/can/late/driver_smg"						("inf_tankman" side(can) period(late) year(44 45 46) cost(10.3))} ; sten mk2
+{"mp/can/late/driver"							("inf_tankman" side(can) period(late) year(44 45 46) cost(8.3))} ; enfield no4
+{"mp/can/late/mot_scout_driver"					("inf_tankman" side(can) period(late) year(44 45 46) cost(8.3))} ; enfield no4
+{"mp/can/late/tank_commander"					("inf_tankman" side(can) period(late) year(44 45 46) cost(15.0))}
+{"mp/can/late/tank_commander_m1928"				("inf_tankman" side(can) period(late) year(44 45 46) cost(17.0))}
+{"mp/can/late/tankman"							("inf_tankman" side(can) period(late) year(44 45 46) cost(8.0))}
+
+{"mp/pol/late/1st_ad_driver_smg"				("inf_tankman" side(pol) period(late) year(44 45 46) cost(10.3))} ; sten mk2
+{"mp/pol/late/1st_ad_driver"					("inf_tankman" side(pol) period(late) year(44 45 46) cost(8.3))} ; enfield no4
+{"mp/pol/late/1st_ad_mot_scout_driver"			("inf_tankman" side(pol) period(late) year(44 45 46) cost(8.3))} ; enfield no4
+{"mp/pol/late/1st_ad_tank_com"					("inf_tankman" side(pol) period(late) year(44 45 46) cost(15.0))}
+{"mp/pol/late/1st_ad_tank_com_m1928"			("inf_tankman" side(pol) period(late) year(44 45 46) cost(17.0))}
+{"mp/pol/late/1st_ad_tankman"					("inf_tankman" side(pol) period(late) year(44 45 46) cost(8.0))}
+
+
+{"mp/eng/late/soe_radio_op"						("inf_signaller" side(eng) period(late) year(44 45 46) cost(43.3))} ; m1 carbine
+{"mp/eng/late/soe_com"							("inf_tier4_eng" side(eng) period(late) year(44 45 46) cost(43.3))} ; m1 carbine
+{"mp/eng/late/soe_xo"							("inf_tier4_eng" side(eng) period(late) year(44 45 46) cost(43.3))} ; m1 carbine
+
+
+{"mp/eng/late/medic"							("inf_medic" side(eng) cost(40.0))}
+
+{"mp/eng/late/coy_com"							("inf_officer" side(eng) cost(125.0))}
+
+
+
+
+
+
+
+
+
+
+
+
