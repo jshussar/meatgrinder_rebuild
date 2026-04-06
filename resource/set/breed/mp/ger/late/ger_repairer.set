@@ -1,0 +1,25 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_repairer"}
+	{portrait "ger_gd"}
+	{icon "stg"}
+	{icon_priority 0}
+	{nationality ger}
+	{armors
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_2")
+		
+	}
+	{Impregnability full}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+
+
+		{in_hands 0}
+	}
+}

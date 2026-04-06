@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "fin_m27_cg_s_mg"}
+	{portrait "fin_homeguard"}
+	{icon "mg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality fin}
+	{armors
+		{head fin_furcap_m27_brown}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "madsen" filled}
+		{item "madsen ammo" 150}
+
+		{item "m32_stick grenade" 0.25 0.5}
+		{item "molotov_cocktail_fin grenade" 0.25 0.5}
+
+		{item "bandage_fin" 2.5 0.5}
+
+		{in_hands 0}
+	}
+}

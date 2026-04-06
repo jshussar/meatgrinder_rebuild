@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_rmc_denison_s_gen_sgt"}
+	{portrait "eng_rm_commando"}
+	{icon "smg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_rm_commando}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_3")("tier3_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1a1_30" filling "thompson_mag stick 30 ammo" 30}
+		{item "thompson_mag stick 30 ammo" 150}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.5 0.5}
+		{item "no82 grenade" 0.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 1.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

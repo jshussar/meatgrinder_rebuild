@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_7ad_ms_bren"}
+	{portrait "eng_7th_ad"}
+	{icon "mg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie_mesh_scrim_1}
+	}
+	{perks
+		(include "ability.inc")
+		("mg_skill_rank_3")("tier3_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_5")
+	}
+	{inventory
+		{item "bren_mk2" filling "bren_mag ammo" 28}
+		{item "bren_mag ammo" 196}
+		
+		{item "no36m grenade" 0.75 0.5}
+		{item "no77_wp grenade" 0.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+
+
+		{in_hands 0}
+	}
+}

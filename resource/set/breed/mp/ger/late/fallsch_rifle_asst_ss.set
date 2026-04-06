@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_luft_43_fj_rfl_1"}
+	{portrait "ger_fallsch_recon"}
+	{icon "rifle"}
+	{icon_priority 1}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head ger_stalhelm_fj_43_cover}
+	}
+	{perks
+		(include "ability.inc")
+		("skill8")
+		("recon")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "k98" filled}
+		
+		{item "rifle_ger clip ammo" 60 10}
+		{item "fg42 ammo" 160}
+		{item "stg44 ammo" 180}
+		
+		{item "bandage_ger" 5.5 0.5}
+		{item "shovel_ger"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

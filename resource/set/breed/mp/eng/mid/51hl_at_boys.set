@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_51hl_ms_gen"}
+	{portrait "eng_51st_highland"}
+	{icon "atrifle"}
+	{icon_priority 5}
+	{tags "soldier_atr"}
+	{nationality eng}
+	{voice sco}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_defense")
+		("at_rank_4")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_5")
+	}
+	{inventory
+		{item "boys_mk1" filling "atrifle_eng ap2 ammo" 5}
+		{item "atrifle_eng ap2 ammo" 25}
+
+		{item "no36m grenade" 1.25 0.5}
+		{item "no74 grenade" 1}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

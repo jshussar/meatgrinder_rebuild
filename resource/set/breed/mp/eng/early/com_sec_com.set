@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_com_gen_sgt"}
+	{portrait "eng_commando_stealth"}
+	{icon "smg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beanie}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_3")("tier3_standard")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1928a1_20" filling "thompson_mag stick 20 ammo" 20}
+		{item "thompson_mag stick 20 ammo" 140}
+
+		{item "no36m_early grenade" 1.75 0.5}
+		{item "tnt_eng" 1.25 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "knife_eng"}
+
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

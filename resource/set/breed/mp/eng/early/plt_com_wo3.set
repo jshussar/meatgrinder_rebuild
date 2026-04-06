@@ -1,0 +1,29 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_inf_pistol_wo3"}
+	{portrait "eng_wo3"}
+	{icon "pistol"}
+	{icon_priority 7}
+	{tags "soldier"}
+	{nationality eng_officer}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_standard")
+		("binocular_vision")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no2_mk1" filled}
+		{item "eng_revolver_clip_38 ammo" 24}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "binocular"}
+		{item "uk_peaked_cap_inf"}
+	}
+}

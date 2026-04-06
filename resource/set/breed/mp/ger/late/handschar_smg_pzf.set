@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "ss_hsch_42_smg_1"}
+	{portrait "ger_regular"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head fezka}
+	}
+	{perks
+		(include "ability.inc")
+		("skill5")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mp40_unfolded" filled}
+		{item "mp40 ammo" 192}
+
+		{item "m39 grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 1.25 0.5}
+		{item "m24_geballteladung grenade" 0.5 0.5}
+		{item "molotov_cocktail_fin grenade" 0.50 0.5}
+		;{item "panzerfaust_60 weapon" 1 filled}
+
+		{item "ss_stalhelm_hsch_gog_a_up"}
+
+		{item "bandage_ger" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

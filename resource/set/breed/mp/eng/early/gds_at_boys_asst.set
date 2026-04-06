@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_gds_ms_gen_bag"}
+	{portrait "eng_gren_guards"}
+	{icon "atrifle"}
+	{icon_priority 4}
+	{tags "soldier_atr"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_standard")
+		("at_rank_4")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no1_mk3" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "atrifle_eng ap ammo" 30}
+
+		{item "no36m grenade" 1.5 0.5}
+		{item "molotov_cocktail grenade" 1.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

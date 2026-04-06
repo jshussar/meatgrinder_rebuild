@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_rnc_s_smg_lan"}
+	{portrait "eng_rn_commando"}
+	{icon "smg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie_rn}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_3")("tier3_defense")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "lanchester_mk1_2" filling "lanchester_mag eng_smg ammo" 50}
+		{item "lanchester_mag eng_smg ammo" 200}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.5 0.5}
+		{item "no75 grenade" 0.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

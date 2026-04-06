@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_waff_43_rfl_1"}
+	{portrait "ger_grenadier"}
+	{icon "smg"}
+	{icon_priority 1}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head ger_stalhelm_m39_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("skill4")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mg42_belt" filling "mgun_ger belt ap ammo" 100}
+		{item "mgun_ger belt ap ammo" 400}
+		
+		{item "m24 grenade" 1.25 0.5}
+
+		{item "bandage_ger" 4.5 0.5}
+
+		{in_hands 0}
+	}
+}

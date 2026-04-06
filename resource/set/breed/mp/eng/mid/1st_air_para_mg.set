@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_para_ms_bren"}
+	{portrait "eng_para"}
+	{icon "mg"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_para_net_scrim}
+	}
+	{perks
+		(include "ability.inc")
+		("mg_skill_rank_4")("tier4_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "bren_mk2" filling "bren_mag ammo" 28}
+		{item "bren_mag ammo" 224}
+		
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no74 grenade" 0.75 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "uk_beret_para"}
+
+		{in_hands 0}
+	}
+}

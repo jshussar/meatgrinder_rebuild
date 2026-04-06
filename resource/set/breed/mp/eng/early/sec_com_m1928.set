@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_inf_ms_gen_cpl"}
+	{portrait "eng_cpl"}
+	{icon "smg"}
+	{icon_priority 2}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_2")("tier2_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1928_50" filling "thompson_mag drum ammo" 50}
+		{item "thompson_mag drum ammo" 150}
+
+		{item "no36m_early grenade" 1.75 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

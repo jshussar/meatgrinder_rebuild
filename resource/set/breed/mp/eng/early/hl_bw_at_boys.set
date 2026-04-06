@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_hl_bw_ms_gen_bag"}
+	{portrait "eng_black_watch"}
+	{icon "atrifle"}
+	{icon_priority 5}
+	{tags "soldier_atr"}
+	{nationality eng}
+	{voice sco}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier4_standard")
+		("at_rank_5")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "boys_mk1" filling "atrifle_eng ap ammo" 5}
+		{item "atrifle_eng ap ammo" 25}
+
+		{item "no36m grenade" 1.75 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

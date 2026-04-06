@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "pol_1ad_ms_gen_cpl"}
+	{portrait "pol_1st_ad"}
+	{icon "smg"}
+	{icon_priority 2}
+	{tags "soldier"}
+	{nationality pol}
+	{voice eng_pol}	{armors
+		{head uk_helm_brodie_pol}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_2")("tier2_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "sten_mk2" filling "sten_mag eng_smg ammo" 32}
+		{item "sten_mag eng_smg ammo" 160}
+
+		{item "no69 grenade" 0.25 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 1.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "fin_m36s_arm_pio_ws_s"}
+	{portrait "fin_engineer"}
+	{icon "flamer"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality fin}
+	{armors
+		{head fin_helm_m38_var1_arm}
+	}
+	{perks
+		(include "ability.inc")
+		("skill6")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	} 
+	{inventory
+		{item "roks_2_flame_thrower" filled}
+		{item "ammo flame_thrower" 70}
+
+		{item "m32_stick grenade" 1.75 0.5}
+		{item "m36 grenade" 1.25 0.5}
+		{item "m32 grenade" 0.5 0.5}
+
+		{item "bandage_fin" 4.5 0.5}
+		{item "shovel_fin"}
+
+		{in_hands 0}
+	}
+}

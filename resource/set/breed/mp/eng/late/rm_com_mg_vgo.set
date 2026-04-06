@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_rmc_denison_s_mg"}
+	{portrait "eng_rm_commando"}
+	{icon "mg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_rm_commando}
+	}
+	{perks
+		(include "ability.inc")
+		("mg_skill_rank_3")("tier3_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "vickers_go_no2" filling "vickers_go_mag ammo" 96}
+		{item "vickers_go_mag ammo" 192}
+		
+		{item "no69 grenade" 0.25 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no82 grenade" 0.25 0.5}
+		{item "no75 grenade" 0.25 0.5}
+		{item "no77_wp grenade" 0.5 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

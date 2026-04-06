@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "pol_1ad_gen_sgt"}
+	{portrait "pol_1st_ad_recon"}
+	{icon "rifle"}
+	{icon_priority 3}
+	{tags "soldier"}
+	{nationality pol}
+	{voice eng_pol}	{armors
+		{head uk_sidecap_var2_pol}
+	}
+	{perks
+		(include "ability.inc")
+		("loader_skill_rank_2")("tier2_recon")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "no36m grenade" 1.25 0.5}
+		{item "no77_wp grenade" 1.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "uk_helm_brodie_pol_net"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,37 @@
+{breed
+	{behaviour soldier}
+	{skin "turk_var2_smg_feld"}
+	{portrait "turk_recon"}
+	{icon "autorifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality turk}
+	{armors
+		{head ger_m42_helmet_splinter}
+	}
+	{perks
+		(include "ability.inc")
+		("skill6")
+		("recon")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "ppsh41_drum" filled}
+		{item "ppsh_drum ammo" 213}
+
+		{item "m24 grenade" 1.25 0.5}
+		{item "m24_smoke grenade" 1.25 0.5}
+		{item "m24_geballteladung grenade" 0.15 0.5}
+		
+		{item "tmi_43 mine" 1}
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "turk_fieldcap_m43_var1"}
+
+		{in_hands 0}
+	}
+}

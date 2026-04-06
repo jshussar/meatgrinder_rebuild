@@ -1,0 +1,37 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_glider_ms_rfl_band"}
+	{portrait "eng_airlanding_recon"}
+	{icon "rifle"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_para_net_scrim}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_recon")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 100}
+
+		{item "bren_mag ammo" 56}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no74 grenade" 0.75 0.5}
+		{item "no76_ic grenade" 1.25 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "swe_m36_inf_wc_s_smg"}
+	{portrait "swe_regular"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality swe}
+	{armors
+		{head swe_furcap}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_4")("tier3_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "suomi_m31_stick" filled}
+		{item "suomi_stick ammo" 200}
+
+		{item "m32_stick grenade" 1.5 0.5}
+		{item "m36 grenade" 0.75 0.5}
+		{item "m32 grenade" 0.5 0.5}
+		{item "m32_satchel grenade" 0.5 0.5}
+		{item "molotov_cocktail_fin grenade" 0.75 0.5}
+		{item "svkkr_pm grenade" 0.75 0.5}
+
+
+		{item "bandage_fin" 4.5 0.5}
+		{item "shovel_fin"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

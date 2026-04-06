@@ -1,0 +1,37 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_heer_43_feldg_smg"}
+	{portrait "ger_feldg"}
+	{icon "smg"}
+	{icon_priority 2}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head ger_stalhelm_m43_gog_a_up}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+	
+		{item "luger" filled}
+		{item "pistol ammo" 192}
+		
+		{item "molotov_cocktail_fin grenade" 0.50 0.5}
+
+		{item "bandage_ger" 2.5 0.5}
+		
+		{item "b33r" 1}
+		
+		{item "matchbox" 1}
+		{item "cigarette" 1}
+		
+
+		{in_hands 0}
+	}
+}

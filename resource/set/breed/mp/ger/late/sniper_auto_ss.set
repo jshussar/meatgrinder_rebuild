@@ -1,0 +1,41 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_waff_43_sturm_g43"}
+	{portrait "ger_jager"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head ger_stalhelm_m43_cover_face}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier4_standard")
+		("stealth")
+		("sniper_vision")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "g43_scope" filling "rifle_ger gewehr ammo" 10}
+		{item "rifle_ger gewehr ammo" 20}
+		{item "rifle_ger clip ammo" 60 10}
+
+		{item "luger" filled}
+		{item "pistol ammo" 24 8}
+
+		{item "m24 grenade" 0.25 0.5}
+		{item "m24_smoke grenade" 1.25 0.5}
+		{item "m24_geballteladung grenade" 0.15 0.5}
+
+		{item "bandage_ger" 4.5 0.5}
+		{item "knife_ger"}
+		
+		{item "plant" 1}
+
+		{in_hands 0}
+	}
+}

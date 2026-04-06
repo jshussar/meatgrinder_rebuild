@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "fin_m36_inf_ws_rfl_em3"}
+	{portrait "fin_elite"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality fin}
+	{armors
+		{head fin_helm_m17}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier3_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mosin_m27" filled}
+		{item "rifle_rus clip ammo" 60 5}
+
+		{item "m32_stick grenade" 1.75 0.5}
+		{item "m32 grenade" 1.75 0.5}
+		{item "molotov_cocktail_fin grenade" 1.25 0.5}
+		{item "svkkr_pm grenade" 1.75 0.5}
+
+		{item "bandage_fin" 4.5 0.5}
+
+		{in_hands 0}
+	}
+}

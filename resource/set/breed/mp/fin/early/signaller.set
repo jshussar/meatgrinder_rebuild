@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "fin_m36_sig_wc_rfl"}
+	{portrait "fin_signal"}
+	{icon "signaller"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality fin}
+	{armors
+		{head fin_furcap_m39_up}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier3_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "osp30" filled}
+		{item "flare ammo" 9}
+
+		{item "mosin_m27" filled}
+		{item "rifle_rus clip ammo" 60 5}
+
+		{item "m32_stick grenade" 1.25 0.5}
+		{item "m32 grenade" 0.25 0.5}
+
+		{item "bandage_fin" 3.5 0.5}
+		{item "german_radio" 1}
+
+		{in_hands 0}
+	}
+}

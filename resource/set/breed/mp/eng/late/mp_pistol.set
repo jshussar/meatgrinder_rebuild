@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_mp_pistol_lcpl"}
+	{portrait "eng_mp"}
+	{icon "pistol"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_peaked_cap_mp}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_1")("tier1_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no2_mk1" filled}
+		{item "eng_revolver_clip_38 ammo" 18}
+
+		{item "no36m grenade" 0.25 0.5}
+		{item "no77_wp grenade" 0.25 0.5}
+
+		{item "bandage_eng" 2.5 0.5}
+
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

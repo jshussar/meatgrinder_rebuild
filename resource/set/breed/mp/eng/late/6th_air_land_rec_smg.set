@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_glider2_ms_smg"}
+	{portrait "eng_airlanding_recon"}
+	{icon "smg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_para_net_scrim}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_3")("tier3_recon")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "sten_mk5" filling "sten_mag eng_smg ammo" 32}
+		{item "sten_mag eng_smg ammo" 160}
+
+		{item "bren_mag ammo" 56}
+
+		{item "no69 grenade" 0.75 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no82 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 0.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+
+		{in_hands 0}
+	}
+}

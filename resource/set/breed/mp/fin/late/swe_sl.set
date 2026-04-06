@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "swe_m36s_late_inf_wc_s_smg_em3"}
+	{portrait "swe_regular"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality swe}
+	{armors
+		{head swe_helm_m37}
+	}
+	{perks
+		(include "ability.inc")
+		("skill3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "suomi_m31_sjr_stick" filled}
+		{item "suomi_stick ammo" 200}
+
+		{item "m32_stick grenade" 1.75 0.5}
+		{item "m32 grenade" 0.75 0.5}
+		{item "molotov_cocktail_fin grenade" 1.25 0.5}
+		{item "m43_smoke grenade" 1.75 0.5}
+
+		{item "bandage_fin" 4.5 0.5}
+
+		{in_hands 0}
+	}
+}

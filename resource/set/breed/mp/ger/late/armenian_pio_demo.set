@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "armenian_engi_2"}
+	{portrait "armenian"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality arm}
+	{armors
+		{head ger_stalhelm_m43_gog_a_up}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mosin_ger" filled}
+		{item "rifle_rus clip ammo" 60}
+
+		{item "m39 grenade" 2.25 0.5}
+		{item "nbk39 grenade" 1.25 0.5}
+		{item "hafthohlladung grenade" 1.5 0.5}
+		{item "grenade_mine" 1}
+		{item "dynamite_ger_x3" 1}
+
+		{item "bandage_ger" 3.5 0.5}
+		
+		{in_hands 0}
+	}
+}

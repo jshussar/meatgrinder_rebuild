@@ -1,0 +1,40 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_com_s_rfl_bag"}
+	{portrait "eng_commando"}
+	{icon "rifle"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_commando}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no4_mk1_grenade_launcher" filling "eng_grenade heat ammo" 1}
+		{item "eng_grenade heat ammo" 3.75 0.5}
+		{item "eng_grenade he ammo" 2.75 0.5}
+
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no82 grenade" 0.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 0.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

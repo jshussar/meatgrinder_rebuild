@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "ss_ita_43_at_crew"}
+	{portrait "ger_gebirgsjaeger"}
+	{icon "bazooka"}
+	{icon_priority 0}
+	{tags "soldier_pzscheck"}
+	{nationality ita}
+	{armors
+		{head helmet_ita_ss}
+	}
+	{perks
+		(include "ability.inc")
+		("skill3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "panzershreck_54 weapon" filled}
+		{item "panzershreck ammo" 5.5 0.5}
+
+		{item "carcano_m41" filled}
+		{item "6,5x52 ammo" 60 6}
+
+		{item "oto_mod35 grenade" 1.25 0.5}
+		{item "m24_smoke grenade" 1.25 0.5}
+
+		{item "bandage_ger" 4.5 0.5}
+		{item "shovel_ger"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

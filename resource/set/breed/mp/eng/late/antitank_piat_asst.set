@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_inf2_ms_rfl"}
+	{portrait "eng_infantry"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie_chinstrap}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_2")("tier2_standard")
+		("at_rank_3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "piat_bomb ammo heata" 3}
+
+		{item "no36m grenade" 1.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 0.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "shovel_eng"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_com_gen_pistol_1lt"}
+	{portrait "eng_commando_stealth"}
+	{icon "pistol"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_commando}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_4")("tier4_standard")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "m1911" filled}
+		{item "m1911_mag ammo" 28}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no74 grenade" 0.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "knife_eng"}
+
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

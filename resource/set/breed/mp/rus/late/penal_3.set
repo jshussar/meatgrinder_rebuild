@@ -1,0 +1,29 @@
+{breed
+	{behaviour soldier}
+	{skin "sov_43_inf_smgd_jrsgt_1"}
+	{portrait "rus_conscript"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality rus}
+	{armors
+		{head sov_cap_pilotka_c_var3_sub}
+	}
+	{perks
+		(include "ability.inc")
+		("skill1")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "nagant_revolver" filled}
+		{item "ammo revolver_clip" 21}
+		{item "b33r" 1}
+		{item "matchbox" 1}
+		{item "cigarette" 1}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "civ_01_fra_res_var3"}
+	{portrait "fra_resistance"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality fra}
+	{armors
+		{head civilian_dockyard_cap}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_1")("tier1_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "k98" filled}
+		{item "rifle_ger clip ammo" 45 5}
+
+		{item "molotov_cocktail grenade" 0.75 0.5}
+		{item "m24 grenade" 0.5 0.5}
+
+		{item "bandage_ger" 2.5 0.5}
+
+		{in_hands 0}
+	}
+}

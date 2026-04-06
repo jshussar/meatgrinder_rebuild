@@ -1,0 +1,37 @@
+{breed
+	{behaviour soldier}
+	{skin "georgian_smg_1"}
+	{portrait "georgian"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier_pzfaust"}
+	{nationality geor}
+	{armors
+		{head ger_stalhelm_m43_dirt_wire}
+	}
+	{perks
+		(include "ability.inc")
+		("skill4")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mp717" filled}
+		{item "mp40 ammo" 192}
+
+		{item "kampfpistole_roa" filled}
+		{item "sturm_rocket he ammo" 5}
+		{item "sturm_rocket heat ammo" 5}
+
+		{item "m24_splinter grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 1.25 0.5}
+
+		{item "bandage_ger" 5.5 0.5}
+		{item "shovel_ger"}
+
+		{in_hands 0}
+	}
+}

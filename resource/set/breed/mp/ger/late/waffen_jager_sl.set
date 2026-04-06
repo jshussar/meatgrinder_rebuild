@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_waff_43_sturm_nco_stg_1"}
+	{portrait "ger_jager"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head ger_wf_helm_cover_sum_band}
+	}
+	{perks
+		(include "ability.inc")
+		("skill6")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mp40_folded" filled}
+		{item "mp40 ammo" 192}
+
+		{item "m24_splinter grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 2.25 0.5}
+		{item "nbk39 grenade" 2.25 0.5}
+
+		{item "bandage_ger" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_rec_bren"}
+	{portrait "eng_recce_recon"}
+	{icon "mg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie_mesh_scrim_2}
+	}
+	{perks
+		(include "ability.inc")
+		("mg_skill_rank_2")("tier2_recon")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "bren_mk2" filling "bren_mag ammo" 28}
+		{item "bren_mag ammo" 196}
+		
+		{item "no36m grenade" 0.75 0.5}
+		{item "no77_wp grenade" 0.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

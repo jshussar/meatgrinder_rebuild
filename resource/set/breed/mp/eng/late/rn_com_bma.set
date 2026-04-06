@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_rnc_pistol_2lt"}
+	{portrait "eng_2lt"}
+	{icon "pistol"}
+	{icon_priority 9}
+	{tags "soldier"}
+	{nationality eng_officer}
+	{armors
+		{head uk_peaked_cap_navy}
+	}
+	{perks
+		(include "ability.inc")
+		("skill5")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "sten_mk5" filling "sten_mag eng_smg ammo" 32}
+		{item "sten_mag eng_smg ammo" 224}
+		
+		{item "webley_mk6" filled}
+		{item "eng_revolver_clip_45 ammo" 24}
+
+		{item "no77_wp grenade" 1.75 0.5}
+		
+		{item "tnt_eng" 1}
+
+		{item "bandage_eng" 4.5 0.5}
+		
+		{in_hands 0}
+	}
+}

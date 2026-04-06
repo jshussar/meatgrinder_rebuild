@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_gds_ms_bren"}
+	{portrait "eng_gren_guards"}
+	{icon "mg"}
+	{icon_priority 4}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("mg_skill_rank_3")("tier3_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "bren_mk1" filling "bren_mag ammo" 28}
+		{item "bren_mag ammo" 196}
+		
+		{item "no36m_early grenade" 1.25 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

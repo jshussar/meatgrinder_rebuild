@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "georgian_mg"}
+	{portrait "georgian"}
+	{icon "mg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality geor}
+	{armors
+		{head ger_stalhelm_m43_band_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("skill4")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mg42_belt" filling "mgun_ger belt ap ammo" 100}
+		{item "mgun_ger belt ap ammo" 600}
+
+		;{item "p38" filled}
+		;{item "pistol ammo" 16}
+
+		{item "m24_splinter grenade" 1.25 0.5}
+		{item "m24_smoke grenade" 1.25 0.5}
+
+		{item "bandage_ger" 5.5 0.5}
+		{item "m43_georgian_var1"}
+
+		{in_hands 0}
+	}
+}

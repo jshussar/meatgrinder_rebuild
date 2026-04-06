@@ -1,0 +1,29 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_para_pistol_1lt"}
+	{portrait "eng_1lt"}
+	{icon "pistol"}
+	{icon_priority 10}
+	{tags "soldier"}
+	{nationality eng_officer}
+	{armors
+		{head uk_beret_para}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_4")("tier4_standard")
+		("binocular_vision")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "m1911" filled}
+		{item "m1911_mag ammo" 28}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "binocular"}
+		{item "uk_helm_para_net"}
+	}
+}

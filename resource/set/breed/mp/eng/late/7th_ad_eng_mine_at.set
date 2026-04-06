@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_7ad_rs_rfl"}
+	{portrait "eng_miner_at"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_defense")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_5")
+	}
+	{inventory
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "no36m grenade" 1.5 0.5}
+		{item "no77_wp grenade" 0.75 0.5}
+		{item "mine at_gs_mk5" 8.5 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

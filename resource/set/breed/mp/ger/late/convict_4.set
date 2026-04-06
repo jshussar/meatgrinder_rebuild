@@ -1,0 +1,29 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_heer_43_convict_rfl"}
+	{portrait "ger_penal"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head ger_sidecap_m41_var1}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		
+		{item "molotov_cocktail_fin grenade" 0.50 0.5}
+		
+		{item "tmi_35 mine" 5}
+		{item "matchbox" 1}
+		{item "cigarette" 1}
+		
+	}
+}

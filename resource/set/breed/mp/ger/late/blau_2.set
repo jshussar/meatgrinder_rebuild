@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_heer_43_blau_rfl_1"}
+	{portrait "ger_blau"}
+	{icon "rifle"}
+	{icon_priority 1}
+	{tags "soldier"}
+	{nationality spa}
+	{armors
+		{head ger_stalhelm_m39_blau_var3}
+	}
+	{perks
+		(include "ability.inc")
+		("skill3")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "k98" filled}
+		{item "rifle_ger clip ammo" 60 5}
+
+		{item "zb26_mag ammo" 40}
+		{item "bandage_ger" 4.5 0.5}
+		{item "ger_sidecap_m41_var3"}
+
+		{in_hands 0}
+	}
+}

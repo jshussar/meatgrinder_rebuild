@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "rona_44_smg"}
+	{portrait "ger_pzgrenadier"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality roa}
+	{armors
+		{head ss_stalhelm_m43_cover_oak_band}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mp41" filled}
+		{item "mp40 ammo" 192}
+
+		;{item "m24 grenade" 2.25 0.5}
+		;{item "grenade_mine" 1}
+		{item "molotov_cocktail grenade" 0.75 0.5}
+
+		{item "bandage_ger" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

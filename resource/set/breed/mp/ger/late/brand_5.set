@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_heer_45_liberm_stg_uo"}
+	{portrait "ger_brandenburger"}
+	{icon "stg"}
+	{icon_priority 0}
+	{tags "soldier_pzfaust"}
+	{nationality ger}
+	{armors
+		{head ger_stalhelm_m43_cover_ital}
+	}
+	{perks
+		(include "ability.inc")
+		("skill7")
+		("recon")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "stg44" filled}
+		{item "stg44 ammo" 180}
+
+		{item "m24 grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 2.25 0.5}
+		{item "panzerfaust_100 weapon" 1 filled}
+		{item "pwm_l grenade" 2}
+
+		{item "bandage_ger" 5.5 0.5}
+		{item "knife_ger"}
+
+		{in_hands 0}
+	}
+}

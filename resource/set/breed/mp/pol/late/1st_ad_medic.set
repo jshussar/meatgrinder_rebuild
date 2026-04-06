@@ -1,0 +1,30 @@
+{breed
+	{behaviour soldier}
+	{skin "pol_1ad_ms_medic"}
+	{portrait "pol_medic"}
+	{icon "tech"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality pol}
+	{voice eng_pol}	{armors
+		{head uk_helm_brodie_medic}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_2")("tier2_standard")
+		("medic")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no2_mk1" filled}
+		{item "eng_revolver_clip_38 ammo" 18}
+
+		{item "no77_wp grenade" 2.25 0.5}
+
+		{item "bandage_eng" 22.5 2.5}
+		{item "tent_kit" 2}
+	}
+}

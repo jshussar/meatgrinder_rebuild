@@ -1,0 +1,46 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_soe_pistol_gen_sgt"}
+	{portrait "eng_soe"}
+	{icon "rifle"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beanie}
+	}
+	{perks
+		(include "ability.inc")
+		("skill7")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "flare_pistol_mk5" filling "flare_eng artillery_88" 1}
+		{item "flare_eng artillery_114" 1}
+		{item "flare_eng artillery_127" 1}
+		{item "flare_eng artillery_140" 1}
+		{item "flare_eng artillery_183" 1}		
+	
+		{item "m1_carbine" filling "m1_carbine_mag ammo" 15}
+		{item "m1_carbine_mag ammo" 60}
+		
+		{item "welrod" filled}
+		{item "7_65mm_pistol ammo" 21}
+
+		{item "no69 grenade" 1.75 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no75 grenade" 1.25 0.5}
+		{item "tnt_eng" 2.75 0.5}
+		{item "no77_wp grenade" 1.75 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "knife_eng"}
+		{item "eng_radio"}
+
+		{in_hands 0}
+	}
+}

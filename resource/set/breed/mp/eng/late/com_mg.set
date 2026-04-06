@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_com_s_bren"}
+	{portrait "eng_commando"}
+	{icon "mg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_commando}
+	}
+	{perks
+		(include "ability.inc")
+		("skill5")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "bren_mk2" filling "bren_mag ammo" 28}
+		{item "bren_mag ammo" 196}
+		
+		{item "no69 grenade" 0.25 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no82 grenade" 0.25 0.5}
+		{item "no75 grenade" 0.25 0.5}
+		{item "no77_wp grenade" 0.5 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+
+
+		{in_hands 0}
+	}
+}

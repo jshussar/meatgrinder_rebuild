@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "sov_41_vvs_para_flamer"}
+	{portrait "rus_paratrooper"}
+	{icon "flamer"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality rus}
+	{armors
+		{head sov_helm_ssh39_para}
+	}
+	{perks
+		(include "ability.inc")
+		("skill7")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+	
+		{item "roks_3_flame_thrower" filled}
+		{item "ammo flame_thrower" 140}
+		
+		{item "tt33" filled}
+		{item "tt33 ammo" 16}
+
+		{item "rgd33 grenade" 2.75 0.5}
+		{item "rdg1_smoke grenade" 1.75 0.5}
+		{item "rpg40 grenade" 0.95 0.5}
+
+		{item "bandage_rus" 5.5 0.5}
+		{item "knife_rus"}
+
+		{in_hands 0}
+	}
+}

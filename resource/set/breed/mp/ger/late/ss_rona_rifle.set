@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "rona_44_rfl_1"}
+	{portrait "ger_pzgrenadier"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality roa}
+	{armors
+		{head ger_fieldcap_m43}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "vz24" filled}
+		{item "rifle_ger clip ammo" 60 5}
+
+		{item "m39 grenade" 0.75 0.5}
+		;{item "molotov_cocktail grenade" 0.75 0.5}
+
+		{item "wz1928_mag ammo" 40}
+		{item "bandage_ger" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,30 @@
+{breed
+	{behaviour soldier}
+	{skin "sov_43_grd_cav_s_svt_bag"}
+	{portrait "rus_cav"}
+	{icon "autorifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality rus}
+	{armors
+		{head sov_cap_peaked_cav_var1}
+	}
+	{perks
+		(include "ability.inc")
+        ("skill6")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "pps43" filled}
+		{item "pps_stick ammo" 210}
+
+		{item "mgun_rus dp ammo" 47}
+		{item "bandage_rus" 5.5 0.5}
+
+		{in_hands 0}
+	}
+}

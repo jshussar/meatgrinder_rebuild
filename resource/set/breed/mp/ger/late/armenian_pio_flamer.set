@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "armenian_flamer"}
+	{portrait "armenian"}
+	{icon "flamer"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality arm}
+	{armors
+		{head ger_stalhelm_m43_gog_a_down}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "fmw_41_flame_thrower" filled}
+		{item "ammo flame_thrower" 100}
+
+		{item "nbk39 grenade" 1.25 0.5}
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "armenian_sidecap_var2"}
+
+		{in_hands 0}
+	}
+}

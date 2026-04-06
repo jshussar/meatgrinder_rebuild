@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "armenian_engi_3"}
+	{portrait "armenian"}
+	{icon "autorifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality arm}
+	{armors
+		{head armenian_sidecap_m42_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "gewehr_259" filling "rifle_rus svt ammo" 10}
+		{item "rifle_rus svt ammo" 20}
+		{item "rifle_rus clip ammo" 60 10}
+
+		{item "m39 grenade" 1.25 0.5}
+		{item "nbk39 grenade" 1.25 0.5}
+		{item "dynamite_ger_x3" 1}
+		
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "wirecutters"}
+		{item "ger_stalhelm_m43_wire"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "swe_m36_inf_wc_rfl"}
+	{portrait "swe_regular_recon"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality swe}
+	{armors
+		{head swe_skicap}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier3_recon")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "kiv_96" filled}
+		{item "rifle_swe clip ammo" 60 5}
+
+		{item "m32_stick grenade" 1.5 0.5}
+		{item "m36 grenade" 0.75 0.5}
+		{item "m32 grenade" 0.5 0.5}
+		{item "m32_satchel grenade" 0.5 0.5}
+		{item "molotov_cocktail_fin grenade" 0.75 0.5}
+
+
+		{item "bandage_fin" 4.5 0.5}
+
+		{in_hands 0}
+	}
+}

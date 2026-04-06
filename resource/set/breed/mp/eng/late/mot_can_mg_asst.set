@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "can_arm_s_bren_asst"}
+	{portrait "can_infantry"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality can} {voice eng}
+	{armors
+		{head uk_helm_brodie_mk3_mesh_scrim_3}
+	}
+	{perks
+		(include "ability.inc")
+		("skill3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "lewis_mag ammo" 188}
+
+		{item "no69 grenade" 0.25 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no75 grenade" 0.5 0.5}
+		{item "no77_wp grenade" 0.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

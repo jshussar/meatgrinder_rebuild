@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "us_para_101st_s1_crb_2lt"}
+	{portrait "usa_101st_speirs"}
+	{icon "smg"}
+	{icon_priority 10}
+	{tags "soldier"}
+	{nationality usa_officer}
+	{voice usa_speirs}
+	{hero}
+	{armors
+		{head us_m1_para_506pir_co_b_net_camo_2lt}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_4")("tier5_standard")
+		("binocular_vision")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1a1_30" filling "thompson_mag stick 30 ammo" 30}
+		{item "thompson_mag stick 30 ammo" 300}
+		
+		{item "mk2 grenade" 2.25 0.5}
+		{item "anm8_smoke grenade" 1.25 0.5}
+		{item "m15_wp grenade" 0.75 0.5}
+
+		{item "bandage_usa" 5.5 0.5}
+		{item "shovel_usa"}
+		{item "sandbag_kit"}
+		{item "binocular"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "ss_ita_43_at_asst"}
+	{portrait "ger_gebirgsjaeger"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ita}
+	{armors
+		{head helmet_ita_ss}
+	}
+	{perks
+		(include "ability.inc")
+		("skill3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "beretta_m3842" filled}
+		{item "mab38 ammo" 180}
+
+		{item "panzershreck ammo" 5.5 0.5}
+
+		{item "m39 grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 2.25 0.5}
+
+		{item "bandage_ger" 4.5 0.5}
+		{item "shovel_ger"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "uvv_late_rfl_1"}
+	{portrait "uvv"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ukr}
+	{armors
+		{head uvv_sidecap_m42_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "k98" filled}
+		{item "rifle_ger clip ammo" 70 5}
+		{item "mgun_rus dp ammo" 47}
+
+		{item "m24 grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 0.25 0.5}
+		{item "m24_geballteladung grenade" 0.15 0.5}
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "ger_stalhelm_m43_var1"}
+
+		{in_hands 0}
+	}
+}

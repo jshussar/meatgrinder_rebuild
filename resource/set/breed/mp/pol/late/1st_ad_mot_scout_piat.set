@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "pol_1ad_gen"}
+	{portrait "pol_1st_ad_recon"}
+	{icon "bazooka"}
+	{icon_priority 0}
+	{tags "soldier_bazooka"}
+	{nationality pol}
+	{voice eng_pol}	{armors
+		{head uk_helm_brodie_pol}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_2")("tier2_recon")
+		("at_rank_3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "piat" filling "piat_bomb ammo heata" 1}
+		{item "piat_bomb ammo heata" 3}
+
+		{item "no36m grenade" 1}
+
+		{item "bandage_eng" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_inf_ms_gen_bag"}
+	{portrait "eng_infantry"}
+	{icon "atrifle"}
+	{icon_priority 0}
+	{tags "soldier_atr"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_2")("tier2_standard")
+		("at_rank_3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "boys_mk1" filling "atrifle_eng ap ammo" 5}
+		{item "atrifle_eng ap ammo" 25}
+
+		{item "no36m_early grenade" 1.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "shovel_eng"}
+
+		{in_hands 0}
+	}
+}

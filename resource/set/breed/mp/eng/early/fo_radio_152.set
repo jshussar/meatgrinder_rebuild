@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_inf_gen_cpl"}
+	{portrait "eng_signaller"}
+	{icon "signaller"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_2")("tier2_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "flare_pistol_mk5" filling "flare_eng artillery_152" 1}
+		{item "flare_eng artillery_152" 6}	
+	
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "no36m_early grenade" 0.75 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "eng_radio"}
+
+		{in_hands 0}
+	}
+}

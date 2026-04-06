@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_7ad_ms_gen"}
+	{portrait "eng_7th_ad"}
+	{icon "bazooka"}
+	{icon_priority 5}
+	{tags "soldier_bazooka"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_standard")
+		("at_rank_4")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "piat" filling "piat_bomb ammo heat" 1}
+		{item "piat_bomb ammo heat" 3}
+
+		{item "no36m grenade" 1.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

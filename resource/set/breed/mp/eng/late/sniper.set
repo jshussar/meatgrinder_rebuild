@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_denison2_ms_rfl"}
+	{portrait "eng_sniper_stealth"}
+	{icon "sniper"}
+	{icon_priority 1}
+	{tags "soldier"}
+	{nationality eng_sniper}
+	{armors
+		{head uk_helm_brodie_mesh_veil_down}
+	}
+	{perks
+		(include "ability.inc")
+		("skill6")
+		("sniper_vision")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no4_mk1t" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 0.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "shovel_eng"}
+		
+		{item "plant" 1}
+		
+		{in_hands 0}
+	}
+}

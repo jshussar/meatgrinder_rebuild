@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "can_arm_s_rfl_2ic_lcpl"}
+	{portrait "can_infantry"}
+	{icon "smg"}
+	{icon_priority 1}
+	{tags "soldier"}
+	{nationality can} {voice eng}
+	{armors
+		{head uk_helm_brodie_mk3_mesh_chinstrap}
+	}
+	{perks
+		(include "ability.inc")
+		("skill3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1928_50" filled}
+		{item "thompson_mag drum ammo" 150}
+
+		{item "no69 grenade" 0.25 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 1.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "rona_44_sa_uoff"}
+	{portrait "ger_pzgrenadier"}
+	{icon "autorifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality roa}
+	{armors
+		{head ger_stalhelm_m43_cover_ital}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "gewehr_259" filled}
+		{item "rifle_rus svt ammo" 20}
+		{item "rifle_rus clip ammo" 60 10}
+
+		{item "m39 grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 0.75 0.5}
+		;{item "molotov_cocktail grenade" 0.75 0.5}
+
+		{item "bandage_ger" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

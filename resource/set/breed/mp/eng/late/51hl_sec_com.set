@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_51hl_ms_gen_cpl"}
+	{portrait "eng_51st_highland"}
+	{icon "smg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{voice sco}
+	{armors
+		{head uk_servicecap_hd_bw}
+	}
+	{perks
+		(include "ability.inc")
+		("skill5")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1928_20" filling "thompson_mag stick 20 ammo" 20}
+		{item "thompson_mag stick 20 ammo" 140}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no75 grenade" 1.25 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+
+		{in_hands 0}
+	}
+}

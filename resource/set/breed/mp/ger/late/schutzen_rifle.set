@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_waff_43_rfl_1"}
+	{portrait "ger_grenadier"}
+	{icon "smg"}
+	{icon_priority 1}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head ger_stalhelm_m39_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("skill4")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "k98" filled}
+		{item "rifle_ger clip ammo" 60 5}
+		{item "zb26_mag ammo" 40}
+
+		{item "m24 grenade" 1.25 0.5}
+
+		{item "bandage_ger" 4.5 0.5}
+		{item "shovel_ger"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "turk_var2_rfl_1"}
+	{portrait "turk_recon"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality turk}
+	{armors
+		{head turk_fieldcap_m43_var3}
+	}
+	{perks
+		(include "ability.inc")
+		("skill6")
+		("recon")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mosin_ger" filled}
+		{item "rifle_rus clip ammo" 60 5}
+		{item "mgun_ger doubledrum ammo" 75}
+
+		{item "m24 grenade" 1.25 0.5}
+		{item "m24_smoke grenade" 0.5 0.5}
+		{item "m24_geballteladung grenade" 0.15 0.5}
+		
+		{item "tmi_43 mine" 1}
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "ger_stalhelm_m43_var1"}
+
+		{in_hands 0}
+	}
+}

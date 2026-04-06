@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "uvv_late_gef_mg"}
+	{portrait "uvv"}
+	{icon "mg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ukr}
+	{armors
+		{head ger_stalhelm_m43_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mg_120r" filling "mgun_rus dp ammo" 47}
+		{item "mgun_rus dp ammo" 282}
+
+		{item "m24 grenade" 0.25 0.5}
+		{item "m24_smoke grenade" 0.25 0.5}
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "uvv_sidecap_m42_var2"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,42 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_sas_pistol_gen2_band"}
+	{portrait "eng_sas"}
+	{icon "rifle"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_sas_early}
+	}
+	{perks
+		(include "ability.inc")
+		("skill8")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no1_mk3" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 100}
+
+		{item "bren_mag ammo" 168}
+
+		{item "m1911" filled}
+		{item "m1911_mag ammo" 21}
+
+		{item "no69 grenade" 0.75 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "tnt_eng" 0.5 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "knife_eng"}
+
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "ss_ita_43_smg_1_sf"}
+	{portrait "ger_elite"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ita}
+	{armors
+		{head helmet_ita_ss}
+	}
+	{perks
+		(include "ability.inc")
+		("skill3")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mab_38a" filled}
+		{item "mab38 ammo" 240}
+
+		{item "m24_splinter grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 2.25 0.5}
+		{item "m24x5 grenade" 0.5 0.5}
+
+		{item "bandage_ger" 4.5 0.5}
+		
+		{in_hands 0}
+	}
+}

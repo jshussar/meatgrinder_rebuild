@@ -1,0 +1,41 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_sas_denison_pistol_gen_sgt"}
+	{portrait "eng_sas"}
+	{icon "smg"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_sas}
+	}
+	{perks
+		(include "ability.inc")
+		("skill8")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1928a1_30" filling "thompson_mag stick 30 ammo" 30}
+		{item "thompson_mag stick 30 ammo" 180}
+		
+		{item "pistol_no2_mk1" filling "pistol ammo" 13}
+		{item "pistol ammo" 26}
+
+		{item "no69 grenade" 0.75 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no82 grenade" 1.25 0.5}
+		{item "no75 grenade" 1.25 0.5}
+		{item "tnt_eng" 0.75 0.5}
+		{item "no77_wp grenade" 2.25 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "knife_eng"}
+
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "georgian_stg_feld"}
+	{portrait "georgian"}
+	{icon "stg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality geor}
+	{armors
+		{head kubanka_black}
+	}
+	{perks
+		(include "ability.inc")
+		("skill4")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "stg44" filled}
+		{item "stg44 ammo" 210}
+
+		{item "m24_splinter grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 2.25 0.5}
+		{item "m24_geballteladung grenade" 0.5 0.5}
+
+		{item "bandage_ger" 5.5 0.5}
+		{item "ger_stalhelm_m43_dirt_wire"}
+		
+
+		{in_hands 0}
+	}
+}

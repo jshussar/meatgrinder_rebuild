@@ -1,0 +1,39 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_para_ms_pistol_gen"}
+	{portrait "eng_para"}
+	{icon "atrifle"}
+	{icon_priority 6}
+	{tags "soldier_atr"}
+	{nationality eng}
+	{armors
+		{head uk_helm_para}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier4_defense")
+		("at_rank_5")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "boys_mk1" filling "atrifle_eng ap2 ammo" 5}
+		{item "atrifle_eng ap2 ammo" 25}
+
+		{item "m1911" filled}
+		{item "m1911_mag ammo" 28}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no74 grenade" 1.25 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "uk_beret_para_eng"}
+
+		{in_hands 0}
+	}
+}

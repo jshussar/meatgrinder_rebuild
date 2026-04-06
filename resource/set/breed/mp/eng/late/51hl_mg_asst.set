@@ -1,0 +1,39 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_51hl_ms_gen_band_bag"}
+	{portrait "eng_51st_highland"}
+	{icon "rifle"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{voice sco}
+	{armors
+		{head uk_servicecap_hd_bw}
+	}
+	{perks
+		(include "ability.inc")
+		("skill5")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no1_mk3" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "bren_mag ammo" 140}
+
+		{item "no36m grenade" 1.25 0.5}
+		{item "no75 grenade" 0.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "sandbag_kit"}
+		
+		{item "bagpipes"}
+
+		{in_hands 0}
+	}
+}

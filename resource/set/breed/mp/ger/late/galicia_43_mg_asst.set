@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "galicia_ss_43_mg_asst"}
+	{portrait "galicia"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ukr}
+	{armors
+		{head ss_stalhelm_m40_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("skill4")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mosin_ger" filled}
+		{item "rifle_rus clip ammo" 60 5}
+
+		{item "m24 grenade" 1.25 0.5}
+		{item "m24_smoke grenade" 1.25 0.5}
+
+		{item "mgun_ger belt ammo" 600}
+		{item "bandage_ger" 3.5 0.5}
+		{item "shovel_ger"}
+		{item "sandbag_kit"}
+		{item "sandbag_kit"}
+		{item "ger_overseascap_ss_var2"}
+
+		{in_hands 0}
+	}
+}

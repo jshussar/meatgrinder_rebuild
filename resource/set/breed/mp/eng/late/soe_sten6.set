@@ -1,0 +1,40 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_soe_pistol_gen_sgt"}
+	{portrait "eng_soe"}
+	{icon "smg"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beanie}
+	}
+	{perks
+		(include "ability.inc")
+		("skill7")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "sten_mk6" filling "sten_mag eng_smg ammo" 32}
+		{item "sten_mag eng_smg ammo" 160}
+		
+		{item "m1911" filled}
+		{item "m1911_mag ammo" 14}
+
+		{item "no69 grenade" 1.75 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no75 grenade" 1.25 0.5}
+		{item "tnt_eng" 2.75 0.5}
+		{item "no77_wp grenade" 1.75 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "knife_eng"}
+
+
+		{in_hands 0}
+	}
+}

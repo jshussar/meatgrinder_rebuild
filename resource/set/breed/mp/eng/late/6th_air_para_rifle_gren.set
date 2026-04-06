@@ -1,0 +1,39 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_para2_ms_rfl_bag"}
+	{portrait "eng_para"}
+	{icon "rifle"}
+	{icon_priority 6}
+	{tags "soldier_atr_grenade"}
+	{nationality eng}
+	{armors
+		{head uk_helm_para_net}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier4_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no4_mk1_grenade_launcher" filling "eng_grenade heat ammo" 1}
+		{item "eng_grenade heat ammo" 4.5 0.5}
+		{item "eng_grenade he ammo" 3.5 0.5}
+		
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "no69 grenade" 0.75 0.5}
+		{item "no82 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 0.75 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "uk_beret_para"}
+
+		{in_hands 0}
+	}
+}

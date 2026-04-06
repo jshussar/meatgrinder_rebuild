@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "ger_heer_43_blau_mg"}
+	{portrait "ger_blau"}
+	{icon "mg"}
+	{icon_priority 1}
+	{tags "soldier"}
+	{nationality spa}
+	{armors
+		{head ger_stalhelm_m39_blau_strap}
+	}
+	{perks
+		(include "ability.inc")
+		("skill3")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mg26t" filled}
+		{item "zb26_mag ammo" 300}
+
+
+		{item "bandage_ger" 4.5 0.5}
+		{item "ger_sidecap_m39_var2_inf"}
+
+		{in_hands 0}
+	}
+}

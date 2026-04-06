@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_gds_ad_vehicle_crew_pistol_cpl"}
+	{portrait "eng_tankman"}
+	{icon "tech"}
+	{icon_priority 0}
+	{tags "crew"}
+	{nationality eng}
+	{armors
+		{head uk_beret_tank_headset}
+	}
+	{perks
+		(include "ability.inc")
+		("tank_commander")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "sten_mk2" filling "sten_mag eng_smg ammo" 32}
+		{item "sten_mag eng_smg ammo" 96}
+
+		{item "webley_mk6" filled}
+		{item "eng_revolver_clip_45 ammo" 18}
+
+		{item "bandage_eng" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,39 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_sas_pistol_gen"}
+	{portrait "eng_sas"}
+	{icon "smg"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_sas_early}
+	}
+	{perks
+		(include "ability.inc")
+		("loader_skill_smg_rank_4")("tier4_standard")
+		("skilled_repair")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1928a1_30" filling "thompson_mag stick 30 ammo" 30}
+		{item "thompson_mag stick 30 ammo" 180}
+		
+		{item "m1911" filled}
+		{item "m1911_mag ammo" 21}
+
+		{item "no69 grenade" 0.75 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no74 grenade" 0.75 0.5}
+		{item "tnt_eng" 0.75 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

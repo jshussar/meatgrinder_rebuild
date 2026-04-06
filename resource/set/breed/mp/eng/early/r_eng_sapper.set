@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_r_eng_rs_gen_bag"}
+	{portrait "eng_engineer"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_2")("tier2_defense")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no1_mk3" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "no36m_early grenade" 1.75 0.5}
+		{item "molotov_cocktail grenade" 1.5 0.5}
+		{item "tnt_eng" 5.5 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "wirecutters"}
+
+		{in_hands 0}
+	}
+}

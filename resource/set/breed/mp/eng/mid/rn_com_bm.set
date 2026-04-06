@@ -1,0 +1,28 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_rnc_pistol_1lt"}
+	{portrait "eng_1lt"}
+	{icon "pistol"}
+	{icon_priority 10}
+	{tags "soldier"}
+	{nationality eng_officer}
+	{armors
+		{head uk_peaked_cap_navy}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_defense")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "webley_mk6" filled}
+		{item "eng_revolver_clip_45 ammo" 24}
+
+		{item "bandage_eng" 4.5 0.5}
+		
+		{in_hands 0}
+	}
+}

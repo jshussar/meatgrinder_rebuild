@@ -1,0 +1,28 @@
+{breed
+	{behaviour soldier}
+	{skin "fin_tank_com_of2"}
+	{portrait "fin_tankman"}
+	{icon "tech"}
+	{icon_priority 0}
+	{tags "crew"}
+	{nationality fin}
+	{armors
+		{head fin_fieldcap_m36_officer_tank}
+	}
+	{perks
+		(include "ability.inc")
+		("tank_commander")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "lahti_l35" filled}
+		{item "pistol ammo" 16}
+
+		{item "bandage_fin" 2.5 0.5}
+
+		{in_hands 0}
+	}
+}

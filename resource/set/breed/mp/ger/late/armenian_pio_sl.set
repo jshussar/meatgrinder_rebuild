@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "armenian_smg_feld"}
+	{portrait "armenian"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality arm}
+	{armors
+		{head m43_armenian_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mp40_folded" filled}
+		{item "mp40 ammo" 192}
+
+		{item "m24_splinter grenade" 2.25 0.5}
+		{item "nbk39 grenade" 2.25 0.5}
+		
+		{item "dynamite_ger_x3" 0.5 0.5}
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "ger_stalhelm_m43_camo3_var1"}
+
+		{in_hands 0}
+	}
+}

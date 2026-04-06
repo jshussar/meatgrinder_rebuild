@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "sov_43_grd_inf_s_rfl_4"}
+	{portrait "rus_guards"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality rus}
+	{armors
+		{head sov_cap_pilotka_a_var3}
+	}
+	{perks
+		(include "ability.inc")
+        ("skill4")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "piat" filling "piat_bomb ammo heata" 1}
+		{item "piat_bomb ammo heata" 3}
+
+		{item "pps43" filled}
+		{item "pps_stick ammo" 210}
+
+		{item "rgd33 grenade" 1.25 0.5}
+		{item "rdg1_smoke grenade" 1.25 0.5}
+		{item "rpg43 grenade" 0.15 0.5}
+
+		{item "bandage_rus" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

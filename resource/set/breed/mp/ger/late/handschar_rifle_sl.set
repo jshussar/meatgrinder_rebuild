@@ -1,0 +1,36 @@
+{breed
+	{behaviour soldier}
+	{skin "ss_hsch_42_sa_sf"}
+	{portrait "ger_regular"}
+	{icon "autorifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality ger}
+	{armors
+		{head fezka_red}
+	}
+	{perks
+		(include "ability.inc")
+		("skill5")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "gewehr_259" filling "rifle_rus svt ammo" 10}
+		{item "rifle_rus svt ammo" 40}
+		{item "rifle_rus clip ammo" 60 10}
+
+		{item "m24 grenade" 2.25 0.5}
+		{item "m24_smoke grenade" 2.25 0.5}
+		{item "m24x5 grenade" 1.25 0.5}
+		{item "molotov_cocktail_fin grenade" 0.50 0.5}
+
+		{item "ss_stalhelm_hsch_var1"}
+
+		{item "bandage_ger" 3.5 0.5}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "pol_para_ms_gen_bag"}
+	{portrait "pol_1st_para"}
+	{icon "smg"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality pol}
+	{voice eng_pol}	{armors
+		{head uk_helm_para_pol}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_4")("tier4_defense")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "sten_mk2" filling "sten_mag eng_smg ammo" 32}
+		{item "sten_mag eng_smg ammo" 160}
+
+		{item "no36m grenade" 1.25 0.5}
+		{item "no82 grenade" 0.75 0.5}
+		
+		;{item "mortar_2in_mk7" filling "mortareng_50 he" 1}
+		;{item "mortareng_50 he" 2}
+		;{item "mortareng_50 wp" 6}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "pol_beret_para"}
+
+		{in_hands 0}
+	}
+}

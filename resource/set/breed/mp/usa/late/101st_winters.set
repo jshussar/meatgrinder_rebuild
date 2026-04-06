@@ -1,0 +1,39 @@
+{breed
+	{behaviour soldier}
+	{skin "us_para_101st_s1_crb_1lt"}
+	{portrait "usa_101st_winters"}
+	{icon "autorifle"}
+	{icon_priority 10}
+	{tags "soldier"}
+	{nationality usa_officer}
+	{voice usa_winters}
+	{hero}
+	{armors
+		{head us_m1_para_506pir_co_b_1lt}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier5_standard")
+		("binocular_vision")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "garand" filling "rifle_usa garand_clip ap ammo" 8}
+		{item "rifle_usa garand_clip ap ammo" 112} ;//128+8
+		{item "rifle_usa garand_clip trace ammo" 16}
+		
+		{item "mk2 grenade" 2.25 0.5}
+		{item "anm8_smoke grenade" 1.25 0.5}
+		{item "m15_wp grenade" 0.75 0.5}
+
+		{item "bandage_usa" 5.5 0.5}
+		{item "shovel_usa"}
+		{item "sandbag_kit"}
+		{item "binocular"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_inf2_ms_rfl_2ic_lcpl"}
+	{portrait "eng_lcpl"}
+	{icon "smg"}
+	{icon_priority 1}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("skill4")
+		("recon")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1a1_30" filling "thompson_mag stick 30 ammo" 30}
+		{item "thompson_mag stick 30 ammo" 150}
+
+		{item "no69 grenade" 0.25 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 1.25 0.5}
+
+		{item "bandage_eng" 3.5 0.5}
+		
+		{item "at_gs_mk5 mine" 2}
+
+	
+
+		{in_hands 0}
+	}
+}

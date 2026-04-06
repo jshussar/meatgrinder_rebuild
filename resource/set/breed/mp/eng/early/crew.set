@@ -1,0 +1,32 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_inf_gen"}
+	{portrait "eng_vehicleman"}
+	{icon "tech"}
+	{icon_priority 0}
+	{tags "crew"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie}
+	}
+	{perks
+		(include "ability.inc")
+		("loader_skill_rank_2")("tier2_standard")
+		("skilled_repair")
+		("expert_gun")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no1_mk3" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "no36m_early grenade" 1}
+
+		{item "bandage_eng" 2.5 0.5}
+
+		{in_hands 0}
+	}
+}

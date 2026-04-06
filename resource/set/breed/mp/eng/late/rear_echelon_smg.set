@@ -1,0 +1,30 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_aux_var2"}
+	{portrait "eng_infantry"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_sidecap_var2}
+	}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_1")("tier1_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "sten_mk2" filling "sten_mag eng_smg ammo" 32}
+		{item "sten_mag eng_smg ammo" 160}
+
+		{item "no36m grenade" 0.75 0.5}
+
+		{item "bandage_eng" 2.5 0.5}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,40 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_rmc_s_gen"}
+	{portrait "eng_rm_commando"}
+	{icon "rifle"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_rm_commando}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_3")("tier3_standard")
+		("at_rank_4")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "boys_mk1" filling "atrifle_eng ap2 ammo" 5}
+		{item "atrifle_eng ap2 ammo" 25}
+
+		{item "m1911" filled}
+		{item "m1911_mag ammo" 28}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.5 0.5}
+		{item "no74 grenade" 0.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

@@ -1,0 +1,30 @@
+{breed
+	{behaviour soldier}
+	{skin "civ_02_fra_res_var4"}
+	{portrait "fra_resistance"}
+	{icon "smg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality fra}
+	{armors}
+	{perks
+		(include "ability.inc")
+		("smg_skill_rank_1")("tier1_standard")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mp40_unfolded" filled}
+		{item "mp40 ammo" 96}
+
+		{item "molotov_cocktail grenade" 0.75 0.5}
+		{item "m24 grenade" 0.75 0.5}
+		{item "dynamite_ger_x3" 0.5 0.5}
+
+		{item "bandage_ger" 2.5 0.5}
+
+		{in_hands 0}
+	}
+}

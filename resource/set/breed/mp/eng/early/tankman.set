@@ -1,0 +1,28 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_early_vehicle_crew_pistol"}
+	{portrait "eng_tankman"}
+	{icon "tech"}
+	{icon_priority 0}
+	{tags "crew"}
+	{nationality eng}
+	{armors
+		{head uk_beret_tank}
+	}
+	{perks
+		(include "ability.inc")
+		("tankman")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no2_mk1" filled}
+		{item "eng_revolver_clip_38 ammo" 18}
+
+		{item "bandage_eng" 2.5 0.5}
+
+		{in_hands 0}
+	}
+}

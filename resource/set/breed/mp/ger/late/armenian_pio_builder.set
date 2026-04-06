@@ -1,0 +1,37 @@
+{breed
+	{behaviour soldier}
+	{skin "armenian_engi_1"}
+	{portrait "armenian"}
+	{icon "rifle"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality arm}
+	{armors
+		{head m43_armenian_var3}
+	}
+	{perks
+		(include "ability.inc")
+		("skill2")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "k98" filled}
+		{item "rifle_ger clip ammo" 60 5}
+
+		{item "m24_splinter grenade" 1}
+		{item "nbk39 grenade" 1}
+		{item "hafthohlladung grenade" 0.75 0.5}
+		{item "geballteladung_3kg" 1}
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "mine_detector"}
+		{item "shovel_ger"}
+		{item "pickaxe"}
+		{item "ger_stalhelm_m43_gog_a_up"}
+
+		{in_hands 0}
+	}
+}

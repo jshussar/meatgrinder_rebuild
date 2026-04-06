@@ -1,0 +1,35 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_rnc_s_mg"}
+	{portrait "eng_rn_commando"}
+	{icon "mg"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_brodie_rn}
+	}
+	{perks
+		(include "ability.inc")
+		("mg_skill_rank_3")("tier3_defense")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "lewis_gun" filling "lewis_mag ammo" 47}
+		{item "lewis_mag ammo" 188}
+		
+		{item "no69 grenade" 0.25 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no75 grenade" 0.5 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

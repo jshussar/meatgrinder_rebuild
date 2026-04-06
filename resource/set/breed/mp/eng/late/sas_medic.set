@@ -1,0 +1,34 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_sas_denison_pistol_gen_band"}
+	{portrait "eng_sas"}
+	{icon "medic"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_sas}
+	}
+	{perks
+		(include "ability.inc")
+		("skill8")
+		("medic")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 100}
+		
+		{item "no77_wp grenade" 1.25 0.5}
+
+		{item "bandage_eng" 20 2.5}
+		{item "tent_kit" 2}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

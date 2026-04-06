@@ -1,0 +1,33 @@
+{breed
+	{behaviour soldier}
+	{skin "turk_var2_mg"}
+	{portrait "turk_recon"}
+	{icon "mg"}
+	{icon_priority 0}
+	{tags "soldier"}
+	{nationality turk}
+	{armors
+		{head ger_stalhelm_m43_camo1_band_var1}
+	}
+	{perks
+		(include "ability.inc")
+		("skill6")
+		("recon")
+		
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "mg15" filling "mgun_ger doubledrum ammo" 75}
+		{item "mgun_ger doubledrum ammo" 300}
+
+		{item "m24 grenade" 0.25 0.5}
+		{item "m24_smoke grenade" 0.5 0.5}
+
+		{item "bandage_ger" 3.5 0.5}
+		{item "turk_fieldcap_m43_var2"}
+		{in_hands 0}
+	}
+}

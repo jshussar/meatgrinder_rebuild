@@ -1,0 +1,31 @@
+{breed
+	{behaviour soldier}
+	{skin "pol_1ad_tankman_pistol"}
+	{portrait "pol_tankman"}
+	{icon "tech"}
+	{icon_priority 0}
+	{tags "crew"}
+	{nationality pol}
+	{voice eng_pol}	{armors
+		{head uk_beret_pol_tank_headset}
+	}
+	{perks
+		(include "ability.inc")
+		("tank_commander")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "thompson_m1928a1_30" filling "thompson_mag stick 30 ammo" 30}
+		{item "thompson_mag stick 30 ammo" 90}
+		
+		{item "webley_mk6" filled}
+		{item "eng_revolver_clip_45 ammo" 18}
+
+		{item "bandage_eng" 2.5 0.5}
+
+		{in_hands 0}
+	}
+}

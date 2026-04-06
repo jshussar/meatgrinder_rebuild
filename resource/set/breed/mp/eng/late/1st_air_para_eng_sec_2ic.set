@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_para2_ms_rfl_2ic_sgt"}
+	{portrait "eng_para"}
+	{icon "rifle"}
+	{icon_priority 6}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_helm_para_net}
+	}
+	{perks
+		(include "ability.inc")
+		("rifle_skill_rank_4")("tier4_defense")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_3")
+	}
+	{inventory
+		{item "enfield_no4_mk1" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+
+		{item "bren_mag ammo" 168}
+
+		{item "no69 grenade" 0.75 0.5}
+		{item "no36m grenade" 1.75 0.5}
+		{item "no82 grenade" 1.25 0.5}
+		{item "no75 grenade" 1.25 0.5}
+		{item "no77_wp grenade" 1.25 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "wirecutters"}
+		{item "uk_beret_para_eng"}
+
+		{in_hands 0}
+	}
+}

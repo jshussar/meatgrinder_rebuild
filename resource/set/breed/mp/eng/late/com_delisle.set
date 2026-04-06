@@ -1,0 +1,38 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_com_s_gen"}
+	{portrait "eng_commando_stealth"}
+	{icon "rifle"}
+	{icon_priority 5}
+	{tags "soldier"}
+	{nationality eng}
+	{armors
+		{head uk_beret_commando}
+	}
+	{perks
+		(include "ability.inc")
+		("skill7")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "de_lisle_carbine" filled}
+		{item "de_lisle_carbine_mag ammo" 70}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.5 0.5}
+		{item "no82 grenade" 0.75 0.5}
+		{item "no75 grenade" 0.75 0.5}
+		{item "no77_wp grenade" 0.75 0.5}
+
+		{item "bandage_eng" 4.5 0.5}
+		{item "shovel_eng"}
+		{item "sandbag_kit"}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}

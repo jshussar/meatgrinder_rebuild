@@ -1,0 +1,39 @@
+{breed
+	{behaviour soldier}
+	{skin "uk_sas_pistol_gen"}
+	{portrait "eng_sas"}
+	{icon "rifle"}
+	{icon_priority 6}
+	{tags "crew"}
+	{nationality eng}
+	{armors
+		{head uk_beret_sas_early}
+	}
+	{perks
+		(include "ability.inc")
+		("loader_skill_rank_4")("tier4_standard")
+		("skilled_repair")
+		("expert_gun")
+		("stealth")
+	}
+	{veterancy
+		(include "ability.inc")
+		("veterancy_lvl_0")
+	}
+	{inventory
+		{item "enfield_no1_mk3" filling "rifle_eng clip ammo" 10}
+		{item "rifle_eng clip ammo" 50}
+		
+		{item "m1911" filled}
+		{item "m1911_mag ammo" 21}
+
+		{item "no69 grenade" 0.5 0.5}
+		{item "no36m grenade" 1.25 0.5}
+		{item "no74 grenade" 0.75 0.5}
+
+		{item "bandage_eng" 5.5 0.5}
+		{item "knife_eng"}
+
+		{in_hands 0}
+	}
+}
