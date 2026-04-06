@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  220 220 }
+	{Filtering  1 }
+	{AlphaChannel  0 }
+	{Blend  alpha }
+	{Frame  "flash_shockwave.tga" }
+}

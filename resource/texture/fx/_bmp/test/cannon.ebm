@@ -1,0 +1,23 @@
+{bitmap
+	{Axis  128 0 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Play }
+	{Frame  "cannon.tga/cannonbruno0000.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0001.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0002.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0003.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0004.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0005.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0006.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0007.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0008.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0009.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0010.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0011.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0012.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0013.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0014.tga" 50 }
+	{Frame  "cannon.tga/cannonbruno0015.tga" 50 }
+}

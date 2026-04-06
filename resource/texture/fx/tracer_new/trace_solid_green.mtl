@@ -1,0 +1,6 @@
+{material simple
+	{diffuse "trace_solid_green"}
+	{blend add}
+	{glow 0.01}
+	{emitsheat}
+}

@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  50 50 }
+	{Filtering  1 }
+	{AlphaChannel  0 }
+	{Blend  Light }
+	{Frame  "flashss4.tga" }
+}

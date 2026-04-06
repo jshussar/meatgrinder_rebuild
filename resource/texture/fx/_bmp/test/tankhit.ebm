@@ -1,0 +1,26 @@
+{bitmap
+	{Axis  128 0 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Play }
+	{Frame  "effects.tga/tankhit01.tga" 50 }
+	{Frame  "effects.tga/tankhit02.tga" 50 }
+	{Frame  "effects.tga/tankhit03.tga" 50 }
+	{Frame  "effects.tga/tankhit04.tga" 50 }
+	{Frame  "effects.tga/tankhit05.tga" 50 }
+	{Frame  "effects.tga/tankhit06.tga" 50 }
+	{Frame  "effects.tga/tankhit07.tga" 50 }
+	{Frame  "effects.tga/tankhit08.tga" 50 }
+	{Frame  "effects.tga/tankhit09.tga" 50 }
+	{Frame  "effects.tga/tankhit10.tga" 50 }
+	{Frame  "effects.tga/tankhit11.tga" 50 }
+	{Frame  "effects.tga/tankhit12.tga" 50 }
+	{Frame  "effects.tga/tankhit13.tga" 50 }
+	{Frame  "effects.tga/tankhit14.tga" 50 }
+	{Frame  "effects.tga/tankhit15.tga" 50 }
+	{Frame  "effects.tga/tankhit16.tga" 50 }
+	{Frame  "effects.tga/tankhit17.tga" 50 }
+	{Frame  "effects.tga/tankhit18.tga" 50 }
+	{Frame  "effects.tga/tankhit19.tga" 50 }
+}

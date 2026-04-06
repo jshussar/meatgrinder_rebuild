@@ -1,0 +1,7 @@
+{bitmap
+  {Axis 128 128}
+  {Filtering 0}
+  {AlphaChannel 1}
+	{Blend alpha }
+	{Frame "pointer_01.tga"}
+}

@@ -1,0 +1,7 @@
+{bitmap
+	{Axis 128 128 }
+	{Filtering  1 }
+	{AlphaChannel  0 }
+	{Blend  Alpha }
+	{Frame  "skirmish_cap_5.dds" }
+}

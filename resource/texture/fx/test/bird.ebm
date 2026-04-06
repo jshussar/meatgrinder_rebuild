@@ -1,0 +1,25 @@
+{bitmap
+	
+{Filtering  1 }
+	
+{AlphaChannel  1 }
+	
+{Blend  Alpha }
+
+{Axis  64 64 }
+
+	
+{Animation  loop }
+
+{Frame  "bird/b1_00.tga" 100}
+	
+{Frame  "bird/b1_01.tga" 100}
+	
+{Frame  "bird/b1_02.tga" 100}
+	
+;{Frame  "bird/b1_03.tga" 100}
+	
+
+
+}
+

@@ -1,0 +1,31 @@
+{bitmap
+	{Axis  128 128 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Loop }
+	{Frame  "sm03/frame_01.tga" 80 }
+	{Frame  "sm03/frame_02.tga" 80 }
+	{Frame  "sm03/frame_03.tga" 80 }
+	{Frame  "sm03/frame_04.tga" 80 }
+	{Frame  "sm03/frame_05.tga" 80 }
+	{Frame  "sm03/frame_06.tga" 80 }
+	{Frame  "sm03/frame_07.tga" 80 }
+	{Frame  "sm03/frame_08.tga" 80 }
+	{Frame  "sm03/frame_09.tga" 80 }
+	{Frame  "sm03/frame_10.tga" 80 }
+	{Frame  "sm03/frame_11.tga" 80 }
+	{Frame  "sm03/frame_12.tga" 80 }
+	{Frame  "sm03/frame_13.tga" 80 }
+	{Frame  "sm03/frame_14.tga" 80 }
+	{Frame  "sm03/frame_15.tga" 80 }
+	{Frame  "sm03/frame_16.tga" 80 }
+	{Frame  "sm03/frame_17.tga" 80 }
+	{Frame  "sm03/frame_18.tga" 80 }
+	{Frame  "sm03/frame_19.tga" 80 }
+	{Frame  "sm03/frame_20.tga" 80 }
+	{Frame  "sm03/frame_21.tga" 80 }
+	{Frame  "sm03/frame_22.tga" 80 }
+	{Frame  "sm03/frame_23.tga" 80 }
+	{Frame  "sm03/frame_24.tga" 80 }
+}

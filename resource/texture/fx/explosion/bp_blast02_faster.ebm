@@ -1,0 +1,29 @@
+{bitmap
+	{Axis  139 250}
+	{Filtering  1 }
+	{AlphaChannel  0}
+	{Blend  Light }
+	{Animation  Play}
+
+	{Frame  "bp_blast02/bp_blast2_01.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_02.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_03.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_04.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_05.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_06.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_07.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_08.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_09.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_10.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_11.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_12.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_13.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_14.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_15.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_16.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_17.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_18.tga" 5 }
+	{Frame  "bp_blast02/bp_blast2_01.tga" 5 }
+
+
+}

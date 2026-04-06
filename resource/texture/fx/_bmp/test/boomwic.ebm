@@ -1,0 +1,39 @@
+{bitmap
+	{Axis  128 0 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Play }
+	{Frame  "boomwic.tga/explosions2560000.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560002.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560004.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560006.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560008.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560010.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560012.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560014.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560016.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560018.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560020.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560022.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560024.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560026.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560028.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560030.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560032.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560034.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560036.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560038.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560040.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560042.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560044.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560046.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560048.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560050.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560052.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560054.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560056.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560058.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560060.tga" 50 }
+	{Frame  "boomwic.tga/explosions2560062.tga" 50 }
+}

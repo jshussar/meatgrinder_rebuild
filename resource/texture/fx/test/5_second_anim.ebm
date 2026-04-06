@@ -1,0 +1,22 @@
+{bitmap
+	{Axis  15 17}
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Play }
+	{Frame  "generic_timer/00.tga" 333 }
+	{Frame  "generic_timer/01.tga" 333 }
+	{Frame  "generic_timer/02.tga" 333 }
+	{Frame  "generic_timer/03.tga" 333 }
+	{Frame  "generic_timer/04.tga" 333 }
+	{Frame  "generic_timer/05.tga" 333 }
+	{Frame  "generic_timer/06.tga" 333 }
+	{Frame  "generic_timer/07.tga" 333 }
+	{Frame  "generic_timer/08.tga" 333 }
+	{Frame  "generic_timer/09.tga" 333 }
+	{Frame  "generic_timer/10.tga" 333 }
+	{Frame  "generic_timer/11.tga" 333 }
+	{Frame  "generic_timer/12.tga" 333 }
+	{Frame  "generic_timer/13.tga" 333 }
+	{Frame  "generic_timer/14.tga" 333 }
+}

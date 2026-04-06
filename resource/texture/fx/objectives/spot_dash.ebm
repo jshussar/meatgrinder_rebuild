@@ -1,0 +1,15 @@
+{bitmap
+	
+        {Axis  64 64}
+
+        {Filtering  1 }
+	
+        {AlphaChannel  0 }
+
+	{Blend  Light }
+
+;	{Animation  Play }
+
+	{Frame  "spot_dash.tga"}
+
+}

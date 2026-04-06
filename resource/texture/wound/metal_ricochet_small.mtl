@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "metal_ricochet_small"}
+	{bump ""}
+	{specular "metal_ricochet_small_sp"}
+	{color "230 230 230 25"}
+	{blend test}
+}

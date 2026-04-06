@@ -1,0 +1,39 @@
+{bitmap
+	{Axis  128 0 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Play }
+	{Frame  "fireball1.tga/FireballAgainstBlack010000.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010001.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010002.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010003.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010004.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010005.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010006.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010007.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010008.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010009.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010010.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010011.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010012.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010013.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010014.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010015.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010016.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010017.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010018.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010019.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010020.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010021.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010022.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010023.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010024.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010025.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010026.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010027.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010028.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010029.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010030.tga" 50 }
+	{Frame  "fireball1.tga/FireballAgainstBlack010031.tga" 50 }
+}

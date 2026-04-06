@@ -1,0 +1,39 @@
+{bitmap
+	{Axis  128 0 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Play }
+	{Frame  "fireburst.tga/Fireburst010000.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010001.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010002.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010003.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010004.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010005.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010006.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010007.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010008.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010009.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010010.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010011.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010012.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010013.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010014.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010015.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010016.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010017.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010018.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010019.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010020.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010021.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010022.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010023.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010024.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010025.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010026.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010027.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010028.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010029.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010030.tga" 50 }
+	{Frame  "fireburst.tga/Fireburst010031.tga" 50 }
+}

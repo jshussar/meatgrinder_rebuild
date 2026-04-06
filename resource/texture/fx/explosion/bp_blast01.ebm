@@ -1,0 +1,36 @@
+{bitmap
+	{Axis  128 225 }
+	{Filtering  1 }
+	{AlphaChannel  0}
+	{Blend  Light }
+	{Animation  Play}
+
+	{Frame  "bp_blast01/bp_blast_01.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_02.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_03.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_04.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_05.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_06.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_07.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_08.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_09.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_10.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_11.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_12.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_13.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_14.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_15.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_16.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_17.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_18.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_19.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_20.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_21.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_22.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_23.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_24.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_25.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_26.tga" 30 }
+	{Frame  "bp_blast01/bp_blast_01.tga" 30 }
+
+}

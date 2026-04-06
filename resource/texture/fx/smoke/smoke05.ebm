@@ -1,0 +1,31 @@
+{bitmap
+	{Axis  64 64 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Loop }
+		{Frame  "smoke05/sm05_00.tga" 38 }
+	{Frame  "smoke05/sm05_01.tga" 38 }
+	{Frame  "smoke05/sm05_02.tga" 38 }
+	{Frame  "smoke05/sm05_03.tga" 38 }
+	{Frame  "smoke05/sm05_05.tga" 38 }
+	{Frame  "smoke05/sm05_05.tga" 38 }
+	{Frame  "smoke05/sm05_06.tga" 38 }
+	{Frame  "smoke05/sm05_07.tga" 38 }
+	{Frame  "smoke05/sm05_08.tga" 38 }
+	{Frame  "smoke05/sm05_09.tga" 38 }
+	{Frame  "smoke05/sm05_10.tga" 38 }
+	{Frame  "smoke05/sm05_11.tga" 38 }
+	{Frame  "smoke05/sm05_12.tga" 38 }
+	{Frame  "smoke05/sm05_13.tga" 38 }
+	{Frame  "smoke05/sm05_14.tga" 38 }
+	{Frame  "smoke05/sm05_15.tga" 38 }
+	{Frame  "smoke05/sm05_16.tga" 38 }
+	{Frame  "smoke05/sm05_17.tga" 38 }
+	{Frame  "smoke05/sm05_18.tga" 38 }
+	{Frame  "smoke05/sm05_19.tga" 38 }
+	{Frame  "smoke05/sm05_20.tga" 38 }
+	{Frame  "smoke05/sm05_21.tga" 38 }
+	{Frame  "smoke05/sm05_22.tga" 38 }
+	{Frame  "smoke05/sm05_23.tga" 38 }
+}

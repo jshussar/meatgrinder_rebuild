@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  96 32 }
+	{Filtering  1 }
+	{AlphaChannel  0 }
+	{Blend  Alpha }
+	{Frame  "wood_splinter1.tga" }
+}

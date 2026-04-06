@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  128 32 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Frame  "blood_splash2.tga" }
+}

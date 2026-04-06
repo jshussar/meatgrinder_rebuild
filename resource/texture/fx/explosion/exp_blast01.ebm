@@ -1,0 +1,20 @@
+{bitmap
+	{Axis  137 226 }
+    {Filtering  1 }
+    {AlphaChannel  1 }	
+    {Blend  Light }
+	{Frame  "exp_blast03/frame_14.tga" 25 }	
+	{Frame  "exp_blast03/frame_02.tga" 25 }
+	{Frame  "exp_blast03/frame_03.tga" 25 }
+	{Frame  "exp_blast03/frame_04.tga" 25 }
+	{Frame  "exp_blast03/frame_05.tga" 25 }	
+	{Frame  "exp_blast03/frame_06.tga" 25 }	
+	{Frame  "exp_blast03/frame_07.tga" 25 }	
+	{Frame  "exp_blast03/frame_08.tga" 25 }	
+	{Frame  "exp_blast03/frame_09.tga" 25 }	
+	{Frame  "exp_blast03/frame_10.tga" 25 }	
+	{Frame  "exp_blast03/frame_11.tga" 25 }	
+	{Frame  "exp_blast03/frame_13.tga" 25 }
+	{Frame  "exp_blast03/frame_14.tga" 25 }	
+}
+

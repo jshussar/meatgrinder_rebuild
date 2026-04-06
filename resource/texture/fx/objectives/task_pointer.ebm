@@ -1,0 +1,7 @@
+{bitmap
+	{Axis 0 32}
+	{Filtering  0 }
+	{AlphaChannel  1 }	
+	{Blend  alpha }
+	{Frame  "task_pointer.tga" }
+}

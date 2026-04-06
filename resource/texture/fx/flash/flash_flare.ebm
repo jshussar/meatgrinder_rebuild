@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  50 40 }
+	{Filtering  1 }
+	{AlphaChannel  0 }
+	{Blend  Light}
+	{Frame  "flash_flare.tga" }
+}

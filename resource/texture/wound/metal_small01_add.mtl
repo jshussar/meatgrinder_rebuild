@@ -1,0 +1,5 @@
+{material simple
+	{diffuse "metal_small01_add"}
+	{blend add}
+	{glow 5}
+}

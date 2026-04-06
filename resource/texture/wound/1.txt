@@ -1,0 +1,2 @@
+The game can't really draw hit decals at ricochet angles while still 
+not having dedicated non-pen decals so replaced "ricochet" decals with non-pen ones

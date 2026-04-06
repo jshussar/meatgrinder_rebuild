@@ -1,0 +1,8 @@
+{bitmap
+	{Axis  72 72 }
+	{Mipmap 1}
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Light }
+	{Frame  "effects.tga/fire_ring.tga" }
+}

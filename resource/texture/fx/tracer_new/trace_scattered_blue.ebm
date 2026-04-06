@@ -1,0 +1,7 @@
+{bitmap
+	{Axis 20 16}
+	{Filtering  1 }
+	{AlphaChannel  1 }	
+	{Blend  light }
+	{Frame  "trace_scattered_blue.tga" }
+}

@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "metal_small01"}
+	{bump ""}
+	{specular "metal_small01_sp"}
+	{blend test}
+}

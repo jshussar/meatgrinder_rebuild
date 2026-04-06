@@ -1,0 +1,39 @@
+{bitmap
+	{Axis  125 25}
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Play }
+	{Frame  "exp05/expl_05_01.tga" 20 }
+	{Frame  "exp05/expl_05_02.tga" 20 }
+	{Frame  "exp05/expl_05_03.tga" 20 }
+	{Frame  "exp05/expl_05_04.tga" 30 }
+	{Frame  "exp05/expl_05_05.tga" 30 }
+	{Frame  "exp05/expl_05_06.tga" 30 }
+	{Frame  "exp05/expl_05_07.tga" 30 }
+	{Frame  "exp05/expl_05_08.tga" 30 }
+	{Frame  "exp05/expl_05_09.tga" 30 }
+	{Frame  "exp05/expl_05_10.tga" 30 }
+	{Frame  "exp05/expl_05_11.tga" 30 }
+	{Frame  "exp05/expl_05_12.tga" 30 }
+	{Frame  "exp05/expl_05_13.tga" 30 }
+	{Frame  "exp05/expl_05_14.tga" 30 }
+	{Frame  "exp05/expl_05_15.tga" 30 }
+	{Frame  "exp05/expl_05_16.tga" 30 }
+	{Frame  "exp05/expl_05_17.tga" 30 }
+	{Frame  "exp05/expl_05_18.tga" 30 }
+	{Frame  "exp05/expl_05_19.tga" 20 }
+	{Frame  "exp05/expl_05_20.tga" 20 }
+	{Frame  "exp05/expl_05_21.tga" 20 }
+	{Frame  "exp05/expl_05_22.tga" 20 }
+	{Frame  "exp05/expl_05_23.tga" 20 }
+	{Frame  "exp05/expl_05_24.tga" 20 }
+	{Frame  "exp05/expl_05_25.tga" 20 }
+	{Frame  "exp05/expl_05_26.tga" 20 }
+	{Frame  "exp05/expl_05_27.tga" 20 }
+	{Frame  "exp05/expl_05_28.tga" 20 }
+	{Frame  "exp05/expl_05_29.tga" 20 }
+	{Frame  "exp05/expl_05_30.tga" 20 }
+	{Frame  "exp05/expl_05_31.tga" 20 }
+	{Frame  "exp05/expl_05_32.tga" 20 }
+}

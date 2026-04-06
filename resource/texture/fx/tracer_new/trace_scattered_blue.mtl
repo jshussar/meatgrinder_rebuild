@@ -1,0 +1,6 @@
+{material simple
+	{diffuse "trace_scattered_blue"}
+	{blend add}
+	{glow 10.0}
+	{emitsheat}
+}

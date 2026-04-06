@@ -1,0 +1,50 @@
+{bitmap
+	{Axis  128 150 }
+	{Filtering  1 }
+	{AlphaChannel  0}
+	{Blend  Light }
+	{Animation  Play}
+
+	{Frame  "exp_blast00/exp_blast_001.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_002.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_003.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_004.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_005.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_006.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_007.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_008.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_009.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_010.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_011.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_012.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_013.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_014.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_015.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_016.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_017.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_018.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_019.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_020.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_021.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_022.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_023.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_024.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_025.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_026.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_027.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_028.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_029.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_030.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_031.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_032.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_033.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_034.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_035.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_036.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_037.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_038.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_039.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_040.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_041.tga" 30 }
+	{Frame  "exp_blast00/exp_blast_042.tga" 30 }
+}

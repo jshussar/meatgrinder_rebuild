@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  125 128}
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Light}
+	{Frame  "smoke_fireball.tga"}
+}

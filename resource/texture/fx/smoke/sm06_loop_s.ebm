@@ -1,0 +1,44 @@
+{bitmap
+	{Axis  128 128}
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Loop }
+	{Frame  "smoke06_loop/frame_01.tga" 90 }
+;	{Frame  "smoke06_loop/frame_02.tga" 90 }
+	{Frame  "smoke06_loop/frame_03.tga" 90 }
+;	{Frame  "smoke06_loop/frame_04.tga" 90 }
+	{Frame  "smoke06_loop/frame_05.tga" 90 }
+;	{Frame  "smoke06_loop/frame_06.tga" 90 }
+	{Frame  "smoke06_loop/frame_07.tga" 90 }
+;	{Frame  "smoke06_loop/frame_08.tga" 90 }
+	{Frame  "smoke06_loop/frame_09.tga" 90 }
+;	{Frame  "smoke06_loop/frame_10.tga" 90 }
+	{Frame  "smoke06_loop/frame_11.tga" 90 }
+;	{Frame  "smoke06_loop/frame_12.tga" 90 }
+	{Frame  "smoke06_loop/frame_13.tga" 90 }
+;	{Frame  "smoke06_loop/frame_14.tga" 90 }
+	{Frame  "smoke06_loop/frame_15.tga" 90 }
+;	{Frame  "smoke06_loop/frame_16.tga" 90 }
+	{Frame  "smoke06_loop/frame_17.tga" 90 }
+;	{Frame  "smoke06_loop/frame_18.tga" 90 }
+	{Frame  "smoke06_loop/frame_19.tga" 90 }
+;	{Frame  "smoke06_loop/frame_20.tga" 90 }
+	{Frame  "smoke06_loop/frame_21.tga" 90 }
+;	{Frame  "smoke06_loop/frame_22.tga" 90 }
+	{Frame  "smoke06_loop/frame_23.tga" 90 }
+;	{Frame  "smoke06_loop/frame_24.tga" 90 }
+	{Frame  "smoke06_loop/frame_25.tga" 90 }
+;	{Frame  "smoke06_loop/frame_26.tga" 90 }
+	{Frame  "smoke06_loop/frame_27.tga" 90 }
+;	{Frame  "smoke06_loop/frame_28.tga" 90 }
+	{Frame  "smoke06_loop/frame_29.tga" 90 }
+;	{Frame  "smoke06_loop/frame_30.tga" 90 }
+	{Frame  "smoke06_loop/frame_31.tga" 90 }
+;	{Frame  "smoke06_loop/frame_32.tga" 90 }
+	{Frame  "smoke06_loop/frame_33.tga" 90 }
+;	{Frame  "smoke06_loop/frame_34.tga" 90 }
+	{Frame  "smoke06_loop/frame_35.tga" 90 }
+;	{Frame  "smoke06_loop/frame_36.tga" 90 }
+
+}

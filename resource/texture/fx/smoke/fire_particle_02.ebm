@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  32 32 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Light }
+	{Frame  "fire_particle_02.tga" }
+}

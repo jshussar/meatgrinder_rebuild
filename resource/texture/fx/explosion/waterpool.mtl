@@ -1,0 +1,10 @@
+{material bump
+	{diffuse "/entity/landscape/stamp/_common/puddle/puddle_simple#grey"
+		{Axis 256 256}
+	}	
+	{bump "/entity/landscape/stamp/_common/puddle/puddle_simple_bp"}
+	{specular "/entity/landscape/stamp/_common/puddle/puddle_simple_sp"}
+	{color "230 230 230 25"}  
+	{Blend blend}
+}
+

@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  0 68 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Light }
+	{Frame  "muzzle-side2.tga" }
+}

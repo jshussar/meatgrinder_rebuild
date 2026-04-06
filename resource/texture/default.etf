@@ -1,0 +1,9 @@
+;SDL
+{textures
+	{alpha alpha_channel		
+		(include "alpha.inc")
+    }
+	{light						
+		(include "light.inc")
+	}
+} 

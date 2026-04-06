@@ -1,0 +1,7 @@
+{bitmap
+	{Axis  29 248 }
+ {Filtering  1 }
+	{AlphaChannel  0 }
+	{Blend  Light }	
+{Frame  "flametrower.tga" }
+}

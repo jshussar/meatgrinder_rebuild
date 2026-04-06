@@ -1,0 +1,37 @@
+{bitmap
+	{Axis  64 64 }
+    {Filtering  1 }
+    {AlphaChannel  1 }	
+    {Blend  Light }
+    {Animation  Play }	
+    
+	;{Frame  "black.bmp" 10 }
+	{Frame  "exp01/fxt_fire0000.tga" 20 }
+	{Frame  "exp01/fxt_fire0001.tga" 20 }
+	{Frame  "exp01/fxt_fire0002.tga" 20 }
+	{Frame  "exp01/fxt_fire0003.tga" 20 }
+	{Frame  "exp01/fxt_fire0004.tga" 20 }
+	{Frame  "exp01/fxt_fire0005.tga" 20 }
+	{Frame  "exp01/fxt_fire0006.tga" 20 }
+	{Frame  "exp01/fxt_fire0007.tga" 20 }
+	{Frame  "exp01/fxt_fire0008.tga" 20 }
+	{Frame  "exp01/fxt_fire0009.tga" 20 }
+	{Frame  "exp01/fxt_fire0010.tga" 20 }
+	{Frame  "exp01/fxt_fire0011.tga" 20 }
+	{Frame  "exp01/fxt_fire0012.tga" 20 }
+	{Frame  "exp01/fxt_fire0013.tga" 20 }
+	{Frame  "exp01/fxt_fire0014.tga" 20 }
+	{Frame  "exp01/fxt_fire0015.tga" 20 }
+	{Frame  "exp01/fxt_fire0016.tga" 20 }
+	{Frame  "exp01/fxt_fire0017.tga" 20 }
+	{Frame  "exp01/fxt_fire0018.tga" 20 }
+	{Frame  "exp01/fxt_fire0019.tga" 20 }
+	{Frame  "exp01/fxt_fire0020.tga" 20 }
+	{Frame  "exp01/fxt_fire0021.tga" 20 }
+	{Frame  "exp01/fxt_fire0022.tga" 20 }
+	{Frame  "exp01/fxt_fire0023.tga" 20 }
+
+{Frame  "black.bmp" 40 }
+
+}
+

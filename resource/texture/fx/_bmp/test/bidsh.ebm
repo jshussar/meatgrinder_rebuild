@@ -1,0 +1,26 @@
+{bitmap
+	{Axis  128 0 }
+	{Filtering  1 }
+	{AlphaChannel  1 }
+	{Blend  Alpha }
+	{Animation  Play }
+	{Frame  "effects.tga/bidsh01.tga" 50 }
+	{Frame  "effects.tga/bidsh02.tga" 50 }
+	{Frame  "effects.tga/bidsh03.tga" 50 }
+	{Frame  "effects.tga/bidsh04.tga" 50 }
+	{Frame  "effects.tga/bidsh05.tga" 50 }
+	{Frame  "effects.tga/bidsh06.tga" 50 }
+	{Frame  "effects.tga/bidsh07.tga" 50 }
+	{Frame  "effects.tga/bidsh08.tga" 50 }
+	{Frame  "effects.tga/bidsh09.tga" 50 }
+	{Frame  "effects.tga/bidsh10.tga" 50 }
+	{Frame  "effects.tga/bidsh11.tga" 50 }
+	{Frame  "effects.tga/bidsh12.tga" 50 }
+	{Frame  "effects.tga/bidsh13.tga" 50 }
+	{Frame  "effects.tga/bidsh14.tga" 50 }
+	{Frame  "effects.tga/bidsh15.tga" 50 }
+	{Frame  "effects.tga/bidsh16.tga" 50 }
+	{Frame  "effects.tga/bidsh17.tga" 50 }
+	{Frame  "effects.tga/bidsh18.tga" 50 }
+	{Frame  "effects.tga/bidsh19.tga" 50 }
+}
