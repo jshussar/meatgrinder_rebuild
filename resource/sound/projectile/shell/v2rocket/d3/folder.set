@@ -1,0 +1,4 @@
+{sound
+	(include "\sound\defines.inc")
+	("v2_rocket_buzz_far")
+}

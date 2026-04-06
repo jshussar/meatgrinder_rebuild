@@ -1,0 +1,5 @@
+{sound
+	(include "\sound\defines.inc")
+	("Explosion_sturmpop_close")
+	{volume 2.0}
+}

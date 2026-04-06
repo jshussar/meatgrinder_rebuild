@@ -1,0 +1,5 @@
+{sound
+  (include "\sound\defines.inc")
+  ("bkg_explosion_vehicle")
+  	{volume 4.0}
+}

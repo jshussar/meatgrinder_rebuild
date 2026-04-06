@@ -1,0 +1,5 @@
+{sound
+(include "\sound\defines.inc")
+("hit_steel_ricochet")
+	{volume 1.5}
+}
