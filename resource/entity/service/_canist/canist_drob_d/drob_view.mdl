@@ -1,0 +1,22 @@
+;Exported by: Руслан
+;Date:        Tue Jun 26 17:53:33 2012
+;File:        C:\Users\Руслан\Documents\3dsmax\scenes\mushket.max
+{Skeleton
+	{bone "drob"
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "drob.ply"}
+	}
+}
+{Volume "body"
+	{Sphere 1}
+	{Bone "drob"}
+}
+{Volume "gas_smoke1"
+	{Sphere 1}
+	{Bone "drob"}
+}
+

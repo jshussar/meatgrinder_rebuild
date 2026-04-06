@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/_hum/sov_uniform/sov_gasmask_var1"}
+	{bump "$/_hum/sov_uniform/sov_gasmask_bp"}
+	{specular "$/_hum/sov_uniform/sov_gasmask_sp"}
+	{color "230 230 230 25"}
+	{blend test}
+}

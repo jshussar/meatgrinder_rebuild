@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/_hum/sov_uniform/sov_equip_pioneers"}
+	{bump "$/_hum/sov_uniform/sov_equip_pioneers_bp"}
+	{specular "$/_hum/sov_uniform/sov_equip_pioneers_sp"}
+	{color "230 230 230 25"}
+	{blend test}
+}

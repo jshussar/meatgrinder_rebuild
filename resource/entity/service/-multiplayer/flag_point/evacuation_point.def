@@ -1,0 +1,60 @@
+{actor
+	{Extension "flag_point_base.mdl"}
+	{extender "map_point"}
+	{props "steel" "flag" "map_point" "base_point"}
+
+	(include "flag_point.inc")
+
+	{placer}
+	{extender "structure"
+		{place "sandbags" "flagpoint_sandbags"}
+		{place "ammo" "netting_square"}
+	}
+
+	{extender "fortification"
+		{level
+			{steps 0}					; elements on each quarter of the circle - set to 0 to have 1 element in the center
+			{radius 0}					; radius in game length
+			{angle 45}					; rotation of the fortification circle - omit to set the angle automatically
+			{elementAngle 180}			; rotation of every element - omit to set the elementAngle automatically
+			{buildTime 60}				; time that a single engineer will require to build this fortification level
+			{entity "flagpoint_ammo"}	; name of entity used for the fortification
+		}
+		{level
+			{steps 4}
+			{radius 10}
+			{angle 45}
+			{azimuth 14}
+			{buildTime 120}
+			{entity "sandbag_framed_straight"}
+		}
+		{level
+			{steps 3}
+			{radius 21}
+			{angle 0}
+			{azimuth 10}
+			{buildTime 120}
+			{entity "sandbag_heap_curved"}
+		}
+		{level
+			{steps 2}
+			{radius 45}
+			{angle 0}
+			{azimuth 45}
+			{elementAngle 0}
+			{buildTime 120}
+			{entity "watch_tower"}
+			{skip "1 2 3 4"}
+		}
+		{level
+			{steps 2}
+			{radius 40}
+			{angle 0}
+			{azimuth 45}
+			{elementAngle 0}
+			{buildTime 120}
+			{entity "inf_crate_ger"}
+			{skip "1 2 3 4"}
+		}
+	}
+}

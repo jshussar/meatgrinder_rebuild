@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "hesco_flag_pole"}
+	{bump "hesco_flag_pole_bp"}
+	{specular "hesco_flag_pole_sp"}
+	{color "230 230 230 25"}
+	{blend none}
+}

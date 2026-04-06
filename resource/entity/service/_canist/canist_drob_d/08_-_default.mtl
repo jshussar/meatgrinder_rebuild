@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "pewter2b"}
+	{blend none}
+}

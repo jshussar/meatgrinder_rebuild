@@ -1,0 +1,7 @@
+{actor
+	{extension "flag_point.mdl"}
+	{extender "map_point"}
+	{props "steel" "flag" "map_point" "flag_7"}
+	
+	(include "flag_point_campaign.inc")
+}

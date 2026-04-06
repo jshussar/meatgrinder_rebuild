@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/_hum/civ_clothing/civ_collab_russian_Vizekorporal"}
+	{bump "$/_hum/civ_clothing/civ_partisan_bp"}
+	{specular "$/_hum/civ_clothing/civ_sp"}
+	{color "230 230 230 25"}
+	{blend test}
+}

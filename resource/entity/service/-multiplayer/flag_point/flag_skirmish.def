@@ -1,0 +1,6 @@
+{actor
+	{extension "flag_skirmish.mdl"}
+	{extender "map_point"}
+	{props "map_point" "flag" "map_point_tagger"}
+	{able "-select" "-minimap" "-ammo_out_indicator"}
+}

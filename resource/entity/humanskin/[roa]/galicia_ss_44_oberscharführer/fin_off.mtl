@@ -1,0 +1,7 @@
+{material bump
+	{diffuse 	"$/_hum/fin_uniform/fin_off_var1_inf"}
+	{bump 		"$/_hum/fin_uniform/fin_off_bp"}
+	{specular 	"$/_hum/fin_uniform/fin_off_sp"}
+	{color 		"230 230 230 25"}
+	{blend test}
+}

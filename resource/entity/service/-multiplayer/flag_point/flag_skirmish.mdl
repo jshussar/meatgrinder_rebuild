@@ -1,0 +1,12 @@
+{skeleton
+	{bone "flag_point"
+		{orientation
+			1 	 0 	 0
+			0 	 -1 	 0
+			0 	 0 	 1
+		}
+		{bone "fx_number"
+			{Position 0   0   325}
+		}
+	}
+}

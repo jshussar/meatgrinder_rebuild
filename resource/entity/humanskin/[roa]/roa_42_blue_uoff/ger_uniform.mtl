@@ -1,0 +1,7 @@
+{material bump
+	{diffuse 	"$/_hum/roa_uniform/unif_42/roa_unif_42_blue_uoff"}
+	{bump 		"$/_hum/ger_uniform/ger_unif_bp"}
+	{specular 	"$/_hum/ger_uniform/ger_unif_sp"}
+	{color "230 230 230 25"}
+	{blend none}
+}

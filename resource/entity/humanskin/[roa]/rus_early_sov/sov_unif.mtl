@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/_hum/roa_uniform/early_unif/rus_od_unif"}
+	{bump "$/_hum/sov_uniform/sov_unif_bp"}
+	{specular "$/_hum/sov_uniform/sov_unif_sp"}
+	{color "230 230 230 25"}
+	{blend test}
+}

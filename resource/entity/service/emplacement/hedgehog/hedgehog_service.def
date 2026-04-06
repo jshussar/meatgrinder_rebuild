@@ -1,0 +1,32 @@
+{game_entity
+	(include "/properties/construction.inc")
+	{extension "../../../construction/_military/obstacles/hedgehog2/hedgehog2.mdl"}
+	{props "big" "steel" "parts" "construction" "no_destroyed_stamp" "disable_area" "antitank_hedgehog"}
+	{obstacleID "unbreakable"}
+
+	{constrain surface}
+
+	("armor_hedgehog")
+	("armor_use_volume_thickness")
+	{volume "box001"
+		{Tags "body"}
+		{thickness 10}
+		{able {visible 0}}
+	}
+	{volume "box002"
+		{Tags "body"}
+		{thickness 10}
+		{able {visible 0}}
+	}
+	{volume "box003"
+		{Tags "body"}
+		{thickness 10}
+		{able {visible 0}}
+	}
+	{volume "box004"
+		{Tags "body"}
+		{thickness 10}
+		{able {visible 0}}
+	}
+	{lodclass "decor_medium"}
+}

@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "flag"}
+	{bump "flag_bp"}
+	{specular "flag_sp"}
+	{color "200 200 200 25"}
+	{blend test}
+}

@@ -1,0 +1,49 @@
+;Exported by:	 Carlos
+;Date:			 19.08.2020 12:45:22
+;File:			 T:\GoH_3D_environment_export\3d_environment\_military\flag_point_mp\FlagPoint.max
+{skeleton
+	{bone "flagpoint_sandbags"
+		{orientation
+			1 	 0 	 0
+			0 	 -1 	 0
+			0 	 0 	 1
+		}
+		{bone "body"
+			{Position -3.4732 	 -2.7644 	 13.1578}
+			{VolumeView "body.ply"}
+		}
+		{bone "body1"
+			{matrix34
+				0.5406 	 0.8413 	 0
+				-0.8413 	 0.5406 	 0
+				0 	 0 	 1
+				-17.3008 	 21.0214 	 2.3481
+			}
+			{VolumeView "body1.ply"}
+		}
+		{bone "object001"
+			{matrix34
+				-0.6544 	 0.7561 	 0
+				-0.7561 	 -0.6544 	 0
+				0 	 0 	 1
+				-62.1115 	 -21.9255 	 2.3481
+			}
+			{VolumeView "object001.ply"}
+		}
+	}
+}
+{obstacle "body2"
+	{obb2
+		{center -4.02821 2.00847}
+		{extent 16.9418 16.5053}
+		{axis 1 0}
+	}
+	{rotate}
+	{Tags "body"}
+	{rotate}
+}
+{volume "body2"
+	{box 33.8835 33.0106 21.6813}
+	{bone "body"}
+	{Position -0.555 	 0.7559 	 -2.3171}
+}

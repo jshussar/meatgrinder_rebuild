@@ -1,0 +1,6 @@
+{actor
+	{extension "flag_skirmish.mdl"}
+	{extender "map_point"}
+	{props "map_point" "flag" "map_point_tagger" "skirmish_cap_4_hvtank"}
+	{able "-select" "-minimap" "-ammo_out_indicator"}
+}

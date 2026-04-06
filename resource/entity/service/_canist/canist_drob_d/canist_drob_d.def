@@ -1,0 +1,17 @@
+{game_entity
+	(include "/properties/stuff_grenade_cs.ext")
+	{mass 0.2}
+	{extender "stuff"
+		{item "ammo canist_drob_d"}
+	}
+	{Extension "drob_view.mdl"}
+	{props "bullet_fx" "size1"}
+	{obstacleID "nothing"}
+	{collider "ammo"}
+	{volume "body" 
+		{thickness 1} 
+		{able clear {bullet 1} {contact 1}}
+	}
+	{Volume "gas_smoke1" 
+	}
+}

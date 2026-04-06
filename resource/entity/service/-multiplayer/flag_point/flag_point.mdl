@@ -1,0 +1,125 @@
+;Exported by:	 Carlos
+;Date:			 19.08.2020 12:45:20
+;File:			 T:\GoH_3D_environment_export\3d_environment\_military\flag_point_mp\FlagPoint.max
+{skeleton
+	{animation
+		{sequence "flattern" {speed 0.6}}
+		{sequence "flattern2" {speed 0.6}}
+		{sequence "flattern3" {speed 0.6}}
+	}
+	{bone "flag_point"
+		{orientation
+			1 	 0 	 0
+			0 	 -1 	 0
+			0 	 0 	 1
+		}
+		{Position 0 0 -20}
+		{bone prizmatic "flag"
+			{limits 0 6.8}
+			{bone "flagview"
+				{parameters "id=flag;"}
+				{orientation
+					0 	 0 	 1
+					0 	 1 	 0
+					-1 	 0 	 0
+				}
+				{VolumeView "flagview.ply"}
+			}
+			{bone "root_bone_flag"
+				{orientation
+					0 	 0 	 1
+					0 	 1 	 0
+					-1 	 0 	 0
+				}
+				{bone "top_flag_bone00"
+					{matrix34
+						0 	 1 	 0
+						0 	 0 	 1
+						1 	 0 	 0
+						59.4712 	 1.0031 	 0.0263
+					}
+					{bone "top_flag_bone01"
+						{Position 9.4082 	 0 	 0}
+						{bone "top_flag_bone02"
+							{Position 9.4082 	 0 	 0}
+							{bone "top_flag_bone03"
+								{Position 9.4082 	 0 	 0}
+							}
+						}
+					}
+				}
+				{bone "top_mid_flag_bone00"
+					{matrix34
+						0 	 1 	 0
+						0 	 0 	 1
+						1 	 0 	 0
+						52.5543 	 1.0031 	 0.0263
+					}
+					{bone "top_mid_flag_bone01"
+						{Position 9.4082 	 0 	 0}
+						{bone "top_mid_flag_bone02"
+							{Position 9.4082 	 0 	 0}
+							{bone "top_mid_flag_bone03"
+								{Position 9.4082 	 0 	 0}
+							}
+						}
+					}
+				}
+				{bone "bot_mid_flag_bone00"
+					{matrix34
+						0 	 1 	 0
+						0 	 0 	 1
+						1 	 0 	 0
+						44.6583 	 1.0031 	 0.0263
+					}
+					{bone "bot_mid_flag_bone01"
+						{Position 9.4082 	 0 	 0}
+						{bone "bot_mid_flag_bone02"
+							{Position 9.4082 	 0 	 0}
+							{bone "bot_mid_flag_bone03"
+								{Position 9.4082 	 0 	 0}
+							}
+						}
+					}
+				}
+				{bone "bot_flag_bone00"
+					{matrix34
+						0 	 1 	 0
+						0 	 0 	 1
+						1 	 0 	 0
+						38.0748 	 1.0031 	 0.0263
+					}
+					{bone "bot_flag_bone01"
+						{Position 9.4082 	 0 	 0}
+						{bone "bot_flag_bone02"
+							{Position 9.4082 	 0 	 0}
+							{bone "bot_flag_bone03"
+								{Position 9.4082 	 0 	 0}
+							}
+						}
+					}
+				}
+			}
+		}
+		{bone "flag_point_pole"
+			{VolumeView "flag_point_pole.ply"}
+		}
+		{bone "sandbags"
+		}
+		{bone "fx_number"
+			{Position 0   0   400}
+		}
+		{bone "ammo"
+			{orientation
+				-0.9997 	 -0.0229 	 0
+				0.0229 	 -0.9997 	 0
+				0 	 0 	 1
+			}
+		}
+	}
+}
+;{volume "body1"
+;	{cylinder 1.68777 178.903}
+;	{bone "flag_point_pole"}
+;	{Position 0 	 -1.3133 	 113.819}
+;}

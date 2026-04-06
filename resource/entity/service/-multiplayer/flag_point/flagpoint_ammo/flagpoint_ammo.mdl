@@ -1,0 +1,74 @@
+;Exported by:	 Carlos
+;Date:			 19.08.2020 12:45:22
+;File:			 T:\GoH_3D_environment_export\3d_environment\_military\flag_point_mp\FlagPoint.max
+{skeleton
+	{bone "crates_ammo5"
+		{orientation
+			1 	 0 	 0
+			0 	 -1 	 0
+			0 	 0 	 1
+		}
+		{LODView
+			{VolumeView "crates_ammo5.ply"}
+			{VolumeView "crates_ammo5_lod1.ply"}
+		}
+	}
+}
+{obstacle "body1_vol1"
+	{obb2
+		{center -6.27316 29.3825}
+		{extent 24.2365 7.68473}
+		{axis 1 0}
+	}
+	{rotate}
+	{Tags "body" " fire"}
+}
+{obstacle "body5_vol1"
+	{obb2
+		{center 0.229303 45.8357}
+		{extent 16.9458 8.37438}
+		{axis 1 0}
+	}
+	{rotate}
+	{Tags "body" " fire"}
+}
+{volume "body1_vol1"
+	{box 48.4729 15.3695 20.4926}
+	{bone "crates_ammo5"}
+	{Position -6.2732 	 -29.3826 	 10.2463}
+}
+{volume "body2_vol1"
+	{box 20.8997 14.9085 8.22055}
+	{bone "crates_ammo5"}
+	{matrix34
+		0.866 	 0.5 	 0
+		-0.5 	 0.866 	 0
+		0 	 0 	 1
+		-17.6142 	 -29.9531 	 31.3002
+	}
+}
+{volume "body3"
+	{box 20.8997 12.6722 6.98747}
+	{bone "crates_ammo5"}
+	{matrix34
+		0.7071 	 0.7071 	 0
+		-0.7071 	 0.7071 	 0
+		0 	 0 	 1
+		-18.2337 	 -31.2517 	 23.7915
+	}
+}
+{volume "body4_vol1"
+	{box 33.8916 16.7488 11.2315}
+	{bone "crates_ammo5"}
+	{matrix34
+		0 	 0.866 	 0.5
+		-1 	 0 	 0
+		0 	 -0.5 	 0.866
+		5.5212 	 -44.9387 	 20.5339
+	}
+}
+{volume "body5_vol1"
+	{box 33.8916 16.7488 11.2315}
+	{bone "crates_ammo5"}
+	{Position 0.2293 	 -45.8357 	 5.6158}
+}

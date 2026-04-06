@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/_hum/civ_clothing/civ_heads_quad"}
+	{bump "$/_hum/civ_clothing/civ_heads_quad_bp"}
+	{specular "$/_hum/civ_clothing/civ_heads_quad_sp"}
+	{color "230 230 230 25"}
+	{blend test}
+}

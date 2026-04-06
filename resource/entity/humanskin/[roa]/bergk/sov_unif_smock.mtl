@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/_hum/sov_uniform/sov_unif_smock_leaf_var1"}
+	{bump "$/_hum/sov_uniform/sov_unif_smock_bp"}
+	{specular "$/_hum/sov_uniform/sov_unif_smock_sp"}
+	{color "230 230 230 25"}
+	{blend test}
+}

@@ -1,0 +1,16 @@
+{actor
+;	(include "/properties/construction.inc")
+	{Extension "flagstaff.mdl"}
+	{props "flag" "steel" "flag_slave" "skirmish_fx_base"}
+	{able "-select"}
+;	("armor_disable_damage_acc")
+        (include "/properties/resupply.inc")
+	("truck_ammo_heavy_2x")
+	{obstacleID "unbreakable"}
+        
+	{Volume "body"
+		{Tags  "body"}
+		{Thickness 50}
+		{able {visible 1}}                
+	}
+}

@@ -1,0 +1,6 @@
+{material bump
+	{diffuse 	"$/_hum/kosak_uniform/1"}
+	{specular 	"$/_hum/kosak_uniform/2"}
+	{color "230 230 230 25"}
+	{blend none}
+}
