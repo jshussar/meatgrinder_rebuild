@@ -1,0 +1,79 @@
+{mission
+	{Entity "flag_point_1" 0x8000
+		{Position 1.18 1.74}
+		{Extender "map_point"
+			{zone
+				{radius 0}
+				{zoneId "a"}
+			}
+			{phase 0}
+			{order 0}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Extender "fortification"
+			{level
+				{steps 2}
+				{radius 5}
+				{azimuth "+2"}
+				{buildTime 60}
+				{entity "sandbag_structured_curved"}
+			}
+			{level
+				{steps 1}
+				{radius 3}
+				{buildTime 60}
+				{entity "sandbag_framed_straight"}
+			}
+		}
+		{Player 0}
+		{MID 1}
+	}
+	{Entity "flagpoint_ammo" 0x8002
+		{Extender "supply_zone"
+			{enabled}
+			{current 0}
+		}
+	}
+	{Entity "flag_point" 0x8003
+		{Position 117.53 -81.15}
+		{Extender "map_point"
+			{zone
+				{radius 0}
+				{zoneId "a"}
+			}
+			{phase 0}
+			{order 0}
+			{allow
+				{enableCapture}
+				{enableRelease}
+			}
+		}
+		{Player 0}
+		{MID 2}
+	}
+	{Entity "flagpoint_ammo" 0x8005
+		{Extender "supply_zone"
+			{enabled}
+			{current 0}
+		}
+	}
+	{Link 0x8002 {0x8000 "ammo"}}
+	{Link 0x8005 {0x8003 "ammo"}}
+	{Tags "flag" 0x8000}
+	{Tags "flag" 0x8003}
+	{Helpers
+		{zone "circle"
+			{position -110.202 -4.45117 0}
+			{Name "a"}
+			{Radius 150}
+		}
+		{reinforcements
+			{scoreTotal 0}
+			{scoreCurrent 0}
+		}
+	}
+	{Fog 0}
+}

@@ -1,0 +1,174 @@
+;===========panel_from_81=======
+        (define "check_user"
+				{"entity_state"
+					{selector
+						{ignore_captured_by_user 0}
+						{tag wait_para_player_set}
+						{player "%0"}
+					}
+					{tag_add player%0}
+				}
+		)
+		{"check_user"
+				{condition
+					{terms
+						{"1.entities"
+							{selector
+								{ignore_captured_by_user 0}
+								{tag wait_para_player_set}
+							}
+						}
+					}
+				}
+				{actions
+					("check_user" args 0)
+					("check_user" args 1)
+					("check_user" args 2)
+					("check_user" args 3)
+					("check_user" args 4)
+					("check_user" args 5)
+					("check_user" args 6)
+					("check_user" args 7)
+					("check_user" args 8)
+					;("check_user" args 9)
+					;("check_user" args 10)
+					;("check_user" args 11)
+					;("check_user" args 12)
+					;("check_user" args 13)
+					;("check_user" args 14)
+					;("check_user" args 15)
+					;("check_user" args 16)
+					{"entity_state"
+						{selector
+							{ignore_captured_by_user 0}
+							{tag wait_para_player_set}
+						}
+						{tag_remove wait_para_player_set}
+					}
+					{"trigger"
+						{name "check_user"}
+					}
+				}
+		}
+		
+		
+		
+		
+		
+		
+		
+(define "check_user_veh"
+				{"entity_state"
+					{selector
+						{ignore_captured_by_user 0}
+						{player "%0"}
+						{type vehicle}
+					}
+					{tag_add player%0_veh}
+				}
+			)
+			(define "capture_check"
+				{"entity_state"
+
+					{selector
+						{source advanced}
+						{ignore_captured_by_user 0}
+						{group
+							{include
+								{tag
+									{tag player%0_veh}
+								}
+							}
+							{exclude
+
+								{player
+									{player "%0"}
+								}			
+							}
+						}
+					}
+					{tag_remove player%0_veh}
+			     }
+			)
+			{"check_user_veh"
+				{condition
+					{terms
+						{"1.entities"
+							{selector
+								{ignore_captured_by_user 0}
+								{type vehicle}
+							}
+						}
+					}
+				}
+				{actions
+					("check_user_veh" args 1)
+					("check_user_veh" args 2)
+					("check_user_veh" args 3)
+					("check_user_veh" args 4)
+					("check_user_veh" args 5)
+					("check_user_veh" args 6)
+					("check_user_veh" args 7)
+					("check_user_veh" args 8)
+
+					("capture_check" args 1)
+					("capture_check" args 2)
+					("capture_check" args 3)
+					("capture_check" args 4)
+					("capture_check" args 5)
+					("capture_check" args 6)
+					("capture_check" args 7)
+					("capture_check" args 8)
+
+					{"trigger"
+						{name "check_user_veh"}
+					}
+				}
+			}		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+		
+;===============================change_player_from_81=================================================
+           {"landing"
+				{condition
+					{terms
+						{"1.entities"
+							{selector
+								{source advanced}
+								{ignore_captured_by_user 0}
+								{group
+									{include
+						 				{tag
+						 					{tag "transport_crew"}
+						 				}
+									}
+								}
+							}
+						}
+					}
+				}
+				{actions
+					{"actor_state"
+						{selector
+							{ignore_captured_by_user 0}
+							{tag "transport_crew"}
+						}
+						{control user}
+						{move_mode hold}
+					}
+					{"trigger"
+						{name "landing"}
+					}
+				}
+			}

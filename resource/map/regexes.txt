@@ -1,0 +1,14 @@
+remove ammo:
+
+Find: ({Entity \"flag_point(.*?)\n(.*?){Position(.*?)})
+Replace: $1\n\t\t{Placer\n\t\t\t{State "ammo" {Unlinked}}\n\t\t}
+
+Capture fixing
+
+Find: {allow\s*(?:{[^{}]*}\s*)*}
+Replace: {allow\n\t\t\t\t{enableCapture}\n\t\t\t\t{enableRelease}\n\t\t\t}
+
+Zone adding: (replaced with mapcircle script)
+
+Find: (\{name (.*?)\}.*?)\{zoneA .*?\}[\r\n]*\s*\{zoneB .*?\}
+Replace: $1\{zone\n\t\t\t\t\{radius 0\}\n\t\t\t\t\{zoneId "$2"\}\n\t\t\t\}
