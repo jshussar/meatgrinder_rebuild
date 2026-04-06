@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/_hum/ost_unif/hifs/sov_unif_sailor_hifs_v2"}
+	{bump "$/_hum/sov_uniform/sov_unif_sailor_bp"}
+	{specular "$/_hum/sov_uniform/sov_unif_sailor_sp"}
+	{color "230 230 230 25"}
+	{blend test}
+}

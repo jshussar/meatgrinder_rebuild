@@ -1,0 +1,7 @@
+{material bump
+	{diffuse 	"$/_hum/ger_uniform/waffen/ger_unif_waff"}
+	{bump 		"$/_hum/ger_uniform/Waffen/ger_unif_waff_bp"}
+	{specular 	"$/_hum/ger_uniform/Waffen/ger_unif_waff_sp"}
+	{color "230 230 230 25"}
+	{blend none}
+}
