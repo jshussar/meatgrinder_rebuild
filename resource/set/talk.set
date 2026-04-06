@@ -1,0 +1,276 @@
+{talks
+
+;/*================ defines ================*/
+
+(define "phrase_voice"
+	{phrase
+		{language "%1"}
+		{voice %2}
+		{sound "talk/%0/%1/%3/v%2"}
+		{text_dbg "(%1) %1/%3/v%2"}
+	}
+)
+
+(define "phrases"	; args: actor | language | voice | foldername
+	("phrase_voice" args %0 rus 1 %1)
+	("phrase_voice" args %0 rus 2 %1)
+	("phrase_voice" args %0 rus 3 %1)
+	("phrase_voice" args %0 rus 4 %1)
+	("phrase_voice" args %0 rus 5 %1)
+	("phrase_voice" args %0 rus 6 %1)
+	("phrase_voice" args %0 rus 7 %1)
+	("phrase_voice" args %0 rus 8 %1)
+	
+	("phrase_voice" args %0 roa 1 %1)
+	("phrase_voice" args %0 roa 2 %1)
+	("phrase_voice" args %0 roa 3 %1)
+	("phrase_voice" args %0 roa 4 %1)
+	("phrase_voice" args %0 roa 5 %1)
+	("phrase_voice" args %0 roa 6 %1)
+	("phrase_voice" args %0 roa 7 %1)
+	
+	("phrase_voice" args %0 ukr 1 %1)
+	("phrase_voice" args %0 ukr 2 %1)
+	("phrase_voice" args %0 ukr 3 %1)
+	("phrase_voice" args %0 ukr 4 %1)
+	("phrase_voice" args %0 ukr 5 %1)
+	("phrase_voice" args %0 ukr 6 %1)
+	("phrase_voice" args %0 ukr 7 %1)
+
+	("phrase_voice" args %0 nk 1 %1)
+	("phrase_voice" args %0 nk 2 %1)
+	("phrase_voice" args %0 nk 3 %1)
+	("phrase_voice" args %0 nk 4 %1)
+	("phrase_voice" args %0 nk 5 %1)
+	("phrase_voice" args %0 nk 6 %1)
+	("phrase_voice" args %0 nk 7 %1)
+
+	("phrase_voice" args %0 idur 1 %1)
+	("phrase_voice" args %0 idur 2 %1)
+	("phrase_voice" args %0 idur 3 %1)
+	("phrase_voice" args %0 idur 4 %1)
+	("phrase_voice" args %0 idur 5 %1)
+	("phrase_voice" args %0 idur 6 %1)
+	("phrase_voice" args %0 idur 7 %1)
+
+	("phrase_voice" args %0 arm 1 %1)
+	("phrase_voice" args %0 arm 2 %1)
+	("phrase_voice" args %0 arm 3 %1)
+	("phrase_voice" args %0 arm 4 %1)
+	("phrase_voice" args %0 arm 5 %1)
+	("phrase_voice" args %0 arm 6 %1)
+	("phrase_voice" args %0 arm 7 %1)
+
+	("phrase_voice" args %0 aser 1 %1)
+	("phrase_voice" args %0 aser 2 %1)
+	("phrase_voice" args %0 aser 3 %1)
+	("phrase_voice" args %0 aser 4 %1)
+	("phrase_voice" args %0 aser 5 %1)
+	("phrase_voice" args %0 aser 6 %1)
+	("phrase_voice" args %0 aser 7 %1)
+
+	("phrase_voice" args %0 ger 1 %1)
+	("phrase_voice" args %0 ger 2 %1)
+	("phrase_voice" args %0 ger 3 %1)
+	("phrase_voice" args %0 ger 4 %1)
+	("phrase_voice" args %0 ger 5 %1)
+	("phrase_voice" args %0 ger 6 %1)
+	("phrase_voice" args %0 ger 7 %1)
+	("phrase_voice" args %0 ger 8 %1)
+
+	("phrase_voice" args %0 ger_officer 1 %1)
+	("phrase_voice" args %0 ger_medic   1 %1)
+	("phrase_voice" args %0 ger_sniper  1 %1)
+
+	("phrase_voice" args %0 spa 1 %1)
+
+	("phrase_voice" args %0 fin 1 %1)
+	("phrase_voice" args %0 fin 2 %1)
+	("phrase_voice" args %0 fin 3 %1)
+	("phrase_voice" args %0 fin 4 %1)
+	("phrase_voice" args %0 fin 5 %1)
+
+	("phrase_voice" args %0 swe 1 %1)
+
+	("phrase_voice" args %0 usa 1 %1)
+	("phrase_voice" args %0 usa 2 %1)
+	("phrase_voice" args %0 usa 3 %1)
+	("phrase_voice" args %0 usa 4 %1)
+;	("phrase_voice" args %0 usa 5 %1)
+
+	("phrase_voice" args %0 usa_officer 1 %1)
+	("phrase_voice" args %0 usa_medic 1 %1)
+	("phrase_voice" args %0 usa_medic 2 %1)
+	("phrase_voice" args %0 usa_sniper 1 %1)
+	("phrase_voice" args %0 usa_speirs 1 %1)
+	("phrase_voice" args %0 usa_winters 1 %1)
+
+	("phrase_voice" args %0 fra 1 %1)
+
+	("phrase_voice" args %0 eng 1 %1)
+	("phrase_voice" args %0 eng 2 %1)
+	("phrase_voice" args %0 eng 3 %1)
+;	("phrase_voice" args %0 eng 4 %1)
+	("phrase_voice" args %0 eng 5 %1)
+;	("phrase_voice" args %0 eng 6 %1)
+	("phrase_voice" args %0 eng_pol 1 %1)
+	("phrase_voice" args %0 sco 1 %1)
+;	("phrase_voice" args %0 iri 1 %1)
+;	("phrase_voice" args %0 can 1 %1)
+	("phrase_voice" args %0 eng_officer 1 %1)
+;	("phrase_voice" args %0 eng_medic 1 %1)
+;	("phrase_voice" args %0 eng_sniper 1 %1)
+
+	("phrase_voice" args %0 fra 2 %1)
+	("phrase_voice" args %0 fra 3 %1)
+	("phrase_voice" args %0 fra 4 %1)
+	("phrase_voice" args %0 fra 5 %1)
+
+	("phrase_voice" args %0 swe 1 %1)
+	
+	("phrase_voice" args %0 turk 1 %1)
+	("phrase_voice" args %0 turk 2 %1)
+	("phrase_voice" args %0 turk 3 %1)
+	("phrase_voice" args %0 turk 7 %1)
+	
+	("phrase_voice" args %0 geor 1 %1)
+	("phrase_voice" args %0 geor 2 %1)
+	("phrase_voice" args %0 geor 3 %1)
+	("phrase_voice" args %0 geor 7 %1)
+	
+	
+	("phrase_voice" args %0 den 1 %1)
+	("phrase_voice" args %0 ita 1 %1)
+	("phrase_voice" args %0 hun 1 %1)
+)
+
+(define "phrases_cannon"	; args: actor | language | voice | foldername
+	("phrase_voice" args %0 rus 1 %1)
+	("phrase_voice" args %0 rus 2 %1)
+
+	("phrase_voice" args %0 ger 1 %1)
+
+	("phrase_voice" args %0 fin 1 %1)
+	("phrase_voice" args %0 fin 2 %1)
+	("phrase_voice" args %0 fin 3 %1)
+
+	("phrase_voice" args %0 swe 1 %1)
+
+	("phrase_voice" args %0 usa 1 %1)
+;	("phrase_voice" args %0 usa 2 %1)
+;	("phrase_voice" args %0 usa 3 %1)
+;	("phrase_voice" args %0 usa 4 %1)
+
+;	("phrase_voice" args %0 fra 1 %1)
+
+	("phrase_voice" args %0 fra 1 %1)
+	("phrase_voice" args %0 fra 2 %1)
+	("phrase_voice" args %0 fra 3 %1)
+	("phrase_voice" args %0 fra 4 %1)
+	("phrase_voice" args %0 fra 5 %1)
+
+	("phrase_voice" args %0 swe 1 %1)
+)
+
+(define "phrases_tank"	; args: actor | language | voice | foldername
+	("phrase_voice" args %0 rus 1 %1)
+	("phrase_voice" args %0 rus 2 %1)
+	("phrase_voice" args %0 rus 3 %1)
+
+	("phrase_voice" args %0 ger 1 %1)
+	("phrase_voice" args %0 ger 2 %1)
+	("phrase_voice" args %0 ger 3 %1)
+	("phrase_voice" args %0 ger 4 %1)
+
+	("phrase_voice" args %0 fin 1 %1)
+	("phrase_voice" args %0 fin 2 %1)
+	("phrase_voice" args %0 fin 3 %1)
+
+	("phrase_voice" args %0 swe 1 %1)
+
+	("phrase_voice" args %0 usa 1 %1)
+	("phrase_voice" args %0 usa 2 %1)
+	("phrase_voice" args %0 usa 3 %1)
+;	("phrase_voice" args %0 usa 4 %1)
+
+;	("phrase_voice" args %0 fra 1 %1)
+
+	("phrase_voice" args %0 eng 1 %1)
+	("phrase_voice" args %0 eng 2 %1)
+	("phrase_voice" args %0 eng 3 %1)
+;	("phrase_voice" args %0 eng 4 %1)
+	("phrase_voice" args %0 eng 5 %1)
+
+	("phrase_voice" args %0 eng_pol 1 %1)
+
+	("phrase_voice" args %0 fra 1 %1)
+	("phrase_voice" args %0 fra 2 %1)
+	("phrase_voice" args %0 fra 3 %1)
+	("phrase_voice" args %0 fra 4 %1)
+	("phrase_voice" args %0 fra 5 %1)
+
+	("phrase_voice" args %0 jap 1 %1)
+	("phrase_voice" args %0 jap 2 %1)
+	("phrase_voice" args %0 jap 3 %1)
+	("phrase_voice" args %0 jap 4 %1)
+	("phrase_voice" args %0 jap 5 %1)
+	("phrase_voice" args %0 jap 6 %1)
+	("phrase_voice" args %0 jap 7 %1)
+	
+	("phrase_voice" args %0 swe 1 %1)
+)
+
+(define "human_phrases"	; args: actor | foldername
+	("phrases" args human %0)
+)
+
+(define "cannon_phrases"
+	("phrases_cannon" args cannon %0)
+)
+
+(define "tank_phrases"
+	("phrases_tank" args tank %0)
+)
+
+;/*================ talks for engine generated events ================*/
+
+(include "talk/voicelines_human.inc")
+(include "talk/voicelines_tank.inc")
+(include "talk/voicelines_cannon.inc")
+
+;/*================ Configuration ================*/
+
+;For setting up condition-based talk events:
+;Actual words that can be used are only a few defined from ActorTalkScanner.cpp 
+;what will be said is the name of the .set file
+
+;	{immediate}		; Unit talks immediately.
+;	{priority 5}	; Default value = 0. Talk with higher priority can interrupt talk with lower priority.
+;	{timeout 35 10}	; Random value and deviation (value - deviation to value + deviation). Talk cannot occur again until timeout time has passed.
+
+
+;condition	side	entity		optional	#how many
+;seen		ally	human		repairing	1}		;seen one hundread they will talk "retreat" which is the name of the file, retreat.set
+;			enemy	tank		shooting
+;			any		airborne	sniping				;where any is neutral
+;					cannon		throwing
+;					car			unmasked
+;					mg_stan		abandoned
+;					marine		destroyed
+;					vehicle		crushed
+;					moto		recruited
+;					armored_car	head
+;								body
+;					mine						;explodable mines
+
+
+;		{health_level 0.25		;condition 1/4 health remaining
+;			{enemy_ratio 2.0}	;unit can see twice more enemies than your allies. (2:1 ratio)
+;		}
+
+;		OR
+
+;		{in_action				;in combat condition
+;		{seen ally human 100}}	;when they see 100 of their allies in combat, that will trigger their talk. 
+
+}

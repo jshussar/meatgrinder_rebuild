@@ -1,0 +1,187 @@
+
+(define "global_damage_mod"
+	{armor_damage_modifier 0.5} ;// multiplier adjusts ratio of which part of penetration does damage to component. (shell penetration - armor thickness) verses minimumDamageModifier. values < 1 = less damage done by over penetration.
+)
+{components
+
+	;/*=============== Cannon Begin ===============*/
+
+	{category "cannon_light"
+		{hp 150}
+		{hp_broken 150}
+		("global_damage_mod")
+	}
+
+	{category "cannon_medium"
+		{hp 200}
+		{hp_broken 200}
+		("global_damage_mod")
+	}
+
+	;/*=============== Cannon End ===============*/
+
+	;/*=============== Car Begin ===============*/
+
+	{category "body_car"
+		{hp 150}
+		{hp_broken 150}
+		("global_damage_mod")
+	}
+	
+	{category "engine_car"
+		{hp 125}
+		{hp_broken 125}
+		("global_damage_mod")
+	}
+	
+	{category "body_truck"
+		{hp 150}
+		{hp_broken 150}
+		("global_damage_mod")
+	}
+	
+	{category "engine_truck"
+		{hp 150}
+		{hp_broken 150}
+		("global_damage_mod")
+	}
+
+	{category "wheel"
+		{hp 100}
+		("global_damage_mod")
+	}
+
+	;/*=============== Car End ===============*/
+
+	;/*=============== Tank Begin ===============*/
+
+
+	{category "tank_light"
+		{hp 250}
+		{hp_broken 250}
+		("global_damage_mod")
+	}
+	{category "tank_medium"
+		{hp 325}
+		{hp_broken 325}
+		("global_damage_mod")
+	}
+	{category "tank_heavy"
+		{hp 400}
+		{hp_broken 400}
+		("global_damage_mod")
+	}
+	
+	{category "turret_light"
+		{hp 150}
+		("global_damage_mod")
+	}
+	{category "turret_medium"
+		{hp 200}
+		("global_damage_mod")
+	}
+	{category "turret_heavy"
+		{hp 250}
+		("global_damage_mod")
+	}
+
+	{category "engine_light"
+		{hp 125}
+		{hp_broken 125}
+		("global_damage_mod")
+	}
+	{category "engine_medium"
+		{hp 200}
+		{hp_broken 200}
+		("global_damage_mod")
+	}
+	{category "engine_heavy"
+		{hp 250}
+		{hp_broken 250}
+		("global_damage_mod")
+	}
+
+	{category "gun_light"
+		{hp 150}
+		("global_damage_mod")
+	}
+	{category "gun_medium"
+		{hp 200}
+		("global_damage_mod")
+	}
+	{category "gun_heavy"
+		{hp 225}
+		("global_damage_mod")
+	}
+
+	{category "track_light"
+		{hp 175}
+		("global_damage_mod")
+	}
+	{category "track_medium"
+		{hp 225}
+		("global_damage_mod")
+	}
+	{category "track_heavy"
+		{hp 250}
+		("global_damage_mod")
+	}
+
+	;/*=============== Tank End ===============*/
+
+	;/*=============== Aircraft Begin ===============*/
+
+	{category "airborne_light"
+		{hp 150}
+		{hp_broken 150}
+		("global_damage_mod")
+	}
+	{category "airborne_medium"
+		{hp 300}
+		{hp_broken 150}
+		("global_damage_mod")
+	}
+	{category "airborne_heavy"
+		{hp 450}
+		{hp_broken 150}
+		("global_damage_mod")
+	}
+	
+	{category "airborne_wing"
+		{hp 150}
+		{hp_broken 100}
+		("global_damage_mod")
+	}
+	
+	{category "airborne_engine"
+		{hp 75}
+		{hp_broken 100}
+		("global_damage_mod")
+	}
+	
+	{category "airborne_part"
+		{hp 100}
+		{hp_broken 1}
+		("global_damage_mod")
+	}
+	
+	;/*=============== Aircraft End ===============*/
+
+	;/*=============== Train Begin ===============*/
+	
+	{category "train_light"
+		{hp 400}
+		{hp_broken 200}
+		("global_damage_mod")
+	}
+	
+	;/*=============== Train End ===============*/
+
+	;/*=============== Marine Begin ===============*/
+	
+	{category "marine_light"
+		{hp 400}
+		{hp_broken 200}
+		("global_damage_mod")
+	}
+}

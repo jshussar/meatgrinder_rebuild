@@ -1,0 +1,124 @@
+{"tank_gun" from weapon
+	{item "tank_gun"}
+
+	{level "lvl_1"				;// Basic Infantry
+		{vehicle
+			{accuracy 1.0}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_2"				
+		{vehicle
+			{accuracy 1.20}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_3"
+		{vehicle
+			{accuracy 1.35}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_4"				;// Standard Tankman
+		{vehicle
+			{accuracy 1.50}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_5"				;// Tank Commanders and Artillery Crew
+		{vehicle
+			{accuracy 1.65}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_6"
+		{vehicle
+			{accuracy 1.80}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_7"
+		{vehicle
+			{accuracy 1.90}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_8"
+		{vehicle
+			{accuracy 2.00}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_9"
+		{vehicle
+			{accuracy 2.10}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_10"
+		{vehicle
+			{accuracy 2.20}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_11"
+		{vehicle
+			{accuracy 2.30}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_12"
+		{vehicle
+			{accuracy 2.35}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_13"
+		{vehicle
+			{accuracy 2.40}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_14"
+		{vehicle
+			{accuracy 2.45}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+	{level "lvl_15"
+		{vehicle
+			{accuracy 2.50}
+			{recoil 1.50}
+			{zoom_recoil 1.75}
+			{sway 0}
+		}
+	}
+}

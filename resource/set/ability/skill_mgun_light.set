@@ -1,0 +1,291 @@
+{"mgun_light" from weapon
+	{item "mgun_light"}
+	{level "lvl_1"
+		{stand
+			{accuracy 0.35}				;// weapon accuracy, the higher the better
+			{recoil 0.525}				;// weapon recoil, the higher the weaker
+			{zoom_recoil 0.70}			;// weapon recoil in zoom, the higher the weaker
+			{sway 1.40}					;// weapon sway in zoom, the higher the stronger
+		}
+		{squat
+			{accuracy 0.525}
+			{recoil 0.70}
+			{zoom_recoil 0.875}
+			{sway 0.525}
+		}
+		{crawl
+			{accuracy 0.945}
+			{recoil 7.00}
+			{zoom_recoil 10.50}
+			{sway 0.07}
+		}
+		{cover
+			{accuracy 1.05}
+			{recoil 5.25}
+			{zoom_recoil 7.00}
+			{sway 0.07}
+		}
+		{vehicle
+			{accuracy 1.1}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+	{level "lvl_2"
+		{stand
+			{accuracy 0.434}				;// weapon accuracy, the higher the better
+			{recoil 0.525}				;// weapon recoil, the higher the weaker
+			{zoom_recoil 0.70}			;// weapon recoil in zoom, the higher the weaker
+			{sway 1.225}				;// weapon sway in zoom, the higher the stronger
+		}
+		{squat
+			{accuracy 0.609}
+			{recoil 0.875}
+			{zoom_recoil 1.05}
+			{sway 0.525}
+		}
+		{crawl
+			{accuracy 1.029}
+			{recoil 7.00}
+			{zoom_recoil 10.50}
+			{sway 0.07}
+		}
+		{cover
+			{accuracy 1.134}
+			{recoil 5.25}
+			{zoom_recoil 7.00}
+			{sway 0.07}
+		}
+		{vehicle
+			{accuracy 1.2}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+	{level "lvl_3"
+		{stand
+			{accuracy 0.518}
+			{recoil 0.735}
+			{zoom_recoil 0.91}
+			{sway 1.19}
+		}
+		{squat
+			{accuracy 0.693}
+			{recoil 0.91}
+			{zoom_recoil 1.085}
+			{sway 0.49}
+		}
+		{crawl
+			{accuracy 1.113}
+			{recoil 7.00}
+			{zoom_recoil 10.50}
+			{sway 0.07}
+		}
+		{cover
+			{accuracy 1.218}
+			{recoil 5.25}
+			{zoom_recoil 7.00}
+			{sway 0.07}
+		}
+		{vehicle
+			{accuracy 1.3}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+	{level "lvl_4"
+		{stand
+			{accuracy 0.87}
+			{recoil 1.10}
+			{zoom_recoil 1.35}
+			{sway 1.65}
+		}
+		{squat
+			{accuracy 1.12}
+			{recoil 1.35}
+			{zoom_recoil 1.60}
+			{sway 0.65}
+		}
+		{crawl
+			{accuracy 1.71}
+			{recoil 10.00}
+			{zoom_recoil 15.00}
+			{sway 0.10}
+		}
+		{cover
+			{accuracy 1.87}
+			{recoil 7.50}
+			{zoom_recoil 10.00}
+			{sway 0.10}
+		}
+		{vehicle
+			{accuracy 1.90}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+	{level "lvl_5"
+		{stand
+			{accuracy 0.99}
+			{recoil 1.15}
+			{zoom_recoil 1.4}
+			{sway 1.60}
+		}
+		{squat
+			{accuracy 1.24}
+			{recoil 1.4}
+			{zoom_recoil 1.65}
+			{sway 0.75}
+		}
+		{crawl
+			{accuracy 1.82}
+			{recoil 10.00}
+			{zoom_recoil 15.00}
+			{sway 0.10}
+		}
+		{cover
+			{accuracy 1.99}
+			{recoil 7.50}
+			{zoom_recoil 10.00}
+			{sway 0.10}
+		}
+		{vehicle
+			{accuracy 2.10}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+	{level "lvl_6"
+		{stand
+			{accuracy 1.12}
+			{recoil 1.20}
+			{zoom_recoil 1.45}
+			{sway 1.55}
+		}
+		{squat
+			{accuracy 1.36}
+			{recoil 1.45}
+			{zoom_recoil 1.70}
+			{sway 0.55}
+		}
+		{crawl
+			{accuracy 1.94}
+			{recoil 10.00}
+			{zoom_recoil 15.00}
+			{sway 0.10}
+		}
+		{cover
+			{accuracy 2.12}
+			{recoil 7.50}
+			{zoom_recoil 10.00}
+			{sway 0.10}
+		}
+		{vehicle
+			{accuracy 2.2}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+	{level "lvl_7"
+		{stand
+			{accuracy 1.488}
+			{recoil 1.50}
+			{zoom_recoil 1.80}
+			{sway 1.80}
+		}
+		{squat
+			{accuracy 1.776}
+			{recoil 1.80}
+			{zoom_recoil 2.10}
+			{sway 0.60}
+		}
+		{crawl
+			{accuracy 2.472}
+			{recoil 12.00}
+			{zoom_recoil 18.00}
+			{sway 0.12}
+		}
+		{cover
+			{accuracy 2.688}
+			{recoil 9.00}
+			{zoom_recoil 12.00}
+			{sway 0.12}
+		}
+		{vehicle
+			{accuracy 2.7}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+	{level "lvl_8"
+		{stand
+			{accuracy 1.644}
+			{recoil 1.56}
+			{zoom_recoil 1.86}
+			{sway 1.74}
+		}
+		{squat
+			{accuracy 1.932}
+			{recoil 1.86}
+			{zoom_recoil 2.16}
+			{sway 0.54}
+		}
+		{crawl
+			{accuracy 2.616}
+			{recoil 12.00}
+			{zoom_recoil 18.00}
+			{sway 0.12}
+		}
+		{cover
+			{accuracy 2.844}
+			{recoil 9.00}
+			{zoom_recoil 12.00}
+			{sway 0.12}
+		}
+		{vehicle
+			{accuracy 2.9}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+	{level "lvl_9"
+		{stand
+			{accuracy 1.788}
+			{recoil 1.62}
+			{zoom_recoil 1.92}
+			{sway 1.68}
+		}
+		{squat
+			{accuracy 2.076}
+			{recoil 1.92}
+			{zoom_recoil 2.22}
+			{sway 0.48}
+		}
+		{crawl
+			{accuracy 2.748}
+			{recoil 12.00}
+			{zoom_recoil 18.00}
+			{sway 0.12}
+		}
+		{cover
+			{accuracy 2.988}
+			{recoil 9.00}
+			{zoom_recoil 12.00}
+			{sway 0.12}
+		}
+		{vehicle
+			{accuracy 3.0}
+			{recoil 0}
+			{zoom_recoil 0}
+			{sway 0}
+		}
+	}
+}

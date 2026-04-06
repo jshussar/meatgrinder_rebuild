@@ -1,0 +1,40 @@
+{levelofdetail
+	;// level of detail in RTS mode
+
+	(define "off"
+		{off}
+	)
+	(define "off_small"
+		{off}
+	)
+	(define "off_tiny"
+		{off}
+	)
+
+	(define "scale"
+		(* 1.00 %d)
+	)
+	(define "scale2"
+		(* 1.4 %d2)
+	)
+
+	(mod "mp"
+		(define "scale"
+			(* 0.95 %d)
+		)
+		(define "scale2"
+			(* 1.2 %d2)
+		)
+	)
+	(mod "coop"
+		(define "scale"
+			(* 0.85 %d)
+		)
+		(define "scale2"
+			(* 1.15 %d2)
+		)
+	)
+
+	{shadowFallOffFactor 2.5}
+	(include "level_of_detail.inc")
+}

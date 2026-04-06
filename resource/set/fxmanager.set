@@ -1,0 +1,65 @@
+{fxmanager
+	{group
+		;{fx "shellhole_big"}
+		;{fx "shellhole_medium"}
+		;{fx "shellhole_small"}
+		;{fx "fire_shellhole"}
+		{countLimit 100}
+	}
+	{group
+		{fx "tracks_big"}
+		{fx "tracks_mid"}
+		{fx "tracks_sm"}
+		{fx "tracks_sm2"}
+		{fx "tracewheel01"}
+		{fx "tracewheel01a"}
+		{fx "tracewheel01d"}
+		{fx "tracewheel02"}
+		{fx "tracewheel02a"}
+		{fx "tracewheel02d"}
+		{fx "tracewheel03"}
+		{fx "tracewheel03a"}
+		{fx "tracewheel03d"}
+		{fx "tracewheel04"}
+		{fx "tracewheel04d"}
+		{fx "tracewheel05"}
+		{fx "tracewheel05a"}
+		{fx "tracewheel05d"}
+		{fx "tracewheel06"}
+		{fx "traceski01"}
+		{countLimit 400}
+		{timeLimit 30}			; seconds
+	}
+	{group
+		{fx "blood"}
+		{fx "ground_blood_big"}
+		{fx "ground_blood_small"}
+		{fx "ground_blood01"}
+		{fx "ground_blood02"}
+		{fx "ground_blood03"}
+		{fx "ground_blood_spreaded"}
+		{fx "ground_blood_spreading"}
+		{fx "bm_big_bloodpool_a"}
+		{fx "bm_big_bloodpool_b"}
+		{fx "bm_big_bloodpool_c"}
+		{fx "bm_bloodpool_a"}
+		{fx "bm_bloodpool_b"}
+		{fx "bm_bloodpool_c"}
+		{fx "bm_bloodpool_d"}
+		{fx "bm_bloodpool_e"}
+		{fx "bm_bloodpool_f"}
+		{fx "bm_bloodpool_g"}
+		{fx "bm_bloodpool_j"}
+		{countLimit 100}
+	}
+	{group
+		{fx "flashred"}
+		{fx "flashgreen"}
+		{fx "flashblue"}
+		{fx "flashcover"}
+		{fx "flashattack"}
+		{fx "flashattackat"}
+		{fx "flashsmoke"}
+		{timeLimit 0.05}
+	}
+}

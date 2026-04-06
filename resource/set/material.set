@@ -1,0 +1,733 @@
+(define "cunted"
+	{angle
+		; 0°: BASE REFERENCE
+		{0	0}
+		
+		; 0-5°: EXTREME MICRO-CHATOIC TERRAIN
+		; Simulating individual rocks, pebbles, debris
+		
+		{0		0}		; consistent start
+		{0.1	4}		; Small skip on a stone
+		{0.2	12}		; Hit large rock immediately
+		{0.3	1.5}	; Smooth patch
+		{0.4	8}		; Medium stone
+		{0.5	2}	; Almost nothing
+		{0.6	15}		; Boulder
+		{0.7	2.5}	; Smooth
+		{0.8	5}		; Small rock cluster
+		{0.9	20}		; Large debris
+		
+		{1.0	1.5}		; Base
+		{1.1	18}		; Random large rock
+		{1.2	2}	; Smooth
+		{1.3	10}		; Medium obstacle
+		{1.4	3}		; Minor feature
+		{1.5	25}		; Shell casing or debris
+		{1.6	4}	; Clear
+		{1.7	7}		; Small stone
+		{1.8	30}		; Extreme: hit something metallic
+		{1.9	3}	; Back to ground
+		
+		{2.0	1}		; Base
+		{2.1	22}		; Rock formation
+		{2.2	1}		; Clear
+		{2.3	15}		; Debris pile
+		{2.4	3}		; Minor
+		{2.5	35}		; Hit abandoned equipment
+		{2.6	2}	; Clear
+		{2.7	12}		; Stone cluster
+		{2.8	40}		; EXTREME: hit something solid and angled
+		{2.9	1}		; Clear
+		
+		{3.0	1.5}		; Base
+		{3.1	45}		; Massive deflection zone
+		{3.2	2}		; Clear
+		{3.3	18}		; Rocky patch
+		{3.4	5}		; Moderate
+		{3.5	50}		; CINEMATIC SPIKE - hit something perfect
+		{3.6	3}		; Clear
+		{3.7	25}		; Stone field
+		{3.8	55}		; NEARLY IMPOSSIBLE DEFLECTION (rare)
+		{3.9	2}		; Clear
+		
+		{4.0	2}		; Base
+		{4.1	30}		; Rocky terrain
+		{4.2	1.5}	; Smooth
+		{4.3	40}		; Debris field
+		{4.4	3}		; Minor
+		{4.5	60}		; EXTREME: perfect ricochet off angled armor debris
+		{4.6	2}		; Clear
+		{4.7	20}		; Normal rocks
+		{4.8	45}		; Large obstacle
+		{4.9	1}		; Clear
+		
+		; 5-10°: CONTINUED CHAOS WITH WIDER SWINGS
+		{5.0	2.5}
+		{5.2	25}
+		{5.4	1}
+		{5.6	35}
+		{5.8	3}
+		{6.0	50}
+		{6.2	2}
+		{6.4	40}
+		{6.6	4}
+		{6.8	65}
+		{7.0	3}
+		{7.2	30}
+		{7.4	1.5}
+		{7.6	55}
+		{7.8	2}
+		{8.0	45}
+		{8.2	3.5}
+		{8.4	70}
+		{8.6	2}
+		{8.8	35}
+		{9.0	4}
+		{9.2	60}
+		{9.4	1}
+		{9.6	40}
+		{9.8	2.5}
+		
+		; 10-20°: BROADER SWINGS, EXTREME RANGE
+		{10.0	5}
+		{10.5	40}		; Maximum possible for this angle
+		{11.0	3}
+		{11.5	25}
+		{12.0	6}
+		{12.5	30}		; massive bounce
+		{13.0	4}
+		{13.5	30}
+		{14.0	7}
+		{14.5	20}
+		{15.0	5}
+		{15.5	35}		; Wild bounce
+		{16.0	3}
+		{16.5	34}
+		{17.0	8}
+		{17.5	40}
+		{18.0	4}
+		{18.5	30}		; big jump possible
+		{19.0	6}
+		{19.5	24}
+		{20.0	10}
+		
+		; 20-30°: UNPREDICTABLE MID-RANGE
+		{20.5	95}		; More than perpendicular possible
+		{21.0	5}
+		{21.5	80}
+		{22.0	10}
+		{22.5	100}	; Extreme over-deflection
+		{23.0	6}
+		{23.5	75}
+		{24.0	12}
+		{24.5	85}
+		{25.0	8}
+		{25.5	110}	; Almost Physically impossible but cinematic
+		{26.0	7}
+		{26.5	70}
+		{27.0	15}
+		{27.5	90}
+		{28.0	9}
+		{28.5	95}
+		{29.0	11}
+		{29.5	80}
+		{30.0	15}
+		
+		; 30-45°: FINAL CHAOTIC ZONE
+		{31	120}	; Maximum cinematic
+		{32	15}
+		{33	90}
+		{34	20}
+		{35	100}
+		{36	25}
+		{37	110}
+		{38	30}
+		{39	95}
+		{40	20}
+		{41	105}
+		{42	40}
+		{43	115}
+		{44	45}
+		{45	50}
+		
+		; 45-90°: RARE BUT POSSIBLE EXTREME BOUNDS
+		{50	105}	; Almost impossible but allowed
+		{55	70}
+		{60	150}	; Maximum cinematic bounce
+		{65	80}
+		{70	160}	; Extreme
+		{75	90}
+		{80	170}	; Nearly reversing direction
+		{85	100}
+		{85	40}
+		{90	175}	; Full reversal (theoretical max)
+	}
+)
+
+{materials
+	{"steel"
+		{ricochet
+			{chance
+				{0	1}
+				{10	1}
+				{15	1}
+				{30	0.95}
+				{45 0.85}
+				{60 0.30}
+				{75 0.0}
+				{90 0.0}
+			}
+			("cunted")
+			{velocityDumping 0.9}
+			{gravityScale 1.1}
+		}
+		{physics
+			{friction  1.0}
+			{restitution 0.4}
+		}
+		{steelEquivalent 0.1}
+		{durability
+			{pierce 1}
+			{blast 1}
+		}
+		{## damage
+			{radius 0.5}
+			{scale 2.0}
+			{stage "/texture/wound/metal_dmg01.mtl" 0.2}
+			{stage "/texture/wound/metal_dmg02.mtl" 0.5}
+			{stage "/texture/wound/metal_dmg03.mtl" 0.8}
+		}
+		{wound
+			{range 0 9}
+			{scale 12}
+			{calibre 8}
+			{stage "/texture/wound/metal_ricochet_small.mtl" 0}
+			{stage "/texture/wound/metal_small01.mtl" 1}
+			
+		}
+		{wound
+			{range 10 25}
+			{scale 14}
+			{calibre 12}
+			{stage "/texture/wound/metal_ricochet_small.mtl" 0}
+			{stage "/texture/wound/metal_small01.mtl" {"/texture/wound/metal_small01_add.mtl" 5} 1}
+		}
+		{wound
+			{range 26 40}
+			{scale 18}
+			{calibre 37}
+			{stage "/texture/wound/metal_ricochet_small.mtl" 0}
+			{stage "/texture/wound/metal_small01.mtl" {"/texture/wound/metal_small01_add.mtl" 5} 1}
+		}
+		{wound
+			{range 41 73}
+			{scale 9}
+			{calibre 45}
+			{stage "/texture/wound/metal_ricochet.mtl" 0}
+			{stage "/texture/wound/metal01.mtl" {"/texture/wound/metal01_add.mtl" 25} 1}
+		}
+		{wound
+			{range 74 120}
+			{scale 11}
+			{calibre 88}
+			{stage "/texture/wound/metal_ricochet.mtl" 0}
+			{stage "/texture/wound/metal02.mtl" {"/texture/wound/metal02_add.mtl" 25} 1}
+		}
+		{wound
+			{range 121 300}
+			{scale 14}
+			{calibre 122}
+			{stage "/texture/wound/metal_ricochet.mtl" 0}
+			{stage "/texture/wound/metal03.mtl" {"/texture/wound/metal03_add.mtl" 25} 1}
+		}
+	}
+
+	{"concrete"
+		{ricochet
+			{chance
+				{0	1}
+				{15	0.8}
+				{30	0.5}
+				{45 0.2}
+				{60 0.0}
+				{75 0.0}
+				{90 0.0}
+			}
+			("cunted")
+			{velocityDumping 0.8}
+			{gravityScale 1.2}
+		}
+		{physics
+			{friction 2.0}
+			{restitution 0.4}
+		}
+		{steelEquivalent 0.1}
+		{durability
+			{pierce 10}
+			{blast 1}
+		}
+		{damage
+			{radius 1.5}
+			{scale 2.7}
+			{stage "/texture/wound/concrete_blast01.mtl" 0.12}
+			{stage "/texture/wound/concrete_blast02.mtl" 0.4}
+		}
+		{wound
+			{range 0 12}
+			{scale 10}
+			{calibre 12}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 13 20}
+			{scale 15}
+			{calibre 20}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 21 50}
+			{scale 8}
+			{calibre 45}
+			{stage "/texture/wound/concrete01.mtl" 0}
+			{stage "/texture/wound/concrete02.mtl" 0.5}
+		}
+		{wound
+			{range 51 210}
+			{scale 21}
+			{calibre 122}
+			{stage "/texture/wound/concrete01.mtl" 0}
+			{stage "/texture/wound/concrete02.mtl" 0.4}
+			{stage "/texture/wound/concrete03.mtl" 0.75}
+		}
+	}
+	
+	{"wood"
+		{ricochet
+			{chance
+				{0  1}
+				{5  0.5}
+				{45 0.2}
+				{90 0}
+			}
+			("cunted")
+			{velocityDumping 0.7}
+			{gravityScale 1.2}
+		}
+		{physics
+			{friction  1.0}
+			{restitution 0.4}
+		}
+		{steelEquivalent 0.01}
+		{durability
+			{pierce 10}
+			{blast 1}
+		}
+		{damage
+			{radius 1.5}
+		}
+		{wound
+			{range 0 9}
+			{scale 5}
+			{calibre 8}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 10 15}
+			{scale 7}
+			{calibre 12}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 16 24}
+			{scale 10}
+			{calibre 20}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 21 50}
+			{scale 15}
+			{calibre 45}
+			{stage "/texture/wound/wood01.mtl" 0}
+			{stage "/texture/wound/wood02.mtl" 0.5}
+		}
+		{wound
+			{range 51 210}
+			{scale 35}
+			{calibre 122}
+			{stage "/texture/wound/wood01.mtl" 0}
+			{stage "/texture/wound/wood02.mtl" 0.5}
+		}
+	}
+
+	{"sand"
+		{ricochet
+			{chance
+				{0	0.75}
+				{15	0.5}
+				{30	0.25}
+				{45 0.125}
+				{60 0.0}
+				{75 0.0}
+				{90 0.0}
+			}
+			("cunted")
+			{velocityDumping 0.375}
+			{gravityScale 2}
+		}
+		{physics
+			{friction  7.0}
+			{restitution 0.1}
+		}
+		{steelEquivalent 0.15}
+		{damage
+			{radius 1.5}
+			{scale 2.7}
+			{stage "/texture/wound/concrete_blast01.mtl" 0.12}
+			{stage "/texture/wound/concrete_blast02.mtl" 0.4}
+		}
+		{wound
+			{range 0 12}
+			{scale 10}
+			{calibre 12}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 13 20}
+			{scale 15}
+			{calibre 20}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 21 50}
+			{scale 8}
+			{calibre 45}
+			{stage "/texture/wound/concrete01.mtl" 0}
+			{stage "/texture/wound/concrete02.mtl" 0.5}
+		}
+		{wound
+			{range 51 210}
+			{scale 21}
+			{calibre 122}
+			{stage "/texture/wound/concrete01.mtl" 0}
+			{stage "/texture/wound/concrete02.mtl" 0.4}
+			{stage "/texture/wound/concrete03.mtl" 0.75}
+		}
+	}
+
+	{"straw"
+		{ricochet
+			{chance
+				{0	0}
+				{90 0}
+			}
+			("cunted")
+			{velocityDumping 0.9}
+			{gravityScale 1.1}
+		}
+		{physics
+			{friction  2.0}
+			{restitution 0.2}
+		}
+		{steelEquivalent 0.001}
+		{durability
+			{pierce 20}
+			{blast 1}
+		}
+	}
+
+	{"fabric"
+		{physics 
+			{friction 1.0}
+			{restitution 0.1}
+		}
+		{steelEquivalent 0.001}
+		{wound
+			{range 0 9}
+			{scale 8}
+			{calibre 8}
+			{stage "/texture/wound/metal_small01.mtl" 1}
+		}
+		{wound
+			{range 10 25}
+			{scale 12}
+			{calibre 12}
+			{stage "/texture/wound/metal_small01.mtl" 1}
+		}
+		{wound
+			{range 26 40}
+			{scale 20}
+			{calibre 37}
+			{stage "/texture/wound/metal_small01.mtl" 1}
+		}
+		{wound
+			{range 41 73}
+			{scale 30}
+			{calibre 45}
+			{stage "/texture/wound/metal_small01.mtl" 1}
+		}
+		{wound
+			{range 74 120}
+			{scale 50}
+			{calibre 88}
+			{stage "/texture/wound/metal_small01.mtl" 1}
+		}
+		{wound
+			{range 121 300}
+			{scale 65}
+			{calibre 122}
+			{stage "/texture/wound/metal_small01.mtl" 1}
+		}
+	}
+	{"glass"
+		{ricochet
+			{chance
+				{0	0}
+				{90 0}
+			}
+			{velocityDumping 0.8}
+			{gravityScale 2}
+		}
+		{physics 
+			{friction 1.0}
+			{restitution 0.3}
+		}
+		{steelEquivalent 0.001}
+		{##damage
+			{radius 0.1}
+			{scale 2.7}
+			{stage "/texture/wound/glass01.mtl" 0.2}
+			{stage "/texture/wound/glass02.mtl" 0.6}
+			{stage "/texture/wound/glass03.mtl" 0.7}
+		}
+		{wound
+			{range 0 9}
+			{scale 6}
+			{calibre 8}
+			{stage "/texture/wound/glass01.mtl" 0}
+		}
+		{wound
+			{range 10 15}
+			{scale 8}
+			{calibre 12}
+			{stage "/texture/wound/glass01.mtl" 0}
+		}
+		{wound
+			{range 16 24}
+			{scale 10}
+			{calibre 20}
+			{stage "/texture/wound/glass01.mtl" 0}
+		}
+		{wound
+			{range 21 50}
+			{scale 17}
+			{calibre 45}
+			{stage "/texture/wound/glass01.mtl" 0}
+			{stage "/texture/wound/glass02.mtl" 0.5}
+			{stage "/texture/wound/glass03.mtl" 0.75}
+		}
+		{wound
+			{range 51 210}
+			{scale 22}
+			{calibre 122}
+			{stage "/texture/wound/glass01.mtl" 0}
+			{stage "/texture/wound/glass02.mtl" 0.5}
+			{stage "/texture/wound/glass03.mtl" 0.75}
+		}
+	}
+
+	{"flesh" {physics {friction 1.0} {restitution 0.1}}}
+
+	{"ice"
+		{ricochet
+			{chance
+				{0  1}
+				{1  0.99}
+				{2  0.98}
+				{3  0.97}
+				{5  0.95}
+				{10 0.8}
+				{20 0.65}
+				{30 0.5}
+				{40 0.35}
+				{45 0.3}
+				{55 0.2}
+				{70 0.1}
+				{85 0.02}
+				{90 0}
+			}
+			("cunted")
+			{velocityDumping 0.5}
+			{gravityScale 2}
+		}
+		{physics
+			{friction  0.5}
+			{restitution 0.4}
+		}
+		{steelEquivalent 0.05}
+		{damage
+			{radius 1.5}
+		}
+	}
+
+	{"rock"
+		{ricochet
+			{chance
+				{0  1}
+				{1  0.99}
+				{2  0.98}
+				{3  0.97}
+				{5  0.95}
+				{10 0.8}
+				{20 0.65}
+				{30 0.5}
+				{40 0.35}
+				{45 0.3}
+				{55 0.2}
+				{70 0.1}
+				{85 0.02}
+				{90 0}
+			}
+			("cunted")
+			{velocityDumping 0.7}
+			{gravityScale 2}
+		}
+		{physics
+			{friction  1.0}
+			{restitution 0.4}
+		}
+		{steelEquivalent 0.1}
+		{damage
+			{radius 1.5}
+		}
+	}
+	
+	
+{"ground"
+	{ricochet
+		{chance
+			{0  1}
+			{1  0.99}
+			{2  0.98}
+			{3  0.97}
+			{5  0.95}
+			{10 0.8}
+			{20 0.65}
+			{30 0.5}
+			{40 0.35}
+			{45 0.3}
+			{55 0.2}
+			{70 0.1}
+			{85 0.02}
+			{90 0}
+		}
+		("cunted")
+		{velocityDumping 0.7}
+			{gravityScale 2}
+		}
+		{physics
+			{friction 3.0}
+			{restitution 0.1}
+		}
+		{steelEquivalent 0.05}
+		{damage
+			{radius 1.5}
+		}
+	}
+	
+	{"water" 
+		{ricochet
+			{chance
+				{0  1}
+				{3  0.4}
+				{5 0.2}
+				{7 0.07}
+				{10 0.05}
+				{15 0}
+				{30 0}
+				{45 0}
+				{50 0}
+				{90 0}
+			}
+			{angle                          ;water is smooth and consistent
+				{2	1}
+				{20	10}
+				{45	30}
+				{60	45}
+				{90	90}
+			}
+			{velocityDumping 0.5}
+			{gravityScale 3}
+		}       
+		{physics {friction 9.0} {restitution 0.0}}
+	}
+	
+	{"underwater"	{physics {friction 9.0} {restitution 0.0}}}
+
+	{"steelball"
+		{ricochet
+			{chance
+				{0	1}
+				{45 0.8}
+				{85 0.6}
+				{90 0.1}
+			}
+			("cunted")
+			{velocityDumping 0.97}
+			{gravityScale 1.1}
+		}
+		{physics {friction 0.5} {restitution 3.0}}
+	}
+	
+	{"misc"
+		{ricochet
+			{chance
+				{0	0.5}
+				{15	0.25}
+				{30	0.125}
+				{45 0.0}
+				{60 0.0}
+				{75 0.0}
+				{90 0.0}
+			}
+			("cunted")
+			{velocityDumping 0.375}
+			{gravityScale 2}
+		}
+		{physics
+			{friction  1.0}
+			{restitution 0.4}
+		}
+		{steelEquivalent 0.01}
+		{damage
+			{radius 1.5}
+		}
+		{wound
+			{range 0 12}
+			{scale 13}
+			{calibre 12}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 13 20}
+			{scale 18}
+			{calibre 20}
+			{stage "/texture/wound/concrete_small01.mtl" 0}
+		}
+		{wound
+			{range 21 50}
+			{scale 15}
+			{calibre 45}
+			{stage "/texture/wound/wood01.mtl" 0}
+			{stage "/texture/wound/wood02.mtl" 0.5}
+		}
+		{wound
+			{range 51 210}
+			{scale 35}
+			{calibre 122}
+			{stage "/texture/wound/wood01.mtl" 0}
+			{stage "/texture/wound/wood02.mtl" 0.5}
+		}
+	}
+
+	{"dummy"}
+}

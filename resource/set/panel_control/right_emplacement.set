@@ -1,0 +1,141 @@
+;SDL
+
+; {position column row}
+
+;-----------------------------------------------------------------------------------------------------------------------;
+; conditions																											;
+;-----------------------------------------------------------------------------------------------------------------------;
+; "vehicle" "tank" "cannon" "tractor" "human"	:	show this control based on actors properties						;
+; "single"										:	show this control only if a single actor is selected				;
+; "multiple"									:	show this control only if multiple actors (squad) is selected		;
+; "commander"									:	show this control only if the selected actor is a squad commander	;
+; "disabled"									:	show this control even if it is disabled							;
+;-----------------------------------------------------------------------------------------------------------------------;
+
+{panel_control
+
+; // first row-------------------------
+
+
+	;{barricade_sq
+	;	{position 0 0}
+	;	{condition "human barricade disabled"}
+	;}
+
+	{barricade
+		{position 0 0}
+		{condition "human barricade"}
+	}
+
+	{barbwire
+		{position 1 0}
+		{condition "human barricade"}
+	}
+	
+	{hedgehog
+		{position 2 0}
+		{condition "human barricade"}
+	}
+	;{ft_dot
+	;	{position 3 0}
+	;	{condition "human barricade"}
+	;}
+	
+
+	{medic_rally
+		{position 3 0}
+		{condition "human"}
+	}
+	
+
+; // second row-------------------------
+
+	{foxhole
+		{position 0 1}
+		{condition "human barricade"}
+	}
+	
+	
+	
+	
+	{concrete_wall
+		{position 1 1}
+		{condition "human barricade"}
+	}
+	
+	{foxhole_big
+		{position 1 1}
+		{condition "human barricade"}
+	}
+	
+	
+	
+	{aa_raised
+		{position 2 1}
+		{condition "human barricade"}
+	}
+	
+	{mortar_pit
+		{position 2 1}
+		{condition "human barricade"}
+	}
+
+
+
+	{fin_raised_bunker
+		{position 3 1}
+		{condition "human barricade"}
+	}
+
+	{tank_cover
+		{position 3 1}
+		{condition "human barricade"}
+	}
+
+
+; // third row-------------------------
+
+
+	;Add dragons teeth in here for germany only
+	
+	
+	{fin_round_bunker
+		{position 0 2}
+		{condition "human barricade"}
+	}
+	
+	{observation_tower
+		{position 0 2}
+		{condition "human barricade"}
+	}
+	
+	
+	
+	{dragons_teeth
+		{position 1 2}
+		{condition "human barricade"}
+	}
+	
+	{fin_bunker
+		{position 1 2}
+		{condition "human barricade"}
+	}
+	
+	
+	
+	{regelbau
+		{position 2 2}
+		{condition "human barricade"}
+	}
+	
+	{fin_coastal_gun
+		{position 2 2}
+		{condition "human barricade"}
+	}
+	
+	
+
+	{gc_cp_browse_back
+		{position 3 2}
+	}
+}

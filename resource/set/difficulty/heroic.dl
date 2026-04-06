@@ -1,0 +1,18 @@
+{difficulty
+	(include "difficulty_generic.inc")
+	{any	;// temp to give enemy stats
+		{health 1.2}
+		{accuracy 1.2}
+		;{burst 1.5}					; multiplier to number of bullets in burst from weapon settings
+	}
+	{enemy	;// not working in coop
+		{health 1.2}
+		{accuracy 1.2}
+	}
+	{ally
+		{health 1.00}
+	}
+	{player
+		{health 1.00}
+	}
+}

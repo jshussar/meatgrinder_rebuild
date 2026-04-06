@@ -1,0 +1,112 @@
+; Profiles for various weapon classes. Defines how the damage to human health is adjusted over distance.
+; 1st value is distance (weapon range multiplied by value)(example: weapon range 100m & value 0.5 = 50m)
+; 2nd value is damage (weapon damage multiplied by value)(example: weapon damage 50 & value 0.5 = -25 health)
+;	{curve "example"
+;		{0.75	0.5}		at 75% of weapons max range, it does 50% of defined damage from weapon file
+
+{ballistics
+	{curve "bullet"			;// bolt action rifles like mosins and kar98ks
+		{0.05	1.00}	;// Point blank: maximum hydrostatic shock, instant kill
+		{0.10	1.00}	;// Battle zero: still full power, devastating wounds
+		{0.33	0.95}	;// 400m: slight velocity drop, still lethal but less fragmentation
+		{0.50	0.85}	;// 600m: energy decay begins, wounds more common than instant kills
+		{1.00	0.70}	;// Max effective range 800m: transonic instability, survivable hits possible
+		{3.00	0.40}	;// 2.4km+: subsonic, punches through but lacks shock, likely wound
+		{20.0	0.20}	;// Extreme range: grazing hit, superficial injury
+	}
+
+	{curve "bullet_sniper"	;// sniper rifles (match grade ammo, heavier bullets)
+		{0.05	1.00}	;// Point blank: devastating
+		{0.10	1.00}	;// Close range: same effect
+		{0.33	0.96}	;// Better ballistics retain energy longer than standard rifles
+		{0.50	0.88}	;// Still highly lethal due to bullet construction
+		{1.00	0.75}	;// Max effective range: retains more energy than standard
+		{3.00	0.45}	;// Extreme range: still dangerous but wounding likely
+		{20.0	0.25}	;// Ballistic limit: possible penetration but minimal damage
+	}
+
+	{curve "autorifle"		;// automatic, semi-automatic, battle rifles (M1 Garand, G43, FG42)
+		{0.05	1.00}	;// Point blank: maximum damage
+		{0.10	1.00}	;// Close range: still full power
+		{0.33	0.94}	;// Slightly less velocity than bolt actions due to gas systems
+		{0.50	0.84}	;// Energy drop more pronounced
+		{1.00	0.68}	;// Effective range limit: wounding common
+		{3.00	0.38}	;// Subsonic: reduced penetration, flesh wounds
+		{20.0	0.18}	;// Maximum range: very superficial
+	}
+
+	{curve "assaultrifle"	;// assault rifles (stg44, intermediate cartridge)
+		{0.05	1.00}	;// Point blank: still kills
+		{0.10	1.00}	;// Close range: full effect
+		{0.33	0.80}	;// 400m: intermediate cartridge loses energy faster than full-power
+		{0.50	0.70}	;// 600m: significant drop, wounds more likely
+		{1.00	0.50}	;// Max effective range: marginal penetration, mostly wounds
+		{3.00	0.25}	;// Beyond effective range: very weak
+		{20.0	0.05}	;// Extreme range: barely scratches
+	}
+
+	{curve "bullet_mg"		;// machine guns (MG34, MG42)
+		{0.05	1.00}	;// Point blank: devastating
+		{0.10	1.00}	;// Close range: same
+		{0.33	0.96}	;// Long barrel, sustained fire retains energy well
+		{0.50	0.88}	;// Still highly lethal at medium range
+		{1.00	0.75}	;// Max effective: heavy bullets carry energy further
+		{3.00	0.45}	;// Extreme range: still dangerous due to mass
+		{20.0	0.25}	;// Maximum range: wounding potential remains
+	}
+
+	{curve "bullet_hmg"		;// heavy machine guns (.50 cal, DShK)
+		{0.05	1.00}	;// Point blank: catastrophic
+		{0.10	1.00}	;// Close range: same
+		{0.33	1.00}	;// Massive energy retention
+		{0.50	1.00}	;// Still full power at half range
+		{1.00	0.95}	;// Max effective: still nearly full damage
+		{3.00	0.70}	;// Extreme range: still lethal due to mass/velocity
+		{20.0	0.30}	;// Maximum range: still causes significant wounds
+	}
+
+	{curve "bullet_smg"		;// sub-machine guns (MP40, Thompson)
+		{0.00	1.00}	;// Point blank: kills
+		{0.15	0.95}	;// 50m: slight drop, pistol caliber
+		{0.50	0.70}	;// 150m: energy drops fast, wounds common
+		{1.00	0.40}	;// 300m max effective: very weak, superficial wounds
+		{3.00	0.15}	;// Beyond max: barely penetrates
+		{10.0	0.05}	;// Maximum range: harmless
+	}
+
+	{curve "bullet_pistol"	;// pistols
+		{0.00	1.00}	;// Point blank: lethal
+		{0.15	0.90}	;// 30m: already losing power
+		{0.50	0.60}	;// 100m: wounding likely
+		{1.00	0.30}	;// 200m max: very weak
+		{3.00	0.10}	;// Beyond: negligible
+		{10.0	0.02}	;// Maximum range: harmless
+	}
+
+	{curve "shotgun"
+		{0.20	1.00}	;// Close range: devastating pattern
+		{0.60	0.90}	;// Medium: spread reduces pellet density
+		{1.00	0.60}	;// Max effective: few pellets hit
+		{3.00	0.20}	;// Extreme range: occasional pellet
+		{10.0	0.05}	;// Maximum range: very rare hit, superficial
+	}
+
+	{curve "gun_autocannon"	;// 20-25mm auto cannons
+		{0.00	1.00}	;// Point blank: explosive/fragmentation full effect
+		{0.10	1.00}	;// Close: same
+		{0.33	1.00}	;// Still full effect
+		{0.50	0.95}	;// Some energy loss
+		{1.00	0.90}	;// Max effective: still devastating
+		{3.00	0.60}	;// Extreme range: reduced fragmentation
+		{20.0	0.20}	;// Maximum range: kinetic only, minimal effect
+	}
+
+	{curve "gun_std"		;// all other weapons / cannons
+		{0.00	1.00}	;// Point blank: full effect
+		{0.33	1.00}	;// Still full
+		{0.50	0.95}	;// Slight drop
+		{1.00	0.90}	;// Max effective: still deadly
+		{3.00	0.50}	;// Extreme range: half damage
+		{20.0	0.15}	;// Maximum range: minor effect
+	}
+}

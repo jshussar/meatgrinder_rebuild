@@ -1,0 +1,148 @@
+{interface
+	{selection
+		{scale
+			{normal 1}
+			{squad_member 1}
+		}
+		{colors
+			{active		dyellow}
+			{examining	"0 128 90"}
+			{manual		dgreen}
+			{selectable	dblue}
+			{selected	white}
+			{senseless	red}
+
+		}
+	}
+	{inventory
+		{cell_size 31 35}
+	}
+	{aim_spot
+		{normal "/interface/cursor/sight"}
+		{ground "/interface/cursor/sight_gnd"}
+		{busy "/interface/cursor/wpn_busy"}
+		{target "/interface/cursor/target"}
+	}
+	{damage_indicator
+		{path "/interface/cursor/damage_indicator"}
+		{time 1.0}
+	}
+	{structure
+		{colors
+			{work white}
+			{repairing "190 35 35"}
+			{broken "190 35 35"}
+			{destroyed "80 80 80"}
+		}
+	}
+	{compass
+		{show}
+		{spacing 60}
+		{offset 0 -5}
+		{step 15}			; in degrees; possible values: 1, 3, 5, 9, 15, 45 [ 360 % (step * 8) = 0 ]
+		{fadeOutStart 0.8}	; where elements start fading out
+		{fadeOutTo 0.0}		; max fade out
+		{fov 60}			; cut off
+	}
+	{vehicle_view
+		{show}
+		{offset 150 -150}
+		{colors
+			{working "0:255 70 0 150,10:255 75 0 150,20:255 95 0 150,30:255 115 0 150,40:255 135 0 150,50:255 155 0 150,60:255 175 0 150,70:255 195 0 150,80:255 215 0 120,90:255 235 0 120,99:255 255 0 100,100:255 255 255 0"} ; (0 to 100) hp_percentage: R G B Alpha
+			{broken "0:215 0 0 180,100:215 0 0 180"}
+		}
+	}
+	{human_view
+		{show}
+		{offset 150 -150}
+	}
+	{crew_view
+		{show}
+		{offset -250 -50}
+		{spacing 40}
+	}
+	{squad_view
+		{show}
+		{offset -250 -50}
+		{spacing 40}
+	}
+	{weapon_view
+		{show}
+		{offset 0 -400}
+		{size 210 115} ; // size of the window
+		{view 30 30} ; // first number is max height of weapon view
+		{spacing 5}
+	}
+	{manual_targeting
+		{range
+			{show}
+			{offset 40 10}
+			{size 32 14}
+
+			{invalid red}
+			{satisfy yellow}
+			{optimal "220 220 220"}
+
+			{background}
+			{bkg_invalid "46 46 46 153"}
+			{bkg_satisfy "46 46 46 153"}
+			{bkg_optimal "46 46 46 153"}
+		}
+		{piercing
+			{show}
+			{offset 74 10}
+			{size 26 14}
+
+			{invalid black}
+			{satisfy black}
+			{optimal black}
+			{disabled black}
+			
+			{background}
+			{bkg_invalid "205 60 60"}
+			{bkg_satisfy "205 170 0"}
+			{bkg_optimal "90 180 70"}
+			{bkg_disabled "75 75 75"}
+		}
+		{zeroing
+			{show}
+			{offset 10 10 0}
+			{size 0 20 20}
+		}
+		{radius
+			{show}
+			{invalid red}
+			{satisfy yellow}
+			{optimal green}
+		}
+		{accuracy_circle		; 1st/3rd Person Only
+			{show}
+			{speed 1.2}
+		}
+		{trajectory				; 1st/3rd Person Only
+			{show}
+		}
+		{zoom_factor			; 1st/3rd Person Only
+			{show}
+		}
+		{ammo					; 1st/3rd Person Only
+			{desc
+				{show}
+				{offset 0 50}
+			}
+			{reloading
+				{show}
+				;{offset 0 -50}
+				{offset 0 20}
+			}
+			{grenade
+				{show}
+				{offset 0 0}
+			}
+		}
+		{hitmarker
+			{show}
+			{time 0.5} ; seconds
+		}
+	}
+}
