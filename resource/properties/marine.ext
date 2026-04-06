@@ -1,0 +1,94 @@
+;SDL
+actor
+
+(include "vehicle.ext")
+(include "armor.ext")
+(include "abm.inc")
+(include "mobility.inc")
+
+{able "-emit_passangers_on_enemy"}
+
+("brain_vehicle")
+
+{Chassis "water" ("chassis_defaults")}
+{simulatorid "water"}
+{patherid "water"}
+{collider "marine"}
+{obstacleID "marine"}
+
+{targetClass "tank_medium" "ap fg bullet"}
+{targetSelector "cannon_zenite"}
+
+{extender "inventory"
+	{box
+		{Size 9 15}
+		{Weight 20000}
+	}
+}
+
+{sensor
+	{visor "main"
+		{vision "marine_main"}
+		{bone "visor"}
+	}
+	{visor "none"
+		{vision "none"}
+	}
+}
+
+{Skeleton
+	{bone "hearing_bone"
+		{Position 0 0 40}
+	}
+}
+
+(define "locomotion"
+	{MaxSpeed	25	}		;// max speed, km/h
+	{StartTime	10	}		;// acceleration time from 0 to max. speed, seconds
+	{BrakeTime	2	}		;// deceleration time from max. speed to 0, seconds
+	{StopTime	4	}		;// stop time after turning off the engine, seconds
+	{TurnRadius	8	}		;// turn radius, m
+	{SplineRadius 3	}		;// limit turning radius on the splines, meters
+
+	{SteerOn	20	}
+	{SteerOff	40	}
+	{Gears 0.5 0.7 1.0}
+	{RearGears 0.15 0.3}
+)
+
+(define "ballast"
+	{volume "ballast%0"
+		{tags "float"}
+		{Able clear {float}}
+	}
+)
+
+("ballast" args 0)
+("ballast" args 1)
+("ballast" args 2)
+("ballast" args 3)
+("ballast" args 4)
+("ballast" args 5)
+("ballast" args 6)
+("ballast" args 7)
+("ballast" args 8)
+("ballast" args 9)
+("ballast" args 10)
+
+(define "component"
+	{volume %volume
+		{tags %component "hull"}
+		{component %component}
+	}
+	{component %component
+		{RepairTime %repair}
+		{tags %component "hull"}
+		{RepairOrder 0}
+	}
+)
+
+("basic_armor" args 10) ;//-0.298
+
+{perks {blastwave_modifier 10.0}}
+
+("marine_durability" body(400) engine(60) gun(100))

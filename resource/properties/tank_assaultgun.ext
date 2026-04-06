@@ -1,0 +1,19 @@
+;SDL
+(include "tank_unarmed.ext")
+
+{props "with_gun" "detect_td_medium"}
+{targetClass "tank_medium" "ap fg bullet"}
+{targetSelector "tank_medium"}
+
+;("mantlet" repair(30))
+("gun" thickness(20) repair(30))
+
+(define "restore_ik_time"
+	{RestoreIKTime 4}
+)
+
+{Weaponry
+	{place "gun"
+		{rotate}
+	}
+}

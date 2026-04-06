@@ -1,0 +1,7 @@
+;SDL
+(include "stuff_small.ext")
+{props "steel bullet_fx size1"}
+{simulatorId "grenade"}
+{body {proper body sensible} {permit body}}
+{volume "body" {thickness 1}}
+{collider "grenade"}

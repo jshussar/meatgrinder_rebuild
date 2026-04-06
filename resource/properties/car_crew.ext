@@ -1,0 +1,266 @@
+;SDL
+
+(define "board_animation"
+	{boarder
+		{anm "%place"
+			{forward {begin "%board_begin"} {end "%board_end"} {base "%base"}}
+			{reverse {end "%board_begin" -1} {base "%base"}}
+		}
+	}
+)
+
+(define "crew_inside"
+	("board_animation" place(driver)	board_begin(board_bigcar) board_end(seat_driver_car) base(doordriver))
+	("board_animation" place(passenger)	board_begin(board_bigcar) board_end(seat_passenger)	 base(doorpassenger))
+	("board_animation" place(commander)	board_begin(board_bigcar) board_end(seat_passenger)	 base(doorcommander))
+)
+
+(define "crew_human"
+	{placer
+		{place "%place"
+			{group "%group"}
+			{linkbone "%bone"}
+			{turnoff {sensor} {targetable 0}}
+		}
+	}
+	{boarder
+		{door "%door"}
+		{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "crew_human_v"
+	{placer
+		{place "%place"
+			{group "%group"}
+			{linkbone "%bone"}
+			{turnoff {targetable 0}}
+		}
+	}
+	{boarder
+		{door "%door"}
+		{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "crew_human_2"		;// for crew to enter/exit from 2 different emit bones
+	{placer
+		{place "%place"
+			{group "crew"}
+			{linkbone "%bone"}
+			{turnoff {sensor} {targetable 0}}
+		}
+	}
+	{boarder
+		{door "%door"}
+		{door "%door2"}
+		{link "%door" "%place" {anm "left"} {forward putoff} {reverse puton}}
+		{link "%door2" "%place" {anm "right"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "crew_human_2_v" ;// for crew to enter/exit from 2 different emit bones. Retain human vision
+	{placer
+		{place "%place"
+			{group "crew"}
+			{linkbone "%bone"}
+			{turnoff {targetable 0}}
+		}
+	}
+	{boarder
+		{door "%door"}
+		{door "%door2"}
+		{link "%door" "%place" {anm "left"} {forward putoff} {reverse puton}}
+		{link "%door2" "%place" {anm "right"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "crew_gunner"
+	{placer
+		{place "%place" {group "%group"} {linkbone "%bone"} {visor "%visor"} {turnoff {targetable 0}}}
+	}
+	{boarder
+		{door "%door"}
+		{door "%door2"}
+		{link "%door" "%place" {anm "left"} {forward putoff} {reverse puton}}
+		{link "%door2" "%place" {anm "right"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "passenger_human"
+	{placer
+		{place "%place"
+			{group "%group"}
+			{linkbone "%bone"}
+			{turnoff {sensor} {targetable}}
+		}
+	}
+	{boarder
+		{door "%door"}
+		{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "crew_2_human"
+	("crew_inside")
+	("crew_human"	place(driver)		bone(driver)	door(emit1) animation(driver)	 group(crew))
+	("crew_human_v" place(commander)	bone(commander)	door(emit2) animation(commander) group(passenger))
+)
+(define "crew_2_human_2"
+	("crew_inside")
+	("crew_human"	place(driver)		bone(driver)	door(emit1) animation(driver)	 group(crew))
+	("crew_human_v" place(commander)	bone(commander)	door(emit2) animation(commander) group(crew))
+)
+
+(define "passenger_4_human"
+	("passenger_human" place(seat1)	bone(seat01)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat2)	bone(seat02)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat3)	bone(seat03)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat4)	bone(seat04)	door(emit4)	animation(passenger) group(passenger))
+)
+
+(define "passenger_6_human"
+	("passenger_human" place(seat1)	bone(seat01)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat2)	bone(seat02)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat3)	bone(seat03)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat4)	bone(seat04)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat5)	bone(seat05)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat6)	bone(seat06)	door(emit4)	animation(passenger) group(passenger))
+)
+
+(define "passenger_8_human"
+	("passenger_human" place(seat1)	bone(seat01)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat2)	bone(seat02)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat3)	bone(seat03)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat4)	bone(seat04)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat5)	bone(seat05)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat6)	bone(seat06)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat7)	bone(seat07)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat8)	bone(seat08)	door(emit4)	animation(passenger) group(passenger))
+)
+
+(define "passenger_10_human"
+	("passenger_human" place(seat1)		bone(seat01)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat2)		bone(seat02)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat3)		bone(seat03)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat4)		bone(seat04)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat5)		bone(seat05)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat6)		bone(seat06)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat7)		bone(seat07)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat8)		bone(seat08)	door(emit4) animation(passenger) group(passenger))
+	("passenger_human" place(seat9)		bone(seat09)	door(emit3) animation(passenger) group(passenger))
+	("passenger_human" place(seat10)	bone(seat10)	door(emit4) animation(passenger) group(passenger))
+)
+
+(define "passenger_12_human"
+	("passenger_human" place(seat1)		bone(seat01)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat2)		bone(seat02)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat3)		bone(seat03)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat4)		bone(seat04)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat5)		bone(seat05)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat6)		bone(seat06)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat7)		bone(seat07)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat8)		bone(seat08)	door(emit4) animation(passenger) group(passenger))
+	("passenger_human" place(seat9)		bone(seat09)	door(emit3) animation(passenger) group(passenger))
+	("passenger_human" place(seat10)	bone(seat10)	door(emit4) animation(passenger) group(passenger))
+	("passenger_human" place(seat11)	bone(seat11)	door(emit3) animation(passenger) group(passenger))
+	("passenger_human" place(seat12)	bone(seat12)	door(emit4) animation(passenger) group(passenger))
+)
+
+(define "passenger_15_human"
+	("passenger_human" place(seat1)		bone(seat001)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat2)		bone(seat002)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat3)		bone(seat003)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat4)		bone(seat004)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat5)		bone(seat005)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat6)		bone(seat006)	door(emit4)	animation(passenger) group(passenger))
+	("passenger_human" place(seat7)		bone(seat007)	door(emit3)	animation(passenger) group(passenger))
+	("passenger_human" place(seat8)		bone(seat008)	door(emit4) animation(passenger) group(passenger))
+	("passenger_human" place(seat9)		bone(seat009)	door(emit3) animation(passenger) group(passenger))
+	("passenger_human" place(seat10)	bone(seat010)	door(emit4) animation(passenger) group(passenger))
+	("passenger_human" place(seat11)	bone(seat011)	door(emit3) animation(passenger) group(passenger))
+	("passenger_human" place(seat12)	bone(seat012)	door(emit4) animation(passenger) group(passenger))
+	("passenger_human" place(seat13)	bone(seat013)	door(emit3) animation(passenger) group(passenger))
+	("passenger_human" place(seat14)	bone(seat014)	door(emit4) animation(passenger) group(passenger))
+	("passenger_human" place(seat15)	bone(seat015)	door(emit3) animation(passenger) group(passenger))
+)
+
+(define "passenger_c47"
+	("passenger_human" place(seat1)		bone(seat01)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat2)		bone(seat02)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat3)		bone(seat03)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat4)		bone(seat04)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat5)		bone(seat05)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat6)		bone(seat06)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat7)		bone(seat07)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat8)		bone(seat08)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat9)		bone(seat09)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat10)	bone(seat10)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat11)	bone(seat11)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat12)	bone(seat12)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat13)	bone(seat13)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat14)	bone(seat14)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat15)	bone(seat15)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat16)	bone(seat16)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat17)	bone(seat17)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat18)	bone(seat18)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat19)	bone(seat19)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat20)	bone(seat20)	door(emit1) animation(passenger) group(passenger))
+)
+
+(define "passenger_horsa"
+	("passenger_human" place(seat1)		bone(seat01)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat2)		bone(seat02)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat3)		bone(seat03)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat4)		bone(seat04)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat5)		bone(seat05)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat6)		bone(seat06)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat7)		bone(seat07)	door(emit1)	animation(passenger) group(passenger))
+	("passenger_human" place(seat8)		bone(seat08)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat9)		bone(seat09)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat10)	bone(seat10)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat11)	bone(seat11)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat12)	bone(seat12)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat13)	bone(seat13)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat14)	bone(seat14)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat15)	bone(seat15)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat16)	bone(seat16)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat17)	bone(seat17)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat18)	bone(seat18)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat19)	bone(seat19)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat20)	bone(seat20)	door(emit1) animation(passenger) group(passenger))
+	("passenger_human" place(seat21)	bone(seat21)	door(emit1) animation(passenger) group(passenger))
+)
+
+;/*===============  ===============*/
+
+(define "crew"
+	{placer
+		{place "%place"
+			{group "crew"}
+			{visor "%visor"}
+			{LinkBone "%bone"}
+			{turnoff %off}
+			;{openForCrush}
+		}
+	}
+	{boarder
+		{door "%door"}
+		{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "passenger"
+	{placer
+		{place "%place"
+			{group "passenger"}
+			{LinkBone "%bone"}
+			{turnoff {sensor} %off}
+			;{openForCrush}
+		}
+	}
+	{boarder
+		{door "%door"}
+		{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+	}
+)

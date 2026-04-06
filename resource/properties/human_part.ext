@@ -1,0 +1,19 @@
+game_entity
+
+	{simulation {able 1} {state 1}}
+	{constrain none}
+	{volume "body"
+		{able {visible} {bullet} {touch} {contact_ground} {contact} {blast}}
+	}
+	{volume "body1"
+		{able {visible} {bullet} {touch} {contact_ground} {contact} {blast}}
+	}
+	{volume "body2"
+		{able {visible} {bullet} {touch} {contact_ground} {contact} {blast}}
+	}
+	{obstacleID "human"}
+	{collider "human.part"}
+	{props "flesh" "part" "ps_dummy"}
+	{lodclass "part_small"}
+	{NoGroupMesh 1}
+	{mass 1}

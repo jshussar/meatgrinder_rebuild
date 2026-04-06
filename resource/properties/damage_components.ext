@@ -1,0 +1,9 @@
+		{bone "transmission"
+			{parameters "ID=transmission;"}
+			{Matrix34
+				1	0	0
+				0	1	0
+				0	0	1
+				0	0	15
+			}
+		}

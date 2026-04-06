@@ -1,0 +1,294 @@
+;SDL
+
+(include "abm.inc")
+
+{extender "vitality"
+	{Health
+		{max		100}	;// max health
+		{current	100}	;// current health
+		{inc		1.0}	;// health regeneration per second
+	}
+	{Stamina
+		{max		100}	;// max stamina
+		{current	100}	;// current stamina
+		{inc				;// stamina regeneration/usage per second (depending on movement mode and load)
+			;// movement_mode	load[0]		load[1]		load[2]		load[3]
+			{stay				+3			+3			+2.5		+2 }
+			{walk				+3			+2			+2			+2 }
+			{slow				+3			+2			+2			+2 }
+			{normal				+2			+1.5		+1.0		+0.5 }
+			{fast				-3			-3.5		-4.0		-4.5 }
+		}
+		{load					0			25			50			75}		;// equipment weight (in kg)
+		{movement_limits
+			{Fast 		1		25}
+			{Normal 	0		0 }
+			{Slow 		-1		-1}
+		}
+	}
+	;{Damage
+	;	{"head"		2.0}
+	;	{"face"		2.0}
+	;	{"body"		1.0}
+	;	{"hand1r"	0.8}
+	;	{"hand2r"	0.7}
+	;	{"hand1l"	0.8}
+	;	{"hand2l"	0.7}
+	;	{"foot1r"	0.8}
+	;	{"foot2r"	0.7}
+	;	{"foot1l"	0.8}
+	;	{"foot2l"	0.7}
+	;}
+	;{DamageBlast	1.00}
+	;{DamageTPC 				;// Third person and direct control
+	;	{"head"		2.5}
+	;	{"face"		2.5}
+	;	{"body"		1.0}
+	;	{"hand1r"	0.85}
+	;	{"hand2r"	0.7}
+	;	{"hand1l"	0.85}
+	;	{"hand2l"	0.7}
+	;	{"foot1r"	0.85}
+	;	{"foot2r"	0.7}
+	;	{"foot1l"	0.85}
+	;	{"foot2l"	0.7}
+	;}
+	
+	;USE THIS ONE
+	;(mod "hardcore"
+		{Damage
+			{"head"		3.0}
+			{"face"		4.0}
+			{"body"		1.0}
+			{"hand1r"	0.4}
+			{"hand2r"	0.2}
+			{"hand1l"	0.4}
+			{"hand2l"	0.2}
+			{"foot1r"	0.6}
+			{"foot2r"	0.2}
+			{"foot1l"	0.6}
+			{"foot2l"	0.2}
+		}
+		{DamageBlast	1.2}
+		{DamageTPC
+			{"head"		3.0}
+			{"face"		4.0}
+			{"body"		1.0}
+			{"hand1r"	0.4}
+			{"hand2r"	0.2}
+			{"hand1l"	0.4}
+			{"hand2l"	0.2}
+			{"foot1r"	0.6}
+			{"foot2r"	0.2}
+			{"foot1l"	0.6}
+			{"foot2l"	0.2}
+		}
+	;)
+}
+
+{extender "resources"
+	{Resources
+		{max		10}		;// max resources
+		{current	10}		;// current resources
+		{income		0.1}	;// resources regeneration per second
+	}
+}
+
+{extender "inventory"
+	{box
+		{Size 9 12}
+		{Weight 100}
+	}
+	{hand_left}
+	{hand_right}
+	{armor "head"
+		{mask "head"}
+		{bone "head"}
+		{volumes "head"}
+		{pierceAbsorb 20}
+	}
+	{armor "body"
+		{mask "body"}
+		{volumes "body"}
+		{bone "IK_UpDown"}
+		{pierceAbsorb 25}
+		{HeatDamping 0.6}
+	}
+	{armor "accessories"
+		{mask "head2"}
+		{bone "head"}
+		{volumes "head"}
+		{pierceAbsorb 25}
+	}
+}
+
+{extender "stuff"
+	{item "human"}
+}
+
+{bone "foresight2"
+	{speed 0.1}
+}
+
+{Sensor
+	{Visor "eyes"
+		{vision "human"}
+		{bone "visor"}
+	}
+	{Visor "peripheral"
+		{vision "human_peripheral"}
+		{bone "visor"}
+	}
+	{Visor "hearing"
+		{vision "noise_detection"}
+		{bone "visor"}
+	}
+	{Visor "telescope"}
+	{AttackZone 7.5}
+	{MinRecognizeTime 0.01}
+	{RecognizeTime 0.01}
+	{InformRange 150 150}		;// first = AI , second = USER
+}
+
+{Chassis "foot"
+
+	;// animation speed = movement speed / A * animation scale 
+	;// speed S (km/h) animation A (km/h) rotation R (degree/s)
+
+	{Crawl		;// S	A	R
+		{Slow		3.5	4	60 }
+		{Normal		4.5	5	90 }
+		{Fast		6	6	90 }
+	}
+	{Swim
+		{Slow		2	5	90 }
+		{Normal		3	5	150 }
+		{Fast		5	5	150 }
+	}
+	{Run
+		{Sneak		5	2	90  }	; x 0.85
+		{Spot		6	2	90  }	; x 0.5		// Manual TPC Zoom
+		{Walk		4	1.8 90  }	; x 0.48
+		{Slow		8	8	180 }	; x 1
+		{Normal		12	7	180 }	; x 0.55
+		{Fast		18	6.5 180 }	; x 0.33
+		{Bow		16	6.5	180 }	; x 0.55
+	}
+	{Strafe
+		;//			m  m+v  km/h  speed	animation up 					animation down					; m+v = mask + value for strafe counter
+		{Forth		3  2 0	6.5   3		"walk_spot_gun_up_1"		  "walk_spot_gun_down_1"}			;// 6.5 km/h move 2 km/h animation 0.37 scale --> in Run
+		{Forth		3  2 1	11.0  1 	"run_spot_gun_up" 			  "run_spot_gun_down"}
+		{Forth		8  0 0	13.2  1.2	"run_spot_gun_up" 			  "run_spot_gun_down"}
+		{Left		4  0 0	10.5  1.22	"run_spot_back-strafe_gun_up" "run_spot_back-strafe_gun_down"}
+		{Right		8  0 0	13.0  1.1	"run_spot_left-strafe_gun_up" "run_spot_left-strafe_gun_down"}
+		{Back		8  0 0	10.5  1.22	"run_back_spot_gun_up" 		  "run_back_spot_gun_down"}
+	}
+	{Injured 0.8}		;// speed multiplier when health is below 30% of maximum
+}
+
+{volume "body"	;//stomach and chest
+	{thickness 2.5}
+	{tags "fire"}
+}
+{volume "head"	;//top of head/helmet covered area
+	{thickness 4.6}
+	{able {nolook 1}}
+	{tags "no_target" "fire"}
+}
+{volume "face"	;// main head volume
+	{thickness 6.0}
+	{tags "fire"}
+}
+{volume "hand1r"	;//shoulder to elbow
+	{thickness 2.1}
+	{able {nolook 1}}
+	{tags "no_target" "fire"}
+}
+{volume "hand2r"	;//elbow to hand
+	{thickness 1.2}
+	{able {nolook 1}}
+	{tags "no_target" "fire"}
+}
+{volume "hand1l"	;//shoulder to elbow
+	{thickness 2.1}
+	{able {nolook 1}}
+	{tags "no_target" "fire"}
+}
+{volume "hand2l"	;//elbow to hand
+	{thickness 1.2}
+	{able {nolook 1}}
+	{tags "no_target" "fire"}
+}
+{volume "foot1r" ;//pelvus to knee
+	{thickness 3.0}
+	{able {nolook 1}}
+	{tags "fire"}
+}
+{volume "foot2r" ;//knee to foot
+	{thickness 2.2}
+	{able {nolook 1}}
+	{tags "no_target" "fire"}
+}
+{volume "foot1l" ;//pelvus to knee
+	{thickness 3.0}
+	{able {nolook 1}}
+	{tags "fire"}
+}
+{volume "foot2l" ;//knee to foot
+	{thickness 2.2}
+	{able {nolook 1}}
+	{tags "no_target" "fire"}
+}
+
+{extension "human_fsm.ext"}
+
+{mass 70}
+{obstacleID "human"}
+{PatherID	"human"}
+{collider	"human"}
+
+{simulation {able 1} {state 0}}
+{simulatorId "human"}
+
+{able "crew" "fight" "minimap" "personage"}
+{props "flesh" "human" "nocover" "collectable"}
+{targetClass "human"}
+{targetSelector "human"}
+
+{brain "human"
+	{const "bomb/detect_explosives"	10}		;// detect explosives inside 7 meter radius
+	{const "bomb/detect_grenades"	7}		;// detect grenades inside 5 meter radius
+	{const "bomb/danger_zone"		5}		;// hide if danger is more than "x" meters away, otherwise run away
+	{const "bomb/danger_zone_jump" 	7}		;jump away if danger is inside 2 - 4 meter radius
+	{const "bomb/danger_zone_hide" 	10}		;hide if danger is inside 4 - 6 meter radius
+	{const "fight/distance"			2.5} 	;// was at 1.5
+	{const "weapon/change_time"		3}		;// disable ai weapon switch for 20 seconds
+
+
+	{Properties
+		{advance_ratio 0.005}
+		{retreat_ratio 400}
+	}
+}
+
+{Weaponry
+	{place "hand_right"
+		{Rotate}
+		{SequentialAim 0}		;// was at 1
+		{LinkBone "right_hand"}
+		{LinkAnimation "on"}
+		("abm_human")
+		{AimBone "aim_ref"}
+	}
+	{ManualAccuracy 2.0}
+	{ManualAccuracyZoom 1.50}
+	{TpcInstantAiming}
+	{UseLookatAiming}
+;//	{AnimatedAiming}
+}
+
+{extender "talk"
+	{talker "human"}
+}
+{NoGroupMesh 1}
+{lodclass "human"}

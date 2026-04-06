@@ -1,0 +1,79 @@
+;SDL
+actor
+
+(include "vehicle.ext")
+(include "car_crew.ext")
+(include "armor.ext")
+(include "abm.inc")
+(include "mobility.inc")
+
+("brain_vehicle")
+
+{PatherID  "armored"}
+{collider "armored"}
+
+{props "armored_car" "engine" "hatch" "detect_tank_light" "tow_vehicle"}
+
+{targetClass "armoredcar" "bullet"}
+{targetSelector "tank_zenite"}
+
+{hearingBias 0}				;// reduces units ability to hear sound signals. value = meters
+
+{sensor
+	{visor "main"
+		{vision "tank_range_200"}
+		{bone "foresight1"}
+	}
+	{Visor "driver"
+		{vision "tank_driver"}
+		{bone "visor2"}
+	}
+	{visor "around"
+		{vision "vehicle_around"}
+		{bone "visor1"}
+	}
+	{visor "human"
+		{vision "human"}
+		{bone "visor3"}
+	}
+	{visor "none"
+		{vision "none"}
+	}
+	{Visor "hearing"
+		{vision "noise_detection"}
+		{bone "hearing_bone"}
+	}
+}
+
+{Skeleton
+	{bone "hearing_bone"
+		{Position 0 0 50}
+	}
+}
+
+{extender "inventory"
+	{box
+		{Size 9 10}
+		{Weight 10000}
+		{item "can" 1}
+		{item "repair_kit" 20}
+	}
+}
+
+{extender "talk"
+	{talker "tank"}
+}
+{able "talk"}
+
+(define "restore_ik_time"
+	{RestoreIKTime 10}
+)
+
+("basic_armor" args 10)
+
+("general_durability" body(200) engine(125) turret(100) mantlet(125) gun(100) track(100) ammo(120))
+
+{perks {blastwave_modifier 14.0}}
+
+("body"	repair(100))
+("engine" repair(45))

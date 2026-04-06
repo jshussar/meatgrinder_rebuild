@@ -1,0 +1,10 @@
+{Volume "transmission"
+	{cylinder 3.5 30.0}
+	{Bone "transmission"}
+	{Matrix34
+		0	0	1
+		0	1	0
+		1	0	0
+		0	0	0
+	}
+}

@@ -1,0 +1,129 @@
+;SDL
+;actor
+
+(include "armor.ext")
+{collider "particle.big"}
+{obstacleID "human_impassable"}
+{Simulation {able 1}}
+("basic_armor" args 10)
+{props "steel"}
+;{able "neutral" "exploded" "-select"}
+
+(define "holes"
+	{volume "%volume%number"
+		{able clear {hole}}
+	}
+)
+
+("holes" volume(hole) number())
+("holes" volume(hole) number(1))
+("holes" volume(hole) number(2))
+("holes" volume(hole) number(3))
+("holes" volume(hole) number(4))
+("holes" volume(hole) number(5))
+("holes" volume(hole) number(6))
+("holes" volume(hole) number(7))
+("holes" volume(hole) number(8))
+("holes" volume(hole) number(9))
+("holes" volume(hole) number(10))
+("holes" volume(hole) number(11))
+("holes" volume(hole) number(12))
+("holes" volume(hole) number(13))
+("holes" volume(hole) number(14))
+("holes" volume(hole) number(15))
+("holes" volume(hole) number(16))
+("holes" volume(hole) number(17))
+("holes" volume(hole) number(18))
+("holes" volume(hole) number(19))
+("holes" volume(hole) number(20))
+("holes" volume(hole) number(21))
+("holes" volume(hole) number(22))
+("holes" volume(hole) number(23))
+("holes" volume(hole) number(24))
+("holes" volume(hole) number(25))
+
+(define "track_wheels"
+	{volume "track%0%1"
+		{able {NoWoundDecal}}
+		{thickness %2}
+	}
+)
+
+(define "tracks"
+	{volume "trackleft"
+		{thickness %thickness}
+		{able {NoWoundDecal} {holed}}
+	}
+	{volume "trackright"
+		{thickness %thickness}
+		{able {NoWoundDecal} {holed}}
+	}
+
+	("track_wheels" args left 1 %thickness)
+	("track_wheels" args left 2 %thickness)
+	("track_wheels" args left 3 %thickness)
+	("track_wheels" args left 4 %thickness)
+	("track_wheels" args left 5 %thickness)
+	("track_wheels" args left 6 %thickness)
+	("track_wheels" args left 7 %thickness)
+	("track_wheels" args left 8 %thickness)
+	("track_wheels" args left 9 %thickness)
+	("track_wheels" args left 10 %thickness)
+	("track_wheels" args left 11 %thickness)
+	("track_wheels" args left 12 %thickness)
+	("track_wheels" args left 13 %thickness)
+	("track_wheels" args left 14 %thickness)
+	("track_wheels" args left 15 %thickness)
+	("track_wheels" args left 16 %thickness)
+	("track_wheels" args left 17 %thickness)
+	("track_wheels" args left 18 %thickness)
+
+	("track_wheels" args right 1 %thickness)
+	("track_wheels" args right 2 %thickness)
+	("track_wheels" args right 3 %thickness)
+	("track_wheels" args right 4 %thickness)
+	("track_wheels" args right 5 %thickness)
+	("track_wheels" args right 6 %thickness)
+	("track_wheels" args right 7 %thickness)
+	("track_wheels" args right 8 %thickness)
+	("track_wheels" args right 9 %thickness)
+	("track_wheels" args right 10 %thickness)
+	("track_wheels" args right 11 %thickness)
+	("track_wheels" args right 12 %thickness)
+	("track_wheels" args right 13 %thickness)
+	("track_wheels" args right 14 %thickness)
+	("track_wheels" args right 15 %thickness)
+	("track_wheels" args right 16 %thickness)
+	("track_wheels" args right 17 %thickness)
+	("track_wheels" args right 18 %thickness)
+)
+
+
+
+(define "main_weapon"
+	{volume %0
+		{tags "no_target" "gun"}
+		{able {Contact 0} {Visible 0} {Obstacle 0} {nolook 1}}
+	}
+)
+
+("main_weapon" args "gun")
+("main_weapon" args "gun1")
+("main_weapon" args "gun2")
+("main_weapon" args "gun3")
+("main_weapon" args "gun4")
+
+("main_weapon" args "barrel")
+("main_weapon" args "barrel1")
+("main_weapon" args "barrel2")
+("main_weapon" args "barrel3")
+("main_weapon" args "barrel4")
+("main_weapon" args "barrel5")
+("main_weapon" args "barrel6")
+
+("main_weapon" args "breach")
+("main_weapon" args "breech")
+
+
+;/*========================================*/
+;/*========================================*/

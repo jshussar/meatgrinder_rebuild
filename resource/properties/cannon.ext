@@ -1,0 +1,64 @@
+;SDL
+actor
+
+(include "vehicle.ext")
+(include "armor.ext")
+(include "cannon_crew.ext")
+(include "cannon_armor.ext")
+(include "abm.inc")
+(include "mobility.inc")
+;(include "selection/cannon.inc" scale(1.0))
+
+("brain_vehicle")
+
+{PatherID "cannon.small"}
+{collider "cannon"}
+
+{targetClass "cannon_small" "ap fg"}
+{targetSelector "cannon_small"}
+
+{props "with_gun" "cannon"}
+{able "talk" "-emit_passangers_on_enemy"}
+{lodclass "cannon"}
+
+{sensor
+	{visor "main"
+		{vision "cannon_main"}
+		{bone "visor"}
+	}
+}
+
+{Skeleton
+	{bone "hearing_bone"
+		{Position 0 0 40}
+	}
+}
+
+{extender "inventory"
+	{box
+		{Size 9 6}
+		{weight 10000}
+		{item "repair_kit" 20}
+	}
+}
+
+{Weaponry
+	{place "gun"
+		{gunner "gunner"}
+	}
+}
+
+{extender "talk"
+	{talker "cannon"}
+}
+
+(define "restore_ik_time"
+	{RestoreIKTime 10}
+)
+
+("body" repair(45))
+("gun" repair(30) thickness(10))
+
+{perks
+	{blastwave_modifier 20.0}
+}

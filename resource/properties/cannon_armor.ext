@@ -1,0 +1,114 @@
+;SDL
+
+(define "cannon_thickness"
+	{volume "body"			; Main Body
+		{thickness %0}
+	}
+	{volume "body1"			; Main Body
+		{thickness %0}
+	}
+	{volume "body2"			; Main Body
+		{thickness %0}
+	}
+	{volume "body3"			; Main Body
+		{thickness %0}
+	}
+	{volume "body4"			; Main Body
+		{thickness %0}
+	}
+	{volume "body5"			; Main Body
+		{thickness %0}
+	}
+	{volume "body6"			; Main Body
+		{thickness %0}
+	}
+	{volume "body7"			; Main Body
+		{thickness %0}
+	}
+	{volume "body8"			; Main Body
+		{thickness %0}
+	}
+	{volume "body9"			; Main Body
+		{thickness %0}
+	}
+	{volume "body10"		; Main Body
+		{thickness %0}
+	}
+	{volume "body11"		; Main Body
+		{thickness %0}
+	}
+	{volume "body12"		; Main Body
+		{thickness %0}
+	}
+	{volume "body13"		; Main Body
+		{thickness %0}
+	}
+	{volume "body14"		; Main Body
+		{thickness %0}
+	}
+	{volume "body15"		; Main Body
+		{thickness %0}
+	}
+	{volume "body16"		; Main Body
+		{thickness %0}
+	}
+	{volume "body17"		; Main Body
+		{thickness %0}
+	}
+	{volume "body18"		; Main Body
+		{thickness %0}
+	}
+	{volume "body19"		; Main Body
+		{thickness %0}
+	}
+	{volume "body20"		; Main Body
+		{thickness %0}
+	}
+	
+
+	{volume "standc"		; Center Stand/leg
+		{thickness %0}
+		{able {Visible 0} {nolook 1}}
+	}
+	{volume "standr"		; Right Stand/leg
+		{thickness %0}
+		{able {Visible 0} {nolook 1}}
+	}
+	{volume "standl"		; Left Stand/leg
+		{thickness %0}
+		{able {Visible 0} {nolook 1}}
+	}
+	{volume "standr1"		; Right Stand/leg
+		{thickness %0}
+		{able {Visible 0} {nolook 1}}
+	}
+	{volume "standl1"		; Left Stand/leg
+		{thickness %0}
+		{able {Visible 0} {nolook 1}}
+	}
+	{volume "standr2"		; Right Stand/leg
+		{thickness %0}
+		{able {Visible 0} {nolook 1}}
+	}
+	{volume "standl2"		; Left Stand/leg
+		{thickness %0}
+		{able {Visible 0} {nolook 1}}
+	}
+	{volume "turret"			; Main Body
+		{thickness %0}
+	}
+	{volume "turret1"			; Main Body
+		{thickness %0}
+	}
+	{volume "turret2"			; Main Body
+		{thickness %0}
+	}
+	{volume "turret3"			; Main Body
+		{thickness %0}
+	}
+)
+
+("cannon_durability" body(200) gun(150) wheel(100) shield(200))
+("cannon_thickness" args 8)
+
+("basic_armor" args 10)

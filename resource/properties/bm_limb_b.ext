@@ -1,0 +1,13 @@
+;SDL
+game_entity
+
+{extender "stuff"}
+
+{obstacleID "grenade"}
+{collider "grenade"}
+{props "physics_damping" "collectable"}
+{simulation {able 1} {disableLinked 1}}
+{constrain ground}
+{lodclass "part_small"}
+{NoGroupMesh 1}
+{NoVisibilityPatch}

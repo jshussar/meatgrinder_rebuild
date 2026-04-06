@@ -1,0 +1,8 @@
+;SDL
+{animation
+	{smooth 0.5}
+;	(include "_reg_voronkov.inc")
+	(include "_reg_human_movement.inc")
+	(include "_reg_vehicle_crew.inc")
+	(include "_reg_moto_crew.inc")
+}

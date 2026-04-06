@@ -1,0 +1,384 @@
+;SDL
+
+(define "crew_open_2"
+	{placer
+		{place "%place"
+			{group "crew"}
+			{linkbone "%place"}
+			%extra
+		}
+	}
+	{boarder
+		{door "%door"}
+		{door "%door2"}
+		{link "%door" "%place" {anm "%anm_left"} {forward putoff} {reverse puton}}
+		{link "%door2" "%place" {anm "%anm_right"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "crew_carried_ammo"		;// Carried MG's, Mortars, and Small cannons
+	("crew_open_2" place(gunner)		door(emit1) door2(emit2) anm_left(gunner) anm_right(commander) extra())
+	("crew_open_2" place(commander)		door(emit2) door2(emit1) anm_left(gunner) anm_right(commander) extra())
+	("crew_open_2" place(driver1)		door(emit1) door2(emit2) anm_left(driver1) anm_right(driver2) extra())
+	("crew_open_2" place(driver2)		door(emit2) door2(emit1) anm_left(driver1) anm_right(driver2) extra())
+	{placer
+		{place "gunner"}
+		{place "commander"}
+		{place "driver1"}
+		{place "driver2"}
+	}
+	{boarder
+		{link "driver1" "gunner"}
+		{link "driver2" "commander"}
+	}
+)
+
+(define "crew_open"
+	{placer
+		{place "%place"
+			{group "%group"}
+			{linkbone "%bone"}
+			%extra
+		}
+	}
+	{boarder
+		{door "%door"}
+		{link "%door" "%place" {anm "%animation"} {forward putoff} {reverse puton}}
+	}
+)
+
+(define "crew_carried_cannon"		;// Carried MG's, Mortars, and Small cannons
+	("crew_open" place(gunner)		group(crew)	bone(gunner)	door(emit1) animation(gunner) extra({openForCrush}))
+	("crew_open" place(commander)	group(crew)	bone(commander)	door(emit2) animation(commander) extra({openForCrush}))
+	("crew_open" place(driver1)		group(crew)	bone(driver1)	door(emit1) animation(driver1) extra())
+	("crew_open" place(driver2)		group(crew)	bone(driver2)	door(emit2) animation(driver2) extra())
+	{placer
+		{place "gunner"}
+		{place "commander"}
+		{place "driver1"}
+		{place "driver2"}
+	}
+	{boarder
+		{link "driver1" "gunner"}
+		{link "driver2" "commander"}
+	}
+	{Weaponry
+		{place "gun"
+			{charger "gunner"}
+		}
+	}
+)
+
+(define "crew_carried_cannon_4"
+	("crew_open" place(gunner)		group(crew)	bone(gunner)	door(emit1) animation(gunner) extra({openForCrush}))
+	("crew_open" place(charger)		group(crew)	bone(charger)	door(emit2) animation(charger) extra({openForCrush}))
+	("crew_open" place(charger2)	group(crew)	bone(charger2)	door(emit3) animation(charger2) extra({openForCrush}))
+	("crew_open" place(commander)	group(crew)	bone(commander)	door(emit4) animation(commander) extra({openForCrush}))
+	
+	("crew_open" place(driver1)		group(crew)	bone(driver1)	door(emit1) animation(driver1) extra())
+	("crew_open" place(driver2)		group(crew)	bone(driver2)	door(emit2) animation(driver2) extra())
+	("crew_open" place(driver3)		group(crew)	bone(driver3)	door(emit3) animation(driver3) extra())
+	("crew_open" place(driver4)		group(crew)	bone(driver4)	door(emit4) animation(driver4) extra())
+
+	{placer
+		{place "gunner" {visor "main"}}
+		{place "charger"}
+		{place "charger2"}
+		{place "commander"}
+
+		{place "driver1"}
+		{place "driver2"}
+		{place "driver3"}
+		{place "driver4"}
+	}
+
+	{boarder
+		{link "driver1" "gunner"}
+		{link "driver2" "charger"}
+		{link "driver3" "charger2"}
+		{link "driver4" "commander"}
+	}
+	{Weaponry
+		{place "gun"
+			{charger "charger charger2" minWorkers 1}
+		}
+	}
+)
+
+(define "crew_wheeled_cannon"	;// Standard cannons on wheels that can be towed
+	("crew_carried_cannon")		;// Includes carried cannon and adds seats for when cannon is towed
+	("crew_open" place(seat1)		group(crew) bone(seat1)		door(emit1) animation(seat1) extra())
+	("crew_open" place(seat2)		group(crew) bone(seat2)		door(emit2) animation(seat2) extra())
+	{placer
+		{place "gunner" {visor "main"}}
+		{place "seat1"}
+		{place "seat2"}
+	}
+	{boarder
+		{link "seat1" "driver1"}
+		{link "seat2" "driver2"}
+	}
+	{Weaponry
+		{place "gun"
+			{charger "commander"}
+		}
+	}
+)
+
+(define "crew_wheeled_cannon_2"	;// Standard cannons on wheels that can be towed
+	("crew_carried_cannon")		;// Includes carried cannon and adds seats for when cannon is towed
+	("crew_open" place(seat1)		group(crew) bone(seat1)		door(emit1) animation(seat1) extra())
+	("crew_open" place(seat2)		group(crew) bone(seat2)		door(emit2) animation(seat2) extra())
+	{placer
+		{place "seat1"}
+		{place "seat2"}
+	}
+	{boarder
+		{link "seat1" "driver1"}
+		{link "seat2" "driver2"}
+	}
+)
+
+(define "crew_wheeled_cannon_closed"	;// Custom cannons on wheels that can be towed but humans are hidden when in firing position
+	("crew_carried_cannon")		;// Includes carried cannon and adds seats for when cannon is towed
+	("crew_open" place(gunner)		group(crew)	bone()	door(emit1) animation(gunner) extra({openForCrush}))
+	("crew_open" place(commander)	group(crew)	bone()	door(emit2) animation(commander) extra({openForCrush}))
+	("crew_open" place(seat1)		group(crew) bone(seat1)		door(emit1) animation(seat1) extra())
+	("crew_open" place(seat2)		group(crew) bone(seat2)		door(emit2) animation(seat2) extra())
+	{placer
+		{place "gunner" {visor "main"} {turnoff {sensor} {targetable}}}
+		{place "commander" {visor "commander"} {turnoff {sensor} {targetable}}}
+		{place "seat1"}
+		{place "seat2"}
+	}
+	{boarder
+		{link "seat1" "driver1"}
+		{link "seat2" "driver2"}
+	}
+	{Weaponry
+		{place "gun"
+			{charger "commander"}
+		}
+	}
+)
+
+
+(define "crew_wheeled_cannon_3"
+	("crew_open" place(gunner)		group(crew)	bone(gunner)	door(emit1) animation(gunner) extra({openForCrush}))
+	("crew_open" place(charger)		group(crew)	bone(charger)	door(emit2) animation(charger) extra({openForCrush}))
+	("crew_open" place(commander)	group(crew)	bone(commander)	door(emit3) animation(commander) extra({openForCrush}))
+
+	("crew_open" place(driver1)		group(crew)	bone(driver1)	door(emit1) animation(driver1) extra())
+	("crew_open" place(driver2)		group(crew)	bone(driver2)	door(emit2) animation(driver2) extra())
+	("crew_open" place(driver3)		group(crew)	bone(driver3)	door(emit3) animation(driver3) extra())
+
+	("crew_open" place(seat1)		group(crew) bone(seat1)		door(emit1) animation(seat1) extra())
+	("crew_open" place(seat2)		group(crew) bone(seat2)		door(emit2) animation(seat2) extra())
+	("crew_open" place(seat3)		group(crew) bone(seat3)		door(emit3) animation(seat3) extra())
+
+	{placer
+		{place "gunner" {visor "main"}}
+		{place "charger"}
+		{place "commander"}
+
+		{place "driver1"}
+		{place "driver2"}
+		{place "driver3"}
+
+		{place "seat1"}
+		{place "seat2"}
+		{place "seat3"}
+	}
+
+	{boarder
+		{link "seat1" "driver1"}
+		{link "seat2" "driver2"}
+		{link "seat3" "driver3"}
+
+		{link "driver1" "gunner"}
+		{link "driver2" "charger"}
+		{link "driver3" "commander"}
+	}
+	{Weaponry
+		{place "gun"
+			{charger "charger"}
+		}
+	}
+)
+
+(define "crew_wheeled_cannon_4"
+	("crew_open" place(gunner)		group(crew)	bone(gunner)	door(emit1) animation(gunner) extra({openForCrush}))
+	("crew_open" place(charger)		group(crew)	bone(charger)	door(emit2) animation(charger) extra({openForCrush}))
+	("crew_open" place(charger2)	group(crew)	bone(charger2)	door(emit3) animation(charger2) extra({openForCrush}))
+	("crew_open" place(commander)	group(crew)	bone(commander)	door(emit4) animation(commander) extra({openForCrush}))
+	
+	("crew_open" place(driver1)		group(crew)	bone(driver1)	door(emit1) animation(driver1) extra())
+	("crew_open" place(driver2)		group(crew)	bone(driver2)	door(emit2) animation(driver2) extra())
+	("crew_open" place(driver3)		group(crew)	bone(driver3)	door(emit3) animation(driver3) extra())
+	("crew_open" place(driver4)		group(crew)	bone(driver4)	door(emit4) animation(driver4) extra())
+	
+	("crew_open" place(seat1)		group(crew) bone(seat1)		door(emit1) animation(seat1) extra())
+	("crew_open" place(seat2)		group(crew) bone(seat2)		door(emit2) animation(seat2) extra())
+	("crew_open" place(seat3)		group(crew) bone(seat3)		door(emit3) animation(seat3) extra())
+	("crew_open" place(seat4)		group(crew) bone(seat4)		door(emit4) animation(seat4) extra())
+
+	{placer
+		{place "gunner" {visor "main"}}
+		{place "charger"}
+		{place "charger2"}
+		{place "commander"}
+
+		{place "driver1"}
+		{place "driver2"}
+		{place "driver3"}
+		{place "driver4"}
+
+		{place "seat1"}
+		{place "seat2"}
+		{place "seat3"}
+		{place "seat4"}
+	}
+
+	{boarder
+		{link "seat1" "driver1"}
+		{link "seat2" "driver2"}
+		{link "seat3" "driver3"}
+		{link "seat4" "driver4"}
+		
+		{link "driver1" "gunner"}
+		{link "driver2" "charger"}
+		{link "driver3" "charger2"}
+		{link "driver4" "commander"}
+	}
+	{Weaponry
+		{place "gun"
+			{charger "charger charger2" minWorkers 1}
+		}
+	}
+)
+
+(define "crew_wheeled_cannon_5"
+	("crew_open" place(gunner)		group(crew)	bone(gunner)	door(emit1) animation(gunner) extra({openForCrush}))
+	("crew_open" place(gunner2)		group(crew)	bone(gunner2)	door(emit2) animation(gunner2) extra({openForCrush}))
+	("crew_open" place(charger)		group(crew)	bone(charger)	door(emit3) animation(charger) extra({openForCrush}))
+	("crew_open" place(charger2)	group(crew)	bone(charger2)	door(emit4) animation(charger2) extra({openForCrush}))
+	("crew_open" place(commander)	group(crew)	bone(commander)	door(emit5) animation(commander) extra({openForCrush}))
+
+	("crew_open" place(driver1)		group(crew)	bone(driver1)	door(emit1) animation(driver1) extra())
+	("crew_open" place(driver2)		group(crew)	bone(driver2)	door(emit2) animation(driver2) extra())
+	("crew_open" place(driver3)		group(crew)	bone(driver3)	door(emit3) animation(driver3) extra())
+	("crew_open" place(driver4)		group(crew)	bone(driver4)	door(emit4) animation(driver4) extra())
+	("crew_open" place(driver5)		group(crew)	bone(driver5)	door(emit5) animation(driver5) extra())
+
+	("crew_open" place(seat1)		group(crew) bone(seat1)		door(emit1) animation(seat1) extra())
+	("crew_open" place(seat2)		group(crew) bone(seat2)		door(emit2) animation(seat2) extra())
+	("crew_open" place(seat3)		group(crew) bone(seat3)		door(emit3) animation(seat3) extra())
+	("crew_open" place(seat4)		group(crew) bone(seat4)		door(emit4) animation(seat4) extra())
+	("crew_open" place(seat5)		group(crew) bone(seat5)		door(emit5) animation(seat5) extra())
+
+	{placer
+		{place "gunner" {visor "main"}}
+		{place "gunner2"}
+		{place "charger"}
+		{place "charger2"}
+		{place "commander"}
+
+		{place "driver1"}
+		{place "driver2"}
+		{place "driver3"}
+		{place "driver4"}
+		{place "driver5"}
+
+		{place "seat1"}
+		{place "seat2"}
+		{place "seat3"}
+		{place "seat4"}
+		{place "seat5"}
+	}
+
+	{boarder
+		{link "seat1" "driver1"}
+		{link "seat2" "driver2"}
+		{link "seat3" "driver3"}
+		{link "seat4" "driver4"}
+		{link "seat5" "driver5"}
+
+		{link "driver1" "gunner"}
+		{link "driver2" "gunner2"}
+		{link "driver3" "charger"}
+		{link "driver4" "charger2"}
+		{link "driver5" "commander"}
+	}
+	{Weaponry
+		{place "gun"
+			{charger "charger charger2" minWorkers 1}
+		}
+	}
+)
+
+(define "crew_wheeled_cannon_6"
+	("crew_open" place(gunner)		group(crew)	bone(gunner)	door(emit1) animation(gunner) extra({openForCrush}))
+	("crew_open" place(gunner2)		group(crew)	bone(gunner2)	door(emit2) animation(gunner2) extra({openForCrush}))
+	("crew_open" place(charger)		group(crew)	bone(charger)	door(emit3) animation(charger) extra({openForCrush}))
+	("crew_open" place(charger2)	group(crew)	bone(charger2)	door(emit4) animation(charger2) extra({openForCrush}))
+	("crew_open" place(charger3)	group(crew)	bone(charger3)	door(emit5) animation(charger3) extra({openForCrush}))
+	("crew_open" place(commander)	group(crew)	bone(commander)	door(emit6) animation(commander) extra({openForCrush}))
+
+	("crew_open" place(driver1)		group(crew)	bone(driver1)	door(emit1) animation(driver1) extra())
+	("crew_open" place(driver2)		group(crew)	bone(driver2)	door(emit2) animation(driver2) extra())
+	("crew_open" place(driver3)		group(crew)	bone(driver3)	door(emit3) animation(driver3) extra())
+	("crew_open" place(driver4)		group(crew)	bone(driver4)	door(emit4) animation(driver4) extra())
+	("crew_open" place(driver5)		group(crew)	bone(driver5)	door(emit5) animation(driver5) extra())
+	("crew_open" place(driver6)		group(crew)	bone(driver6)	door(emit6) animation(driver6) extra())
+
+	("crew_open" place(seat1)		group(crew) bone(seat1)		door(emit1) animation(seat1) extra())
+	("crew_open" place(seat2)		group(crew) bone(seat2)		door(emit2) animation(seat2) extra())
+	("crew_open" place(seat3)		group(crew) bone(seat3)		door(emit3) animation(seat3) extra())
+	("crew_open" place(seat4)		group(crew) bone(seat4)		door(emit4) animation(seat4) extra())
+	("crew_open" place(seat5)		group(crew) bone(seat5)		door(emit5) animation(seat5) extra())
+	("crew_open" place(seat6)		group(crew) bone(seat6)		door(emit6) animation(seat6) extra())
+
+	{placer
+		{place "gunner" {visor "main"}}
+		{place "gunner2"}
+		{place "charger"}
+		{place "charger2"}
+		{place "charger3"}
+		{place "commander"}
+
+		{place "driver1"}
+		{place "driver2"}
+		{place "driver3"}
+		{place "driver4"}
+		{place "driver5"}
+		{place "driver6"}
+
+		{place "seat1"}
+		{place "seat2"}
+		{place "seat3"}
+		{place "seat4"}
+		{place "seat5"}
+		{place "seat6"}
+	}
+
+	{boarder
+		{link "seat1" "driver1"}
+		{link "seat2" "driver2"}
+		{link "seat3" "driver3"}
+		{link "seat4" "driver4"}
+		{link "seat5" "driver5"}
+		{link "seat6" "driver6"}
+
+		{link "driver1" "gunner"}
+		{link "driver2" "gunner2"}
+		{link "driver3" "charger"}
+		{link "driver4" "charger2"}
+		{link "driver5" "charger3"}
+		{link "driver6" "commander"}
+	}
+	{Weaponry
+		{place "gun"
+			{charger "charger charger2 charger3" minWorkers 1}
+		}
+	}
+)
