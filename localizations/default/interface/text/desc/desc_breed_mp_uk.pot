@@ -1,0 +1,4208 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell British MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+
+
+;PROJECT REALISM NEW BREEDS---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+msgctxt "desc/human/mp/eng/late/rec_driver"
+msgid "British Recce Ptn. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_sec_com"
+msgid "British Recce Sec Comdr. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_sec_2ic"
+msgid "British Recce L/Cpl, Sub-Sec Comdr. [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_rifle_band"
+msgid "British Recce Rfn. [Enfield No.4]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/eng/late/recon_sl"
+msgid "British DCLI Sec Comdr. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/recon_smg"
+msgid "British DCLI L/Cpl, Sub-Sec Comdr. [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/recon_rifle"
+msgid "British DCLI Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/recon_mortar"
+msgid "British DCLI Pte. Mortar [Enfield No.4]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/can_rifle"
+msgid "2nd Canadian RHLI Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_mg"
+msgid "2nd Canadian RHLI Lewis No. 1 [Lewis Gun]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_mg_asst"
+msgid "2nd Canadian RHLI Lewis No. 2 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_sec_2ic"
+msgid "2nd Canadian RHLI L/Cpl, Sub-Sec Comdr. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_sec_com"
+msgid "2nd Canadian RHLI Sec Comdr. [Thompson]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/eng/late/mot_can_rifle"
+msgid "4th Canadian Motor Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_can_mg"
+msgid "4th Canadian Motor Lewis No. 1 [Lewis Gun]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_can_mg_asst"
+msgid "4th Canadian Motor Lewis No. 2 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_can_sec_2ic"
+msgid "4th Canadian Motor L/Cpl, Sub-Sec Comdr. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_can_sec_com"
+msgid "4th Canadian Motor Sec Comdr. [Thompson]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/eng_rifle"
+msgid "8th British Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/eng_rifle_gren"
+msgid "8th British Rfn Gren. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/eng_sec_subcom"
+msgid "8th British L/Cpl, Sub-Sec Comdr. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/eng_sec_com"
+msgid "8th British Sec Comdr. [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/eng_mg"
+msgid "8th British Bren No. 1 [Bren MK2.]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/eng_mg_asst"
+msgid "8th British Bren No. 2 [Enfield No.4]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/mot_eng_rifle"
+msgid "2nd British Motor Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_eng_sec_2ic"
+msgid "2nd British Motor L/Cpl, Sub-Sec Comdr. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_eng_sec_com"
+msgid "2nd British Motor Sec Comdr. [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_eng_mg"
+msgid "2nd British Motor Bren No. 1 [Bren MK2.]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_eng_mg_asst"
+msgid "2nd British Motor Bren No. 2 [Enfield No.4]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/gds_rifle"
+msgid "4th Pioneer Coldm.Gds Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_sec_2ic"
+msgid "4th Pioneer Coldm.Gds  Cpl, Sub-Sec Comdr. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_sec_com"
+msgid "4th Pioneer Coldm.Gds  Sec Comdr. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_flamer"
+msgid "4th Pioneer Coldm.Gds  Flamethrower Pte."
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ap_miner"
+msgid "4th Pioneer Coldm.Gds  AP Miner Pte. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_at_miner"
+msgid "4th Pioneer Coldm.Gds  AT Miner Pte. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_builder"
+msgid "4th Pioneer Coldm.Gds  Engineer Pte. [Enfield No.4]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/eng/late/scot_rifle"
+msgid "51st Highland Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/scot_sec_subcom"
+msgid "51st Highland L/Cpl, Sub-Sec Comdr. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/scot_sec_com"
+msgid "51st Highland Sec Comdr. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/scot_mg"
+msgid "51st Highland Bren No. 1 [Bren MK2.]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/scot_mg_asst"
+msgid "51st Highland Bren No. 2 [Enfield No.4]"
+msgstr ""
+
+
+
+
+
+msgctxt "desc/human/mp/eng/late/fra_sl"
+msgid "5e French Sec Comdr. [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fra_subcom"
+msgid "5e French L/Cpl, Sub-Sec Comdr. [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fra_mg1"
+msgid "5e French Fm No.1 [FM2429 Machine Gun]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fra_mg_assist1"
+msgid "5e French Fm No.2 [M1916 Berthier]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fra_mg2"
+msgid "5e French Chauchat No.1 [Chauchat Machine Gun]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fra_mg_assist2"
+msgid "5e French Chauchat No.2 [M1916 Berthier]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fra_rifle"
+msgid "5e French Fusil. [M1916 Berthier]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_sec_com"
+msgid "British 1st Para Sec Comdr. [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_sec_com_cpl"
+msgid "British 1st Para Cpl, Sub-Sec Comdr [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_smg"
+msgid "British 1st Para Pte. [Patchett SMG.]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rifle"
+msgid "British 1st Para Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_piat"
+msgid "British 1st Para Piat No. 1 [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_piat_asst"
+msgid "British 1st Para Piat No. 2 [Enfield No.4]" 
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_vgo"
+msgid "British 1st Para VGO No. 1 [Vickers VGO]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_vgo_asst"
+msgid "British 1st Para VGO No. 2 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_mortar"
+msgid "British 1st Para Pte. Knee Mortar No. 1 [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_mortar_asst"
+msgid "British 1st Para Pte. Knee Mortar No. 2 [Enfield No.4]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/can_para_sec_com"
+msgid "Canadian 1st Para Sec Comdr. [Sten Mk.5]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_para_sec_2ic"
+msgid "Canadian 1st Para Cpl, Sub-Sec Comdr [Sten Mk.5]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_para_rifle"
+msgid "Canadian 1st Para Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_para_smg_band"
+msgid "Canadian 1st Para SMG [Sten Mk.5]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_para_mg"
+msgid "Canadian 1st Para Bren No. 1 [Bren MK2.]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/can_para_mg_asst"
+msgid "Canadian 1st Para Bren No. 2 [Enfield No.4]"
+msgstr ""
+
+
+
+
+
+msgctxt "desc/human/mp/eng/late/rm_sec_com"
+msgid "No. 41 Royal Marine Sec Comdr. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_sec_subcom"
+msgid "No. 41 Royal Marine Cpl, Sub-Sec Comdr [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_rifle"
+msgid "No. 41 Royal Marine Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_mg"
+msgid "No. 41 Royal Marine Bren No. 1 [Bren MK2 Drum.]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_mg_asst"
+msgid "No. 41 Royal Marine Bren No. 2 [Enfield No.4]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_sec_com"
+msgid "British 1st Para Sec Comdr. [Sten]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/soe_com"
+msgid "SOE Cmdr. [M1 Carbine and Welrod]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_xo"
+msgid "SOE XO [M1 Carbine and Welrod]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_delisle"
+msgid "SOE Surpressed Rfn. [Supressed Delisle Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_radio_op"
+msgid "SOE Scr. [M1 Carbine and Welrod]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_sten6"
+msgid "SOE Supressed SMG [Supressed Sten]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/sas_sec_com"
+msgid "SAS Sec Comdr. [Thompson] "
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_subsec_com"
+msgid "SAS Cpl, Sub-Sec Comdr [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_tsmg"
+msgid "SAS SMG [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_rifle"
+msgid "SAS Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_piat"
+msgid "SAS Piat No. 1 [Piat]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_piat_asst"
+msgid "SAS Piat No. 2 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_piat_mg"
+msgid "SAS Bren No. 1 [Bren Mk.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_piat_mg_asst"
+msgid "SAS Bren No. 2 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_medic"
+msgid "SAS Medic [Sten]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_at_rifle"
+msgid "SAS Boys No. 1 [Boyes MK1.]"
+msgstr ""
+
+;single callins--------------------------------
+
+msgctxt "desc/human/mp/eng/late/sas_mg_vgo"
+msgid "SAS VGO No. 1 [VGO]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_mg_asst_vgo"
+msgid "SAS VGO No. 1 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/antitank_boys"
+msgid "British Boys No. 1 [Boyes MK1.]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/antitank_boys_asst"
+msgid "British Boys No. 2 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/smg_drum"
+msgid "British SMG [Thompson 1928 Drum]"
+msgstr ""
+
+
+;SP Section--------------------------------------------------------------------------------
+
+msgctxt "desc/human/mp/eng/late/1st_ad_tankman"
+msgid "1st Armored Polish Tankman [Sten Mk.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_tank_com_m1928"
+msgid "1st Armored Polish Tank Commander [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_driver_smg"
+msgid "1st Armored Polish Driver [Sten Mk.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_crew"
+msgid "1st Armored Polish Crewman [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_sec_com"
+msgid "1st Armored Polish Sec Comdr. [Sten Mk.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_sec_2ic"
+msgid "1st Armored Polish Cpl, Sub-Sec Comdr [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_rifle_band"
+msgid "1st Armored Polish Rfn. [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_at_piat"
+msgid "1st Armored Polish Piat No. 1 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_at_piat_asst"
+msgid "1st Armored Polish Piat No. 2 [Enfield No.4]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_mg"
+msgid "1st Armored Polish Bren No. 1 [Bren Mk.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_ad_mg_asst"
+msgid "1st Armored Polish Bren No. 2 [Enfield No.4]"
+msgstr ""
+
+
+;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+msgctxt "desc/human/mp/eng/early/51hl_at_boys"
+msgid "51st Highland Div. AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_at_boys_asst"
+msgid "51st Highland Div. AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_bat_2ic"
+msgid "51st Highland Div. Battalion 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_bat_com"
+msgid "51st Highland Div. Battalion Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_bat_signalman"
+msgid "51st Highland Div. Battalion Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_batman"
+msgid "51st Highland Div. Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_coy_2ic"
+msgid "51st Highland Div. Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_coy_com"
+msgid "51st Highland Div. Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_coy_signalman"
+msgid "51st Highland Div. Company Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_crew"
+msgid "51st Highland Div. Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_detach_com_cpl"
+msgid "51st Highland Div. Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_detach_com_sgt"
+msgid "51st Highland Div. Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_driver"
+msgid "51st Highland Div. Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_medic"
+msgid "51st Highland Div. Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_mg"
+msgid "51st Highland Div. Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_mg_asst"
+msgid "51st Highland Div. Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_pio"
+msgid "51st Highland Div. Pioneer [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_pio_builder"
+msgid "51st Highland Div. Pioneer Builder [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_pio_sec_com"
+msgid "51st Highland Div. Pioneer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_plt_batman"
+msgid "51st Highland Div. Platoon Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_plt_com"
+msgid "51st Highland Div. Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_plt_com_wo3"
+msgid "51st Highland Div. Platoon Commander [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_plt_sgt"
+msgid "51st Highland Div. Platoon Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_rifle"
+msgid "51st Highland Div. Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_rifle_band"
+msgid "51st Highland Div. Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_rifle_gren"
+msgid "51st Highland Div. Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_sec_2ic"
+msgid "51st Highland Div. Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_sec_com"
+msgid "51st Highland Div. Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_sec_com_lcpl"
+msgid "51st Highland Div. Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_sec_com_sgt"
+msgid "51st Highland Div. Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/51hl_sniper"
+msgid "51st Highland Div. Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/antitank_boys"
+msgid "British Boys No. 1. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/antitank_boys_asst"
+msgid "British Boys No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/antitank_gren"
+msgid "Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/artilleryman"
+msgid "British Royal Artilleryman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/bat_2ic"
+msgid "Battalion 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/bat_com"
+msgid "Battalion Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/bat_rsm"
+msgid "Battalion Regimental Sergeant Major [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/bat_signalman"
+msgid "Battalion Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/batman"
+msgid "Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_detach_com"
+msgid "No. 4 Commando Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_mg"
+msgid "No. 4 Commando Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_mg_asst"
+msgid "No. 4 Commando Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_rifle"
+msgid "No. 4 Commando Rfn. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_rifle_band"
+msgid "No. 4 Commando Rfn. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_rifle_gren"
+msgid "No. 4 Commando Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_sec_com"
+msgid "No. 4 Commando Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_smg"
+msgid "No. 4 Commando SMG Inf. [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_sniper"
+msgid "No. 4 Commando Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_subsec_2ic"
+msgid "No. 4 Commando Sub-Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/com_subsec_com"
+msgid "No. 4 Commando Sub-Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/coy_2ic"
+msgid "Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/coy_com"
+msgid "Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/coy_qm_sgt"
+msgid "Company Quarter Master Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/coy_sgt_maj"
+msgid "Company Sergeant Major [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/coy_signalman"
+msgid "Company Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/crew"
+msgid "British Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/detach_com_cpl"
+msgid "Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/detach_com_sgt"
+msgid "Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/driver"
+msgid "British Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/fo"
+msgid "British Forward Artillery Observer Officer [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/fo_radio_88"
+msgid "British 88mm Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/fo_radio_127"
+msgid "British 127mm Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/fo_radio_152"
+msgid "British 152mm Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/fo_radio_203"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_at_boys"
+msgid "5th Coldm.Gds Boys No. 1 [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_at_boys_asst"
+msgid "5th Coldm.Gds Boys No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_bat_2ic"
+msgid "5th Coldm.Gds Battalion 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_bat_com"
+msgid "5th Coldm.Gds Battalion Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_bat_signalman"
+msgid "5th Coldm.Gds Battalion Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_batman"
+msgid "5th Coldm.Gds Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_coy_2ic"
+msgid "5th Coldm.Gds Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_coy_com"
+msgid "5th Coldm.Gds Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_coy_signalman"
+msgid "5th Coldm.Gds Company Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_crew"
+msgid "5th Coldm.Gds Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_detach_com_cpl"
+msgid "5th Coldm.Gds Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_detach_com_sgt"
+msgid "5th Coldm.Gds Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_driver"
+msgid "5th Coldm.Gds Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_medic"
+msgid "5th Coldm.Gds Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_mg"
+msgid "5th Coldm.Gds Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_mg_asst"
+msgid "5th Coldm.Gds Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_pio"
+msgid "5th Coldm.Gds Pioneer [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_pio_builder"
+msgid "5th Coldm.Gds Pioneer Builder [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_pio_sec_com"
+msgid "5th Coldm.Gds Pioneer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_plt_batman"
+msgid "5th Coldm.Gds Platoon Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_plt_com"
+msgid "5th Coldm.Gds Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_plt_com_wo3"
+msgid "5th Coldm.Gds Platoon Commander [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_plt_sgt"
+msgid "5th Coldm.Gds Platoon Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_rifle"
+msgid "5th Coldm.Gds Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_rifle_band"
+msgid "5th Coldm.Gds Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_rifle_gren"
+msgid "5th Coldm.Gds Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_sec_2ic"
+msgid "5th Coldm.Gds Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_sec_com"
+msgid "5th Coldm.Gds Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_sec_com_lcpl"
+msgid "5th Coldm.Gds Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_sec_com_sgt"
+msgid "5th Coldm.Gds Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/gds_sniper"
+msgid "5th Coldm.Gds Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_at_boys"
+msgid "Royal HL. Black Watch AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_at_boys_asst"
+msgid "Royal HL. Black Watch AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_batman"
+msgid "Royal HL. Black Watch Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_coy_2ic"
+msgid "Royal HL. Black Watch Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_coy_com"
+msgid "Royal HL. Black Watch Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_coy_signalman"
+msgid "Royal HL. Black Watch Company Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_crew"
+msgid "Royal HL. Black Watch Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_detach_com_cpl"
+msgid "Royal HL. Black Watch Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_detach_com_sgt"
+msgid "Royal HL. Black Watch Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_driver"
+msgid "Royal HL. Black Watch Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_medic"
+msgid "Royal HL. Black Watch Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_mg"
+msgid "Royal HL. Black Watch Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_mg_asst"
+msgid "Royal HL. Black Watch Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_pio"
+msgid "Royal HL. Black Watch Pioneer [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_pio_builder"
+msgid "Royal HL. Black Watch Pioneer Builder [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_pio_sec_com"
+msgid "Royal HL. Black Watch Pioneer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_plt_batman"
+msgid "Royal HL. Black Watch Platoon Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_plt_com"
+msgid "Royal HL. Black Watch Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_plt_sgt"
+msgid "Royal HL. Black Watch Platoon Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_rifle"
+msgid "Royal HL. Black Watch Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_rifle_band"
+msgid "Royal HL. Black Watch Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_sec_2ic"
+msgid "Royal HL. Black Watch Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_sec_com"
+msgid "Royal HL. Black Watch Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_sec_com_sgt"
+msgid "Royal HL. Black Watch Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_sec_sniper"
+msgid "Royal HL. Black Watch Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/medic"
+msgid "British Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mg"
+msgid "British Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mg_asst"
+msgid "British Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mg_crew"
+msgid "British MG Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mg_crew_asst"
+msgid "British MG Crew Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_boys"
+msgid "Motor AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_boys_asst"
+msgid "Motor AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_mg"
+msgid "Motor Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_mg_asst"
+msgid "Motor Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_rifle"
+msgid "Motor Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_rifle_band"
+msgid "Motor Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_scout_detach_com_cpl"
+msgid "Motor Scout Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_scout_detach_com_lcpl"
+msgid "Motor Scout Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_scout_driver"
+msgid "Motor Scout Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_scout_gunner"
+msgid "Motor Scout Gunner [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_scout_sec_com"
+msgid "Motor Scout Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_sec_2ic"
+msgid "Motor Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mot_sec_com"
+msgid "Motor Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mp_detach_com"
+msgid "Military Police Detachment Commander [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mp_pistol"
+msgid "Military Police [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/mp_rifle"
+msgid "Military Police [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pilot"
+msgid "Pilot [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio"
+msgid "Pioneer [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio_band"
+msgid "Pioneer [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio_boys"
+msgid "Pioneer AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio_boys_asst"
+msgid "Pioneer AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio_builder"
+msgid "Pioneer Builder [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio_gren"
+msgid "Pioneer Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio_mg"
+msgid "Pioneer Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio_mg_asst"
+msgid "Pioneer Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/pio_sec_com"
+msgid "Pioneer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/plt_batman"
+msgid "Platoon Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/plt_com"
+msgid "Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/plt_com_wo3"
+msgid "Platoon Commander [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/plt_sgt"
+msgid "Platoon Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_boys"
+msgid "Royal Engineer AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_boys_asst"
+msgid "Royal Engineer AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_builder"
+msgid "Royal Engineer Builder [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_mg"
+msgid "Royal Engineer Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_mg_asst"
+msgid "Royal Engineer Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_mine_ap"
+msgid "Royal Engineer AP Miner [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_mine_at"
+msgid "Royal Engineer AT Miner [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_sapper"
+msgid "Royal Engineer Sapper [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_sec_2ic"
+msgid "Royal Engineer Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/r_eng_sec_com"
+msgid "Royal Engineer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rear_echelon_rifle"
+msgid "Rear Echelon Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_carrier_detach_com_cpl"
+msgid "Recce Carrier Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_carrier_detach_com_sgt"
+msgid "Recce Carrier Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_carrier_driver"
+msgid "Recce Carrier Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_carrier_gunner"
+msgid "Recce Carrier Gunner [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_carrier_rifle"
+msgid "Recce Carrier Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_rifle"
+msgid "Recce Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_sec_com"
+msgid "Recce Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_troop_com"
+msgid "Recce Troop Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rec_troop_com_wo3"
+msgid "Recce Troop Commander [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rifle"
+msgid "Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rifle_band"
+msgid "Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/rifle_gren"
+msgid "Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/sec_2ic"
+msgid "Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/sec_com"
+msgid "Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/sec_com_lcpl"
+msgid "Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/sec_com_m1928"
+msgid "Section Commander [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/sec_com_sgt"
+msgid "Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/sniper"
+msgid "British Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/tank_commander"
+msgid "British Tank Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/tank_commander_sgt"
+msgid "British Tank Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/tankman"
+msgid "British Tank Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/vehicle_com_cpl"
+msgid "British Vehicle Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/vehicle_com_sgt"
+msgid "British Vehicle Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/vehicle_crew"
+msgid "British Vehicle Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_boys"
+msgid "1st Airlanding AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_boys_asst"
+msgid "1st Airlanding AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_crew"
+msgid "1st Airlanding Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_mg"
+msgid "1st Airlanding Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_mg_asst"
+msgid "1st Airlanding Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_piat"
+msgid "1st Airlanding AT Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_piat_asst"
+msgid "1st Airlanding AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_pio"
+msgid "1st Airlanding Pioneer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_pio_sec_com"
+msgid "1st Airlanding Pioneer Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_pio_sec_com_cpl"
+msgid "1st Airlanding Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_mg"
+msgid "1st Airlanding Recon Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_mg_asst"
+msgid "1st Airlanding Recon Bren No. 2 [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_rifle"
+msgid "1st Airlanding Recon [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sec_2ic"
+msgid "1st Airlanding Recon Section 2IC [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sec_com"
+msgid "1st Airlanding Recon Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sec_com_bino"
+msgid "1st Airlanding Recon Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_smg"
+msgid "1st Airlanding Recon [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rec_sniper"
+msgid "1st Airlanding Recon Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rifle"
+msgid "1st Airlanding [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_rifle_band"
+msgid "1st Airlanding [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_sec_2ic"
+msgid "1st Airlanding Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_sec_com"
+msgid "1st Airlanding Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_sec_com_cpl"
+msgid "1st Airlanding Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_smg"
+msgid "1st Airlanding SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_land_sniper"
+msgid "1st Airlanding Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_batman"
+msgid "1st Airborne Batman [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_boys"
+msgid "1st Airborne AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_boys_asst"
+msgid "1st Airborne AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_coy_2ic"
+msgid "1st Airborne Company 2IC [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_coy_com"
+msgid "1st Airborne Company Commander [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_coy_sgt_maj"
+msgid "1st Airborne Company Sergeant Major [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_crew"
+msgid "1st Airborne Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng"
+msgid "1st Airborne Engineer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_at_mine"
+msgid "1st Airborne Engineer AT Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_boys"
+msgid "1st Airborne Engineer AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_boys_asst"
+msgid "1st Airborne Engineer AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_mg"
+msgid "1st Airborne Engineer Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_mg_asst"
+msgid "1st Airborne Engineer Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_piat"
+msgid "1st Airborne Engineer AT Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_piat_asst"
+msgid "1st Airborne Engineer AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_sapper"
+msgid "1st Airborne Engineer Sapper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_sec_2ic"
+msgid "1st Airborne Engineer Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_eng_sec_com"
+msgid "1st Airborne Engineer Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_medic"
+msgid "1st Airborne Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_mg"
+msgid "1st Airborne Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_mg_asst"
+msgid "1st Airborne Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_mortar"
+msgid "1st Airborne Mortarman [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_mortar_asst"
+msgid "1st Airborne Mortar Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_piat"
+msgid "1st Airborne AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_piat_asst"
+msgid "1st Airborne AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_plt_com"
+msgid "1st Airborne Platoon Commander [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_plt_sgt"
+msgid "1st Airborne Platoon Sergeant [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_mg"
+msgid "1st Airborne Recce Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_mg_asst"
+msgid "1st Airborne Recce Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_rifle"
+msgid "1st Airborne Recce [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_sec_2ic"
+msgid "1st Airborne Recce Section 2IC [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_sec_com"
+msgid "1st Airborne Recce Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_sec_com_bino"
+msgid "1st Airborne Recce Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_sec_mortar"
+msgid "1st Airborne Recce Section Mortarman [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rec_smg"
+msgid "1st Airborne Recce [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rifle"
+msgid "1st Airborne [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rifle_band"
+msgid "1st Airborne [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_rifle_gren"
+msgid "1st Airborne Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_sec_2ic"
+msgid "1st Airborne Section 2IC [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_sec_com"
+msgid "1st Airborne Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_sec_com_cpl"
+msgid "1st Airborne Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_sec_mortar"
+msgid "1st Airborne Section Mortarman [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_smg"
+msgid "1st Airborne SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/1st_air_para_sniper"
+msgid "1st Airborne Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_at_boys"
+msgid "51st Highland Div. AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_at_boys_asst"
+msgid "51st Highland Div. AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_at_piat"
+msgid "51st Highland Div. AT Inf. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_at_piat_asst"
+msgid "51st Highland Div. AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_batman"
+msgid "51st Highland Div. Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_coy_2ic"
+msgid "51st Highland Div. Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_coy_com"
+msgid "51st Highland Div. Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_crew"
+msgid "51st Highland Div. Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_detach_com"
+msgid "51st Highland Div. Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_driver"
+msgid "51st Highland Div. Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_medic"
+msgid "51st Highland Div. Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_mg"
+msgid "51st Highland Div. Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_mg_asst"
+msgid "51st Highland Div. Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_pio"
+msgid "51st Highland Div. Pioneer [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_pio_builder"
+msgid "51st Highland Div. Pioneer Builder [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_pio_sec_com_cpl"
+msgid "51st Highland Div. Pioneer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_pio_sec_com_sgt"
+msgid "51st Highland Div. Pioneer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_plt_com"
+msgid "51st Highland Div. Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_plt_sgt"
+msgid "51st Highland Div. Platoon Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_rifle"
+msgid "51st Highland Div. Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_rifle_band"
+msgid "51st Highland Div. Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_rifle_gren"
+msgid "51st Highland Div. Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_rifle_sniper"
+msgid "51st Highland Div. Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_sec_2ic"
+msgid "51st Highland Div. Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_sec_com"
+msgid "51st Highland Div. Section Commander [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_sec_com_sgt"
+msgid "51st Highland Div. Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_sec_subcom"
+msgid "51st Highland Div. Sub-Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_smg"
+msgid "51st Highland Div. SMG Inf. [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/51hl_smg_mk2"
+msgid "51st Highland Div. SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_at_boys"
+msgid "7th AD. AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_at_boys_asst"
+msgid "7th AD. AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_at_piat"
+msgid "7th AD. Piat No. 1 [PIAT]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_at_piat_asst"
+msgid "7th AD. Piat No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_batman"
+msgid "7th AD. Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_coy_2ic"
+msgid "7th AD. Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_coy_com"
+msgid "7th AD. Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_coy_sgt_maj"
+msgid "7th AD. Company Sergeant Major [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_crew"
+msgid "7th AD. Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_detach_com"
+msgid "7th AD. Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_driver"
+msgid "7th AD. Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_medic"
+msgid "7th AD. Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_mg"
+msgid "7th AD. Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_mg_asst"
+msgid "7th AD. Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_plt_batman"
+msgid "7th AD. Platoon Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_plt_com"
+msgid "7th AD. Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_plt_sgt"
+msgid "7th AD. Platoon Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_rifle"
+msgid "7th AD. Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_rifle_band"
+msgid "7th AD. Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_rifle_gren"
+msgid "7th AD. Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_rifle_sniper"
+msgid "7th AD. Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_sec_2ic"
+msgid "7th AD. Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_sec_com"
+msgid "7th AD. Section Commander [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_sec_com_sgt"
+msgid "7th AD. Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_sec_subcom"
+msgid "7th AD. Sub-Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_smg"
+msgid "7th AD. SMG Inf. [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_smg_mk2"
+msgid "7th AD. SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_tank_com"
+msgid "British 7th AD. Tank Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_tank_com_m1928"
+msgid "British 7th AD. Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_tankman"
+msgid "British 7th AD. Tank Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_vehicle_com_cpl"
+msgid "British 7th AD. Vehicle Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_vehicle_com_sgt"
+msgid "British 7th AD. Vehicle Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_vehicle_crew"
+msgid "British 7th AD. Vehicle Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/antitank_boys"
+msgid "AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/antitank_boys_asst"
+msgid "AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/antitank_gren"
+msgid "Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/antitank_piat"
+msgid "British Piat No. 1 [PIAT]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/antitank_piat_asst"
+msgid "British Piat No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/artilleryman"
+msgid "British Royal Artilleryman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/bat_2ic"
+msgid "Battalion 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/bat_com"
+msgid "Battalion Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/bat_rsm"
+msgid "Battalion Regimental Sergeant Major [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/bat_signalman"
+msgid "Battalion Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/batman"
+msgid "Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/batman_smg"
+msgid "Batman [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_boys"
+msgid "No. 4 Commando Boys No. 1 [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_boys_asst"
+msgid "No. 4 Commando Boys No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_crew"
+msgid "No. 4 Commando Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_driver"
+msgid "No. 4 Commando Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_mg"
+msgid "No. 4 Commando Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_mg_asst"
+msgid "No. 4 Commando Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_piat"
+msgid "No. 4 Commando Piat No. 1 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_piat_asst"
+msgid "No. 4 Commando Piat No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_rifle"
+msgid "No. 4 Commando Rfn. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_rifle_band"
+msgid "No. 4 Commando Rfn. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_rifle_gren"
+msgid "No. 4 Commando Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_sec_com"
+msgid "No. 4 Commando Section Commander [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_smg"
+msgid "No. 4 Commando SMG Inf. [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_sniper"
+msgid "No. 4 Commando Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_subsec_2ic"
+msgid "No. 4 Commando Sub-Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/com_subsec_com"
+msgid "No. 4 Commando Sub-Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/coy_2ic"
+msgid "Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/coy_com"
+msgid "Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/coy_qm_sgt"
+msgid "Company Quarter Master Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/coy_sgt_maj"
+msgid "Company Sergeant Major [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/coy_signalman"
+msgid "Company Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/crew"
+msgid "British Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_at_boys"
+msgid "Defense Boys No. 1 [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_at_boys_asst"
+msgid "Defense Boys No. 1 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_mg"
+msgid "Defense Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_mg_asst"
+msgid "Defense Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_rifle"
+msgid "Defense Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_rifle_band"
+msgid "Defense Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_sec_2ic"
+msgid "Defense Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_sec_com"
+msgid "Defense Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/def_sec_com_sgt"
+msgid "Defense Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/detach_com"
+msgid "Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/driver"
+msgid "British Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/driver_smg"
+msgid "British Driver [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/fo"
+msgid "Forward Artillery Observer Officer [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/fo_radio_88"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/fo_radio_114"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/fo_radio_140"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/fo_radio_183"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/medic"
+msgid "Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mg"
+msgid "Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mg_asst"
+msgid "Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mg_crew"
+msgid "British MG Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mg_crew_asst"
+msgid "British MG Crew Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_boys"
+msgid "Motor AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_boys_asst"
+msgid "Motor AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_mg"
+msgid "Motor Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_mg_asst"
+msgid "Motor Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_rifle"
+msgid "Motor Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_rifle_band"
+msgid "Motor Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_scout_detach_com_cpl"
+msgid "Motor Scout Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_scout_detach_com_lcpl"
+msgid "Motor Scout Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_scout_driver"
+msgid "Motor Scout Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_scout_gunner"
+msgid "Motor Scout Gunner [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_scout_sec_com"
+msgid "Motor Scout Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_sec_2ic"
+msgid "Motor Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_sec_com"
+msgid "Motor Section Commander [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mot_sec_com_sten"
+msgid "Motor Section Commander [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mp_detach_com"
+msgid "Military Police Detachment Commander [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mp_pistol"
+msgid "Military Police [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/mp_rifle"
+msgid "Military Police [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/pilot"
+msgid "Pilot [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/pio"
+msgid "Pioneer [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/pio_builder"
+msgid "Pioneer Builder [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/pio_sec_com_cpl"
+msgid "Pioneer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/pio_sec_com_sgt"
+msgid "Pioneer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/plt_batman"
+msgid "Platoon Batman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/plt_com"
+msgid "Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/plt_sgt"
+msgid "Platoon Sergeant [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_boys"
+msgid "Royal Engineer AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_boys_asst"
+msgid "Royal Engineer AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_builder"
+msgid "Royal Engineer Builder [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_mg"
+msgid "Royal Engineer Bren No. 1 [BREN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_mg_asst"
+msgid "Royal Engineer Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_mine_ap"
+msgid "Royal Engineer AP Miner [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_mine_at"
+msgid "Royal Engineer AT Miner [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_sapper"
+msgid "Royal Engineer Sapper [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_sec_2ic"
+msgid "Royal Engineer Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/r_eng_sec_com"
+msgid "Royal Engineer Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rear_echelon_rifle"
+msgid "Rear Echelon Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rear_echelon_rifle_p14"
+msgid "Rear Echelon Rifleman [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_carrier_detach_com"
+msgid "Recce Carrier Detachment Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_carrier_driver"
+msgid "Recce Carrier Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_carrier_gunner"
+msgid "Recce Carrier Gunner [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_carrier_sec_com"
+msgid "Recce Carrier Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_driver"
+msgid "Recce Driver [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_mg"
+msgid "Recce Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_mg_asst"
+msgid "Recce Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_rifle_band"
+msgid "Recce Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_sec_2ic"
+msgid "Recce Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rec_sec_com"
+msgid "Recce Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rifle"
+msgid "Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rifle_band"
+msgid "Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rifle_gren"
+msgid "Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rifle_sniper"
+msgid "Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_boys"
+msgid "No. 41 Royal Marine Commando Boys No. 1 [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_boys_asst"
+msgid "No. 41 Royal Marine Commando Boys No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_crew"
+msgid "No. 41 Royal Marine Commando Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_mg"
+msgid "No. 41 Royal Marine Commando Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_mg_asst"
+msgid "No. 41 Royal Marine Commando Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_rifle"
+msgid "No. 41 Royal Marine Commando Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_rifle_band"
+msgid "No. 41 Royal Marine Commando Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_rifle_gren"
+msgid "No. 41 Royal Marine Commando Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_sniper"
+msgid "No. 41 Royal Marine Commando Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_subsec_com"
+msgid "No. 41 Royal Marine Commando Sub-Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_subsec_detach_com"
+msgid "No. 41 Royal Marine Commando Sub-Section Detachment Commander [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_subsec_detach_com_mg"
+msgid "No. 41 Royal Marine Commando Sub-Section Detachment Commander [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rn_com_able"
+msgid "Royal Navy Commando Able Seaman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rn_com_bm"
+msgid "Royal Navy Commando Beachmaster [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rn_com_bma"
+msgid "Royal Navy Commando Beachmaster Asst. [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rn_com_leading"
+msgid "Royal Navy Commando Leading Seaman [Lanchester Mk.I*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rn_com_mg"
+msgid "Royal Navy Commando Bren No. 1 [Lewis Gun]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rn_com_mg_asst"
+msgid "Royal Navy Commando Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rn_com_rifle"
+msgid "Royal Navy Commando Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rn_com_smg"
+msgid "Royal Navy Commando SMG Inf. [Lanchester Mk.I*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_boys"
+msgid "SAS AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_boys_asst"
+msgid "SAS AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_crew"
+msgid "SAS Crew [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_driver"
+msgid "SAS Driver [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_mg"
+msgid "SAS Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_mg_asst"
+msgid "SAS Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_rifle"
+msgid "SAS Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_sec_com"
+msgid "SAS Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_smg"
+msgid "SAS SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_sniper"
+msgid "SAS Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_subsec_com"
+msgid "SAS Sub-Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_troop_com"
+msgid "SAS Troop Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sas_tsmg"
+msgid "SAS SMG Inf. [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sec_2ic"
+msgid "Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sec_com"
+msgid "Section Commander [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sec_com_sgt"
+msgid "Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sec_com_sten"
+msgid "Section Commander [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sec_subcom"
+msgid "Sub-Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/smg"
+msgid "British SMG Inf. [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/smg_mk2"
+msgid "British SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/sniper"
+msgid "British Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/tank_commander"
+msgid "British Tank Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/tank_commander_m1928"
+msgid "British Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/tankman"
+msgid "British Tank Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vehicle_com_cpl"
+msgid "British Vehicle Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vehicle_com_sgt"
+msgid "British Vehicle Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vehicle_crew"
+msgid "British Vehicle Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_boys"
+msgid "Veteran AT Inf. [Boys Mk.I AT Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_boys_asst"
+msgid "Veteran AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_mg"
+msgid "Veteran Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_mg_asst"
+msgid "Veteran Bren No. 2 [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_piat"
+msgid "Veteran AT Inf. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_piat_asst"
+msgid "Veteran AT Asst. [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_rifle"
+msgid "Veteran Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_rifle_band"
+msgid "Veteran Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_rifle_gren"
+msgid "Veteran Rifle Grenadier [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_rifle_sniper"
+msgid "Veteran Sniper [Rifle P14 No.3 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_sec_2ic"
+msgid "Veteran Section 2IC [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_sec_com"
+msgid "Veteran Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_sec_com_sgt"
+msgid "Veteran Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_sec_com_sten"
+msgid "Veteran Section Commander [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_sec_subcom"
+msgid "Veteran Sub-Section Commander [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_smg"
+msgid "Veteran SMG Inf. [STEN Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/vet_smg_mk2"
+msgid "Veteran SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+
+
+
+
+
+
+
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_crew"
+msgid "1st Airlanding Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_mg"
+msgid "1st Airlanding Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_mg_asst"
+msgid "1st Airlanding Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_piat"
+msgid "1st Airlanding AT Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_piat_asst"
+msgid "1st Airlanding AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_pio"
+msgid "1st Airlanding Pioneer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_pio_sec_com"
+msgid "1st Airlanding Pioneer Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_pio_sec_com_cpl"
+msgid "1st Airlanding Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rec_mg"
+msgid "1st Airlanding Recon Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rec_mg_asst"
+msgid "1st Airlanding Recon Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rec_rifle"
+msgid "1st Airlanding Recon [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sec_2ic"
+msgid "1st Airlanding Recon Section 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sec_com"
+msgid "1st Airlanding Recon Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sec_com_bino"
+msgid "1st Airlanding Recon Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rec_smg"
+msgid "1st Airlanding Recon [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rec_sniper"
+msgid "1st Airlanding Recon Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rifle"
+msgid "1st Airlanding [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_rifle_band"
+msgid "1st Airlanding [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_sec_2ic"
+msgid "1st Airlanding Section 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_sec_com"
+msgid "1st Airlanding Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_sec_com_cpl"
+msgid "1st Airlanding Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_smg"
+msgid "1st Airlanding SMG Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_land_sniper"
+msgid "1st Airlanding Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_batman"
+msgid "1st Airborne Batman [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_coy_2ic"
+msgid "1st Airborne Company 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_coy_com"
+msgid "1st Airborne Company Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_coy_sgt_maj"
+msgid "1st Airborne Company Sergeant Major [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_crew"
+msgid "1st Airborne Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng"
+msgid "1st Airborne Engineer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_at_mine"
+msgid "1st Airborne Engineer AT Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_flamer"
+msgid "1st Airborne Engineer Flamer Inf. [Flamethrower Portable No.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_mg"
+msgid "1st Airborne Engineer Bren No. 1 [BREN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_mg_asst"
+msgid "1st Airborne Engineer Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_piat"
+msgid "1st Airborne Engineer AT Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_piat_asst"
+msgid "1st Airborne Engineer AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_sapper"
+msgid "1st Airborne Engineer Sapper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_sec_2ic"
+msgid "1st Airborne Engineer Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_sec_com"
+msgid "1st Airborne Engineer Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_eng_sec_com_sgt"
+msgid "1st Airborne Engineer Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_medic"
+msgid "1st Airborne Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_mg"
+msgid "1st Airborne Bren No. 1 [BREN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_mg_asst"
+msgid "1st Airborne Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_mg_asst_smg"
+msgid "1st Airborne Bren No. 2 [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_mortar"
+msgid "1st Airborne Mortarman [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_mortar_asst"
+msgid "1st Airborne Mortar Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_piat"
+msgid "1st Airborne AT Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_piat_asst"
+msgid "1st Airborne AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_plt_com"
+msgid "1st Airborne Platoon Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_plt_sgt"
+msgid "1st Airborne Platoon Sergeant [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg"
+msgid "1st Airborne Recce Bren No. 1 [BREN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_asst"
+msgid "1st Airborne Recce Bren No. 2 [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_vgo"
+msgid "1st Airborne Recce VGO No. 1 [Vickers GO No.2 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_mg_vgo_asst"
+msgid "1st Airborne Recce VGO No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_rifle"
+msgid "1st Airborne Recce [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_sec_2ic"
+msgid "1st Airborne Recce Section 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_sec_com"
+msgid "1st Airborne Recce Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_sec_com_bino"
+msgid "1st Airborne Recce Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_sec_mortar"
+msgid "1st Airborne Recce Section Mortarman [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rec_smg_band"
+msgid "1st Airborne Recce [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rifle"
+msgid "1st Airborne [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rifle_band"
+msgid "1st Airborne [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_rifle_gren"
+msgid "1st Airborne Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_sec_2ic"
+msgid "1st Airborne Section 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_sec_com"
+msgid "1st Airborne Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_sec_com_cpl"
+msgid "1st Airborne Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_sec_mortar"
+msgid "1st Airborne Section Mortarman [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_smg"
+msgid "1st Airborne SMG Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_smg_band"
+msgid "1st Airborne SMG Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_smg_band_patchett"
+msgid "1st Airborne SMG Inf. [Patchett Machine Carbine Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/1st_air_para_sniper"
+msgid "1st Airborne Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+
+
+
+
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_crew"
+msgid "6th Airlanding Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_mg"
+msgid "6th Airlanding Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_mg_asst"
+msgid "6th Airlanding Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_piat"
+msgid "6th Airlanding AT Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_piat_asst"
+msgid "6th Airlanding AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_pio"
+msgid "6th Airlanding Pioneer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_pio_sec_com"
+msgid "6th Airlanding Pioneer Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_pio_sec_com_cpl"
+msgid "6th Airlanding Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_mg"
+msgid "6th Airlanding Recon Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_mg_asst"
+msgid "6th Airlanding Recon Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_rifle"
+msgid "6th Airlanding Recon [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sec_2ic"
+msgid "6th Airlanding Recon Section 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sec_com"
+msgid "6th Airlanding Recon Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sec_com_bino"
+msgid "6th Airlanding Recon Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_smg"
+msgid "6th Airlanding Recon [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rifle"
+msgid "6th Airlanding [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rifle_band"
+msgid "6th Airlanding [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_sec_2ic"
+msgid "6th Airlanding Section 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_sec_com"
+msgid "6th Airlanding Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_sec_com_cpl"
+msgid "6th Airlanding Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_smg"
+msgid "6th Airlanding SMG Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_sniper"
+msgid "6th Airlanding Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_batman"
+msgid "6th Airborne Batman [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_coy_2ic"
+msgid "6th Airborne Company 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_coy_com"
+msgid "6th Airborne Company Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_coy_sgt_maj"
+msgid "6th Airborne Company Sergeant Major [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_crew"
+msgid "6th Airborne Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng"
+msgid "6th Airborne Engineer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_at_mine"
+msgid "6th Airborne Engineer AT Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_flamer"
+msgid "6th Airborne Engineer Flamer Inf. [Flamethrower Portable No.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_mg"
+msgid "6th Airborne Engineer Bren No. 1 [BREN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_mg_asst"
+msgid "6th Airborne Engineer Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_piat"
+msgid "6th Airborne Engineer AT Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_piat_asst"
+msgid "6th Airborne Engineer AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_sapper"
+msgid "6th Airborne Engineer Sapper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_sec_2ic"
+msgid "6th Airborne Engineer Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_sec_com"
+msgid "6th Airborne Engineer Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_eng_sec_com_sgt"
+msgid "6th Airborne Engineer Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_medic"
+msgid "6th Airborne Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_mg"
+msgid "6th Airborne Bren No. 1 [BREN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_mg_asst"
+msgid "6th Airborne Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_mg_asst_smg"
+msgid "6th Airborne Bren No. 2 [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_mortar"
+msgid "6th Airborne Mortarman [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_mortar_asst"
+msgid "6th Airborne Mortar Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_piat"
+msgid "6th Airborne AT Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_piat_asst"
+msgid "6th Airborne AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_plt_com"
+msgid "6th Airborne Platoon Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_plt_sgt"
+msgid "6th Airborne Platoon Sergeant [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_rifle"
+msgid "6th Airborne [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_rifle_band"
+msgid "6th Airborne [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_rifle_gren"
+msgid "6th Airborne Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_sec_2ic"
+msgid "6th Airborne Section 2IC [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_sec_com"
+msgid "6th Airborne Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_sec_com_cpl"
+msgid "6th Airborne Section Commander [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_sec_mortar"
+msgid "6th Airborne Section Mortarman [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_smg"
+msgid "6th Airborne SMG Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_smg_band"
+msgid "6th Airborne SMG Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_para_sniper"
+msgid "6th Airborne Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+
+
+
+
+msgctxt "desc/human/mp/eng/late/7th_ad_coy_2ic"
+msgid "7th AD. Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_coy_com"
+msgid "7th AD. Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_coy_sgt_maj"
+msgid "7th AD. Company Sergeant Major [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_crew"
+msgid "7th AD. Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_detach_com"
+msgid "7th AD. Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_driver"
+msgid "7th AD. Driver [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_driver_smg"
+msgid "7th AD. Driver [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_builder"
+msgid "7th AD. Engineer Builder [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_flamer"
+msgid "7th AD. Engineer Flamer Inf. [Flamethrower Portable No.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_mg"
+msgid "7th AD. Engineer Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_mg_asst"
+msgid "7th AD. Engineer Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_mine_ap"
+msgid "7th AD. Engineer AP Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_mine_at"
+msgid "7th AD. Engineer AT Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_piat"
+msgid "7th AD. Engineer AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_piat_asst"
+msgid "7th AD. Engineer AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_sapper"
+msgid "7th AD. Engineer Sapper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_sec_2ic"
+msgid "7th AD. Engineer Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_eng_sec_com"
+msgid "7th AD. Engineer Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_medic"
+msgid "7th AD. Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mg"
+msgid "7th AD. Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mg_asst"
+msgid "7th AD. Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_mg"
+msgid "7th AD. Motor Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_mg_asst"
+msgid "7th AD. Motor Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_piat"
+msgid "7th AD. Motor AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_piat_asst"
+msgid "7th AD. Motor AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_rifle"
+msgid "7th AD. Motor [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_rifle_band"
+msgid "7th AD. Motor [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_rifle_sniper"
+msgid "7th AD. Motor Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_detach_com_cpl"
+msgid "7th AD. Motor Scout Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_detach_com_lcpl"
+msgid "7th AD. Motor Scout Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_driver"
+msgid "7th AD. Motor Scout Driver [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_mg"
+msgid "7th AD. Motor Scout Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_piat"
+msgid "7th AD. Motor Scout Piat No. 1 [PIAT]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_rifle"
+msgid "7th AD. Motor Scout [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_scout_sec_com"
+msgid "7th AD. Motor Scout Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_sec_2ic"
+msgid "7th AD. Motor Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_mot_sec_com"
+msgid "7th AD. Motor Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_piat"
+msgid "7th AD. AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_piat_asst"
+msgid "7th AD. AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_pio"
+msgid "7th AD. Pioneer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_pio_builder"
+msgid "7th AD. Pioneer Builder [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_pio_sec_com_cpl"
+msgid "7th AD. Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_pio_sec_com_sgt"
+msgid "7th AD. Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_plt_com"
+msgid "7th AD. Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_plt_sgt"
+msgid "7th AD. Platoon Sergeant [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_rifle"
+msgid "7th AD. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_rifle_band"
+msgid "7th AD. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_rifle_gren"
+msgid "7th AD. Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_rifle_sniper"
+msgid "7th AD. Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_sec_2ic"
+msgid "7th AD. Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_sec_com"
+msgid "7th AD. Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_sec_com_sgt"
+msgid "7th AD. Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_sec_subcom"
+msgid "7th AD. Sub-Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_smg"
+msgid "7th AD. SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_tank_com"
+msgid "British 7th AD. Tank Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_tank_com_m1928"
+msgid "British 7th AD. Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_tankman"
+msgid "British 7th AD. Tank Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_vehicle_com_cpl"
+msgid "British 7th AD. Vehicle Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_vehicle_com_sgt"
+msgid "British 7th AD. Vehicle Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/7th_ad_vehicle_crew"
+msgid "British 7th AD. Vehicle Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/eng/late/antitank_gren"
+msgid "Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/antitank_piat"
+msgid "British Piat No. 1 [PIAT]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/antitank_piat_asst"
+msgid "British Piat No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/artilleryman"
+msgid "British Royal Artilleryman [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/bat_2ic"
+msgid "Battalion 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/bat_com"
+msgid "Battalion Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/bat_rsm"
+msgid "Battalion Regimental Sergeant Major [STEN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/bat_signalman"
+msgid "Battalion Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/batman"
+msgid "Batman [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/batman_smg"
+msgid "Batman [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_crew"
+msgid "No. 4 Commando Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_delisle"
+msgid "No. 4 Commando Rfn. [De Lisle Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_driver"
+msgid "No. 4 Commando Driver [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_mg"
+msgid "No. 4 Commando Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_mg_asst"
+msgid "No. 4 Commando Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_rifle"
+msgid "No. 4 Commando Rfn. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_rifle_band"
+msgid "No. 4 Commando Rfn. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_rifle_gren"
+msgid "No. 4 Commando Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_rifle_piat"
+msgid "No. 4 Commando Piato No. 1 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_rifle_piat_asst"
+msgid "No. 4 Commando Piat No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_sec_com"
+msgid "No. 4 Commando Section Commander [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_smg"
+msgid "No. 4 Commando SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_smg_s"
+msgid "No. 4 Commando SMG Inf. [Sten Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_sniper"
+msgid "No. 4 Commando Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_subsec_2ic"
+msgid "No. 4 Commando Sub-Section 2IC [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_subsec_2ic_smg_s"
+msgid "No. 4 Commando Sub-Section 2IC [Sten Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/com_subsec_com"
+msgid "No. 4 Commando Sub-Section Commander [STEN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/coy_2ic"
+msgid "Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/coy_com"
+msgid "Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/coy_qm_sgt"
+msgid "Company Quarter Master Sergeant [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/coy_sgt_maj"
+msgid "Company Sergeant Major [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/coy_signalman"
+msgid "Company Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/crew"
+msgid "British Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_at_piat"
+msgid "Defense Piat No. 1 [PIAT]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_at_piat_asst"
+msgid "Defense Piat No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_mg"
+msgid "Defense Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_mg_asst"
+msgid "Defense Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_rifle"
+msgid "Defense [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_rifle_band"
+msgid "Defense [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_sec_2ic"
+msgid "Defense Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_sec_com"
+msgid "Defense Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/def_sec_com_sgt"
+msgid "Defense Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/detach_com"
+msgid "Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/driver"
+msgid "British Driver [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/driver_smg"
+msgid "British Driver [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fo"
+msgid "Forward Artillery Observer Officer [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fo_radio_88"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fo_radio_114"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fo_radio_140"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/fo_radio_183"
+msgid "Forward Artillery Observer Signalman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_coy_2ic"
+msgid "5th Coldm.Gds AD. Company 2IC [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_coy_com"
+msgid "5th Coldm.Gds AD. Company Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_coy_sgt_maj"
+msgid "5th Coldm.Gds AD. Company Sergeant Major [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_crew"
+msgid "5th Coldm.Gds AD. Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_detach_com"
+msgid "5th Coldm.Gds AD. Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_driver"
+msgid "5th Coldm.Gds AD. Driver [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_builder"
+msgid "5th Coldm.Gds AD. Engineer Builder [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_flamer"
+msgid "5th Coldm.Gds AD. Engineer Flamer Inf. [Flamethrower Portable No.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_mg"
+msgid "5th Coldm.Gds AD. Engineer Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_mg_asst"
+msgid "5th Coldm.Gds AD. Engineer Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_mine_ap"
+msgid "5th Coldm.Gds AD. Engineer AP Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_mine_at"
+msgid "5th Coldm.Gds AD. Engineer AT Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_piat"
+msgid "5th Coldm.Gds AD. Engineer AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_piat_asst"
+msgid "5th Coldm.Gds AD. Engineer AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_sapper"
+msgid "5th Coldm.Gds AD. Engineer Sapper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_sec_2ic"
+msgid "5th Coldm.Gds AD. Engineer Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_eng_sec_com"
+msgid "5th Coldm.Gds AD. Engineer Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_medic"
+msgid "5th Coldm.Gds AD. Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mg"
+msgid "5th Coldm.Gds AD. Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mg_asst"
+msgid "5th Coldm.Gds AD. Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_mg"
+msgid "5th Coldm.Gds AD. Motor Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_mg_asst"
+msgid "5th Coldm.Gds AD. Motor Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_piat"
+msgid "5th Coldm.Gds AD. Motor Piat No. 1 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_piat_asst"
+msgid "5th Coldm.Gds AD. Motor Piat No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_rifle"
+msgid "5th Coldm.Gds AD. Motor [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_rifle_band"
+msgid "5th Coldm.Gds AD. Motor [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_rifle_sniper"
+msgid "5th Coldm.Gds AD. Motor Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_detach_com_cpl"
+msgid "5th Coldm.Gds AD. Motor Scout Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_detach_com_lcpl"
+msgid "5th Coldm.Gds AD. Motor Scout Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_driver"
+msgid "5th Coldm.Gds AD. Motor Scout Driver [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_mg"
+msgid "5th Coldm.Gds AD. Motor Scout Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_piat"
+msgid "5th Coldm.Gds AD. Motor Scout Piat No. 1 [PIAT]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_rifle"
+msgid "5th Coldm.Gds AD. Motor Scout [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_scout_sec_com"
+msgid "5th Coldm.Gds AD. Motor Scout Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_sec_2ic"
+msgid "5th Coldm.Gds AD. Motor Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_mot_sec_com"
+msgid "5th Coldm.Gds AD. Motor Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_piat"
+msgid "5th Coldm.Gds AD. Piat No. 1 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_piat_asst"
+msgid "5th Coldm.Gds AD. Piat No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_pio"
+msgid "5th Coldm.Gds AD. Pioneer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_pio_builder"
+msgid "5th Coldm.Gds AD. Pioneer Builder [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_pio_sec_com_cpl"
+msgid "5th Coldm.Gds AD. Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_pio_sec_com_sgt"
+msgid "5th Coldm.Gds AD. Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_plt_com"
+msgid "5th Coldm.Gds AD. Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_plt_sgt"
+msgid "5th Coldm.Gds AD. Platoon Sergeant [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_rifle"
+msgid "5th Coldm.Gds AD. Rfn. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_rifle_band"
+msgid "5th Coldm.Gds AD. Rfn. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_rifle_gren"
+msgid "5th Coldm.Gds AD. Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_rifle_sniper"
+msgid "5th Coldm.Gds AD. Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_sec_2ic"
+msgid "5th Coldm.Gds AD. Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_sec_com"
+msgid "5th Coldm.Gds AD. Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_sec_com_sgt"
+msgid "5th Coldm.Gds AD. Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_sec_subcom"
+msgid "5th Coldm.Gds AD. Sub-Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_smg"
+msgid "5th Coldm.Gds AD. SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_tank_com"
+msgid "British 5th Coldm.Gds AD. Tank Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_tank_com_m1928"
+msgid "British 5th Coldm.Gds AD. Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_tankman"
+msgid "British 5th Coldm.Gds AD. Tank Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_vehicle_com_cpl"
+msgid "British 5th Coldm.Gds AD. Vehicle Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_vehicle_com_sgt"
+msgid "British 5th Coldm.Gds AD. Vehicle Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_vehicle_crew"
+msgid "British 5th Coldm.Gds AD. Vehicle Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/eng/late/glider_pilot_rifle"
+msgid "Glider Pilot [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/glider_pilot_smg"
+msgid "Glider Pilot [STEN Mk.V]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/eng/late/medic"
+msgid "Medic [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mg"
+msgid "Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mg_asst"
+msgid "Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mg_crew"
+msgid "British MG Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mg_crew_asst"
+msgid "British MG Crew Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_mg"
+msgid "Motor Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_mg_asst"
+msgid "Motor Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_piat"
+msgid "Motor AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_piat_asst"
+msgid "Motor AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_rifle"
+msgid "British Motor [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_rifle_band"
+msgid "British Motor [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_rifle_sniper"
+msgid "Motor Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_scout_detach_com_cpl"
+msgid "Motor Scout Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_scout_detach_com_lcpl"
+msgid "Motor Scout Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_scout_driver"
+msgid "Motor Scout Driver [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_scout_mg"
+msgid "Motor Scout Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_scout_piat"
+msgid "Motor Scout Piat No. 1 [PIAT]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_scout_rifle"
+msgid "Motor Scout [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_scout_sec_com"
+msgid "Motor Scout Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_sec_2ic"
+msgid "Motor Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mot_sec_com"
+msgid "Motor Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mp_detach_com"
+msgid "Military Police Detachment Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mp_pistol"
+msgid "Military Police [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/mp_rifle"
+msgid "Military Police [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/pilot"
+msgid "Pilot [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/pio"
+msgid "Pioneer [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/pio_builder"
+msgid "Pioneer Builder [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/pio_sec_com_cpl"
+msgid "Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/pio_sec_com_sgt"
+msgid "Pioneer Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/plt_batman"
+msgid "Platoon Batman [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/plt_com"
+msgid "Platoon Commander [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/plt_sgt"
+msgid "Platoon Sergeant [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_builder"
+msgid "Royal Engineer Builder [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_flamer"
+msgid "Royal Engineer Flamer Inf. [Flamethrower Portable No.2]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_mg"
+msgid "Royal Engineer Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_mg_asst"
+msgid "Royal Engineer Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_mine_ap"
+msgid "Royal Engineer AP Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_mine_at"
+msgid "Royal Engineer AT Miner [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_piat"
+msgid "Royal Engineer AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_piat_asst"
+msgid "Royal Engineer AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_sapper"
+msgid "Royal Engineer Sapper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_sec_2ic"
+msgid "Royal Engineer Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/r_eng_sec_com"
+msgid "Royal Engineer Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rear_echelon_rifle"
+msgid "Rear Echelon Rifleman [SMLE No.1 Mk.III*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rear_echelon_smg"
+msgid "Rear Echelon SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_carrier_detach_com"
+msgid "Recce Carrier Detachment Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_carrier_driver"
+msgid "Recce Carrier Driver [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_carrier_mg"
+msgid "Recce Carrier Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_carrier_piat"
+msgid "Recce Carrier Piat No. 1 [PIAT]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_carrier_rifle"
+msgid "Recce Carrier [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_carrier_sec_com"
+msgid "Recce Carrier Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_driver"
+msgid "Recce Driver [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_mg"
+msgid "Recce Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_mg_asst"
+msgid "Recce Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_rifle_band"
+msgid "Recce [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_sec_2ic"
+msgid "Recce Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rec_sec_com"
+msgid "Recce Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rifle"
+msgid "British Rfn. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rifle_band"
+msgid "British Rfn. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rifle_gren"
+msgid "Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rifle_mortar"
+msgid "Mortar Carrier [51mm SBML 2-inch Mortar]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rifle_piat"
+msgid "AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rifle_piat_asst"
+msgid "AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rifle_sniper"
+msgid "Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_crew"
+msgid "No. 41 Royal Marine Commando Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_mg"
+msgid "No. 41 Royal Marine Commando Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_mg_asst"
+msgid "No. 41 Royal Marine Commando Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_mg_vgo"
+msgid "No. 41 Royal Marine Commando VGO No. 1 [Vickers GO No.2 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_mg_vgo_asst"
+msgid "No. 41 Royal Marine Commando VGO No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_rifle"
+msgid "No. 41 Royal Marine Commando [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_rifle_band"
+msgid "No. 41 Royal Marine Commando [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_rifle_piat"
+msgid "No. 41 Royal Marine Commando Piat No. 1 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_rifle_piat_asst"
+msgid "No. 41 Royal Marine Commando Piat No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_sniper"
+msgid "No. 41 Royal Marine Commando Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_subsec_com"
+msgid "No. 41 Royal Marine Commando Sub-Section Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_subsec_detach_com"
+msgid "No. 41 Royal Marine Commando Sub-Section Detachment Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_subsec_detach_com_mg"
+msgid "No. 41 Royal Marine Commando Sub-Section Detachment Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rm_com_subsec_detach_com_mg_vgo"
+msgid "No. 41 Royal Marine Commando Sub-Section Detachment Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_com_able"
+msgid "Royal Navy Commando Able Seaman [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_com_bm"
+msgid "Royal Navy Commando Beachmaster [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_com_bma"
+msgid "Royal Navy Commando Beachmaster Asst. [Webley No.I Mk.VI Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_com_leading"
+msgid "Royal Navy Commando Leading Seaman [Lanchester Mk.I*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_com_mg"
+msgid "Royal Navy Commando Bren No. 1 [Lewis Gun]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_com_mg_asst"
+msgid "Royal Navy Commando Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_com_rifle"
+msgid "Royal Navy Commando [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_com_smg"
+msgid "Royal Navy Commando SMG Inf. [Lanchester Mk.I*]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/rn_crew"
+msgid "Royal Navy Crewman [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_crew"
+msgid "SAS Crew [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_driver"
+msgid "SAS Driver [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_mg"
+msgid "SAS Bren No. 1 [BREN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_mg_asst"
+msgid "SAS Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_piat"
+msgid "SAS Piat No. 1 [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_piat_asst"
+msgid "SAS Piat No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_rifle"
+msgid "SAS Rfn. [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_sec_com"
+msgid "SAS Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_smg"
+msgid "SAS SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_smg_mk5"
+msgid "SAS SMG Inf. [STEN Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_sniper"
+msgid "SAS Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_subsec_com"
+msgid "SAS Sub-Section Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_troop_com"
+msgid "SAS Troop Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sas_tsmg"
+msgid "SAS SMG Inf. [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sec_2ic"
+msgid "Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sec_com"
+msgid "Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sec_com_sgt"
+msgid "Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sec_subcom"
+msgid "Sub-Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/smg"
+msgid "British SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/smg_mk3"
+msgid "British SMG Inf. [STEN Mk.III]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/sniper"
+msgid "Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_com"
+msgid "SOE Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_delisle"
+msgid "SOE Operative [De Lisle Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_radio_op"
+msgid "SOE Radioman [Pistol Flare 1-inch No.2 Mk.V]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_sten2s"
+msgid "SOE Operative [Sten Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_sten6"
+msgid "SOE Operative [STEN Mk.VI]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_welrod"
+msgid "SOE Operative [Welrod Mk.IIA]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/soe_xo"
+msgid "SOE Executive Officer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/tank_commander"
+msgid "British Tank Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/tank_commander_m1928"
+msgid "British Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/tank_commander_ace"
+msgid "British Ace Tank Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/tankman"
+msgid "British Tank Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/tankman_ace"
+msgid "British Ace Tank Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vehicle_com_cpl"
+msgid "British Vehicle Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vehicle_com_sgt"
+msgid "British Vehicle Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vehicle_crew"
+msgid "British Vehicle Crew [Enfield No.2 Mk.I* Revolver]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_at_piat"
+msgid "Veteran AT Inf. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_at_piat_asst"
+msgid "Veteran AT Asst. [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_mg"
+msgid "Veteran Bren No. 1 [BREN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_mg_asst"
+msgid "Veteran Bren No. 2 [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_rifle"
+msgid "Veteran [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_rifle_band"
+msgid "Veteran [Enfield No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_rifle_gren"
+msgid "Veteran Rifle Grenadier [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_rifle_sniper"
+msgid "Veteran Sniper [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_sec_2ic"
+msgid "Veteran Section 2IC [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_sec_com"
+msgid "Veteran Section Commander [STEN Mk.II]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_sec_com_sgt"
+msgid "Veteran Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_sec_subcom"
+msgid "Veteran Sub-Section Commander [Rifle No.4 Mk.I]"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/vet_smg"
+msgid "Veteran SMG Inf. [STEN Mk.II]"
+msgstr ""
+
+
+
+
+
+
+
+

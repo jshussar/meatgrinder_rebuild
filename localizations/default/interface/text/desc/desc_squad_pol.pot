@@ -1,0 +1,181 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Name (desc_squad)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/squad/squad_light(pol)"
+msgid "National Resistance"
+msgstr ""
+
+msgctxt "desc/squad/squad_regular(pol)"
+msgid "Regular Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_regular_heavy(pol)"
+msgid "Regular Squad Heavy"
+msgstr ""
+
+msgctxt "desc/squad/squad_pionier(pol)"
+msgid "Uhlan"
+msgstr ""
+
+msgctxt "desc/squad/squad_sturmtrooper(pol)"
+msgid "10th Brigade"
+msgstr ""
+
+msgctxt "desc/squad/single_auxiliary(pol)"
+msgid "Auxiliary Detach."
+msgstr ""
+
+msgctxt "desc/squad/single_mg(pol)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/squad/single_at(pol)"
+msgid "AT Riflemen"
+msgstr ""
+
+msgctxt "desc/squad/single_mortar(pol)"
+msgid "Mortar"
+msgstr ""
+
+msgctxt "desc/squad/single_tankman(pol)"
+msgid "Tank Crew"
+msgstr ""
+
+msgctxt "desc/squad/single_ap_miner(pol)"
+msgid "Combat Engineer (AP mines)"
+msgstr ""
+
+msgctxt "desc/squad/single_at_miner(pol)"
+msgid "Combat Engineer (AT mines)"
+msgstr ""
+
+msgctxt "desc/squad/single_engineer(pol)"
+msgid "Combat Engineer (sappers)"
+msgstr ""
+
+msgctxt "desc/squad/single_medic(pol)"
+msgid "Medic"
+msgstr ""
+
+msgctxt "desc/squad/single_sniper(pol)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/squad/single_officer(pol)"
+msgid "Officer"
+msgstr ""
+
+msgctxt "desc/squad/squad_light_late(pol)"
+msgid "Light infantry"
+msgstr ""
+
+msgctxt "desc/squad/squad_regular_late(pol)"
+msgid "Regular Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_scout_late(pol)"
+msgid "Scouts"
+msgstr ""
+
+msgctxt "desc/squad/squad_pionier_late(pol)"
+msgid "Paratroopers"
+msgstr ""
+
+msgctxt "desc/squad/squad_stormtrooper_late(pol)"
+msgid "Commandos"
+msgstr ""
+
+msgctxt "desc/squad/single_auxiliary_late(pol)"
+msgid "Auxiliary Detach."
+msgstr ""
+
+msgctxt "desc/squad/single_mg_late(pol)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/squad/single_atrifle(pol)"
+msgid "AT Rifle"
+msgstr ""
+
+msgctxt "desc/squad/single_at_late(pol)"
+msgid "AT Infantry"
+msgstr ""
+
+msgctxt "desc/squad/single_mortar_late(pol)"
+msgid "Mortar"
+msgstr ""
+
+msgctxt "desc/squad/single_tankman_late(pol)"
+msgid "Tank Crew"
+msgstr ""
+
+msgctxt "desc/squad/single_flamer_late(pol)"
+msgid "Flamethrower"
+msgstr ""
+
+msgctxt "desc/squad/single_riflegrenade_late(pol)"
+msgid "Rilfe-Grenade Infantry"
+msgstr ""
+
+msgctxt "desc/squad/conquest_b25_pol"
+msgid "B-25 Mitchell"
+msgstr ""
+
+msgctxt "desc/squad/squad_elite_late(pol)"
+msgid "1st Parachute Brigade"
+msgstr ""
+
+msgctxt "desc/squad/single_ap_miner_late(pol)"
+msgid "Combat Engineer (AP mines)"
+msgstr ""
+
+msgctxt "desc/squad/single_at_miner_late(pol)"
+msgid "Combat Engineer (AT mines)"
+msgstr ""
+
+msgctxt "desc/squad/single_engineer_late(pol)"
+msgid "Combat Engineer (sappers)"
+msgstr ""
+
+msgctxt "desc/squad/single_medic_late(pol)"
+msgid "Medic"
+msgstr ""
+
+msgctxt "desc/squad/single_sniper_late(pol)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/squad/single_officer_late(pol)"
+msgid "Officer"
+msgstr ""
+
+msgctxt "desc/squad/105mm_wz29_smoke_barrage"
+msgid "105mm wz.29 smoke barrage"
+msgstr ""
+
+msgctxt "desc/squad/81mm_brandt_pol_mortar_barrage"
+msgid "81 mm mortar barrage"
+msgstr ""
+
+msgctxt "desc/squad/105mm_wz29_artillery_barrage"
+msgid "105mm wz.29 artillery barrage"
+msgstr ""
+
+msgctxt "desc/squad/155mm_wz1917_artillery_barrage"
+msgid "155mm Canon 1917 artillery barrage"
+msgstr ""
+
+msgctxt "desc/squad/para_infantry_pol"
+msgid "Para infantry"
+msgstr ""

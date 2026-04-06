@@ -1,0 +1,22 @@
+{mod
+	;{tags "realism" "mod" "doctrines" "gameplay" "cold war" "world war" "hotmod" "ww2" "ww3" "total conversion" "maps" "tanks" "vehicles" "infantry" "weapons" "realism" "immersion"}
+	; description of your mod
+	{name "<c(ff6b6b)>Project Realism <c(4adede)>0.5.1</c>"}
+	{desc "<c(ffd277)>RobZ Realism Mod ported to Gates of Hell.</c> <c(ff36d30)>Work in progress.</c>"}
+	{minGameVersion "1.060"}
+	{maxGameVersion "1.061.0"}
+	
+	;{delete "resource/interface/scene/vehicle_view/"}
+	;{delete "resource/set/breed/mp/usa/"}
+	;{delete "resource/set/breed/mp/rus/"}
+	;{delete "resource/set/breed/mp/fin/"}
+	
+	;{delete "resource/entity/-vehicle/mp/fin/"}
+	;{delete "resource/entity/-vehicle/mp/usa/"}
+	;{delete "resource/entity/-vehicle/mp/ussr/"}
+	;{delete "resource/entity/-vehicle/mp/ger/"}
+	
+	;{delete "resource/entity/landscape/stamp/"}
+	;{delete "resource/entity/inventory/"}
+	;{delete "resource/entity/humanskin/"}
+}

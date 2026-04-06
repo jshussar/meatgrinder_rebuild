@@ -1,0 +1,110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Generic weaponry\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "desc/weapon/type/main"
+msgid "<f(arial_hq)s(8)x.>Main MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/coaxial"
+msgid "<f(arial_hq)s(8)x.>Coaxial MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/hull"
+msgid "<f(arial_hq)s(8)x.>Hull MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/rear"
+msgid "<f(arial_hq)s(8)x.>Rear MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/aa"
+msgid "<f(arial_hq)s(8)x.>Anti-Aircraft MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/secondary_flamer"
+msgid "<f(arial_hq)s(8)x.>Hull Flamethrower"
+msgstr ""
+
+msgctxt "desc/weapon/type/coaxial_flamer"
+msgid "<f(arial_hq)s(8)x.>Coaxial Flamethrower"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_turret_left"
+msgid "<f(arial_hq)s(8)x.>Left Turret MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_turret_right"
+msgid "<f(arial_hq)s(8)x.>Right Turret MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_turret_rear_left"
+msgid "<f(arial_hq)s(8)x.>Left Rear Turret MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_turret_rear_right"
+msgid "<f(arial_hq)s(8)x.>Right Rear Turret MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/commander"
+msgid "<f(arial_hq)s(8)x.>Commander"
+msgstr ""
+
+msgctxt "desc/weapon/type/searchlight"
+msgid "<f(arial_hq)s(8)x.>Searchlight"
+msgstr ""
+
+msgctxt "desc/weapon/binocular"
+msgid "Binoculars"
+msgstr ""
+
+msgctxt "desc/stuff/binocular"
+msgid "Binoculars"
+msgstr ""
+
+msgctxt "desc/stuff/box"
+msgid "Box"
+msgstr ""
+
+msgctxt "desc/stuff/small_box"
+msgid "Small Box"
+msgstr ""
+
+msgctxt "desc/stuff/searchlight"
+msgid "Searchlight"
+msgstr ""
+
+msgctxt "desc/stuff/light"
+msgid ""
+msgstr ""
+
+msgctxt "desc/weapon/type/cupola"
+msgid "<f(arial_hq)s(8)x.>Cupola MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/left"
+msgid "<f(arial_hq)s(8)x.>Left MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/right"
+msgid "<f(arial_hq)s(8)x.>Right MG"
+msgstr ""
+
+msgctxt "desc/weapon/type/left_flamer"
+msgid "<f(arial_hq)s(8)x.>Left Flamethrower"
+msgstr ""
+
+msgctxt "desc/weapon/type/right_flamer"
+msgid "<f(arial_hq)s(8)x.>Right Flamethrower"
+msgstr ""

@@ -1,0 +1,5765 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell American MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+
+;PROJECT REALITY NEW DEFINES
+
+;US ARMY-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+msgctxt "desc/human/mp/usa/late/cav_driver"
+msgid "American 113th Cavalry Recon Sergeant [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/cav_gunner"
+msgid "American 113th Cavalry Recon Corporal [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/cav_tl"
+msgid "American 113th Cavalry Recon Rifleman [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/rifle_sl"
+msgid "American 4th Infantry Squad Leader Sgt. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_sl_asst"
+msgid "American 4th Infantry Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_gren"
+msgid "American 4th Infantry Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_rifleman"
+msgid "American 4th Infantry Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_bar"
+msgid "American 4th Infantry BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_bar_asst"
+msgid "American 4th Infantry BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/rifle_sl_mech"
+msgid "American 1st Armored Squad Leader Sgt. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_sl_asst_mech"
+msgid "American 1st Armored Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_gren_mech"
+msgid "American 1st Armored Rifle Grenadier [M1 Garand]" 
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_rifle_mech"
+msgid "American 1st Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_bar_mech"
+msgid "American 1st Armored BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_bar_asst_mech"
+msgid "American 1st Armored BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/29th_sl"
+msgid "American 29th Infantry Squad Leader Sgt. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_sl_asst"
+msgid "American 29th Infantry Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_rifle"
+msgid "American 29th Infantry Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_bar"
+msgid "American 29th Infantry BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_bar_asst"
+msgid "American 29th Infantry BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/1st_sl"
+msgid "American 1st Infantry Squad Leader Sgt. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_sl_asst"
+msgid "American 1st Infantry Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle"
+msgid "American 1st Infantry Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_bar"
+msgid "American 1st Infantry BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_bar_asst"
+msgid "American 1st Infantry BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_at"
+msgid "American 1st Infantry AT Man [Bazooka]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_at_asst"
+msgid "American 1st Infantry AT Man Assistant [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/45th_sl_smg"
+msgid "American 45th Assault Infantry Squad Leader [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/45th_sl_asst_gren"
+msgid "American 45th Assault Infantry Assistant Squad Leader [M1903 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/45th_rifle_band"
+msgid "American 45th Assault Infantry Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/45th_smg"
+msgid "American 45th Assault Infantry SMG [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/45th_rifle_bar"
+msgid "American 45th Assault Infantry Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/45th_rifle_bar_asst"
+msgid "American 45th Assault Infantry Assistant Machine Gunner [M1 Garand]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/usa/late/291_sl"
+msgid "American 291st Combat Engineer Squad Leader Sgt. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/291_sl_asst"
+msgid "American 291st Combat Engineer Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/291_rifle"
+msgid "American 291st Combat Engineer Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/291_shotgun"
+msgid "American 291st Combat Engineer Shotgunner [M12 Shotgun]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/291_builder"
+msgid "American 291st Combat Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/291_flamer"
+msgid "American 291st Combat Engineer Flamethrower"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/291_ap_miner"
+msgid "American 291st Combat Engineer AP Miner [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/291_at_miner"
+msgid "American 291st Combat Engineer AT Miner [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/1ranger_sl"
+msgid "American 1st Ranger Squad Leader Sgt. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1ranger_sl_asst"
+msgid "American 1st Ranger Assistant Squad Leader Corp. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1ranger_gren"
+msgid "American 1st Ranger Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1ranger_rifle"
+msgid "American 1st Ranger Rifleman [M1903 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1ranger_bar"
+msgid "American 1st Ranger BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1ranger_bar_asst"
+msgid "American 1st Ranger BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1ranger_at"
+msgid "American 1st Ranger AT Man [Bazooka]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/2ranger_sl"
+msgid "American 2nd Heavy Ranger Squad Leader Sgt. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/2ranger_sl_asst"
+msgid "American 2nd Heavy Ranger Assistant Squad Leader Corp. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/2ranger_gren"
+msgid "American 2nd Heavy Ranger Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/2ranger_rifle"
+msgid "American 2nd Heavy Ranger Rifleman [M1903 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/2ranger_bar"
+msgid "American 2nd Heavy Ranger BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/2ranger_bar_asst"
+msgid "American 2nd Heavy Ranger BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/2ranger_at"
+msgid "American 2nd Heavy Ranger AT Man [Recoiless Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/2ranger_crew"
+msgid "American 2nd Heavy Ranger Crewman [M1911]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/usa/late/82_sl"
+msgid "American 82nd Pathfinder Squad Leader Sgt. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82_sl_asst"
+msgid "American 82nd Pathfinder Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82_rifle"
+msgid "American 82nd Pathfinder Rifleman [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82_smg"
+msgid "American 82nd Pathfinder SMG [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82_mg"
+msgid "American 82nd Pathfinder Machine Gunner [M19A6 Browning Machine Gun]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82_mg_asst"
+msgid "American 82nd Pathfinder Machine Gunner Assistant [M1A1 Carbine]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/mountain_sl"
+msgid "American 10th Mountaineer Squad Leader Sgt. [M3 Greasegun]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_sl_asst"
+msgid "American 10th Mountaineer Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_rifle"
+msgid "American 10th Mountaineer Rifleman [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_flamer"
+msgid "American 10th Mountaineer Flamethrower"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_bar"
+msgid "American 10th Mountaineer BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_bar_asst"
+msgid "American 10th Mountaineer BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/arm_sl"
+msgid "American 2nd Armored Squad Leader Sgt. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/arm_sl_asst"
+msgid "American 2nd Armored Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/arm_rifle"
+msgid "American 2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/arm_gren"
+msgid "American 2nd Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/arm_bar"
+msgid "American 2nd Armored BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/arm_bar_asst"
+msgid "American 2nd Armored BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/devil_sl"
+msgid "FSSF Squad Leader Sgt. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/devil_sl_asst"
+msgid "FSSF Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/devil_rifle"
+msgid "FSSF Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/devil_at"
+msgid "FSSF AT Man [Bazooka]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/devil_mg"
+msgid "FSSF Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/devil_radio"
+msgid "FSSF Radio Operator [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/red_arrow_sl"
+msgid "American 32nd Infantry Squad Leader Sgt. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/red_arrow_sl_asst"
+msgid "American 32nd Infantry Assistant Squad Leader Corp. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/red_arrow_rifle"
+msgid "American 32nd Infantry Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/red_arrow_smg"
+msgid "American 32nd Infantry SMG [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/red_arrow_bar"
+msgid "American 32nd Infantry BAR Machine Gunner [BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/red_arrow_bar_asst"
+msgid "American 32nd Infantry BAR Machine Gunner Assistant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/red_arrow_sniper"
+msgid "American 32nd Infantry Marksman [M1903 Springfield (Scoped)]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/101st_late_sl"
+msgid "American 101st Airborne Squad Leader Sgt. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_sl_asst"
+msgid "American 101st Airborne Assistant Squad Leader Corp. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_rifle"
+msgid "American 101st Airborne Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_demo"
+msgid "American 101st Airborne Demolition Man [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_mg"
+msgid "American 101st Airborne Machine Gunner [M19A6 Browning Machine Gun]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_mg_asst"
+msgid "American 101st Airborne Machine Gunner Assistant [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_sniper"
+msgid "American 101st Airborne Marksman [M1903 Springfield (Scoped)]"
+msgstr ""
+
+;------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+msgctxt "desc/human/mp/usa/late/shotgun"
+msgid "American Shotgunner [M12 Shotgun]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/crew"
+msgid "American Support Crewman"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/usa/late/tankman"
+msgid "American Tank Crewman"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_commander"
+msgid "American Tank Commander"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/tankman_m1_vet"
+msgid "American Veteran Tank Crewman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_commander_vet"
+msgid "American Veteran Tank Commander"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_m1_vet"
+msgid "American Veteran Tank Commander [M1 Carbine]"
+msgstr ""
+
+
+
+;-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+msgctxt "desc/human/mp/usa/late/101st_speirs"
+msgid "<c(A6EAB1)>Ronald Speirs</c> [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_winters"
+msgid "<c(A6EAB1)>Richard Winters</c> [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/early/artilleryman"
+msgid "Artilleryman [M1917 Enfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/early/tankman"
+msgid "Tank Crew [Colt 45]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/early/tank_commander"
+msgid "Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_company_1st_sgt"
+msgid "1st Div. Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_company_com"
+msgid "1st Div. Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_company_radio"
+msgid "1st Div. Company Radio Operator [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_company_sgt"
+msgid "1st Div. Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_company_xo"
+msgid "1st Div. Company Executive Officer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_platoon_com"
+msgid "1st Div. Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_platoon_radio"
+msgid "1st Div. Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_platoon_ssgt"
+msgid "1st Div. Platoon Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_at"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_at_asst_m1"
+msgid "1st Div. AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_at_asst_m1a1"
+msgid "1st Div. AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_at_m1"
+msgid "1st Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_at_m1a1"
+msgid "1st Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_band"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_band2"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_bar"
+msgid "1st Div. Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_bar_ammo"
+msgid "1st Div. AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_bar_asst"
+msgid "1st Div. AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_carbine"
+msgid "1st Div. Rifleman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_cpl"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_gren"
+msgid "1st Div. Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_m1903"
+msgid "1st Div. Rifleman [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_pfc"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_scout"
+msgid "1st Div. Rifleman Scout [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_rifle_sniper"
+msgid "1st Div. Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sec_lead_carbine"
+msgid "1st Div. Section Leader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sec_lead_rifle"
+msgid "1st Div. Section Leader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sl_asst"
+msgid "1st Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sl_asst_gren"
+msgid "1st Div. Asst. SL [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sl_rifle"
+msgid "1st Div. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sl_rifle_cpl"
+msgid "1st Div. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sl_cpl"
+msgid "1st Div. Squadleader"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sl_smg"
+msgid "1st Div. Squadleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_sl_smg_m1928"
+msgid "1st Div. Squadleader [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_smg"
+msgid "1st Div. SMG Inf. [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_smg_20"
+msgid "1st Div. SMG Inf. [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_smg_m1928"
+msgid "1st Div. SMG Inf. [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_special_at"
+msgid "1st Special Service Force AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_special_demo"
+msgid "1st Special Service Force Demolition Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_special_gren"
+msgid "1st Special Service Force Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_special_lmg"
+msgid "1st Special Service Force LMG [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_special_mech"
+msgid "1st Special Service Force Mechanic [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_special_medic"
+msgid "1st Special Service Force Medic [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_special_radio"
+msgid "1st Special Service Force Radio Op. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/1st_special_sec_lead"
+msgid "1st Special Service Force Section Leader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle"
+msgid "3rd Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle_at_asst"
+msgid "3rd Div. AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle_at_m1a1"
+msgid "3rd Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle_band"
+msgid "3rd Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle_bar"
+msgid "3rd Div. Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle_bar_ammo"
+msgid "3rd Div. AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle_bar_asst"
+msgid "3rd Div. AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle_gren"
+msgid "3rd Div. Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_rifle_sniper"
+msgid "3rd Div. Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_sl_asst"
+msgid "3rd Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_sl_asst_gren"
+msgid "3rd Div. Asst. SL [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_sl_rifle"
+msgid "3rd Div. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/3rd_sl_smg"
+msgid "3rd Div. Squadleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle"
+msgid "45th Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle_at_asst"
+msgid "45th Div. AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle_at_m1a1"
+msgid "45th Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle_band"
+msgid "45th Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle_bar"
+msgid "45th Div. Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle_bar_ammo"
+msgid "45th Div. AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle_bar_asst"
+msgid "45th Div. AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle_gren"
+msgid "45th Div. Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_rifle_sniper"
+msgid "45th Div. Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_sl_asst"
+msgid "45th Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_sl_asst_gren"
+msgid "45th Div. Asst. SL [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_sl_rifle"
+msgid "45th Div. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/45th_sl_smg"
+msgid "45th Div. Squadleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_at_asst"
+msgid "82nd Airborne AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_at_m1a1"
+msgid "82nd Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_carbine"
+msgid "82nd Airborne Rifleman [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_company_1st_sgt"
+msgid "82nd Airborne Company First Sergeant [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_company_com"
+msgid "82nd Airborne Company Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_company_radio"
+msgid "82nd Airborne Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_company_sgt"
+msgid "82nd Airborne Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_company_xo"
+msgid "82nd Airborne Company Executive Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_crew"
+msgid "82nd Airborne Crew [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_demo"
+msgid "82nd Airborne Demolition Inf. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_at_asst"
+msgid "82nd Airborne Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_at_m1a1"
+msgid "82nd Airborne Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_carbine"
+msgid "82nd Airborne Engineer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_flamer"
+msgid "82nd Airborne Engineer Flamer Inf. [M1A1 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_rifle"
+msgid "82nd Airborne Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_sl"
+msgid "82nd Airborne Engineer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_sl_asst_gren"
+msgid "82nd Airborne Engineer Asst. SL [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_sl_smg"
+msgid "82nd Airborne Engineer Squadleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_eng_smg"
+msgid "82nd Airborne Engineer [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_at_asst"
+msgid "82nd Glider AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_at_m1a1"
+msgid "82nd Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_bar"
+msgid "82nd Glider Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_bar_ammo"
+msgid "82nd Glider AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_bar_asst"
+msgid "82nd Glider AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_mg_ammo"
+msgid "82nd Glider MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_mg_asst"
+msgid "82nd Glider MG Crew Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_mg_crew"
+msgid "82nd Glider MG Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_carbine"
+msgid "82nd Glider Pioneer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_flamer"
+msgid "82nd Glider Pioneer Flamer Inf. [M1A1 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_rifle"
+msgid "82nd Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_rifle_at"
+msgid "82nd Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_sl"
+msgid "82nd Glider Pioneer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_pio_sl_asst"
+msgid "82nd Glider Pioneer Asst. SL [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_rifle"
+msgid "82nd Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_rifle_band2"
+msgid "82nd Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_rifle_gren"
+msgid "82nd Glider Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_sl_asst"
+msgid "82nd Glider Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_sl_rifle"
+msgid "82nd Glider Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_sl_smg"
+msgid "82nd Glider Squadleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_glider_sniper"
+msgid "82nd Glider Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_mg_ammo"
+msgid "82nd Airborne MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_mg_asst"
+msgid "82nd Airborne MG Crew Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_mg_crew"
+msgid "82nd Airborne MG Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_pathfinder_carbine"
+msgid "82nd Airborne Pathfinder [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_pathfinder_rifle"
+msgid "82nd Airborne Pathfinder [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_pathfinder_smg"
+msgid "82nd Airborne Pathfinder [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_platoon_com"
+msgid "82nd Airborne Platoon Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_platoon_com_asst"
+msgid "82nd Airborne Platoon Commander Asst. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_platoon_radio"
+msgid "82nd Airborne Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_platoon_ssgt"
+msgid "82nd Airborne Platoon Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_recon_rifle"
+msgid "82nd Airborne Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_recon_tl"
+msgid "82nd Airborne Teamleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_rifle"
+msgid "82nd Airborne Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_rifle_gren"
+msgid "82nd Airborne Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_sl"
+msgid "82nd Airborne Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_sl_asst"
+msgid "82nd Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_sl_asst_gren"
+msgid "82nd Airborne Asst. SL [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_sl_asst_smg"
+msgid "82nd Airborne Asst. SL [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_sl_smg"
+msgid "82nd Airborne Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_smg"
+msgid "82nd Airborne SMG Inf. [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/82nd_sniper"
+msgid "82nd Airborne Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/antitank_asst_m1"
+msgid "AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/antitank_asst_m1a1"
+msgid "AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/antitank_gren"
+msgid "AT Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/antitank_m1"
+msgid "AT Inf. [M1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/antitank_m1a1"
+msgid "AT Inf. [M1A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_company_1st_sgt"
+msgid "1st Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_company_com"
+msgid "1st Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_company_sgt"
+msgid "1st Armored Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_company_ssgt"
+msgid "1st Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_driver"
+msgid "1st Armored Driver [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_medic"
+msgid "1st Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_platoon_com"
+msgid "1st Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_platoon_com_mp"
+msgid "1st Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_platoon_ssgt"
+msgid "1st Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_recon_carbine"
+msgid "1st Armored Recon [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_recon_rifle"
+msgid "1st Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_recon_smg"
+msgid "1st Armored Recon [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_recon_tl"
+msgid "1st Armored Recon Teamleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle"
+msgid "1st Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_at"
+msgid "1st Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_at_asst_m1"
+msgid "1st Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_at_asst_m1a1"
+msgid "1st Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_at_m1"
+msgid "1st Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_at_m1a1"
+msgid "1st Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_band"
+msgid "1st Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_band2"
+msgid "1st Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_bar"
+msgid "1st Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_bar_ammo"
+msgid "1st Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_bar_asst"
+msgid "1st Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_gren"
+msgid "1st Armored Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_rifle_sniper"
+msgid "1st Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_sl_asst"
+msgid "1st Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_sl_asst_carbine"
+msgid "1st Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_sl_carbine"
+msgid "1st Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_sl_rifle"
+msgid "1st Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_vehicle_com"
+msgid "1st Armored Vehicle Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar1_vehicle_crew"
+msgid "1st Armored Vehicle Crew [M1911A1]"
+msgstr ""
+
+
+
+
+
+
+msgctxt "desc/human/mp/usa/mid/ar2_company_1st_sgt"
+msgid "2nd Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_company_com"
+msgid "2nd Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_company_sgt"
+msgid "2nd Armored Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_company_ssgt"
+msgid "2nd Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_driver"
+msgid "2nd Armored Driver [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_medic"
+msgid "2nd Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_platoon_com"
+msgid "2nd Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_platoon_com_mp"
+msgid "2nd Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_platoon_ssgt"
+msgid "2nd Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_recon_carbine"
+msgid "2nd Armored Recon [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_recon_rifle"
+msgid "2nd Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_recon_smg"
+msgid "2nd Armored Recon [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_recon_tl"
+msgid "2nd Armored Recon Teamleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_at"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_at_asst"
+msgid "2nd Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_at_m1a1"
+msgid "2nd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_band"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_band2"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_bar"
+msgid "2nd Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_bar_ammo"
+msgid "2nd Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_bar_asst"
+msgid "2nd Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_gren"
+msgid "2nd Armored Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_rifle_sniper"
+msgid "2nd Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_sl_asst"
+msgid "2nd Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_sl_asst_carbine"
+msgid "2nd Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_sl_carbine"
+msgid "2nd Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_sl_rifle"
+msgid "2nd Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_tank_com"
+msgid "2nd Armored Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_tankman"
+msgid "2nd Armored Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_tankman_m1"
+msgid "2nd Armored Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_vehicle_com"
+msgid "2nd Armored Vehicle Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ar2_vehicle_crew"
+msgid "2nd Armored Vehicle Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/artilleryman"
+msgid "Artilleryman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/cav_driver"
+msgid "Cavalry Driver [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/cav_gunner"
+msgid "Cavalry Gunner [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/cav_rifle"
+msgid "Cavalry Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/cav_sec_lead"
+msgid "Cavalry Section Leader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/company_1st_sgt"
+msgid "Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/company_com"
+msgid "Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/company_radio"
+msgid "Company Radio Operator [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/company_sgt"
+msgid "Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/company_xo"
+msgid "Company Executive Officer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/crew"
+msgid "Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/driver"
+msgid "Driver [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/driver_smg"
+msgid "Driver [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_at_asst_m1"
+msgid "Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_at_asst_m1a1"
+msgid "Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_at_m1"
+msgid "Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_at_m1a1"
+msgid "Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_builder"
+msgid "Engineer Builder [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_flamer"
+msgid "Engineer Flamer Inf. [M1A1 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_gren"
+msgid "Engineer Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_mine_ap"
+msgid "Engineer AP Miner [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_mine_at"
+msgid "Engineer AT Miner [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_recon"
+msgid "Engineer Recon [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_recon_gren"
+msgid "Engineer Recon Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_recon_sec_lead"
+msgid "Engineer Recon Section Leader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_recon_tl"
+msgid "Engineer Recon Teamleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_rifle"
+msgid "Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_shotgun"
+msgid "Engineer [M12 Shotgun]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_sl"
+msgid "Engineer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_sl_asst"
+msgid "Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_sl_asst_gren"
+msgid "Engineer Asst. SL [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/engineer_smg"
+msgid "Engineer [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/fo"
+msgid "Forward Observer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/fo_radio_105"
+msgid "Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/fo_radio_155"
+msgid "Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/fo_radio_203"
+msgid "Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/medic"
+msgid "Medic [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/mg_crew"
+msgid "MG Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/mg_crew_asst"
+msgid "MG Crew Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/mp_carbine"
+msgid "Military Police Rifleman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/mp_rifle"
+msgid "Military Police Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/mp_rifle_m1903"
+msgid "Military Police Rifleman [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/mp_sl_asst"
+msgid "Military Police Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/mp_sl_rifle"
+msgid "Military Police Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/mp_smg"
+msgid "Military Police SMG Inf. [M1928 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_1st_sgt"
+msgid "First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_cpl_carbine"
+msgid "Corporal [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_cpl_rifle"
+msgid "Corporal [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_msgt"
+msgid "Master Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_sgt_carbine"
+msgid "Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_sgt_rifle"
+msgid "Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_ssgt_carbine"
+msgid "Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_ssgt_rifle"
+msgid "Staff Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_tsgt_carbine"
+msgid "Technical Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/nco_tsgt_rifle"
+msgid "Technical Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/officer_1lt"
+msgid "First Lieutenant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/officer_2lt"
+msgid "Second Lieutenant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/officer_cpt"
+msgid "Captain [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/officer_ltc"
+msgid "Lieutenant Colonel [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/officer_maj"
+msgid "Major [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/pilot"
+msgid "Pilot [Colt 45]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/platoon_com"
+msgid "Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/platoon_radio"
+msgid "Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/platoon_ssgt"
+msgid "Platoon Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_at_m1a1"
+msgid "Ranger AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_bar"
+msgid "Ranger Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_bar_ammo"
+msgid "Ranger AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_bar_asst"
+msgid "Ranger AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_company_1st_sgt"
+msgid "Ranger Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_company_com"
+msgid "Ranger Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_crew"
+msgid "Ranger Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_gren"
+msgid "Ranger Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_mg_ammo"
+msgid "Ranger MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_mg_crew"
+msgid "Ranger MG Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_mg_crew_asst"
+msgid "Ranger MG Crew Asst. [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_platoon_com"
+msgid "Ranger Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_platoon_ssgt"
+msgid "Ranger Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_rifle"
+msgid "Ranger Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sec_asst_boys"
+msgid "Ranger Asst. Section Leader [Boys Mk.I AT rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sec_asst_m1a1"
+msgid "Ranger Asst. Section Leader [M1A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sec_lead"
+msgid "Ranger Section Leader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sl_rifle_cpl"
+msgid "Ranger Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sl_rifle_gren_cpl"
+msgid "Ranger Squadleader [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sl_rifle_sgt"
+msgid "Ranger Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sl_smg_cpl"
+msgid "Ranger Squadleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sl_smg_sgt"
+msgid "Ranger Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_smg"
+msgid "Ranger SMG Inf. [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/ranger_sniper"
+msgid "Ranger Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_at"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_at_asst_m1"
+msgid "AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_at_asst_m1a1"
+msgid "AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_at_m1"
+msgid "AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_at_m1a1"
+msgid "AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_band"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_band2"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/mid/rifle_bar_ammo"
+msgid "Automatic Rifleman Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_bar_asst"
+msgid "Automatic Rifleman Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_carbine"
+msgid "Rifleman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_cpl"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_gren"
+msgid "Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_m1903"
+msgid "Rifleman [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_pfc"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_scout"
+msgid "Rifleman Scout [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/rifle_sniper"
+msgid "Marksman [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/sec_lead_carbine"
+msgid "Section Leader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/sec_lead_rifle"
+msgid "Section Leader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/sl_asst"
+msgid "Asst. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/sl_asst_gren"
+msgid "Asst. Squadleader [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/sl_rifle"
+msgid "Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/sl_rifle_cpl"
+msgid "Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/sl_smg"
+msgid "Squadleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/sl_smg_m1928"
+msgid "Squadleader [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/smg"
+msgid "SMG Inf. [Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/smg_20"
+msgid "SMG Inf. [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/smg_m1928"
+msgid "SMG Inf. [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tank_commander"
+msgid "1st Armored Tank Commander [M3A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tank_com"
+msgid "1st Armored Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tank_com_1lt"
+msgid "1st Armored Tank Platoon Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tank_com_cpt"
+msgid "1st Armored Tank Company Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tank_com_m1"
+msgid "1st Armored Tank Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tank_com_smg"
+msgid "1st Armored Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tank_com_ssgt"
+msgid "1st Armored Tank Platoon Sergeant [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tankman"
+msgid "1st Armored Tank Crew [Colt 45]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tankman_cpl"
+msgid "1st Armored Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tankman_m1"
+msgid "1st Armored Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tankman_pfc"
+msgid "1st Armored Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tankman_smg"
+msgid "1st Armored Tank Crew [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tankman_t4"
+msgid "1st Armored Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/tankman_t5"
+msgid "1st Armored Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vehicle_com"
+msgid "Vehicle Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vehicle_crew"
+msgid "Vehicle Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vehicle_crew_m1"
+msgid "Vehicle Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_at"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_at_asst_m1"
+msgid "Veteran AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_at_asst_m1a1"
+msgid "Veteran AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_at_m1"
+msgid "Veteran AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_at_m1a1"
+msgid "Veteran AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_band"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_bar"
+msgid "Veteran Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_bar_ammo"
+msgid "Veteran AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_bar_asst"
+msgid "Veteran AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_gren"
+msgid "Veteran Rifle Grenadier [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_rifle_sniper"
+msgid "Veteran Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_sl_asst"
+msgid "Veteran Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_sl_asst_gren"
+msgid "Veteran Asst. SL [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_sl_rifle"
+msgid "Veteran Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_sl_smg"
+msgid "Veteran Squadleader [M1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/mid/vet_smg"
+msgid "Veteran SMG Inf. [M1 Thompson]"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+msgctxt "desc/human/mp/usa/late/1st_company_1st_sgt"
+msgid "1st Div. Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_company_com"
+msgid "1st Div. Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_company_radio"
+msgid "1st Div. Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_company_xo"
+msgid "1st Div. Company Executive Officer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_crew"
+msgid "1st Div. Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_driver"
+msgid "1st Div. Driver [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_company_1st_sgt"
+msgid "1st Div. Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_company_com"
+msgid "1st Div. Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_company_radio"
+msgid "1st Div. Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_company_xo"
+msgid "1st Div. Company Executive Officer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_crew"
+msgid "1st Div. Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_driver"
+msgid "1st Div. Driver [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_medic"
+msgid "1st Div. Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_platoon_com"
+msgid "1st Div. Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_platoon_radio"
+msgid "1st Div. Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_platoon_tsgt"
+msgid "1st Div. Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_rifle_at_asst"
+msgid "1st Div. AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_rifle_at_m9a1"
+msgid "1st Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_rifle_band"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_rifle_bar"
+msgid "1st Div. Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_rifle_bar_ammo"
+msgid "1st Div. AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_rifle_bar_asst"
+msgid "1st Div. AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_rifle_gren"
+msgid "1st Div. Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_rifle_sniper"
+msgid "1st Div. Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_sl_asst"
+msgid "1st Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_sl_asst_gren"
+msgid "1st Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_sl_rifle"
+msgid "1st Div. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_sl_smg"
+msgid "1st Div. Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_late_sl_smg_m3"
+msgid "1st Div. Squadleader [M3 'Grease Gun']"
+msgstr ""
+
+
+
+
+msgctxt "desc/human/mp/usa/late/1st_medic"
+msgid "1st Div. Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_platoon_com"
+msgid "1st Div. Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_platoon_radio"
+msgid "1st Div. Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_platoon_tsgt"
+msgid "1st Div. Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_at"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_at_asst"
+msgid "1st Div. AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_at_m1a1"
+msgid "1st Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_at_m9a1"
+msgid "1st Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_band"
+msgid "1st Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_bar"
+msgid "1st Div. Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_bar_ammo"
+msgid "1st Div. AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_bar_asst"
+msgid "1st Div. AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_gren"
+msgid "1st Div. Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_rifle_sniper"
+msgid "1st Div. Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_sl_asst"
+msgid "1st Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_sl_asst_gren"
+msgid "1st Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_sl_rifle"
+msgid "1st Div. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_sl_smg"
+msgid "1st Div. Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_sl_smg_m3"
+msgid "1st Div. Squadleader [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_smg"
+msgid "1st Div. SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_smg_m3"
+msgid "1st Div. SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_special_at"
+msgid "1st Special Service Force AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_special_demo"
+msgid "1st Special Service Force Demolition Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_special_gren"
+msgid "1st Special Service Force Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_special_lmg"
+msgid "1st Special Service Force LMG [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_special_mech"
+msgid "1st Special Service Force Mechanic [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_special_medic"
+msgid "1st Special Service Force Medic [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_special_radio"
+msgid "1st Special Service Force Radio Op. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/1st_special_sec_lead"
+msgid "1st Special Service Force Section Leader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle"
+msgid "29th Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle_at_asst"
+msgid "29th Div. AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle_at_m9a1"
+msgid "29th Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle_band"
+msgid "29th Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle_bar"
+msgid "29th Div. Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle_bar_ammo"
+msgid "29th Div. AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle_bar_asst"
+msgid "29th Div. AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle_gren"
+msgid "29th Div. Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_rifle_sniper"
+msgid "29th Div. Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_sl_asst"
+msgid "29th Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_sl_asst_gren"
+msgid "29th Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_sl_rifle"
+msgid "29th Div. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_late_sl_smg"
+msgid "29th Div. Squadleader [M1A1 Thompson]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/29th_rifle_at_asst"
+msgid "29th Div. AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_rifle_at_m1a1"
+msgid "29th Div. AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_rifle_band"
+msgid "29th Div. Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_rifle_bar"
+msgid "29th Div. Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_rifle_bar_ammo"
+msgid "29th Div. AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_rifle_bar_asst"
+msgid "29th Div. AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_rifle_gren"
+msgid "29th Div. Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_rifle_sniper"
+msgid "29th Div. Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_sl_asst_gren"
+msgid "29th Div. Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_sl_rifle"
+msgid "29th Div. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/29th_sl_smg"
+msgid "29th Div. Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_at_asst"
+msgid "82nd Airborne AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_at_m1a1"
+msgid "82nd Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_at_m9"
+msgid "82nd Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_at_m9a1"
+msgid "82nd Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_bar"
+msgid "82nd Airborne Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_bar_asst"
+msgid "82nd Airborne AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_carbine"
+msgid "82nd Airborne Rifleman [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_company_1st_sgt"
+msgid "82nd Airborne Company First Sergeant [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_company_com"
+msgid "82nd Airborne Company Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_company_radio"
+msgid "82nd Airborne Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_company_sgt"
+msgid "82nd Airborne Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_company_xo"
+msgid "82nd Airborne Company Executive Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_crew"
+msgid "82nd Airborne Weapon Crew [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_demo"
+msgid "82nd Airborne Demolition Inf. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_demo_off"
+msgid "82nd Airborne Demolition Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_at_asst"
+msgid "82nd Airborne Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_at_m1a1"
+msgid "82nd Airborne Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_at_m9a1"
+msgid "82nd Airborne Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_carbine"
+msgid "82nd Airborne Engineer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_flamer"
+msgid "82nd Airborne Engineer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_rifle"
+msgid "82nd Airborne Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_sl"
+msgid "82nd Airborne Engineer Squadleader [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_sl_asst"
+msgid "82nd Airborne Engineer Asst. SL [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_sl_asst_cpl_gren"
+msgid "82nd Airborne Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_sl_asst_gren"
+msgid "82nd Airborne Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_sl_sgt"
+msgid "82nd Airborne Engineer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_sl_sgt_smg"
+msgid "82nd Airborne Engineer Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_sl_smg"
+msgid "82nd Airborne Engineer Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_eng_smg"
+msgid "82nd Airborne Engineer [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_at_asst"
+msgid "82nd Glider AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_at_m1a1"
+msgid "82nd Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_at_m9a1"
+msgid "82nd Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_bar"
+msgid "82nd Glider Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_bar_ammo"
+msgid "82nd Glider AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_bar_asst"
+msgid "82nd Glider AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_mg"
+msgid "82nd Glider MG Operator [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_mg_ammo"
+msgid "82nd Glider MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_mg_asst"
+msgid "82nd Glider MG Asst. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_pio_carbine"
+msgid "82nd Glider Pioneer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_pio_flamer"
+msgid "82nd Glider Pioneer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_pio_rifle"
+msgid "82nd Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_pio_rifle_at"
+msgid "82nd Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_pio_sl"
+msgid "82nd Glider Pioneer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_pio_sl_asst"
+msgid "82nd Glider Pioneer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_rifle"
+msgid "82nd Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_rifle_band2"
+msgid "82nd Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_rifle_gren"
+msgid "82nd Glider Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_sl_asst"
+msgid "82nd Glider Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_sl_rifle"
+msgid "82nd Glider Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_sl_smg"
+msgid "82nd Glider Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_glider_sniper"
+msgid "82nd Glider Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_at_asst"
+msgid "82nd Airborne AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_at_m1a1"
+msgid "82nd Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_at_m9"
+msgid "82nd Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_at_m9a1"
+msgid "82nd Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_bar"
+msgid "82nd Airborne Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_bar_asst"
+msgid "82nd Airborne AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_carbine"
+msgid "82nd Airborne Rifleman [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_company_1st_sgt"
+msgid "82nd Airborne Company First Sergeant [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_company_com"
+msgid "82nd Airborne Company Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_company_radio"
+msgid "82nd Airborne Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_company_sgt"
+msgid "82nd Airborne Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_company_xo"
+msgid "82nd Airborne Company Executive Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_crew"
+msgid "82nd Airborne Weapon Crew [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_demo"
+msgid "82nd Airborne Demolition Inf. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_demo_off"
+msgid "82nd Airborne Demolition Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_at_asst"
+msgid "82nd Airborne Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_at_m9a1"
+msgid "82nd Airborne Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_carbine"
+msgid "82nd Airborne Engineer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_flamer"
+msgid "82nd Airborne Engineer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_rifle"
+msgid "82nd Airborne Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_sl"
+msgid "82nd Airborne Engineer Squadleader [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_sl_asst"
+msgid "82nd Airborne Engineer Asst. SL [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_sl_asst_gren"
+msgid "82nd Airborne Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_sl_smg"
+msgid "82nd Airborne Engineer Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_eng_smg"
+msgid "82nd Airborne Engineer [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_at_asst"
+msgid "82nd Glider AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_at_m1a1"
+msgid "82nd Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_at_m9a1"
+msgid "82nd Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_bar"
+msgid "82nd Glider Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_bar_ammo"
+msgid "82nd Glider AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_bar_asst"
+msgid "82nd Glider AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg"
+msgid "82nd Glider MG Operator [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg_ammo"
+msgid "82nd Glider MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_mg_asst"
+msgid "82nd Glider MG Asst. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_carbine"
+msgid "82nd Glider Pioneer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_flamer"
+msgid "82nd Glider Pioneer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_rifle"
+msgid "82nd Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_rifle_at"
+msgid "82nd Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_sl"
+msgid "82nd Glider Pioneer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_pio_sl_asst"
+msgid "82nd Glider Pioneer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_rifle"
+msgid "82nd Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_rifle_band2"
+msgid "82nd Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_rifle_gren"
+msgid "82nd Glider Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_sl_asst"
+msgid "82nd Glider Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_sl_rifle"
+msgid "82nd Glider Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_sl_smg"
+msgid "82nd Glider Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_glider_sniper"
+msgid "82nd Glider Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_medic"
+msgid "82nd Airborne Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_mg"
+msgid "82nd Airborne MG Operator [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_mg_ammo"
+msgid "82nd Airborne MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_mg_asst"
+msgid "82nd Airborne MG Asst. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_pathfinder_carbine"
+msgid "82nd Airborne Pathfinder [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_pathfinder_rifle"
+msgid "82nd Airborne Pathfinder [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_pathfinder_smg"
+msgid "82nd Airborne Pathfinder [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_platoon_com"
+msgid "82nd Airborne Platoon Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_platoon_radio"
+msgid "82nd Airborne Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_platoon_ssgt"
+msgid "82nd Airborne Platoon Guide [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_platoon_tsgt"
+msgid "82nd Airborne Platoon Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_recon_rifle"
+msgid "82nd Airborne Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_recon_tl"
+msgid "82nd Airborne Recon Teamleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_rifle"
+msgid "82nd Airborne Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_rifle_gren"
+msgid "82nd Airborne Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_sl"
+msgid "82nd Airborne Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_sl_asst"
+msgid "82nd Airborne Asst. SL [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_sl_asst_gren"
+msgid "82nd Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_smg"
+msgid "82nd Airborne SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_smg_m3"
+msgid "82nd Airborne SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_late_sniper"
+msgid "82nd Airborne Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_mg"
+msgid "82nd Airborne MG Operator [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_mg_ammo"
+msgid "82nd Airborne MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_mg_asst"
+msgid "82nd Airborne MG Asst. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_pathfinder_carbine"
+msgid "82nd Airborne Pathfinder [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_pathfinder_rifle"
+msgid "82nd Airborne Pathfinder [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_pathfinder_smg"
+msgid "82nd Airborne Pathfinder [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_platoon_com"
+msgid "82nd Airborne Platoon Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_platoon_com_asst"
+msgid "82nd Airborne Asst. Platoon Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_platoon_radio"
+msgid "82nd Airborne Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_platoon_ssgt"
+msgid "82nd Airborne Platoon Guide [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_platoon_tsgt"
+msgid "82nd Airborne Platoon Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_recon_rifle"
+msgid "82nd Airborne Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_recon_tl"
+msgid "82nd Airborne Recon Teamleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_rifle"
+msgid "82nd Airborne Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_rifle_gren"
+msgid "82nd Airborne Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_sl"
+msgid "82nd Airborne Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_sl_asst"
+msgid "82nd Airborne Asst. SL [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_sl_asst_cpl"
+msgid "82nd Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_sl_asst_cpl_gren"
+msgid "82nd Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_sl_asst_gren"
+msgid "82nd Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_sl_sgt"
+msgid "82nd Airborne Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_sl_sgt_smg"
+msgid "82nd Airborne Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_smg"
+msgid "82nd Airborne SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/82nd_sniper"
+msgid "82nd Airborne Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_at_asst"
+msgid "101st Airborne AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_at_m1a1"
+msgid "101st Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_at_m9"
+msgid "101st Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_at_m9a1"
+msgid "101st Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_bar"
+msgid "101st Airborne Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_bar_asst"
+msgid "101st Airborne AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_carbine"
+msgid "101st Airborne Rifleman [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_company_1st_sgt"
+msgid "101st Airborne Company First Sergeant [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_company_com"
+msgid "101st Airborne Company Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_company_radio"
+msgid "American 101st Airborne Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_company_sgt"
+msgid "101st Airborne Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_company_xo"
+msgid "101st Airborne Company Executive Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_crew"
+msgid "101st Airborne Weapon Crew [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_demo"
+msgid "101st Airborne Demolition Inf. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_demo_off"
+msgid "101st Airborne Demolition Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_at_asst"
+msgid "101st Airborne Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_at_m1a1"
+msgid "101st Airborne Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_at_m9a1"
+msgid "101st Airborne Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_carbine"
+msgid "101st Airborne Engineer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_flamer"
+msgid "101st Airborne Engineer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_rifle"
+msgid "101st Airborne Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_sl"
+msgid "101st Airborne Engineer Squadleader [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_sl_asst"
+msgid "101st Airborne Engineer Asst. SL [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_sl_asst_cpl_gren"
+msgid "101st Airborne Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_sl_asst_gren"
+msgid "101st Airborne Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_sl_sgt"
+msgid "101st Airborne Engineer Squadleader [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_sl_sgt_smg"
+msgid "101st Airborne Engineer Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_sl_smg"
+msgid "101st Airborne Engineer Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_eng_smg"
+msgid "101st Airborne Engineer [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_at_asst"
+msgid "101st Glider AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_at_m1a1"
+msgid "101st Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_at_m9a1"
+msgid "101st Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_bar"
+msgid "101st Glider Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_bar_ammo"
+msgid "101st Glider AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_bar_asst"
+msgid "101st Glider AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_mg"
+msgid "101st Glider MG Operator [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_mg_ammo"
+msgid "101st Glider MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_mg_asst"
+msgid "101st Glider MG Asst. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_pio_carbine"
+msgid "101st Glider Pioneer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_pio_flamer"
+msgid "101st Glider Pioneer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_pio_rifle"
+msgid "101st Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_pio_rifle_at"
+msgid "101st Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_pio_sl"
+msgid "101st Glider Pioneer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_pio_sl_asst"
+msgid "101st Glider Pioneer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_rifle"
+msgid "101st Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_rifle_band2"
+msgid "101st Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_rifle_gren"
+msgid "101st Glider Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_sl_asst"
+msgid "101st Glider Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_sl_rifle"
+msgid "101st Glider Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_sl_smg"
+msgid "101st Glider Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_glider_sniper"
+msgid "101st Glider Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_at_asst"
+msgid "101st Airborne AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_at_m1a1"
+msgid "101st Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_at_m9"
+msgid "101st Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_at_m9a1"
+msgid "101st Airborne AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_bar"
+msgid "101st Airborne Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_bar_asst"
+msgid "101st Airborne AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_carbine"
+msgid "101st Airborne Rifleman [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_company_1st_sgt"
+msgid "101st Airborne Company First Sergeant [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_company_com"
+msgid "101st Airborne Company Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_company_radio"
+msgid "101st Airborne Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_company_sgt"
+msgid "101st Airborne Company Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_company_xo"
+msgid "101st Airborne Company Executive Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_crew"
+msgid "101st Airborne Weapon Crew [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_demo_off"
+msgid "101st Airborne Demolition Officer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_at_asst"
+msgid "101st Airborne Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_at_m9a1"
+msgid "101st Airborne Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_carbine"
+msgid "101st Airborne Engineer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_flamer"
+msgid "101st Airborne Engineer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_rifle"
+msgid "101st Airborne Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_sl"
+msgid "101st Airborne Engineer Squadleader [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_sl_asst"
+msgid "101st Airborne Engineer Asst. SL [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_sl_asst_gren"
+msgid "101st Airborne Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_sl_smg"
+msgid "101st Airborne Engineer Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_eng_smg"
+msgid "101st Airborne Engineer [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_at_asst"
+msgid "101st Glider AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_at_m1a1"
+msgid "101st Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_at_m9a1"
+msgid "101st Glider AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_bar"
+msgid "101st Glider Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_bar_ammo"
+msgid "101st Glider AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_bar_asst"
+msgid "101st Glider AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_mg"
+msgid "101st Glider MG Operator [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_mg_ammo"
+msgid "101st Glider MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_mg_asst"
+msgid "101st Glider MG Asst. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_carbine"
+msgid "101st Glider Pioneer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_flamer"
+msgid "101st Glider Pioneer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_rifle"
+msgid "101st Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_rifle_at"
+msgid "101st Glider Pioneer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_sl"
+msgid "101st Glider Pioneer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_pio_sl_asst"
+msgid "101st Glider Pioneer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_rifle"
+msgid "101st Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_rifle_band2"
+msgid "101st Glider Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_rifle_gren"
+msgid "101st Glider Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_sl_asst"
+msgid "101st Glider Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_sl_rifle"
+msgid "101st Glider Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_sl_smg"
+msgid "101st Glider Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_glider_sniper"
+msgid "101st Glider Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_mg"
+msgid "American 101st Airborne MG Operator [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_mg_ammo"
+msgid "American 101st Airborne MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_mg_asst"
+msgid "American 101st Airborne MG Asst. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_pathfinder_carbine"
+msgid "American 101st Airborne Pathfinder [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_pathfinder_rifle"
+msgid "American 101st Airborne Pathfinder [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_pathfinder_smg"
+msgid "American 101st Airborne Pathfinder [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_platoon_com"
+msgid "101st Airborne Platoon Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_platoon_radio"
+msgid "101st Airborne Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_platoon_ssgt"
+msgid "101st Airborne Platoon Guide [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_platoon_tsgt"
+msgid "101st Airborne Platoon Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_recon_rifle"
+msgid "101st Airborne Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_recon_tl"
+msgid "101st Airborne Recon Teamleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_rifle"
+msgid "101st Airborne Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_rifle_gren"
+msgid "101st Airborne Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_sl_asst_gren"
+msgid "101st Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_smg"
+msgid "101st Airborne SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_late_smg_m3"
+msgid "101st Airborne SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_mg_ammo"
+msgid "101st Airborne MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_mg_asst"
+msgid "101st Airborne MG Asst. [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_pathfinder_carbine"
+msgid "101st Airborne Pathfinder [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_pathfinder_rifle"
+msgid "101st Airborne Pathfinder [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_pathfinder_smg"
+msgid "101st Airborne Pathfinder [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_platoon_com"
+msgid "101st Airborne Platoon Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_platoon_com_asst"
+msgid "101st Airborne Asst. Platoon Commander [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_platoon_radio"
+msgid "101st Airborne Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_platoon_ssgt"
+msgid "101st Airborne Platoon Guide [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_platoon_tsgt"
+msgid "101st Airborne Platoon Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_recon_rifle"
+msgid "101st Airborne Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_recon_tl"
+msgid "101st Airborne Recon Teamleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_rifle_gren"
+msgid "101st Airborne Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_sl"
+msgid "101st Airborne Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_sl_asst"
+msgid "101st Airborne Asst. SL [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_sl_asst_cpl"
+msgid "101st Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_sl_asst_cpl_gren"
+msgid "101st Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_sl_asst_gren"
+msgid "101st Airborne Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_sl_sgt"
+msgid "101st Airborne Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_sl_sgt_smg"
+msgid "101st Airborne Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_smg"
+msgid "101st Airborne SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/101st_sniper"
+msgid "101st Airborne Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+
+
+
+
+msgctxt "desc/human/mp/usa/late/antitank_asst"
+msgid "American AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/antitank_gren"
+msgid "American AT Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/antitank_m1a1"
+msgid "American AT Inf. [M1A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/antitank_m9"
+msgid "American AT Inf. [M9 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/antitank_m9a1"
+msgid "American AT Inf. [M9A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/antitank_m9a1_101"
+msgid "American 101st Airborne AT Inf. [M9A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/antitank_asst_101"
+msgid "American 101st Airborne Assistant AT Inf. [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/ar_carbine_gren"
+msgid "American Armored Rifle Grenadier [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_company_1st_sgt"
+msgid "American Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_company_com"
+msgid "American Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_company_ssgt"
+msgid "American Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_crew"
+msgid "American Armored Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_driver"
+msgid "American Armored Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_carbine_gren"
+msgid "American Armored Rifle Grenadier [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_company_1st_sgt"
+msgid "American Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_company_com"
+msgid "American Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_company_ssgt"
+msgid "American Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_crew"
+msgid "American Armored Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_driver"
+msgid "American Armored Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_medic"
+msgid "American Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_platoon_com"
+msgid "Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_platoon_tsgt"
+msgid "Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_recon_rifle"
+msgid "Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_recon_smg"
+msgid "Armored Recon [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_recon_tl"
+msgid "Armored Recon Teamleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle"
+msgid "Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_at_asst"
+msgid "Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_at_m1a1"
+msgid "Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_at_m9a1"
+msgid "Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_band"
+msgid "Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_band2"
+msgid "Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_bar"
+msgid "Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_bar_ammo"
+msgid "Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_bar_asst"
+msgid "Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_gren"
+msgid "Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_rifle_sniper"
+msgid "Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_sl_asst"
+msgid "Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_sl_asst_carbine"
+msgid "Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_sl_carbine"
+msgid "Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_late_sl_rifle"
+msgid "Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_medic"
+msgid "Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_platoon_com"
+msgid "Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_platoon_com_mp"
+msgid "Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_platoon_tsgt"
+msgid "Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_recon_rifle"
+msgid "Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_recon_smg"
+msgid "Armored Recon [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_recon_tl"
+msgid "Armored Recon Teamleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle"
+msgid "Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_at"
+msgid "Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_at_asst"
+msgid "Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_at_m1a1"
+msgid "Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_at_m9a1"
+msgid "Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_band"
+msgid "Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_band2"
+msgid "Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_bar"
+msgid "Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_bar_ammo"
+msgid "Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_bar_asst"
+msgid "Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_gren"
+msgid "Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_rifle_sniper"
+msgid "Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_sl_asst"
+msgid "Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_sl_asst_carbine"
+msgid "Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_sl_carbine"
+msgid "Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar_sl_rifle"
+msgid "Armored Squadleader [M1 Garand]"
+msgstr ""
+
+
+
+
+
+msgctxt "desc/human/mp/usa/late/ar1_company_1st_sgt"
+msgid "1st Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_company_com"
+msgid "1st Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_company_ssgt"
+msgid "1st Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_crew"
+msgid "1st Armored Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_driver"
+msgid "1st Armored Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_company_1st_sgt"
+msgid "1st Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_company_com"
+msgid "1st Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_company_ssgt"
+msgid "1st Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_crew"
+msgid "1st Armored Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_driver"
+msgid "1st Armored Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_medic"
+msgid "1st Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_platoon_com"
+msgid "1st Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_platoon_tsgt"
+msgid "1st Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_recon_rifle"
+msgid "1st Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_recon_smg"
+msgid "1st Armored Recon [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_recon_tl"
+msgid "1st Armored Recon Teamleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_rifle_at_asst"
+msgid "1st Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_rifle_at_m9a1"
+msgid "1st Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_rifle_band"
+msgid "1st Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_rifle_bar"
+msgid "1st Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_rifle_bar_ammo"
+msgid "1st Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_rifle_bar_asst"
+msgid "1st Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_rifle_gren"
+msgid "1st Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_rifle_sniper"
+msgid "1st Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_sl_asst"
+msgid "1st Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_sl_asst_carbine"
+msgid "1st Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_sl_carbine"
+msgid "1st Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_late_sl_rifle"
+msgid "1st Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_medic"
+msgid "1st Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_platoon_com"
+msgid "1st Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_platoon_com_mp"
+msgid "1st Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_platoon_tsgt"
+msgid "1st Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_recon_rifle"
+msgid "1st Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_recon_smg"
+msgid "1st Armored Recon [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_recon_tl"
+msgid "1st Armored Recon Teamleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_at_asst"
+msgid "1st Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_at_m1a1"
+msgid "1st Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_at_m9a1"
+msgid "1st Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_band"
+msgid "1st Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_bar"
+msgid "1st Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_bar_ammo"
+msgid "1st Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_bar_asst"
+msgid "1st Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_gren"
+msgid "1st Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_rifle_sniper"
+msgid "1st Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_sl_asst"
+msgid "1st Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_sl_asst_carbine"
+msgid "1st Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_sl_carbine"
+msgid "1st Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_sl_rifle"
+msgid "1st Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_tank_com"
+msgid "1st Armored Tank Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_tank_com_m1"
+msgid "1st Armored Tank Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_tank_com_m3"
+msgid "1st Armored Tank Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_tankman"
+msgid "1st Armored Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_tankman_m1"
+msgid "1st Armored Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar1_tankman_m3"
+msgid "1st Armored Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+
+
+
+
+
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_rifle"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_at_asst"
+msgid "2nd Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_at_m1a1"
+msgid "2nd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_band"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_bar"
+msgid "2nd Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_bar_ammo"
+msgid "2nd Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_bar_asst"
+msgid "2nd Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_rifle_gren"
+msgid "2nd Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_sl_asst"
+msgid "2nd Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_camo_sl_rifle"
+msgid "2nd Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_carbine_gren"
+msgid "2nd Armored Rifle Grenadier [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_company_1st_sgt"
+msgid "2nd Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_company_com"
+msgid "2nd Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_company_ssgt"
+msgid "2nd Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_crew"
+msgid "2nd Armored Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_driver"
+msgid "2nd Armored Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_carbine_gren"
+msgid "2nd Armored Rifle Grenadier [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_company_1st_sgt"
+msgid "2nd Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_company_com"
+msgid "2nd Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_company_ssgt"
+msgid "2nd Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_crew"
+msgid "2nd Armored Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_driver"
+msgid "2nd Armored Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_medic"
+msgid "2nd Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_platoon_com"
+msgid "2nd Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_platoon_tsgt"
+msgid "2nd Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_recon_rifle"
+msgid "2nd Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_recon_smg"
+msgid "2nd Armored Recon [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_recon_tl"
+msgid "2nd Armored Recon Teamleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_at"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_at_asst"
+msgid "2nd Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_at_m1a1"
+msgid "2nd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_at_m9a1"
+msgid "2nd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_band"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_band2"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_bar"
+msgid "2nd Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_bar_ammo"
+msgid "2nd Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_bar_asst"
+msgid "2nd Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_gren"
+msgid "2nd Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_rifle_sniper"
+msgid "2nd Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_sl_asst"
+msgid "2nd Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_sl_asst_carbine"
+msgid "2nd Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_sl_carbine"
+msgid "2nd Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_late_sl_rifle"
+msgid "2nd Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_medic"
+msgid "2nd Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_platoon_com"
+msgid "2nd Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_platoon_tsgt"
+msgid "2nd Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_recon_rifle"
+msgid "2nd Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_recon_smg"
+msgid "2nd Armored Recon [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_recon_tl"
+msgid "2nd Armored Recon Teamleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_at"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_at_asst"
+msgid "2nd Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_at_m1a1"
+msgid "2nd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_at_m9a1"
+msgid "2nd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_band"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_band2"
+msgid "2nd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_bar"
+msgid "2nd Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_bar_ammo"
+msgid "2nd Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_bar_ammo2"
+msgid "2nd Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_bar_asst"
+msgid "2nd Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_bar_asst2"
+msgid "2nd Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_gren"
+msgid "2nd Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_rifle_sniper"
+msgid "2nd Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_sl_asst"
+msgid "2nd Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_sl_asst_carbine"
+msgid "2nd Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_sl_carbine"
+msgid "2nd Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_sl_rifle"
+msgid "2nd Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_tank_com"
+msgid "2nd Armored Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_tank_com_m1"
+msgid "2nd Armored Tank Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_tank_com_m1a1"
+msgid "2nd Armored Tank Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_tank_com_m3"
+msgid "2nd Armored Tank Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_tankman"
+msgid "2nd Armored Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_tankman_m1"
+msgid "2nd Armored Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_tankman_m3"
+msgid "2nd Armored Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_vehicle_com"
+msgid "2nd Armored Vehicle Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_vehicle_com_m1"
+msgid "2nd Armored Vehicle Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_vehicle_com_m1a1"
+msgid "2nd Armored Vehicle Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_vehicle_com_m3"
+msgid "2nd Armored Vehicle Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_vehicle_crew"
+msgid "2nd Armored Vehicle Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_vehicle_crew_m1"
+msgid "2nd Armored Vehicle Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar2_vehicle_crew_m3"
+msgid "2nd Armored Vehicle Crew [M3 'Grease Gun']"
+msgstr ""
+
+
+
+
+
+
+
+
+
+msgctxt "desc/human/mp/usa/late/ar3_carbine_gren"
+msgid "American 3rd Armored Rifle Grenadier [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_company_1st_sgt"
+msgid "American 3rd Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_company_com"
+msgid "American 3rd Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_company_ssgt"
+msgid "American 3rd Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_crew"
+msgid "American 3rd Armored Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_driver"
+msgid "American 3rd Armored Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_carbine_gren"
+msgid "American 3rd Armored Rifle Grenadier [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_company_1st_sgt"
+msgid "American 3rd Armored Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_company_com"
+msgid "American 3rd Armored Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_company_ssgt"
+msgid "American 3rd Armored Company Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_crew"
+msgid "American 3rd Armored Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_driver"
+msgid "American 3rd Armored Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_medic"
+msgid "American 3rd Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_platoon_com"
+msgid "American 3rd Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_platoon_tsgt"
+msgid "American 3rd Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_recon_rifle"
+msgid "American 3rd Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_recon_smg"
+msgid "American 3rd Armored Recon [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_recon_tl"
+msgid "American 3rd Armored Recon Teamleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle"
+msgid "American 3rd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_at_asst"
+msgid "American 3rd Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_at_m1a1"
+msgid "American 3rd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_at_m9a1"
+msgid "American 3rd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_band"
+msgid "American 3rd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_band2"
+msgid "American 3rd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_bar"
+msgid "American 3rd Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_bar_ammo"
+msgid "American 3rd Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_bar_asst"
+msgid "American 3rd Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_gren"
+msgid "American 3rd Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_rifle_sniper"
+msgid "American 3rd Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_sl_asst"
+msgid "American 3rd Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_sl_asst_carbine"
+msgid "American 3rd Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_sl_carbine"
+msgid "American 3rd Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_late_sl_rifle"
+msgid "American 3rd Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_medic"
+msgid "American 3rdAmerican 3rd Armored Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_platoon_com"
+msgid "American 3rd Armored Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_platoon_tsgt"
+msgid "American 3rd Armored Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_recon_rifle"
+msgid "American 3rd Armored Recon [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_recon_smg"
+msgid "American 3rd Armored Recon [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_recon_tl"
+msgid "American 3rd Armored Recon Teamleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle"
+msgid "American 3rd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_at"
+msgid "American 3rd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_at_asst"
+msgid "American 3rd Armored AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_at_m1a1"
+msgid "American 3rd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_at_m9a1"
+msgid "American 3rd Armored AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_band"
+msgid "American 3rd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_band2"
+msgid "American 3rd Armored Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_bar"
+msgid "American 3rd Armored Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_bar_ammo"
+msgid "American 3rd Armored AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_bar_asst"
+msgid "American 3rd Armored AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_gren"
+msgid "American 3rd Armored Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_rifle_sniper"
+msgid "American 3rd Armored Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_sl_asst"
+msgid "American 3rd Armored Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_sl_asst_carbine"
+msgid "American 3rd Armored Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_sl_carbine"
+msgid "American 3rd Armored Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_sl_rifle"
+msgid "American 3rd Armored Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_tank_com"
+msgid "American 3rd Armored Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_tank_com_m1"
+msgid "American 3rd Armored Tank Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_tank_com_m1a1"
+msgid "American 3rd Armored Tank Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_tank_com_m3"
+msgid "American 3rd Armored Tank Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_tankman"
+msgid "American 3rd Armored Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_tankman_m1"
+msgid "American 3rd Armored Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_tankman_m3"
+msgid "American 3rd Armored Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_tankman_t5_m3"
+msgid "American 3rd Armored Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_vehicle_com"
+msgid "American 3rd Armored Vehicle Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_vehicle_com_m1"
+msgid "American 3rd Armored Vehicle Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_vehicle_com_m1a1"
+msgid "American 3rd Armored Vehicle Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_vehicle_com_m3"
+msgid "American 3rd Armored Vehicle Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_vehicle_crew"
+msgid "American 3rd Armored Vehicle Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_vehicle_crew_m1"
+msgid "American 3rd Armored Vehicle Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ar3_vehicle_crew_m3"
+msgid "American 3rd Armored Vehicle Crew [M3 'Grease Gun']"
+msgstr ""
+
+
+
+
+
+
+msgctxt "desc/human/mp/usa/late/artilleryman"
+msgid "American Artilleryman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/artilleryman_1"
+msgid "American Artilleryman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/cav_driver"
+msgid "Cavalry Driver [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/cav_gunner"
+msgid "Cavalry Gunner [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/company_1st_sgt"
+msgid "Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/company_com"
+msgid "Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/company_radio"
+msgid "Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/company_radio_vt"
+msgid "Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/company_xo"
+msgid "Company Executive Officer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/crew"
+msgid "American Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/driver"
+msgid "American Driver [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/driver_m3"
+msgid "American Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_at_asst"
+msgid "American Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_at_m1a1"
+msgid "American Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_at_m9a1"
+msgid "American Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_builder"
+msgid "American Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_flamer"
+msgid "American Engineer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_gren"
+msgid "American Engineer Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_mine_ap"
+msgid "American Engineer AP Miner [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_mine_at"
+msgid "American Engineer AT Miner [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_recon"
+msgid "American Engineer Recon [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_recon_gren"
+msgid "American Engineer Recon Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_recon_sec_lead"
+msgid "American Engineer Recon Section Leader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_recon_tl"
+msgid "American Engineer Recon Teamleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_rifle"
+msgid "American Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_shotgun"
+msgid "American Engineer [M12 Shotgun]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_sl"
+msgid "American Engineer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_sl_asst"
+msgid "American Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/engineer_smg"
+msgid "American Engineer [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/fo"
+msgid "Forward Observer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/fo_radio_105"
+msgid "Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/fo_radio_155"
+msgid "Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/fo_radio_203"
+msgid "Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/fo_radio_240"
+msgid "Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/late_antitank_asst"
+msgid "AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_gren"
+msgid "AT Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m1a1"
+msgid "AT Inf. [M1A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m9"
+msgid "AT Inf. [M9 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m9a1"
+msgid "AT Inf. [M9A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m18"
+msgid "Recoilless Gunner [M18 Recoilless Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m18_asst"
+msgid "Recoilless Gunner Asst. [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m18_ammo"
+msgid "Recoilless Ammo Bearer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m18_101"
+msgid "AirborneRecoilless Gunner [M18 Recoilless Rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m18_asst_101"
+msgid "Airborne Recoilless Gunner Asst. [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_antitank_m18_ammo_101"
+msgid "Airborne Recoilless Ammo Bearer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_artilleryman"
+msgid "Artilleryman [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/late_cav_tl"
+msgid "Cavalry Teamleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_company_1st_sgt"
+msgid "Company First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_company_com"
+msgid "Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_company_radio"
+msgid "Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_company_radio_vt"
+msgid "Company Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_company_xo"
+msgid "Company Executive Officer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_crew"
+msgid "Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_driver"
+msgid "Driver [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_driver_m3"
+msgid "Driver [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_at_asst"
+msgid "Engineer AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_at_m1a1"
+msgid "Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_at_m9a1"
+msgid "Engineer AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_builder"
+msgid "Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_flamer"
+msgid "Engineer Flamer Inf. [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_gren"
+msgid "Engineer Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_mine_ap"
+msgid "Engineer AP Miner [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_mine_at"
+msgid "Engineer AT Miner [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_recon"
+msgid "Engineer Recon [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_recon_gren"
+msgid "Engineer Recon Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_recon_sec_lead"
+msgid "Engineer Recon Section Leader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_recon_tl"
+msgid "Engineer Recon Teamleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_rifle"
+msgid "Engineer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_shotgun"
+msgid "Engineer [M12 Shotgun]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_sl"
+msgid "Engineer Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_sl_asst"
+msgid "Engineer Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_engineer_smg"
+msgid "Engineer [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_fo"
+msgid "Forward Observer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_fo_radio_105"
+msgid "Ameriacn 105mm Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_fo_radio_105_vt"
+msgid "Ameriacn 105mm VT Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_fo_radio_155"
+msgid "Ameriacn 155mm Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_fo_radio_155_vt"
+msgid "Ameriacn 15mm VT Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_fo_radio_203"
+msgid "American 203mm Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_fo_radio_203_vt"
+msgid "American 203mm VT Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_fo_radio_240"
+msgid "American 240mm Forward Observer Radio Operator [AN-M8 Flare Pistol]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_medic"
+msgid "Amerian Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_mg_crew"
+msgid "MG Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_mg_crew_asst"
+msgid "MG Crew Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_platoon_com"
+msgid "Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_platoon_radio"
+msgid "Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_platoon_tsgt"
+msgid "Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_at"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_at_asst"
+msgid "AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_at_m1a1"
+msgid "AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_at_m9a1"
+msgid "AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_band"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_band2"
+msgid "Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_bar"
+msgid "Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_bar_ammo"
+msgid "Automatic Rifleman Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_bar_asst"
+msgid "Automatic Rifleman Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_gren"
+msgid "Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_scout"
+msgid "Rifleman Scout [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_rifle_sniper"
+msgid "American Marksman [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_sl_asst"
+msgid "American Asst. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_sl_asst_gren"
+msgid "American Asst. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_sl_rifle"
+msgid "American Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_sl_smg"
+msgid "American Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_sl_smg_m3"
+msgid "American Squadleader [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_smg"
+msgid "American SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_smg_m3"
+msgid "American SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_at"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_at_asst"
+msgid "Veteran AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_at_m9"
+msgid "Veteran AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_at_m9a1"
+msgid "Veteran AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_band"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_bar"
+msgid "Veteran Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_bar_ammo"
+msgid "Veteran AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_bar_asst"
+msgid "Veteran AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_gren"
+msgid "Veteran Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_rifle_sniper"
+msgid "Veteran Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_sl_asst"
+msgid "Veteran Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_sl_asst_gren"
+msgid "Veteran Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_sl_rifle"
+msgid "Veteran Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_sl_smg"
+msgid "Veteran Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_sl_smg_m3"
+msgid "Veteran Squadleader [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_smg"
+msgid "Veteran SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/late_vet_smg_m3"
+msgid "Veteran SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/medic"
+msgid "American Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mg_crew"
+msgid "American MG Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mg_crew_asst"
+msgid "American MG Crew Asst. [M1 Garand]"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/usa/late/mountain_at_asst"
+msgid "Mountain AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_at_m1a1"
+msgid "Mountain AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_at_m9a1"
+msgid "Mountain AT Inf. [M1 Garand]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/mountain_bar_ammo"
+msgid "Mountain AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_eng"
+msgid "Mountain Engineer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_eng_at_asst"
+msgid "Mountain Engineer AT Asst. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_eng_at_m1a1"
+msgid "Mountain Engineer AT Inf. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_eng_at_m9a1"
+msgid "Mountain Engineer AT Inf. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_eng_flamer"
+msgid "Mountain Engineer Flamer [M2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_eng_sl"
+msgid "Mountain Engineer Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_eng_sl_asst"
+msgid "Mountain Engineer Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_mg"
+msgid "Mountain MG Operator [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_mg_ammo"
+msgid "Mountain MG Ammo Bearer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_pio"
+msgid "Mountain Pioneer [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_pio_at_asst"
+msgid "Mountain Pioneer AT Asst. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_pio_at_m1a1"
+msgid "Mountain Pioneer AT Inf. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_pio_at_m9a1"
+msgid "Mountain Pioneer AT Inf. [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_pio_sl"
+msgid "Mountain Pioneer Squadleader [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_pio_sl_asst"
+msgid "Mountain Pioneer Asst. SL [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_rifle_at"
+msgid "Mountain Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_rifle_gren"
+msgid "Mountain Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_sl_asst_gren"
+msgid "Mountain Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_sl_rifle"
+msgid "Mountain Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_sl_smg"
+msgid "Mountain Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_sl_smg_m3"
+msgid "Mountain Squadleader [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mountain_sniper"
+msgid "Mountain Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/mp_carbine"
+msgid "Military Police Rifleman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mp_rifle"
+msgid "Military Police Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mp_sl_asst"
+msgid "Military Police Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mp_sl_rifle"
+msgid "Military Police Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mp_smg"
+msgid "Military Police SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/mp_smg_m3"
+msgid "Military Police SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/navy_crew"
+msgid "Navy Crewman"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/navy_crew_pistol"
+msgid "Navy Crewman [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/navy_shore_carbine"
+msgid "Navy Shoreparty Rifleman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/navy_shore_medic"
+msgid "Navy Shoreparty Medic [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/navy_shore_rifle"
+msgid "Navy Shoreparty Rifleman [M1903A3 Springfield]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/navy_shore_smg"
+msgid "Navy Shoreparty SMG Inf. [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/navy_shore_smg_m3"
+msgid "Navy Shoreparty SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_1st_sgt"
+msgid "First Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_cpl_carbine"
+msgid "Corporal [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_cpl_rifle"
+msgid "Corporal [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_msgt"
+msgid "Master Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_sgt_carbine"
+msgid "Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_sgt_rifle"
+msgid "Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_ssgt_carbine"
+msgid "Staff Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_ssgt_rifle"
+msgid "Staff Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_tsgt_carbine"
+msgid "Technical Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/nco_tsgt_rifle"
+msgid "Technical Sergeant [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/officer_1lt"
+msgid "First Lieutenant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/officer_2lt"
+msgid "Second Lieutenant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/officer_cpt"
+msgid "American Captain [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/officer_ltc"
+msgid "Lieutenant Colonel [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/officer_maj"
+msgid "Major [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/pilot"
+msgid "Pilot [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/platoon_com"
+msgid "Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/platoon_radio"
+msgid "Platoon Radio Operator [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/platoon_tsgt"
+msgid "Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+
+msgctxt "desc/human/mp/usa/late/ranger_assault_bar"
+msgid "Ranger Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_assault_bar_asst"
+msgid "Ranger AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_assault_gren"
+msgid "Ranger Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_assault_rifle"
+msgid "Ranger Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_at_m1a1"
+msgid "Ranger AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_at_m9a1"
+msgid "Ranger AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_bar"
+msgid "Ranger Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_bar_ammo"
+msgid "Ranger AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_bar_asst"
+msgid "Ranger AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_company_1st_sgt"
+msgid "Ranger Company First Sergeant [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_company_com"
+msgid "Ranger Company Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_crew"
+msgid "Ranger Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_gren"
+msgid "Ranger Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_at_m9a1"
+msgid "Ranger AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_bar"
+msgid "Ranger Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_bar_ammo"
+msgid "Ranger AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_bar_asst"
+msgid "Ranger AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_company_1st_sgt"
+msgid "Ranger Company First Sergeant [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_company_com"
+msgid "Ranger Company Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_crew"
+msgid "Ranger Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_gren"
+msgid "Ranger Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_mg_ammo"
+msgid "Ranger MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_mg_crew"
+msgid "Ranger MG Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_mg_crew_asst"
+msgid "Ranger MG Crew Asst. [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_platoon_com"
+msgid "Ranger Platoon Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_platoon_tsgt"
+msgid "Ranger Platoon Sergeant [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_rifle"
+msgid "Ranger Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_sec_lead"
+msgid "Ranger Section Leader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_sl_asst_m9a1"
+msgid "Ranger Asst. SL [M9A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_sl_rifle_sgt"
+msgid "Ranger Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_sl_rifle_ssgt"
+msgid "Ranger Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_sl_smg_sgt"
+msgid "Ranger Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_sl_smg_ssgt"
+msgid "Ranger Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_late_sniper"
+msgid "Ranger Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_mg_ammo"
+msgid "Ranger MG Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_mg_crew"
+msgid "Ranger MG Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_mg_crew_asst"
+msgid "Ranger MG Crew Asst. [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_platoon_com"
+msgid "Ranger Platoon Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_platoon_tsgt"
+msgid "Ranger Platoon Sergeant [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_rifle"
+msgid "Ranger Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sec_lead"
+msgid "Ranger Section Leader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sl_asst_boys"
+msgid "Ranger Asst. SL [Boys Mk.I AT rifle]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sl_asst_m9"
+msgid "Ranger Asst. SL [M9 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sl_asst_m9a1"
+msgid "Ranger Asst. SL [M9A1 'Bazooka' Anti-tank Launcher]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sl_rifle_sgt"
+msgid "Ranger Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sl_rifle_ssgt"
+msgid "Ranger Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sl_smg_sgt"
+msgid "Ranger Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sl_smg_ssgt"
+msgid "Ranger Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/ranger_sniper"
+msgid "Ranger Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+
+
+
+msgctxt "desc/human/mp/usa/late/rifle"
+msgid "American Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_sa"
+msgid "American Rifleman [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_at"
+msgid "American Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_at_asst"
+msgid "American Rifleman AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_at_m1a1"
+msgid "American Rifleman AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_at_m9a1"
+msgid "American Rifleman AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_band"
+msgid "American Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_band2"
+msgid "American Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_bar_ammo"
+msgid "American Automatic Rifleman Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_bar_ammo2"
+msgid "American Automatic Rifleman Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_bar_asst2"
+msgid "American Automatic Rifleman Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_mg"
+msgid "American Machine Gunner [.30 cal M1919A6 Browning]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_mg_asst"
+msgid "American Machine Gunner Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_mg_ammo"
+msgid "American Machine Gunner Ammo Bearer [M1A1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_gren"
+msgid "American Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_scout"
+msgid "Rifleman Scout [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/rifle_sniper"
+msgid "American Marksman [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/sl_asst"
+msgid "Asst. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/sl_asst_gren"
+msgid "Asst. Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/sl_rifle"
+msgid "Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/sl_smg"
+msgid "Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/smg"
+msgid "American SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/smg_20"
+msgid "American SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/smg_m3"
+msgid "American SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+
+
+
+msgctxt "desc/human/mp/usa/late/tank_commander"
+msgid "Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com"
+msgid "Tank Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_m1"
+msgid "Tank Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_m1a1"
+msgid "Tank Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_m3"
+msgid "Tank Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_1lt"
+msgid "Tank Platoon Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_1lt_m1"
+msgid "Tank Platoon Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_1lt_m1a1"
+msgid "Tank Platoon Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_1lt_m3"
+msgid "Tank Platoon Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_cpt"
+msgid "Tank Company Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_cpt_m1"
+msgid "Tank Company Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_cpt_m1a1"
+msgid "Tank Company Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_cpt_m3"
+msgid "Tank Company Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_ssgt"
+msgid "Tank Platoon Sergeant [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_ssgt_m1"
+msgid "Tank Platoon Sergeant [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_ssgt_m1a1"
+msgid "Tank Platoon Sergeant [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tank_com_ssgt_m3"
+msgid "Tank Platoon Sergeant [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman"
+msgid "Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_m1"
+msgid "Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_m3"
+msgid "Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_cpl"
+msgid "Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_cpl_m1"
+msgid "Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_cpl_m3"
+msgid "Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_pfc"
+msgid "Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_pfc_m1"
+msgid "Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_pfc_m3"
+msgid "Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_t4"
+msgid "Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_t4_m1"
+msgid "Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_t4_m3"
+msgid "Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_t5"
+msgid "Tank Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_t5_m1"
+msgid "Tank Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/tankman_t5_m3"
+msgid "Tank Crew [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vehicle_com"
+msgid "Vehicle Commander [M1928A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vehicle_com_m1"
+msgid "Vehicle Commander [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vehicle_com_m1a1"
+msgid "Vehicle Commander [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vehicle_com_m3"
+msgid "Vehicle Commander [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vehicle_crew"
+msgid "Vehicle Crew [M1911A1]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vehicle_crew_m1"
+msgid "Vehicle Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vehicle_crew_m1_gren"
+msgid "Vehicle Crew [M1 Carbine]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vehicle_crew_m3"
+msgid "Vehicle Crew [M3 'Grease Gun']"
+msgstr ""
+
+
+
+msgctxt "desc/human/mp/usa/late/vet_rifle"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_at"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_at_asst"
+msgid "Veteran AT Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_at_m9"
+msgid "Veteran AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_at_m9a1"
+msgid "Veteran AT Inf. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_band"
+msgid "Veteran Rifleman [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_bar"
+msgid "Veteran Automatic Rifleman [M1918A2 BAR]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_bar_ammo"
+msgid "Veteran AR Ammo Bearer [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_bar_asst"
+msgid "Veteran AR Asst. [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_gren"
+msgid "Veteran Rifle Grenadier [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_rifle_sniper"
+msgid "Veteran Sniper [M1903A4 Springfield (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_sl_asst"
+msgid "Veteran Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_sl_asst_gren"
+msgid "Veteran Asst. SL [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_sl_rifle"
+msgid "Veteran Squadleader [M1 Garand]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_sl_smg"
+msgid "Veteran Squadleader [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_sl_smg_m3"
+msgid "Veteran Squadleader [M3 'Grease Gun']"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_smg"
+msgid "Veteran SMG Inf. [M1A1 Thompson]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/vet_smg_m3"
+msgid "Veteran SMG Inf. [M3 'Grease Gun']"
+msgstr ""
+
+
+
+
+
+
+
+
+

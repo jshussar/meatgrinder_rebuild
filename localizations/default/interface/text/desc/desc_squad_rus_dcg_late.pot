@@ -1,0 +1,158 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+
+msgctxt "desc/squad/squad_vet_partisan_rifle_late_con(rus)"
+msgid "Veteran Partisan Rifle squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_partisan_smg_late_con(rus)"
+msgid "Veteran Partisan SMG squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_nkvd_recon_con(rus)"
+msgid "NKVD Recon squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_recon_44_con(rus)"
+msgid "Recon squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_nkvd_sapper_con(rus)"
+msgid "NKVD Sapper squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_sapper_con(rus)"
+msgid "Sapper squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_sapper_44_con(rus)"
+msgid "Sapper squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_nkvd_at_rifle_con(rus)"
+msgid "NKVD AT rifle squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_nkvd_rifle_con(rus)"
+msgid "NKVD Rifle squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_43_con(rus)"
+msgid "Rifle squad [1943]"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_43_heavy_con(rus)"
+msgid "Heavy Rifle squad [1943]"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_44_con(rus)"
+msgid "Rifle squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_smg_mg_43_con(rus)"
+msgid "SMG squad [1943]"
+msgstr ""
+
+msgctxt "desc/squad/squad_smg_mg_43_heavy_con(rus)"
+msgid "Heavy SMG squad [1943]"
+msgstr ""
+
+msgctxt "desc/squad/squad_smg_mg_44_con(rus)"
+msgid "SMG squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_guardsrifle_con(rus)"
+msgid "Guards Rifle squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_guardsrifle_motorised_con"
+msgid "Mot. Guards Rifle squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_guards_smg_con(rus)"
+msgid "Guards SMG squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_guardsrifle_44_con(rus)"
+msgid "Guards Rifle squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_guardsrifle_44_motor_con(rus)"
+msgid "Mot. Guards Rifle squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_guards_smg_mg_44_con(rus)"
+msgid "Guards SMG squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_guards_smg_mg_44_motor_con(rus)"
+msgid "Mot. Guards SMG squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_nkvd_mountain_con(rus)"
+msgid "NKVD Mountain Rifle squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_marines_reg_con(rus)"
+msgid "Marine Rifle squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_44_con(rus)"
+msgid "Cavalry Rifle squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_elite_guardsrifle_44_motor_con(rus)"
+msgid "Mot. Elite Guards Rifle squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_elite_guards_smg_mg_44_motor_con(rus)"
+msgid "Mot. Elite Guards SMG squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_guards_cav_44_con(rus)"
+msgid "Guards Cavalry Rifle squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_guards_marines_44_con(rus)"
+msgid "Guards Marine Rifle squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_nkvd_mountain_cav_con(rus)"
+msgid "NKVD Mountain Cavalry squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_mountain_cav_44_con(rus)"
+msgid "Mountain Cavalry squad [1944]"
+msgstr ""
+
+msgctxt "desc/squad/squad_assaultsappers_con(rus)"
+msgid "Assault-engineer Sapper squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_assaultsappers_flame_con(rus)"
+msgid "Assault-engineer Flamer squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_assaultsappers_at_con(rus)"
+msgid "Assault-engineer AT squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_paras_con(rus)"
+msgid "Paratrooper squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_guards_paras_con(rus)"
+msgid "Guards Paratrooper squad"
+msgstr ""

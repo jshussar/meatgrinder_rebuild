@@ -1,0 +1,405 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA - Gates of Hell (doctrines)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mp/lobby/setup/player.doctrine"
+msgid "Doctrine"
+msgstr ""
+
+msgctxt "mp/lobby/setup/player.doctrine#hint"
+msgid "Specialise your army with a doctrine. Actually, it doesn't matter."
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/random"
+msgid "Random"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/random#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_fin_allround"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_fin_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_fin_defensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_fin_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_fin_irregular"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_fin_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_fin_offensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_fin_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_allround"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_defensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_irregular"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_offensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_support"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_ger_support#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_allround"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_defensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_irregular"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_offensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_support"
+msgid "Into the Fire: 1941"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/early_rus_support#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_defensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_lendlease"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_lendlease#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_offensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_fin_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_defensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_offensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_support"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_ger_support#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_defensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_lendlease"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_lendlease#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_offensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_support"
+msgid "Into the Fire: 41-43"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_rus_support#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_allround"
+msgid "Project Realism: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_defensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_lendlease"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_lendlease#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_offensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_fin_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_allround"
+msgid "Project Realism: 44-45 "
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_allround2"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_allround2#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_defensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_offensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_support"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_ger_support#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_allround"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_allround#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_defensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_defensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_lendlease"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_lendlease#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_irregular#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_offensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_offensive#hint"
+msgid ""
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_support"
+msgid "Into the Fire: 44-45"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_rus_support#hint"
+msgid ""
+msgstr ""

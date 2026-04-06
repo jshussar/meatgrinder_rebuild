@@ -1,0 +1,39 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (mission)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+;PROJECT REALISM MAPS 
+
+msgctxt "mission/multi/3v3_usa_arizona/name"
+msgid "Arizona <e(shadow)><c(00ff0aff)>3x3</c> <c(8B0000)>[Project Realism]"
+msgstr ""
+
+msgctxt "mission/multi/8v8_stalingrad_9th_january_square/name"
+msgid "Stalingrad 9th January Square <e(shadow)><c(00ff0aff)>8x8</c> <c(8B0000)>[Project Realism]"
+msgstr ""
+
+msgctxt "mission/multi/8v8_gold_rush/name"
+msgid "Gold Rush <e(shadow)><c(00ff0aff)>8x8</c> <c(8B0000)>[Project Realism]"
+msgstr ""
+
+msgctxt "mission/multi/8v8_july1943/name"
+msgid "July 1943 <e(shadow)><c(00ff0aff)>8x8</c> <c(8B0000)>[CHKL]"
+msgstr ""
+
+msgctxt "mission/multi/8v8_notjuly1943_winter/name"
+msgid "December 1943 <e(shadow)><c(00ff0aff)>8x8</c> <c(8B0000)>[CHKL]"
+msgstr ""
+
+msgctxt "mission/multi/8v8_forest/name"
+msgid "Forest Remastered <e(shadow)><c(00ff0aff)>8x8</c> <c(8B0000)>[Hamster, Project Realism]"
+msgstr ""

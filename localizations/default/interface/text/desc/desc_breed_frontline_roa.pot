@@ -1,0 +1,1146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell ROA soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEger-ss; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "desc/human/mp/ger/latef/turk_arty"
+msgid "Artilleryman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_at_rifle"
+msgid "AT. Inf. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_mg"
+msgid "MG Operator <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_mg_ammo"
+msgid "MG Asst. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_rifle_1"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_rifle_2"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_sl"
+msgid "Squadleader <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_sl_asst"
+msgid "Asst. Leader <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_smg"
+msgid "SMG-inf. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/officer_don_inf"
+msgid "Hauptmann <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_antitank_1"
+msgid "Kosak AT. Inf. <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_antitank_2"
+msgid "Kosak AT support Inf. <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_at"
+msgid "Kosak AT. Inf. <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_at_asst"
+msgid "Kosak AT support Inf. <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_medic"
+msgid "Kosak Medic <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_mg"
+msgid "Prikazny MG Operator <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_mg_ammo"
+msgid "Kosak MG Asst. <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_rifle_1"
+msgid "Kosak Rifleman <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_rifle_pzf"
+msgid "Kosak Rifleman <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_rifleman_1"
+msgid "Kosak Rifleman <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_rifleman_3"
+msgid "Kosak Rifleman <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_sl"
+msgid "Vakhmistr <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_sl_asst"
+msgid "Uryadnik <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/622th_smg"
+msgid "Kosak SMG <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_engineer_1"
+msgid "Kosak Field Engineer <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_engineer_3"
+msgid "Kosak Pionier <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_engineer_4"
+msgid "Kosak Engineer (Light) <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_flamer"
+msgid "Kosak Flamer <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_heavy_eng"
+msgid "Kosak Field Engineer <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_mgun_1"
+msgid "Prikazny MG Operator <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_mgun_2"
+msgid "Kosak MG Asst. <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_miner_ap"
+msgid "Kosak AP-Mine Engineer <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_miner_at"
+msgid "Kosak AT-Mine Engineer <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_mg"
+msgid "Prikazny MG Operator <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_mg_asst"
+msgid "Kosak MG Asst. <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_mine"
+msgid "Kosak Pionier <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_miner_ap"
+msgid "Kosak AP-Mine Engineer <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_miner_at"
+msgid "Kosak AT-Mine Engineer <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_rifle_gren"
+msgid "Kosak Pionier Rifle grenadier <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_rifle_gren_asst"
+msgid "Kosak Pionier <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_sa"
+msgid "Kosak Pionier <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_sl"
+msgid "Vakhmistr Pionier <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_pio_sl_asst"
+msgid "Uryadnik Pionier <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/623th_smg_1"
+msgid "Kosak SMG <c(9C4118)>[623. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/antitank_1"
+msgid "AT. Inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/antitank_2"
+msgid "AT support Inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/antitank_3"
+msgid "AT. Inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/antitank_4"
+msgid "AT. Inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/artilleryman_1"
+msgid "Artilleryman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/artilleryman_1_sl"
+msgid "Gefreiter Artilleryman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/artilleryman_622th"
+msgid "Kosak Artilleryman <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/artilleryman_622th_sl"
+msgid "Prikazny Artilleryman <c(CF4D12)>[622. Bataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/artilleryman_don"
+msgid "Kosak Artilleryman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/artilleryman_don_sl"
+msgid "Prikazny Artilleryman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/artylleryman_sib"
+msgid "Kosak Artilleryman <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_medic"
+msgid "Kosak Medic <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_mg"
+msgid "Prikazny MG Operator <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_mg_ammo"
+msgid "Kosak MG Asst. <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_mgun_1"
+msgid "Prikazny MG Operator <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_mgun_2"
+msgid "Kosak MG Asst. <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_recon_mg"
+msgid "Recon Prikazny MG Operator <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_recon_mg_ammo"
+msgid "Recon Kosak MG Asst. <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_recon_rifle"
+msgid "Recon Kosak Rifleman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_recon_sl"
+msgid "Recon Vakhmistr <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_recon_sl_asst"
+msgid "Recon Uryadnik <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_recon_smg"
+msgid "Recon Kosak SMG <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_recon_smg_pzf"
+msgid "Recon Kosak SMG <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_rfl"
+msgid "Kosak Rifleman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_rfl_pzf"
+msgid "Kosak Rifleman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_sa"
+msgid "Kosak Rifleman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_rifleman_1"
+msgid "Kosak Rifleman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_rifleman_3"
+msgid "Kosak Rifleman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_sl"
+msgid "Vakhmistr <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_sl_asst"
+msgid "Uryadnik <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_smg"
+msgid "Kosak SMG <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_smg_1"
+msgid "Kosak SMG <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/don_sniper"
+msgid "Kosak Sniper <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/driver"
+msgid "Rifleman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/driver_don"
+msgid "Kosak Rifleman <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/engineer_1"
+msgid "Field Engineer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/engineer_3"
+msgid "Field Engineer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/engineer_4"
+msgid "Engineer (Light) <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/engineer_r_art"
+msgid "Artillery Engineer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/flamer"
+msgid "Flamer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/gren_mg"
+msgid "MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/gren_mg_asst"
+msgid "MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/gren_rfl"
+msgid "Rifleman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/gren_rfl_pzf"
+msgid "Rifleman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/gren_sl"
+msgid "Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/gren_sl_asst"
+msgid "Unteroffizier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/gren_smg"
+msgid "SMG inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kos_recon_mg"
+msgid "Recon Prikazny MG Operator <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kos_recon_mg_asst"
+msgid "Recon Kosak MG Asst. <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kos_recon_rifle"
+msgid "Recon Kosak Rifleman <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kos_recon_sl"
+msgid "Recon Vakhmistr <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kos_recon_sl_asst"
+msgid "Recon Uryadnik <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_medic"
+msgid "Kosak Medic <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_mg"
+msgid "Prikazny MG Operator <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_mg_asst"
+msgid "Kosak MG Asst. <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_mgun_1"
+msgid "Prikazny MG Operator <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_mgun_2"
+msgid "Kosak MG Asst. <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_rfl_1"
+msgid "Kosak Rifleman <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_rfl_2"
+msgid "Kosak Rifleman <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/late/kuban_rfl_gren"
+msgid "Kosak Rifle grenadier <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_rifleman_1"
+msgid "Kosak Rifleman <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_rifleman_3"
+msgid "Kosak Rifleman <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_sl"
+msgid "Vakhmistr <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_sl_asst"
+msgid "Uryadnik <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_smg_1"
+msgid "Kosak SMG <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/kuban_smg_gren"
+msgid "Kosak SMG <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/medic"
+msgid "Medic <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mgun_1"
+msgid "MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mgun_2"
+msgid "MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mgun_3"
+msgid "MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mgun_4"
+msgid "MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mgun_crew"
+msgid "MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mgun_crew_asst"
+msgid "MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mgun_crew_kub"
+msgid "Kosak MG Operator  <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mgun_crew_asst_kub"
+msgid "Kosak MG Asst.  <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/miner-ap"
+msgid "AP-Mine Engineer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/miner-at"
+msgid "AT-Mine Engineer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mortar_crew_d_sl"
+msgid "Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mortar_crew_d1"
+msgid "Mortar Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/mortar_crew_d2"
+msgid "Mortar Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/moto_rifle"
+msgid "Rifleman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/moto_smg"
+msgid "SMG inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/officer"
+msgid "Oberleutnant <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/officer_asst_1_don"
+msgid "Vakhmistr <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+
+msgctxt "desc/human/mp/roa/latef/officer_don"
+msgid "Hauptmann <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/officer_don_inf"
+msgid "Hauptmann <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/panzer_rfl_1"
+msgid "Tankman Rifleman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/panzer_rfl_2"
+msgid "Tankman Rifleman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/panzer_sl"
+msgid "Tankman Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/panzer_sl_asst"
+msgid "Tankman Gefreiter <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_at"
+msgid "Pionier AT. Inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_at_asst"
+msgid "Pionier AT support Inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_engi"
+msgid "Pionier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_flamer"
+msgid "Flamer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_gren"
+msgid "Pionier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_mg"
+msgid "Pionier MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_mg_asst"
+msgid "Pionier MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_mg13"
+msgid "Pionier MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_mine"
+msgid "Pionier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_mine_ap"
+msgid "AP-Mine Pionier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_mine_at"
+msgid "AT-Mine Pionier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_rfl"
+msgid "Pionier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_sl"
+msgid "Pionier Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_sl_asst"
+msgid "Pionier Unteroffizier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/pio_smg"
+msgid "Pionier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/recon_mg"
+msgid "Recon MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/recon_mg_ammo"
+msgid "Recon MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/recon_rfl"
+msgid "Recon <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/recon_sl"
+msgid "Recon Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/recon_sl_asst"
+msgid "Recon Unteroffizier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/rifleman_1"
+msgid "Rifleman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/rifleman_3"
+msgid "Rifleman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_at"
+msgid "Panzergrenadier AT. Inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_at_ammo"
+msgid "Panzergrenadier AT support Inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_mg"
+msgid "Panzergrenadier MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_mg_asst"
+msgid "Panzergrenadier MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_mg_wz"
+msgid "Panzergrenadier MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_rifle"
+msgid "Panzergrenadier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_rifle_pzf"
+msgid "Panzergrenadier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_sa"
+msgid "Panzergrenadier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_sl_asst_sa"
+msgid "Panzergrenadier Unteroffizier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_smg"
+msgid "Panzergrenadier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/roa_pzgren_stg"
+msgid "Panzergrenadier Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_mg"
+msgid "Scout-Saboteur MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_mg_asst"
+msgid "Scout-Saboteur MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_mg_dp"
+msgid "Scout-Saboteur MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_mg_dp_asst"
+msgid "Scout-Saboteur MG Asst. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_rifle"
+msgid "Scout-Saboteur <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_sa"
+msgid "Scout-Saboteur <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_sl"
+msgid "Scout-Saboteur Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_sl_asst"
+msgid "Scout-Saboteur Unteroffizier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sab_recon_smg"
+msgid "Scout-Saboteur <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/schuma_rfl_1"
+msgid "Rifleman <c(93C47D)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/schuma_rfl_2"
+msgid "Korporal <c(93C47D)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/schuma_rfl_3"
+msgid "Unterkorporal <c(93C47D)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/schuma_rfl_pzf"
+msgid "Rifleman <c(93C47D)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/schuma_sl"
+msgid "Vizefeldwebel <c(93C47D)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_mg"
+msgid "Prikazny MG Operator <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_mg_asst"
+msgid "Kosak MG Asst. <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_mgun_1"
+msgid "Prikazny MG Operator <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_mgun_2"
+msgid "Kosak MG Asst. <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_rfl_1"
+msgid "Kosak <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_rfl_2"
+msgid "Kosak <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_rfl_gren"
+msgid "Kosak Rifle grenadier <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_rifleman_1"
+msgid "Kosak <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_rifleman_3"
+msgid "Kosak <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_sl"
+msgid "Vakhmistr <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_sl_asst"
+msgid "Uryadnik <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sib_smg_1"
+msgid "Kosak <c(FAFF00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/signaller_don"
+msgid "Prikazny Signaller <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/smg_1"
+msgid "SMG inf. <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sniper"
+msgid "Sniper <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturm_mkb"
+msgid "Sturmgrenadier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturm_mp"
+msgid "Sturmgrenadier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturm_rifle"
+msgid "Sturmgrenadier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturm_sl"
+msgid "Sturmgrenadier Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturm_sl_asst"
+msgid "Sturmgrenadier Unteroffizier <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturmgren_mg"
+msgid "Sturmgrenadier Veteran MG Operator <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturmgren_rfl_1"
+msgid "Sturmgrenadier Veteran <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturmgren_rfl_1_signaller"
+msgid "Sturmgrenadier Veteran Signaller <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturmgren_rfl_2"
+msgid "Sturmgrenadier Veteran <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturmgren_sl"
+msgid "Sturmgrenadier Veteran Feldwebel <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/sturmgren_smg"
+msgid "Sturmgrenadier Veteran <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/tank_commander"
+msgid "Tank Commander <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/tank_commander_vet"
+msgid "Tank Commander (Veteran) <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/tank_commander_kos"
+msgid "Kosak Tank Commander <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/tankman_kos_pzjag_commander"
+msgid "Kosak Tank Commander <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/tankman"
+msgid "Tankman <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/tankman_kos_pzjag"
+msgid "Tankman <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/tankman_kos"
+msgid "Tankman <c(8748C2)>[1. Kosakendivision]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/terek_mg"
+msgid "Prikazny MG Operator <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/terek_mg_asst"
+msgid "Kosak MG Asst. <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/terek_rifle_pzf"
+msgid "Kosak Rifleman <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/terek_sa_pzf"
+msgid "Kosak Rifleman <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/terek_sl"
+msgid "Vakhmistr <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/terek_sl_asst"
+msgid "Uryadnik <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/roa/latef/terek_smg"
+msgid "Kosak SMG <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+
+;------SS------
+msgctxt "desc/human/mp/ger/latef/tank_commander_ss"
+msgid "Tank Commander <c(999999)>[SS]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/tankman_ss"
+msgid "Tankman <c(999999)>[SS]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/tankman_eygen"
+msgid "Tankman <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/tank_commander_eygen"
+msgid "Tank Commander <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/varyag_recon_sl"
+msgid "Aufklärer Squadleader <c(9F660C)>[Waräger]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/varyag_recon_sl_asst"
+msgid "Aufklärer Asst. Leader <c(9F660C)>[Waräger]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/varyag_recon_stg"
+msgid "Aufklärer <c(9F660C)>[Waräger]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/varyag_recon_rifle"
+msgid "Aufklärer <c(9F660C)>[Waräger]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/varyag_recon_mg"
+msgid "Aufklärer MG Operator <c(9F660C)>[Waräger]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/varyag_recon_mg_asst"
+msgid "Aufklärer MG Asst. <c(9F660C)>[Waräger]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_rifle_sl"
+msgid "Squadleader <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_sl_asst"
+msgid "Asst. Leader <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_smg_pzf"
+msgid "SMG-inf. <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_rifle"
+msgid "Rifleman <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_rifle_grenadier"
+msgid "Rifle grenadier <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_rifle_1"
+msgid "Rifleman <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_stg_sl"
+msgid "Squadleader <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_sl_asst_1"
+msgid "Asst. Leader <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_mg"
+msgid "MG Operator <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/handschar_rifle_mg_asst"
+msgid "MG Asst. <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/ita_ss_sl"
+msgid "Squadleader <c(E7766E)>[Italienische Nr. 1]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/ita_ss_at"
+msgid "AT Inf. <c(E7766E)>[Italienische Nr. 1]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/ita_ss_at_asst"
+msgid "AT support Inf. <c(E7766E)>[Italienische Nr. 1]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/ita_ss_rifle"
+msgid "Rifleman <c(E7766E)>[Italienische Nr. 1]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/ita_ss_mg"
+msgid "MG Operator <c(E7766E)>[Italienische Nr. 1]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/ita_ss_mg_asst"
+msgid "MG Asst. <c(E7766E)>[Italienische Nr. 1]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_sl"
+msgid "Squadleader <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_sl_asst"
+msgid "Asst. Leader <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_smg"
+msgid "SMG-inf. <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_smg_pzf"
+msgid "SMG-inf. <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_rifle_1"
+msgid "Rifleman <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_rifle_2"
+msgid "Rifleman <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_mg"
+msgid "MG Operator <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_mg_asst"
+msgid "MG Asst. <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_sl"
+msgid "Aufklärer Squadleader <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_sl_asst"
+msgid "Aufklärer Asst. Leader <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_smg_pzf"
+msgid "Aufklärer SMG-inf. <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_smg"
+msgid "Aufklärer SMG-inf. <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_rifle"
+msgid "Aufklärer Rifleman <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_mg"
+msgid "Aufklärer MG Operator <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_mg_asst"
+msgid "Aufklärer MG Asst. <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_crew"
+msgid "Aufklärer MG Operator <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/eygen_recon_crew_asst"
+msgid "Aufklärer MG Asst. <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/artilleryman_hs_1"
+msgid "Artilleryman <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/artilleryman_hs"
+msgid "Artilleryman <c(729425)>[Handschar]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/artilleryman_ita"
+msgid "Artilleryman <c(E7766E)>[Italienische Nr. 1]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/artilleryman_eygen"
+msgid "Artilleryman <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/artilleryman_eygen_sl"
+msgid "Artilleryman <c(8FCE00)>[Prinz Eugen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_at_rifle"
+msgid "AT. Inf. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_mg"
+msgid "MG Operator <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_mg_ammo"
+msgid "MG Asst. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_rifle_1"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_rifle_2"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_sl"
+msgid "Squadleader <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_sl_asst"
+msgid "Asst. Leader <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/turk_smg"
+msgid "SMG-inf. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/schuma_rfl_1"
+msgid "Rifleman <c(CE7E00)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/schuma_rfl_2"
+msgid "Rifleman <c(CE7E00)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/schuma_sl"
+msgid "Vizefeldwebel <c(CE7E00)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/schuma_mg"
+msgid "Unterkorporal MG Operator <c(CE7E00)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/latef/lehr_pzgren_tankman"
+msgid "Pz-Lehr Pz.Grenadier [Heer]"
+msgstr ""
+

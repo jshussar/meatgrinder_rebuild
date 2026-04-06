@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "desc/human/mp/fin/early/sissi_smg_drum"
+msgid "Sissi SMG inf."
+msgstr ""
+
+msgctxt "desc/human/mp/fin/mid/sissi_smg_drum"
+msgid "Sissi SMG inf."
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/elite_mg_dt"
+msgid "Elite MG Operator [DT]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/elite_mg_dt_asst"
+msgid "Elite MG Asst. [Mosin M39]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/ranger_sl"
+msgid "Partionjohtaja Squadleader [PPSH-41]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/ranger_smg"
+msgid "Kaukopartiomies SMG inf."
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/ranger_smg_drum"
+msgid "Kaukopartiomies SMG inf. [Suomi KP/31]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/ranger_sa"
+msgid "Kaukopartiomies Rifleman"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/ranger_mg"
+msgid "Kaukopartiomies MG operator [DP-27]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/ranger_sniper"
+msgid "Kaukopartiomies Sniper [Mosin M27 (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/stormtroop_sl"
+msgid "Jääkäri Squadleader [Suomi KP/31]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/stormtroop_smg_stick"
+msgid "Jääkäri SMG inf. [PPS-43]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/stormtroop_smg_drum"
+msgid "Jääkäri SMG inf. [Suomi KP/31]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/stormtroop_flamer"
+msgid "Jääkäri Flamer inf. [ROKS-2 Flamethrower]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/stormtroop_mg"
+msgid "Jääkäri MG operator"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/light4_sl"
+msgid "Squadleader [Bergmann M1920]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/light4_smg_drum"
+msgid "SMG inf. [Suomi KP/31]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/light4_rifle"
+msgid "Rifleman [Mosin M27]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/light4_mg"
+msgid "MG operator [Lahti-Saloranta M/26]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/light4_mg_asst"
+msgid "MG asst. [Mosin M27]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/militia_rifle_coat"
+msgid "Militia Rifleman [Mosin M27]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/militia_rifle_furcoat"
+msgid "Militia Rifleman [Mosin M27]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/militia_rifle_peacoat"
+msgid "Militia Rifleman [Mosin M27]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/militia_sl"
+msgid "Militia Squadleader [Suomi KP/31]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/swe_squadleader"
+msgid "Volunteer Squadleader [Bergmann M1920]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/swe_rifleman"
+msgid "Volunteer Rifleman [Mosin M27]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/early/swe_mg"
+msgid "Volunteer MG operator [Madsen M20]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/mid/summer_officer"
+msgid "Officer [Suomi KP/31]"
+msgstr ""
+
+msgctxt "desc/human/mp/fin/late/summer_officer"
+msgid "Officer [Suomi KP/31]"
+msgstr ""

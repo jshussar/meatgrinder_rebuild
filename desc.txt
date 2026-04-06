@@ -1,0 +1,91 @@
+CHECK WORKSHOP FOR LATEST VERSION REGULARLY. UNSUBSCRIBE AND RESUBSCRIBE TO MOD IF IT DOESN'T IMMEDIATELY UPDATE.
+This is an *overhaul mod* that changes almost every aspect of the game. It is therefore *not* designed to be added to collections of 100 different mods or even use with any other mods. If you use this mod with any other mods, we don't expect your game to even run and we don't want to hear "the mod doesn't work" from you. Use with other mods at your own risk and do not report crashes or bugs to us if you do.
+
+There is a mostly functional AI but this mod (and game, and genre) is [b]fundamentally a PvP experience[/b]. I repeat - [b]This is a mod for PvP[/b], especially "Battle Zones". If you've never played against players, invite a friend and start learning in 1vs1. If you see a lobby with 5 out of 6 players. Join it so everyone can start playing immediately. In a big match with 6 or more playing, nobody notices if the noob makes a mistake. Get involved.
+
+---
+
+[b]Rising to the ultimate challenge[/b] of producing the pinnacle RTT experience with the most solid RTT platform in all of gaming, the modern GEM 2 Engine of [b]GoH (2021)[/b].
+
+We are veterans of MOWAS2 (2014) and its own beautifully powerful simulation potential. We watched mods like RobZ appear and tap some of that potential very well, for a while (until it got Chinned). But we always wanted more.
+
+Not to mention the 32-bit limitation and the poor performance, which was a big hindrance for all of us for years. [b]No more.[/b]
+
+The work is well underway and we already have a stable, smooth and eminently playable experience in MP. We are confident that the mod handles everything from 1vs1 up to 8vs8 on an unprecedentedly massive variety of maps and can do so without lag, slideshowing or the crashes that were once the tormenting norm.
+
+[hr][/hr]
+[h1]Core Features[/h1]
+[hr][/hr]
+
+[h2]Total Overhaul of the Combat Simulation, as absolute first priority[/h2]
+
+[h3]True Indirect Fire[/h3]
+Artillery and self-propelleds now seamlessly project ordnance at long range. No more button toggling and mode-switching in the heat of combat to force units to behave properly, they all easily join the fray without that extensive babysitting that many of us once lamented.
+
+[h3]Extended Range Combat in the Style of RobZ[/h3]
+Tanks duel directly at ranges up to 250m, with artillery and mortars getting involved from far behind the line of contact, when capable. We ensure a place for everything from welrods & shotguns at point blank, up to 203mm B-4Ms that devastate with heavy cross-map shelling.
+
+[h3]Projectile Persistence Insistence[/h3]
+If you fire a Colt .45 at 45 degrees, the bullet can come down on the middle of the map and wound/kill. If you accidentally fire your PTRD-41 into the ground past that approaching halftrack, the round can bounce up off the concrete behind and nick someone across that field behind that's hiding down in a ditch. No more comical termination distances. [i]An object in motion...[/i]
+
+[h3]Overhauled Infantry Combat[/h3]
+A complete rework of infantry combat with focus on soldier skill and equipment. Positioning and timing is everything. Support your men and give them a fight they can win.
+
+[h3]Locational Damage & Body Parts[/h3]
+A shot to the foot is not a shot to the chest, never mind head. Headshots are absolutely lethal and only a helmet might then be the difference between life and death (as long as the cartridge is weak or fired from far away enough). No more Company of Heroes bullet sponging in my MoW. But soviet shock infantry and sappers [i]do[/i] wear body armour if you're curious to see what difference it makes...
+
+[h3]First/Third Person Overhaul[/h3]
+You can now play as a sniper and slink from bush to bush, popping any heads you might spot behind distant brush like you always wished were possible. Fog of war pushed WAY back because this is a living and breathing battle, not a Silent Hill game. Saving throws against sniper bullets to the face (yes.. vanilla has this...) are completely removed. Anything you send down-range is sent in anger. [b]Deterministic and real WYSIWYG combat.[/b]
+
+[hr][/hr]
+[h2]Visuals & Atmosphere[/h2]
+
+[h3]Enhanced Graphics[/h3]
+More vibrant textures, improved shaders, and visual effects for a grittier, more immersive visual punch. One of the main problems we had with GoH was that units (especially infantry) just blended into a washed out grey/brown terrain, and made it hard to see anything. We decided early on we needed to fix this and are pleased with our results.
+
+[h3]Classic UI & Icons[/h3]
+Returns to a more intuitive, MOWAS2-inspired user interface and unit icons for better readability and a familiar feel for veterans. We will continue to chase this familiarity indefinitely.
+
+[h3]RobZ Sounds[/h3]
+Weapon reports, impacts, and ambient sounds that attempt to capture the feeling that RobZ already managed years ago and that has been missing for us ever since.
+
+[hr][/hr]
+[h2]Additions & Balance[/h2]
+
+[h3]Massive Map Library[/h3]
+Over [b]250[/b] meticulously curated and optimized maps ported from AS2 and classic RobZ, ensuring proven, balanced, and fun battlegrounds for all player counts. Relive your best battles with the same maps and rosters but in a more stable and worthy arena.
+
+[h3]New Squads & Units[/h3]
+Historically-inspired squads and equipment to expand tactical options when we spot the opportunity, integrated seamlessly into the existing balance. Totally redone the training and veterancy system to properly stratify infantry and their quality, from lowly Conscripts and Volkssturm up to the most elite Fallschirmjaeger and heavy Soviet shock troops. Emphasis always on accuracy and weapon handling and stamina, [b]not[/b] health bar elongation and bullet-sponging.
+
+[h3]Pure Gameplay, No Doctrine Convolution[/h3]
+Faction design focuses on allowing all tools and practical battlefield roles for all of them, not arbitrary "doctrine" restrictions that limit creative tactics and lock off/mutual-exclusivise units from one another. Entire arsenals can all take to the field simultaneously. We embrace player agency and inventiveness and try to reward exploring it. Bring the potential out of your units and their weapons, and then start combining them through your engagements for maximum effect. Your arsenal is a swiss army knife to open up the enemy line. [b]We give you the entire toolbox on purpose.[/b]
+
+[h3]Complete Economic Rebalance[/h3]
+A from-the-ground-up overhaul of unit prices and stats to promote balanced and competitive multiplayer matches and bring out as much emergent gameplay as possible for the entire length of those matches, however long they brutally and attritionally grind on.
+
+[hr][/hr]
+[h2]Planned Future Additions[/h2]
+
+[b]Guards and Japan Factions.[/b]
+
+[hr][/hr]
+
+[i]Built by veterans, for fellow veterans.[/i]
+The definitive hardcore real time tactics experience for Gates of Hell. RTT at its best with [b]Project Realism[/b].
+
+[b]Join the front.[/b]
+
+[hr][/hr]
+[h2]Credits[/h2]
+
+[list]
+[*] [b]RobZ[/b] - Inspiration from the original RobZ Realism mod for Men of War Assault Squad 2. Thanks also to his successors, Imperator and the current RobZ team for the motivation to create this mod.
+[*] [b]Armpit_Sweat[/b] - BM Mod (gore): https://steamcommunity.com/sharedfiles/filedetails/?id=2922646932
+[*] Thanks to ElChino for helping port RobZ sounds into GoH, see his mod at https://steamcommunity.com/sharedfiles/filedetails/?id=3465872156.
+[*] Thanks to [b]Snake[/b] for many of the whooshes! (from https://steamcommunity.com/sharedfiles/filedetails/?id=3540580405 )
+[*] [b]Hamster[/b] - Various maps.
+[*] Huge thanks to Blub0rk and especially Normand for pioneering AS2 modding.
+[*] Thanks Colditz for the Uncensored mods.
+[*] Thanks to BroDimm/the Extraction authors.
+[/list]

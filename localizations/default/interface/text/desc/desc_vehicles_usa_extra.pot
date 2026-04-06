@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Name (desc_vehicles_rus)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "desc/entity/cckw_aa"
+msgid "GMC CCKW-353 40mm Bofors"
+msgstr ""
+
+msgctxt "info/special/cckw_aa"
+msgid "<c(c3baae)>AA Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/cckw_m33"
+msgid "GMC CCKW-353 M33 Maxson"
+msgstr ""
+
+msgctxt "info/special/cckw_m33"
+msgid "<c(c3baae)>AA Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/m3a1_stuart_late"
+msgid "M3A1 Stuart"
+msgstr ""
+
+msgctxt "info/special/m3a1_stuart_late"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/m3a1_satan"
+msgid "M3A1 Satan"
+msgstr ""
+
+msgctxt "info/special/m3a1_satan"
+msgid "<c(c3baae)>Flamethrower Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/t26e2"
+msgid "T26E2 Pershing"
+msgstr ""
+
+msgctxt "info/special/t26e2"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/m18_superhellcat"
+msgid "90mm GMC M18 'Super Hellcat'"
+msgstr ""
+
+msgctxt "info/special/m18_superhellcat"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/m18_superhellcat_vet"
+msgid "90mm GMC M18 'Super Hellcat' [Veteran]"
+msgstr ""
+
+msgctxt "info/special/m18_superhellcat"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/m8a1"
+msgid "75mm GMC M8A1"
+msgstr ""
+
+msgctxt "info/special/m8a1"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/m26e1"
+msgid "M26E1 Pershing"
+msgstr ""
+
+msgctxt "info/special/m26e1"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cckw_2xt27"
+msgid "GMC CCKW-353 2 x T27 RL"
+msgstr ""
+
+msgctxt "info/special/cckw_2xt27"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr ""
+
+msgctxt "desc/entity/m4a2_75"
+msgid "M4A2 (Early)"
+msgstr ""
+
+msgctxt "info/special/m4a2_75"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/m10_gmc_42"
+msgid "3-inch GMC M10 (Early)"
+msgstr ""
+
+msgctxt "info/special/m10_gmc_42"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/b25_mitchell"
+msgid "B-25 Mitchell"
+msgstr ""
+
+msgctxt "desc/entity/m3_lee_m3"
+msgid "M3 Lee (M3 gun)"
+msgstr ""
+
+msgctxt "info/special/m3_lee_m3"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""

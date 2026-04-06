@@ -1,0 +1,418 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell American MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "desc/human/mp/can/late/antitank_piat"
+msgid "AT Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/antitank_piat_asst"
+msgid "AT Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/artilleryman"
+msgid "Royal Artilleryman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/bat_2ic"
+msgid "Battalion 2IC [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/bat_com"
+msgid "Battalion Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/bat_signalman"
+msgid "Battalion Signalman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/batman"
+msgid "Batman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/batman_smg"
+msgid "Batman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/coy_2ic"
+msgid "Company 2IC [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/coy_com"
+msgid "Company Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/coy_sgt_maj"
+msgid "Company Sergeant Major [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/coy_signalman"
+msgid "Company Signalman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/crew"
+msgid "Crew [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_at_piat"
+msgid "Defense AT Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_at_piat_asst"
+msgid "Defense AT Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_mg"
+msgid "Defense MG Operator [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_mg_asst"
+msgid "Defense MG Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_rifle"
+msgid "Defense Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_rifle_band"
+msgid "Defense Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_sec_2ic"
+msgid "Defense Section 2IC [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_sec_com"
+msgid "Defense Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/def_sec_com_sgt"
+msgid "Defense Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/detach_com"
+msgid "Detachment Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/driver"
+msgid "Driver [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/driver_smg"
+msgid "Driver [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/medic"
+msgid "Medic [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mg"
+msgid "MG Operator [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mg_asst"
+msgid "MG Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mg_crew"
+msgid "MG Crew [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_mg"
+msgid "Motor MG Operator [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_mg_asst"
+msgid "Motor MG Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_piat"
+msgid "Motor AT Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_piat_asst"
+msgid "Motor AT Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_rifle"
+msgid "Motor Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_rifle_band"
+msgid "Motor Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_rifle_sniper"
+msgid "Motor Sniper [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_scout_detach_com_cpl"
+msgid "Motor Scout Detachment Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_scout_detach_com_lcpl"
+msgid "Motor Scout Detachment Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_scout_driver"
+msgid "Motor Scout Driver [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_scout_mg"
+msgid "Motor Scout MG Operator [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_scout_piat"
+msgid "Motor Scout AT Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_scout_rifle"
+msgid "Motor Scout [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_scout_sec_com"
+msgid "Motor Scout Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_sec_2ic"
+msgid "Motor Section 2IC [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/mot_sec_com"
+msgid "Motor Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_batman"
+msgid "1st Parachute Batman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_coy_2ic"
+msgid "1st Parachute Company 2IC [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_coy_com"
+msgid "1st Parachute Company Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_coy_sgt_maj"
+msgid "1st Parachute Company Sergeant Major [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_crew"
+msgid "1st Parachute Crew [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_medic"
+msgid "1st Parachute Medic [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_mg"
+msgid "1st Parachute MG Operator [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_mg_asst"
+msgid "1st Parachute MG Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_mg_asst_smg"
+msgid "1st Parachute MG Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_mortar"
+msgid "1st Parachute Mortarman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_mortar_asst"
+msgid "1st Parachute Mortar Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_piat"
+msgid "1st Parachute AT Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_piat_asst"
+msgid "1st Parachute AT Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_plt_com"
+msgid "1st Parachute Platoon Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_plt_sgt"
+msgid "1st Parachute Platoon Sergeant [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_rifle"
+msgid "1st Parachute Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_rifle_band"
+msgid "1st Parachute Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_sec_2ic"
+msgid "1st Parachute Section 2IC [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_sec_com"
+msgid "1st Parachute Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_sec_com_cpl"
+msgid "1st Parachute Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_sec_mortar"
+msgid "1st Parachute Section Mortarman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_smg"
+msgid "1st Parachute SMG Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_smg_band"
+msgid "1st Parachute SMG Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/para_sniper"
+msgid "1st Parachute Sniper [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/pio"
+msgid "Pioneer [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/pio_builder"
+msgid "Pioneer Builder [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/pio_sec_com_cpl"
+msgid "Pioneer Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/pio_sec_com_sgt"
+msgid "Pioneer Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/plt_batman"
+msgid "Platoon Batman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/plt_com"
+msgid "Platoon Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/plt_sgt"
+msgid "Platoon Sergeant [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/rear_echelon_rifle"
+msgid "Rear Echelon Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/rear_echelon_smg"
+msgid "Rear Echelon SMG Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/rifle"
+msgid "Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/rifle_band"
+msgid "Rifleman [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/rifle_piat"
+msgid "AT Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/rifle_piat_asst"
+msgid "AT Asst. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/rifle_sniper"
+msgid "Sniper [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/sec_2ic"
+msgid "Section 2IC [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/sec_com"
+msgid "Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/sec_com_sgt"
+msgid "Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/sec_subcom"
+msgid "Sub-Section Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/smg"
+msgid "SMG Inf. [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/sniper"
+msgid "Sniper [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/tank_commander"
+msgid "Tank Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/tank_commander_m1928"
+msgid "Tank Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/tankman"
+msgid "Tank Crew [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/vehicle_com_cpl"
+msgid "Vehicle Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/vehicle_com_sgt"
+msgid "Vehicle Commander [CA]"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/vehicle_crew"
+msgid "Vehicle Crew [CA]"
+msgstr ""
+
+
+
+;PROJECT REALISM NEW BREEDS
+msgctxt "desc/human/mp/can/late/can_rifle"
+msgid "Canadian Rfn."
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/can_mg"
+msgid "Canadian Lewis No. 1"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/can_mg_asst"
+msgid "Canadian Lewis No. 2"
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/can_subcom"
+msgid "Canadian L/Cpl, Sub-Sec Comdr."
+msgstr ""
+
+msgctxt "desc/human/mp/can/late/can_sec_com"
+msgid "Canadian Sec Comdr."
+msgstr ""
+

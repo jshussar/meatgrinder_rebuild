@@ -1,0 +1,1525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/squad/conquest_bf110_roa"
+msgid "Bf-110 250kg Bomb"
+msgstr ""
+
+msgctxt "desc/squad/conquest_bf109_roa"
+msgid "Bf-109 50kg Bomb"
+msgstr ""
+
+msgctxt "desc/squad/conquest_fi156_roa"
+msgid "Fi-156 Recon"
+msgstr ""
+
+msgctxt "desc/squad/squad_recon_roa_armor_con"
+msgid "<c(A5A095)>(2)</c> Armored Aufklärer squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_fusilier_roa_irr(roa)"
+msgid "<c(A5A095)>(1)</c> LW. Sicherheitsdienst"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_fusilier_roa_con(roa)"
+msgid "<c(A5A095)>(1)</c> LW. Sicherheitsdienst"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_recon_roa_irr(roa)"
+msgid "<c(A5A095)>(2)</c> LW. Aufklärer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_recon_roa_con(roa)"
+msgid "<c(A5A095)>(2)</c> LW. Aufklärer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_rifle_roa_irr(roa)"
+msgid "<c(A5A095)>(2)</c> LW. field unit"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_rifle_roa_con(roa)"
+msgid "<c(A5A095)>(2)</c> LW. field unit"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_pio_roa_irr(roa)"
+msgid "<c(A5A095)>(2)</c> LW. Assault Sappers"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_pio_roa_con(roa)"
+msgid "<c(A5A095)>(2)</c> LW. Assault Sappers"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_artgren_roa_irr(roa)"
+msgid "<c(A5A095)>(2)</c> LW. Panzerabwehrgruppe"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_artgren_roa_con(roa)"
+msgid "<c(A5A095)>(2)</c> LW. Panzerabwehrgruppe"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_jager_roa_irr_1(roa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> LW. Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_lw_jager_roa_irr_2(roa)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> LW. Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_fallschirm_recon_roa_irr_1(roa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Fallschirmaufklärer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_fallschirm_recon_roa_irr_2(roa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Fallschirmaufklärer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_fallschirm_recon_roa_irr_3(roa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>3.</c> Fallschirmaufklärer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_fallschirm_roa_irr_1(roa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>1.</c> Fallschirmjäger"
+msgstr ""
+
+msgctxt "desc/squad/squad_fallschirm_roa_irr_2(roa)"
+msgid "<c(A5A095)>(4)</c> <c(E56042)>2.</c> Fallschirmjäger"
+msgstr ""
+
+msgctxt "desc/squad/squad_freiwilliger_mid_def(roa)"
+msgid "<c(A5A095)>(1)</c> Schutzmannschaft Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_schutzmannschaft_off(roa)"
+msgid "<c(A5A095)>(1)</c> Schutzmannschaft Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_recon_mid_def(roa)"
+msgid "<c(A5A095)>(2)</c> Saboteurs Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_recon_mid_off(roa)"
+msgid "<c(A5A095)>(2)</c> Von Jungschulz Regiment"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mid_def(roa)"
+msgid "<c(A5A095)>(2)</c> Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mid_off_1(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mid_off_2(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mid_off_3(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_pio_mid_def(roa)"
+msgid "<c(A5A095)>(2)</c> Pioniertrupp"
+msgstr ""
+
+msgctxt "desc/squad/squad_rona_mid_off(roa)"
+msgid "<c(A5A095)>(2+)</c> Kaminski Brigade"
+msgstr ""
+
+msgctxt "desc/squad/squad_rona_motor_mid_con"
+msgid "<c(A5A095)>(2+)</c> Motorized Kaminski Brigade"
+msgstr ""
+
+msgctxt "desc/squad/squad_sturm_mid_def(roa)"
+msgid "<c(A5A095)>(3)</c> Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_sturm_pio_mid_def(roa)"
+msgid "<c(A5A095)>(3+)</c> Sturmpioniertrupp"
+msgstr ""
+
+msgctxt "desc/squad/squad_638_off(roa)"
+msgid "<c(A5A095)>(3+)</c> 638th Company von Renteln"
+msgstr ""
+
+msgctxt "desc/squad/squad_def_mid_def(roa)"
+msgid "<c(A5A095)>(4)</c> Defense Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_don_off(roa)"
+msgid "<c(A5A095)>(4)</c> Don Cossacks"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_officer_horse_roa"
+msgid "Officer"
+msgstr ""
+
+msgctxt "desc/squad/squad_officercon_roa(roa)"
+msgid "Command squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_officer_moto_con"
+msgid "BMW R17 (Command)"
+msgstr ""
+
+msgctxt "desc/squad/squad_officer_250_3_roa"
+msgid "Sd.Kfz 250/3 (Command)"
+msgstr ""
+
+msgctxt "desc/squad/squad_partisancon_roa(roa)"
+msgid "People's Police Detachment"
+msgstr ""
+
+msgctxt "desc/squad/squad_strafbatallioncon_roa(roa)"
+msgid "ROA recruits"
+msgstr ""
+
+msgctxt "desc/squad/squad_polizei_con(roa)"
+msgid "Battalion Police Detachment"
+msgstr ""
+
+msgctxt "desc/squad/squad_recon_roa(roa)"
+msgid "Saboteurs"
+msgstr ""
+
+msgctxt "desc/squad/squad_recon_motorcon_roa"
+msgid "Motorized detachment of saboteurs"
+msgstr ""
+
+msgctxt "desc/squad/squad_eng_sdkfz10_roa_con"
+msgid "Artillery engineers + Sd.Kfz.10 (Engineer)"
+msgstr ""
+
+msgctxt "desc/squad/squad_regular_motorcon_roa"
+msgid "Motorized rifleman's"
+msgstr ""
+
+msgctxt "desc/squad/squad_jung_con(roa)"
+msgid "Von Jungschulz Regiment"
+msgstr ""
+
+msgctxt "desc/squad/squad_kuban_con(roa)"
+msgid "3rd Kuban Regiment"
+msgstr ""
+
+msgctxt "desc/squad/squad_terek_con(roa)"
+msgid "6th Terek Regiment"
+msgstr ""
+
+msgctxt "desc/squad/squad_don_con(roa)"
+msgid "1st Don Regiment"
+msgstr ""
+
+msgctxt "desc/squad/squad_roasturm_con(roa)"
+msgid "Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_h_roasturm_con(roa)"
+msgid "Panzergrenadiers"
+msgstr ""
+
+msgctxt "desc/squad/squad_spets_con(roa)"
+msgid "Special Forces Detachment"
+msgstr ""
+
+msgctxt "desc/squad/squad_psv_con(roa)"
+msgid "2nd Siberian Regiment"
+msgstr ""
+
+msgctxt "desc/squad/squad_regular_sav_roa"
+msgid "Separate battle group Savoy"
+msgstr ""
+
+msgctxt "desc/squad/squad_motor_psv_roa"
+msgid "Motorized 2nd Siberian Regiment"
+msgstr ""
+
+msgctxt "desc/squad/squad_at_e_con(roa)"
+msgid "Panzergrenadiers"
+msgstr ""
+
+msgctxt "desc/squad/single_at_pzfst_con(roa)"
+msgid "Panzergrenadiers with Panzerfaust"
+msgstr ""
+
+msgctxt "desc/squad/single_at_pzs_late_con(roa)"
+msgid "Panzergrenadiers with Panzershrek"
+msgstr ""
+
+msgctxt "desc/squad/conquest_bf110_roa"
+msgid "Bf-110 Airstrike"
+msgstr ""
+
+msgctxt "desc/squad/luftwafferoa_con(roa)"
+msgid "Luftwaffe ROA"
+msgstr ""
+
+msgctxt "desc/squad/squad_plast_con(roa)"
+msgid "Plastun squad"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_ab41"
+msgid "<c(B29557)>( I )</c> Panzerspähwagen Fiat/SPA Typ AB 41"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_squad_handschar(ger)"
+msgid "<c(B29557)>( I )</c> SS Handschar"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_75mm_gebk15"
+msgid "<c(B29557)>( I )</c> 7.5 cm GebK 15"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_squad_italienische_nr1(ger)"
+msgid "<c(B29557)>( II )</c> 29.Waffen-Grenadier-Division der SS"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_p40"
+msgid "<c(B29557)>( II )</c> Panzerkampfwagen P40 737(i)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_9cm_flak41i"
+msgid "<c(B29557)>( II )</c> 9 cmFlak 41 (i)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_panzer5a_vet"
+msgid "<c(B29557)>( III )</c> PzKpfw V Ausf.A veteran"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_hummel_ss_late"
+msgid "<c(B29557)>( III )</c> Hummel"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_obice_210_late"
+msgid "<c(B29557)>( III )</c> 21 cm Haubitze 520(i)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_75mm_pak50_off_late"
+msgid "<c(B29557)>( II )</c> 7.5 cm Pak 50"
+msgstr ""
+
+msgctxt "desc/squad/single_rifle(roa)"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_smg(roa)"
+msgid "SMG Soldier"
+msgstr ""
+
+msgctxt "desc/squad/single_mg(roa)"
+msgid "MG Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_at(roa)"
+msgid "AT Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_riflegrenade(roa)"
+msgid "Gren. Riflemen"
+msgstr ""
+
+msgctxt "desc/squad/single_ap_miner(roa)"
+msgid "AP Miners"
+msgstr ""
+
+msgctxt "desc/squad/single_at_miner(roa)"
+msgid "AT Miners"
+msgstr ""
+
+msgctxt "desc/squad/single_engineer(roa)"
+msgid "Field Engineer"
+msgstr ""
+
+msgctxt "desc/squad/single_flamer(roa)"
+msgid "Flamer"
+msgstr ""
+
+msgctxt "desc/squad/single_tankman(roa)"
+msgid "Tank Crew"
+msgstr ""
+
+msgctxt "desc/squad/single_medic(roa)"
+msgid "Medic"
+msgstr ""
+
+msgctxt "desc/squad/single_sniper(roa)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/squad/single_Officer(roa)"
+msgid "Officer"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_polizei_mid"
+msgid "<c(B29557)>( I )</c> Polizeieinheit+MG37(t)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_37mm_flak39r_mid"
+msgid "<c(B29557)>( I )</c> 3,7 cm Flak 39(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_h_engeneers"
+msgid "<c(B29557)>( I )</c> Engineers+Sd.Kfz.253 w. Pz.I turn"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_120mm_granatwerfwer379r"
+msgid "<c(B29557)>( II )</c> 12 cm GrW 379(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_zis30_ger"
+msgid "<c(B29557)>( II )</c> Panzerjager ZIS30(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_120mm_wz1878_09_31"
+msgid "<c(B29557)>( III )</c> 120-mm wz. 78/09/31"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_sdkfz135_1"
+msgid "<c(B29557)>( III )</c> Sd.Kfz. 135/1"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_obice_210"
+msgid "<c(B29557)>( III )</c> 21 cm Haubitze 520(i)"
+msgstr ""
+
+msgctxt "desc/squad/roa_artillery_skoda_m34"
+msgid "100 mm Skoda M1934"
+msgstr ""
+
+msgctxt "desc/squad/roa_artillery_105mm_k331f"
+msgid "10,5 cm K331(f)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_flampanzer_1"
+msgid "<c(B29557)>( I )</c> Flampanzer I"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_r39"
+msgid "<c(B29557)>( I )</c> Pz.Kpfw. 39R(f)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_t60r"
+msgid "<c(B29557)>( I )</c> Pz.Kpfw. T-60 743(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_squad_st_sdkfz251"
+msgid "<c(B29557)>( II )</c> Motorized grenadiers"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_marder135"
+msgid "<c(B29557)>( II )</c> Marder I"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_stug3f_roa"
+msgid "<c(B29557)>( II )</c> StuG III F + MG team"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_28cm_raketenwerfer"
+msgid "<c(B29557)>( III )</c> 28cm Raketenwerfer"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_pz756r_roa"
+msgid "<c(B29557)>( III )</c> Pz.Kpfw KV-1B 756(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_lefh18_roa"
+msgid "<c(B29557)>( III )</c> 10.5 cm leFH 18"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_pz38h_735_ss"
+msgid "<c(B29557)>( I )</c> Pz.Kpfw. 38H 735 (f)"
+msgstr ""
+
+msgctxt "desc/squad/squad_varyag_late(ger)"
+msgid "Freiwilligen SS-Sonderregiment «Waräger»"
+msgstr ""
+
+msgctxt "desc/squad/squad_handschar_late_all_1(ger)"
+msgid "13. Waffen-Gebirgs-Division der SS «Handschar»"
+msgstr ""
+
+msgctxt "desc/squad/squad_handschar_late_all_2(ger)"
+msgid "13. Waffen-Gebirgs-Division der SS «Handschar»"
+msgstr ""
+
+msgctxt "desc/squad/squad_handschar_late_all_3(ger)"
+msgid "13. Waffen-Gebirgs-Division der SS «Handschar»"
+msgstr ""
+
+msgctxt "desc/squad/squad_ita_late(ger)"
+msgid "29. Waffen-Grenadier-Division der SS"
+msgstr ""
+
+msgctxt "desc/squad/squad_eygen_late(ger)"
+msgid "7. SS-Freiwilligen-Gebirgsdivision «Prinz Eugen»"
+msgstr ""
+
+msgctxt "desc/squad/squad_eygen_recon_late_1(ger)"
+msgid "(Aufklärung) 7. SS-Freiwilligen-Gebirgsdivision «Prinz Eugen»"
+msgstr ""
+
+msgctxt "desc/squad/squad_eygen_recon_late_2(ger)"
+msgid "(Aufklärung + MG 37) 7. SS-Freiwilligen-Gebirgsdivision «Prinz Eugen»"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_t34r_ausf_d"
+msgid "<c(B29557)>( II )</c> Pz.Kpfw. T34 747(r) Ausf. D"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_105mm_gebh_late"
+msgid "<c(B29557)>( II )</c> 10.5 cm GebH 40"
+msgstr ""
+
+msgctxt "desc/squad/r39_ss_late(ger)"
+msgid "Pz.Kpfw 39R (f)"
+msgstr ""
+
+msgctxt "desc/squad/pak41_mid(ger)"
+msgid "7.5 cm Pak 41"
+msgstr ""
+
+msgctxt "desc/squad/gebg36_mid(ger)"
+msgid "7.5 cm GebG 36"
+msgstr ""
+
+msgctxt "desc/squad/gebg36_late(ger)"
+msgid "7.5 cm GebG 36"
+msgstr ""
+
+msgctxt "desc/squad/steir_late(ger)"
+msgid "Steir Drilling"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_panzerauf_38_late"
+msgid "<c(B29557)>( I )</c> Panzer-Aufklärer auf 38"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_recon_late_all(roa)"
+msgid "<c(A5A095)>(2)</c> Aufklärer squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_recon_late_con(roa)"
+msgid "<c(A5A095)>(2)</c> Aufklärer squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_inf_late_all(roa)"
+msgid "<c(A5A095)>(2)</c> Rifle squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_inf_roa_late_con(roa)"
+msgid "<c(A5A095)>(2)</c> Rifle squad (Late)"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_sturm_late_all(roa)"
+msgid "<c(A5A095)>(2)</c> Sturmgrenadier squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_sturm_late_con(roa)"
+msgid "<c(A5A095)>(2)</c> Sturmgrenadier squad (Late)"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_pio_late_all_1(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Pionier squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_pio_late_all_2(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Pionier squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_pio_late_con(roa)"
+msgid "<c(A5A095)>(2)</c> Pionier squad (Late)"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_roa_mortar_late_all(roa)"
+msgid "<c(A5A095)>(2+)</c> Mörsertrupp"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_pzgren_late_all(roa)"
+msgid "<c(A5A095)>(3+)</c> Panzergrenadier squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_h_pzgren_late_all(roa)"
+msgid "<c(A5A095)>(3+)</c> Panzergrenadier squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_roa_h_pzgren_late_con(roa)"
+msgid "<c(A5A095)>(3+)</c> Panzergrenadier squad (Late)"
+msgstr ""
+
+msgctxt "desc/squad/squad_subrecon_late_all(roa)"
+msgid "<c(A5A095)>(4)</c> Aufklärungs- und Sabotageabteilung"
+msgstr ""
+
+msgctxt "desc/squad/squad_subrecon_late_con(roa)"
+msgid "<c(A5A095)>(4)</c> Aufklärungs- und Sabotageabteilung"
+msgstr ""
+
+msgctxt "desc/squad/single_sa(roa)"
+msgid "Semi-Auto Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_bazooker(roa)"
+msgid "AT Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_pzf(roa)"
+msgid "Panzerfaust Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_ammo(roa)"
+msgid "Small cartridge box"
+msgstr ""
+
+msgctxt "desc/squad/maxim1910_30_roa_late(roa)"
+msgid "Maxim"
+msgstr ""
+
+msgctxt "desc/squad/dshk_stan_roa_late(roa)"
+msgid "DShK"
+msgstr ""
+
+msgctxt "desc/squad/20mm_breda2065_roa_late(roa)"
+msgid "2 cm Breda(i)"
+msgstr ""
+
+msgctxt "desc/squad/28mm_pzb41_roa_late(roa)"
+msgid "2.8 cm sPzB 41"
+msgstr ""
+
+msgctxt "desc/squad/37mm_pakt36p_late(roa)"
+msgid "3.7 cm PaK 36(p)"
+msgstr ""
+
+msgctxt "desc/squad/45mm_m42_roa_late(roa)"
+msgid "4.5-cm Pak 184 (r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_zis3_roa_late(roa)"
+msgid "7.62 cm F.K. 298(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_pak36r_late(roa)"
+msgid "7.62 cm Pak 36(r)"
+msgstr ""
+
+msgctxt "desc/squad/75mm_pak40_roa_late(roa)"
+msgid "7.5 cm Pak 40"
+msgstr ""
+
+msgctxt "desc/squad/88mm_pak4341_roa_late(roa)"
+msgid "88 mm Pak 4341"
+msgstr ""
+
+msgctxt "desc/squad/5cm_grw200r_roa_late(roa)"
+msgid "5 cm GrW 200(r)"
+msgstr ""
+
+msgctxt "desc/squad/80mm_sgrw34_roa_late(roa)"
+msgid "8 cm GrW 34"
+msgstr ""
+
+msgctxt "desc/squad/76mm_m1927_roa_late(roa)"
+msgid "7.62cm i.K.H 290(r)"
+msgstr ""
+
+msgctxt "desc/squad/105mm_lefh18_roa_late(roa)"
+msgid "10.5 cm leFH 18"
+msgstr ""
+
+msgctxt "desc/squad/stug3f_roa_late(roa)"
+msgid "StuG III Ausf. F"
+msgstr ""
+
+msgctxt "desc/squad/squad_schuma_roa_late_off(roa)"
+msgid "<c(A5A095)>(1)</c> Schuma"
+msgstr ""
+
+msgctxt "desc/squad/squad_kos_recon_late_off(roa)"
+msgid "<c(A5A095)>(2)</c> Kosaken-Aufklärungsabteilung"
+msgstr ""
+
+msgctxt "desc/squad/squad_kos_recon_late_con(roa)"
+msgid "<c(A5A095)>(2)</c> Kosaken-Aufklärungsabteilung"
+msgstr ""
+
+msgctxt "desc/squad/squad_kosak_late_off_1(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Abteilung der Kuban-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_kuban_late_con(roa)"
+msgid "<c(A5A095)>(2)</c> Abteilung der Kuban-Kosaken"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_kosak_late_off_2(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Abteilung der sibirischen Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_sibir_late_con(roa)"
+msgid "<c(A5A095)>(2)</c> Abteilung der sibirischen Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_pio_623th_late_off(roa)"
+msgid "<c(A5A095)>(2)</c> Pioniere des 623. Regiments"
+msgstr ""
+
+msgctxt "desc/squad/squad_pio_623th_late_con(roa)"
+msgid "<c(A5A095)>(2)</c> Pioniere des 623. Regiments"
+msgstr ""
+
+msgctxt "desc/squad/squad_terek_late_off(roa)"
+msgid "<c(A5A095)>(3)</c> Abteilung der Terek-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_terek_late_con(roa)"
+msgid "<c(A5A095)>(3)</c> Abteilung der Terek-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_don_recon_late_off(roa)"
+msgid "<c(A5A095)>(4)</c> Aufklärungsabteilung der Donkosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_don_recon_late_con(roa)"
+msgid "<c(A5A095)>(4)</c> Aufklärungsabteilung der Donkosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_don_late_off(roa)"
+msgid "<c(A5A095)>(4)</c> Abteilung der Donkosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_don_late_con(roa)"
+msgid "<c(A5A095)>(4)</c> Abteilung der Donkosaken"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_squad_roa_officer_don_late(roa)"
+msgid "<c(B29557)>( I )</c> DON-Offizier"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_622_cossack_battalion_late"
+msgid "<c(B29557)>( I )</c> Motorisierte Abteilung des 622. Bataillons"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_pio_sturm_mid"
+msgid "<c(B29557)>( I )</c> Sturmpioniere + MG 37(t)"
+msgstr ""
+
+msgctxt "desc/squad/squad_kuban_mid_off_1(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> Abteilung der Kuban-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_kuban_mid_off_2(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> Abteilung der Kuban-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_kuban_mid_off_3(roa)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> Abteilung der Kuban-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_terek_mid_off(roa)"
+msgid "<c(A5A095)>(3)</c> Gebirgs Abteilung der Terek-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/maxim1910_30_roa_mid(roa)"
+msgid "Maxim 1910"
+msgstr ""
+
+msgctxt "desc/squad/maxim1910_30_kos_mid(roa)"
+msgid "Maxim 1910"
+msgstr ""
+
+msgctxt "desc/squad/dshk_stan_roa_mid(roa)"
+msgid "DSHK Stan"
+msgstr ""
+
+msgctxt "desc/squad/dshk_stan_kos_mid(roa)"
+msgid "DSHK Stan"
+msgstr ""
+
+msgctxt "desc/squad/20mm_breda_2065_roa_mid(roa)"
+msgid "2 cm Breda(i)"
+msgstr ""
+
+msgctxt "desc/squad/25mm_72k_roa_kos_mid(roa)"
+msgid "2.5 cm Flak M1940(r)"
+msgstr ""
+
+msgctxt "desc/squad/28mm_pzb41_roa_mid(roa)"
+msgid "2.8 cm sPzB 41"
+msgstr ""
+
+msgctxt "desc/squad/37mm_pakt36p_roa_mid(roa)"
+msgid "3,7 cm PaK 36(p)"
+msgstr ""
+
+msgctxt "desc/squad/37mm_pak36_kos_mid(roa)"
+msgid "3.7 cm Pak 36"
+msgstr ""
+
+msgctxt "desc/squad/45mm_m37_roa_mid(roa)"
+msgid "4.5 cm Pak 184/1(r)"
+msgstr ""
+
+msgctxt "desc/squad/45mm_m37_kos_mid(roa)"
+msgid "4.5 cm Pak 184/1(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_fk2951r_roa_mid(roa)"
+msgid "7,62 cm FK 295/1(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_pak36r_roa_mid(roa)"
+msgid "FK36(r)"
+msgstr ""
+
+msgctxt "desc/squad/50mm_pak38_kos_mid(roa)"
+msgid "5 cm Pak 38"
+msgstr ""
+
+msgctxt "desc/squad/75mm_1897_mod38_roa_mid(roa)"
+msgid "7,5 cm F.K.231(f)"
+msgstr ""
+
+msgctxt "desc/squad/75mm_1897_mod38_kos_mid(roa)"
+msgid "7,5 cm F.K.231(f)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_zis3_roa_mid(roa)"
+msgid "7,62 cm-Feldkanone 288(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_zis3_kos_mid(roa)"
+msgid "7,62 cm-Feldkanone 288(r)"
+msgstr ""
+
+msgctxt "desc/squad/75mm_pak40_roa_mid(roa)"
+msgid "7,5 cm Pak 40"
+msgstr ""
+
+msgctxt "desc/squad/75mm_pak40_kos_mid(roa)"
+msgid "7,5 cm Pak 40"
+msgstr ""
+
+msgctxt "desc/squad/76mm_haubitze_290r_roa_mid(roa)"
+msgid "7.62 cm Infanteriekanonehaubitze 290(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_gebk_293r_kos_mid(roa)"
+msgid "7.62 cm GebK 293(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_fk58j_kos_mid(roa)"
+msgid "7.65 cm FK5/8(j)"
+msgstr ""
+
+msgctxt "desc/squad/5cm_grw200r_roa_mid(roa)"
+msgid "5 cm GrW 200(r)"
+msgstr ""
+
+msgctxt "desc/squad/82mm_bm37_roa_mid(roa)"
+msgid "8.2 cm GrW 274/2(r)"
+msgstr ""
+
+msgctxt "desc/squad/80mm_sgrw34_kos_mid(roa)"
+msgid "8 cm Granatwerfer 34"
+msgstr ""
+
+msgctxt "desc/squad/h_artyllery_roa_mid_def_1(roa)"
+msgid "<c(E56042)>1.</c> 10 cm leFH 34(t)"
+msgstr ""
+
+msgctxt "desc/squad/h_artyllery_roa_mid_def_2(roa)"
+msgid "<c(E56042)>2.</c> 12,2 cm s.F.H.396(r)"
+msgstr ""
+
+msgctxt "desc/squad/h_artyllery_kos_mid_def_1(roa)"
+msgid "<c(E56042)>1.</c> 10,5 cm K331(f)"
+msgstr ""
+
+msgctxt "desc/squad/h_artyllery_kos_mid_def_2(roa)"
+msgid "<c(E56042)>2.</c> 10.5 cm leFH 18"
+msgstr ""
+
+msgctxt "desc/squad/gaz_aaa_roa_mid(roa)"
+msgid "GAZ AAA"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_6_kos_mid(roa)"
+msgid "Opel Blitz 3.6"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_6_roa_late(roa)"
+msgid "Opel Blitz 3.6"
+msgstr ""
+
+msgctxt "desc/squad/gaz_aaa_ammo_roa_mid(roa)"
+msgid "GAZ AAA Supply"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_6_kos_ammo_mid(roa)"
+msgid "Opel Blitz 3.6 Supply"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_m1910_roa_mid"
+msgid "<c(B29557)>( III )</c> 10,7 cm Kanone 351(r)"
+msgstr ""
+
+
+msgctxt "desc/squad/l_artyllery_roa_late_all_1(roa)"
+msgid "<c(E56042)>1.</c> 3.7 cm Pak 36"
+msgstr ""
+
+msgctxt "desc/squad/l_artyllery_roa_late_all_2(roa)"
+msgid "<c(E56042)>2.</c> 4,5-cm Pak 186(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_pak36r_roa_late(roa)"
+msgid "FK36(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_pak36r_late_roa_late(roa)"
+msgid "7.62 cm Pak 36(r)"
+msgstr ""
+
+msgctxt "desc/squad/kubelwagen_mg_roa"
+msgid "Kubelwagen"
+msgstr ""
+
+msgctxt "desc/squad/praga_rv_ammo_roa_late"
+msgid "Praga RV Supply"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_t60r_roa_late"
+msgid "<c(B29557)>( I )</c> Pz.Kpfw. T-60 743(r) + Sturmgrenadier"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_t26pak9738_late"
+msgid "<c(B29557)>( I )</c> 7,5 cm PaK 97/38 auf T-26"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_squad_2x80mm_sgrw34_roa"
+msgid "<c(B29557)>( I )</c> Mortarmen + Offizier"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_t3457_43_roa"
+msgid "<c(B29557)>( II )</c> Pz.Kpfw. T34/57 747(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_jagdpanzer_su85r_roa"
+msgid "<c(B29557)>( II )</c> Jagdpanzer SU 85(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_sturmgren_sigmal_roa_late"
+msgid "<c(B29557)>( II )</c> Sturmgrenadier-Trupp + 8cm Artillery Signaller"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_150mm_sig33_roa"
+msgid "<c(B29557)>( II )</c> 15 cm sIG 33"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_88mm_pak43_roa_late"
+msgid "<c(B29557)>( III )</c> 8,8 cm PaK 43"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_28cm_raketenwerfer_late"
+msgid "<c(B29557)>( III )</c> 28cm Raketenwerfer"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_heavy_engineer_late(kos)"
+msgid "<c(B29557)>( I )</c> Bauingenieure"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_zis30_cossack_recon_squad_late"
+msgid "<c(B29557)>( II )</c> Panzerjager ZIS30(r) + Abteilung der Don Scouts"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_88mm_flak36_622th_late"
+msgid "<c(B29557)>( II )</c> 8.8 cm Flak 36"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_squad_don_signaller_late(roa)"
+msgid "<c(B29557)>( II )</c> Signaller"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_bison_roa_late"
+msgid "<c(B29557)>( II )</c> Bison I"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_150mm_gpf_kos"
+msgid "<c(B29557)>( III )</c> 15,5 cm K 418(f)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_300mm_nebelwerfer42_kos"
+msgid "<c(B29557)>( III )</c> 300mm Nebelwerfer 42"
+msgstr ""
+
+msgctxt "desc/squad/carrier_731_flak38_kos_late(roa)"
+msgid "Bren Carrier 731(e) 2cm FlaK 38"
+msgstr ""
+
+msgctxt "desc/squad/sdkfz251c_kos_late(roa)"
+msgid "Sd.Kfz.251/1 Ausf. C"
+msgstr ""
+
+msgctxt "desc/squad/sdkfz251c_roa_late(roa)"
+msgid "Sd.Kfz.251/1 Ausf. C"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_6_kos_late(roa)"
+msgid "Opel Blitz 3.6"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_6_kos_ammo_late(roa)"
+msgid "Opel Blitz 3.6 Supply"
+msgstr ""
+
+msgctxt "desc/squad/mg_crew_late_irr_1(roa)"
+msgid "<c(E56042)>1.</c> Maxim"
+msgstr ""
+
+msgctxt "desc/squad/mg_crew_late_irr_2(roa)"
+msgid "<c(E56042)>2.</c> MG 37(t)"
+msgstr ""
+
+msgctxt "desc/squad/mg_crew_late_irr_3(roa)"
+msgid "<c(E56042)>3.</c> MG 42"
+msgstr ""
+
+msgctxt "desc/squad/20mm_flak30_roa_late(roa)"
+msgid "2 cm Flak 30"
+msgstr ""
+
+msgctxt "desc/squad/l_artyllery_roa_late_irr_1(roa)"
+msgid "<c(E56042)>1.</c> 3.7 cm Pak 36"
+msgstr ""
+
+msgctxt "desc/squad/l_artyllery_roa_late_irr_2(roa)"
+msgid "<c(E56042)>2.</c> 4,5-cm Pak 186(r)"
+msgstr ""
+
+msgctxt "desc/squad/76mm_zis3_kos_late(roa)"
+msgid "7,62 cm-Feldkanone 288(r)"
+msgstr ""
+
+msgctxt "desc/squad/75mm_pak9738_kos_late(roa)"
+msgid "7.5 cm Pak 97/38"
+msgstr ""
+
+msgctxt "desc/squad/75mm_pak40_kos_late(roa)"
+msgid "7.5 cm PaK 40"
+msgstr ""
+
+msgctxt "desc/squad/pak50_late(ger)"
+msgid "7.5 cm PaK 50"
+msgstr ""
+
+msgctxt "desc/squad/80mm_sgrw34_kos_late(roa)"
+msgid "8 cm Granatwerfer 34"
+msgstr ""
+
+msgctxt "desc/squad/76mm_m1927_kos_late(roa)"
+msgid "7.62 cm Infanteriekanonehaubitze 290(r)"
+msgstr ""
+
+msgctxt "desc/squad/100mm_vz14_skoda_grc_kos_late(roa)"
+msgid "10-cm leFH-316(j)"
+msgstr ""
+
+msgctxt "desc/squad/105mm_lefh18_kos_late(roa)"
+msgid "10.5 cm leFH 18"
+msgstr ""
+
+msgctxt "desc/squad/squad_officer_con(roa)"
+msgid "Command squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_officer_kubel_roa_con"
+msgid "Kfz. 1 (Command)"
+msgstr ""
+
+msgctxt "desc/squad/ba20_command_roa"
+msgid "Pz spvWg BA 202(r) (Command)"
+msgstr ""
+
+msgctxt "desc/squad/squad_schutzmannschaft_con(roa)"
+msgid "<c(A5A095)>(1)</c> Schutzmannschaft Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_schuma_roa_con(roa)"
+msgid "<c(A5A095)>(1)</c> Schuma"
+msgstr ""
+
+msgctxt "desc/squad/squad_riflemans_con(roa)"
+msgid "<c(A5A095)>(2)</c> Squad of shooters"
+msgstr ""
+
+msgctxt "desc/squad/squad_recon_con(roa)"
+msgid "<c(A5A095)>(2)</c> Saboteurs"
+msgstr ""
+
+msgctxt "desc/squad/squad_regular_con(roa)"
+msgid "<c(A5A095)>(2)</c> Regular Inf."
+msgstr ""
+
+msgctxt "desc/squad/squad_pionier_con(roa)"
+msgid "<c(A5A095)>(2)</c> Pionier squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_kuban_mid_con(roa)"
+msgid "<c(A5A095)>(2)</c> Abteilung der Kuban-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_jung_mid_con(roa)"
+msgid "<c(A5A095)>(2)</c> Von Jungschulz Regiment"
+msgstr ""
+
+msgctxt "desc/squad/squad_regular_motor_roa_con"
+msgid "<c(A5A095)>(2)</c> Motorized Regular Inf."
+msgstr ""
+
+msgctxt "desc/squad/squad_regular_armor_roa_con"
+msgid "<c(A5A095)>(2)</c> Armored Regular Inf."
+msgstr ""
+
+msgctxt "desc/squad/squad_kuban_motor_roa_con"
+msgid "<c(A5A095)>(2)</c> Motorisierte Abteilung der Kuban-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_kuban_armor_roa_con"
+msgid "<c(A5A095)>(2)</c> Armored Abteilung der Kuban-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_rona_con(roa)"
+msgid "<c(A5A095)>(2+)</c> Kaminski Brigade"
+msgstr ""
+
+msgctxt "desc/squad/squad_regular_sturm_con(roa)"
+msgid "<c(A5A095)>(3)</c> Sturmgrenadier-Trupp"
+msgstr ""
+
+msgctxt "desc/squad/squad_terek_mid_con(roa)"
+msgid "<c(A5A095)>(3)</c> Gebirgs Abteilung der Terek-Kosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_sturm_pio_con(roa)"
+msgid "<c(A5A095)>(3+)</c> Sturmpioniere"
+msgstr ""
+
+msgctxt "desc/squad/squad_638_con(roa)"
+msgid "<c(A5A095)>(3+)</c> 638th Company von Renteln"
+msgstr ""
+
+msgctxt "desc/squad/squad_defensive_con(roa)"
+msgid "<c(A5A095)>(4)</c> Defensivkader"
+msgstr ""
+
+msgctxt "desc/squad/squad_don_mid_con(roa)"
+msgid "<c(A5A095)>(4)</c> Abteilung der Donkosaken"
+msgstr ""
+
+msgctxt "desc/squad/squad_at_late_con(roa)"
+msgid "Anti-Tank Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_heavy_engineer_mid_con(roa)"
+msgid "Heavy Engineers"
+msgstr ""
+
+msgctxt "desc/squad/mormar_crew(roa)"
+msgid "Mörsertrupp"
+msgstr ""
+
+msgctxt "desc/squad/squad_turkistan_late_all2(ger)"
+msgid "<c(A5A095)>(2)</c> Grenadiere [Turkistanische Legion]"
+msgstr ""
+
+msgctxt "desc/squad/squad_turkistan_con(ger)"
+msgid "<c(A5A095)>(2)</c> Grenadiere [Turkistanische Legion]"
+msgstr ""
+
+msgctxt "desc/squad/squad_varyag_con(ger)"
+msgid "<c(A5A095)>(2)</c> Freiwilligen SS-Sonderregiment «Waräger»"
+msgstr ""
+
+msgctxt "desc/squad/squad_handschar_con(ger)"
+msgid "<c(A5A095)>(2)</c> 13. Waffen-Gebirgs-Division der SS «Handschar»"
+msgstr ""
+
+msgctxt "desc/squad/squad_ita_ss_con(ger)"
+msgid "<c(A5A095)>(3)</c> 29. Waffen-Grenadier-Division der SS"
+msgstr ""
+
+msgctxt "desc/squad/squad_eygen_late_con(ger)"
+msgid "<c(A5A095)>(4)</c> 7. SS-Freiwilligen-Gebirgsdivision «Prinz Eugen»"
+msgstr ""
+
+msgctxt "desc/squad/squad_eygen_recon_late_con(ger)"
+msgid "<c(A5A095)>(4)</c> (Aufklärung) 7. SS-Freiwilligen-Gebirgsdivision «Prinz Eugen»"
+msgstr ""
+
+msgctxt "desc/squad/squad_sms_g_late_off(ger)"
+msgid "<c(A5A095)>(2)</c> (Gendarmerie) Schuma"
+msgstr ""
+
+msgctxt "desc/squad/squad_sms_g_con(ger)"
+msgid "<c(A5A095)>(1)</c> (Gendarmerie) Schuma"
+msgstr ""
+
+msgctxt "desc/squad/squad_rus_sec_mid_def(ger)"
+msgid "<c(A5A095)>(2)</c> Russische Sicherheitsgruppe"
+msgstr ""
+
+msgctxt "desc/squad/squad_rus_od_mid_irr(ger)"
+msgid "<c(A5A095)>(2)</c> Ordnungsdienst"
+msgstr ""
+
+msgctxt "desc/squad/squad_rona_ger_mid_con(ger)"
+msgid "<c(A5A095)>(2+)</c> Kaminski Brigade"
+msgstr ""
+
+msgctxt "desc/squad/squad_rus_od_con(ger)"
+msgid "<c(A5A095)>(1)</c> Ordnungsdienst"
+msgstr ""
+
+msgctxt "desc/squad/squad_rus_sec_con(ger)"
+msgid "<c(A5A095)>(2)</c> Russische Sicherheitsgruppe"
+msgstr ""
+
+msgctxt "desc/squad/squad_rona_1_late_con(ger)"
+msgid "<c(A5A095)>(3)</c> RONA (Volksheer-Brigade Kaminski)"
+msgstr ""
+
+msgctxt "desc/squad/squad_r_saboteur_con"
+msgid "<c(A5A095)>(3)</c> Saboteure"
+msgstr ""
+
+msgctxt "desc/squad/squad_rona_late_motor_con"
+msgid "<c(A5A095)>(3+)</c> 29. Waffen-Grenadier-Division der SS «RONA» (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_sdkfz234_w_luchs"
+msgid "<c(B29557)>( I )</c> Sd.Kfz.234 w/Luchs turm"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_panzer747_kwk37_late"
+msgid "<c(B29557)>( II )</c> Pz.Kpfw. 747(r) mit KwK 37 (L/24)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_s307f_late"
+msgid "<c(B29557)>( II )</c> m.SPW S307(f)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_t26pak9738_ger_late"
+msgid "<c(B29557)>( II )</c> 7,5 cm Pak 97/38(f) auf Pz.740(r)"
+msgstr ""
+
+
+msgctxt "desc/squad/bmw_r71_roa_all_l(roa)"
+msgid "BMW R71"
+msgstr ""
+
+msgctxt "desc/squad/kubelwagen_roa_all_l(roa)"
+msgid "Kubelwagen"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_6_roa_late(roa)"
+msgid "Opel Blitz 3.6"
+msgstr ""
+
+msgctxt "desc/squad/praga_rv_ammo_roa_late(roa)"
+msgid "Praga RV (Ammo)"
+msgstr ""
+
+msgctxt "desc/squad/gaz_4_2m_roa_all_l(roa)"
+msgid "GAZ-A Maxim-zenit"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_flak30_roa_all_l(roa)"
+msgid "Opel Blitz 3.6 Flak-30"
+msgstr ""
+
+msgctxt "desc/squad/sdkfz251c_roa_late(roa)"
+msgid "Sd.Kfz 251/1 Ausf. C"
+msgstr ""
+
+msgctxt "desc/squad/ba20_roa_all_late(roa)"
+msgid "Pz. spvWg. BA 202(r)"
+msgstr ""
+
+msgctxt "desc/squad/pzspwgf204r_all_late(roa)"
+msgid "Pz.Sp.Wg F 204 (r)"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_fuel_roa_late(roa)"
+msgid "Opel Blitz 3.6 Fuel"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_engineering_roa_all_late(roa)"
+msgid "Opel Blitz 3.6 engineering"
+msgstr ""
+
+msgctxt "desc/squad/t2639_roa_all_late(roa)"
+msgid "Pz.740(r)"
+msgstr ""
+
+msgctxt "desc/squad/PzKw747_7641_all_late(roa)"
+msgid "Pz.Kpfw. T34/76 747(r)"
+msgstr ""
+
+msgctxt "desc/squad/pzkpfw34_7642_all_late(roa)"
+msgid "Pz.Kpfw. T34/76 747(r)"
+msgstr ""
+
+msgctxt "desc/squad/PzKw747_85_all_late(roa)"
+msgid "Pz.Kpfw. T34/85 747(r)"
+msgstr ""
+
+msgctxt "desc/squad/kw_la753r_all_late(roa)"
+msgid "Pz.Kpfw. KW 1A 753(r)"
+msgstr ""
+
+msgctxt "desc/squad/stug3b_roa_all_late(roa)"
+msgid "StuG III Ausf.B"
+msgstr ""
+
+msgctxt "desc/squad/jagdpanzer_su76r_all_late(roa)"
+msgid "Jagdpanzer SU76(r)"
+msgstr ""
+
+msgctxt "desc/squad/marder139_all_late(roa)"
+msgid "Panzerjager 38(t) fur 7.62 cm PaK 36(r)"
+msgstr ""
+
+msgctxt "desc/squad/hetzer_roa_all_late(roa)"
+msgid "Hetzer"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_ba20_com_late"
+msgid "<c(B29557)>( I )</c> Pz spvWg BA 202(r) (Command)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_squad_2x80mm_sgrw34_roa"
+msgid "<c(B29557)>( I )</c> Mortar positions (8cm)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_bild_raketenwerfer_roa_late"
+msgid "<c(B29557)>( I )</c> Artillery engineers + Sd.Kfz.10 (Engineer)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_120mm_grw379r_late"
+msgid "<c(B29557)>( I )</c> 12 cm Granatwerfer 379(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_blitz_raketenwerfer_roa_late"
+msgid "<c(B29557)>( III )</c> Opel Blitz Heulende Kuh 40 (sWu.R.40/28 cm)"
+msgstr ""
+
+msgctxt "desc/squad/raketenwerfer_kos_late(roa)"
+msgid "28cm Raketenwerfer"
+msgstr ""
+
+msgctxt "desc/squad/bmw_r71_roa_irr_l(roa)"
+msgid "BMW R71"
+msgstr ""
+
+msgctxt "desc/squad/kfz15_roa_all_l(roa)"
+msgid "Kfz. 15"
+msgstr ""
+
+msgctxt "desc/squad/gaz_4_2m_roa_irr_l(roa)"
+msgid "GAZ-A Maxim-zenit"
+msgstr ""
+
+msgctxt "desc/squad/sdkfz10_4_kos_late(roa)"
+msgid "Sd.Kfz. 10/4"
+msgstr ""
+
+msgctxt "desc/squad/ba20_roa_irr_late(roa)"
+msgid "Pz spvWg BA 202(r)"
+msgstr ""
+
+msgctxt "desc/squad/sdkfz10_pak38_k_irr_late(roa)"
+msgid "Sd.Kfz.10 with PaK 38"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_fuel_roa_irr_late(roa)"
+msgid "Opel Blitz 3.6 Fuel"
+msgstr ""
+
+msgctxt "desc/squad/blitz3_engineering_roa_irr_late(roa)"
+msgid "Opel Blitz 3.6 engineering"
+msgstr ""
+
+msgctxt "desc/squad/pz740_roa_irr_late(roa)"
+msgid "Pz.740(r)"
+msgstr ""
+
+msgctxt "desc/squad/pz38h735_roa_irr_late(roa)"
+msgid "Pz.Kpfw. 38H 735(f)"
+msgstr ""
+
+msgctxt "desc/squad/panzer35s_roa_irr_late(roa)"
+msgid "Panzer 35S(f)"
+msgstr ""
+
+msgctxt "desc/squad/PzKw747_7641_irr_late(roa)"
+msgid "Pz.Kpfw. T34/76 747(r)"
+msgstr ""
+
+msgctxt "desc/squad/panzer4f1_kos_irr_late(roa)"
+msgid "PzKpfw IV Ausf.F1"
+msgstr ""
+
+msgctxt "desc/squad/stug3b_roa_irr_late(roa)"
+msgid "StuG III Ausf.B"
+msgstr ""
+
+msgctxt "desc/squad/jagdpanzer_su76r_irr_late(roa)"
+msgid "Jagdpanzer SU76(r)"
+msgstr ""
+
+msgctxt "desc/squad/marder2_irr_late(roa)"
+msgid "Marder II"
+msgstr ""
+
+msgctxt "desc/squad/stug3f_kos_late(roa)"
+msgid "StuG III Ausf. F"
+msgstr ""
+
+msgctxt "desc/squad/single_rifle_1(roa)"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_rifle_2(roa)"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_rifle_3(roa)"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_rifle_4(roa)"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_smg_1(roa)"
+msgid "SMG Soldier"
+msgstr ""
+
+msgctxt "desc/squad/single_smg_2(roa)"
+msgid "SMG Soldier"
+msgstr ""
+
+msgctxt "desc/squad/single_smg_3(roa)"
+msgid "SMG Soldier"
+msgstr ""
+
+msgctxt "desc/squad/single_smg_4(roa)"
+msgid "SMG Soldier"
+msgstr ""
+
+msgctxt "desc/squad/single_sa_1(roa)"
+msgid "Semi-Auto Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_sa_2(roa)"
+msgid "Semi-Auto Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_sa_3(roa)"
+msgid "Semi-Auto Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_sa_4(roa)"
+msgid "Semi-Auto Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_mg_1(roa)"
+msgid "MG Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_mg_2(roa)"
+msgid "MG Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_mg_3(roa)"
+msgid "MG Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_mg_4(roa)"
+msgid "MG Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_bazooker_1(roa)"
+msgid "AT Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_flamer_1(roa)"
+msgid "Flamer"
+msgstr ""
+
+msgctxt "desc/squad/single_ap_miner_1(roa)"
+msgid "AP Miners"
+msgstr ""
+
+msgctxt "desc/squad/single_at_miner_1(roa)"
+msgid "AT Miners"
+msgstr ""
+
+msgctxt "desc/squad/single_engineer_1(roa)"
+msgid "Field Engineer"
+msgstr ""
+
+msgctxt "desc/squad/single_tankman_1(roa)"
+msgid "Tank Crew"
+msgstr ""
+
+msgctxt "desc/squad/single_medic_1(roa)"
+msgid "Medic"
+msgstr ""
+
+msgctxt "desc/squad/single_medic_2(roa)"
+msgid "Medic"
+msgstr ""
+
+msgctxt "desc/squad/single_sniper_1(roa)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/squad/single_officer_1(roa)"
+msgid "Officer"
+msgstr ""
+
+msgctxt "desc/squad/inf_crate_roa(roa)"
+msgid "Ammo box"
+msgstr ""
+
+msgctxt "desc/squad/inf_crate_kos(roa)"
+msgid "Ammo box"
+msgstr ""
+
+msgctxt "desc/squad/pzspwg203r_irr_late(roa)"
+msgid "Pz.Sp.Wg. 203 (r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_obice_210_kos_l"
+msgid "<c(B29557)>( III )</c> 21 cm Haubitze 520(i)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_622_cossack_battalion_75mmgun_late"
+msgid "<c(B29557)>( I )</c> Motorisierte Abteilung des 622. Bataillons + 7,5 cm leIG 18"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_sdkfz251d_2xgrw42_ss_l"
+msgid "<c(B29557)>( II )</c> Sd.Kfz.251 Ausf.D mit Zwilling 12 cm GrW 42"
+msgstr ""

@@ -1,0 +1,387 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell American MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+
+msgctxt "desc/human/mp/pol/late/1st_ad_at_piat"
+msgid "1st AD. AT Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_at_piat_asst"
+msgid "1st AD. AT Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_coy_2ic"
+msgid "1st AD. Company 2IC [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_coy_com"
+msgid "1st AD. Company Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_coy_signalman"
+msgid "1st AD. Company Signalman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_crew"
+msgid "1st AD. Crew [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_detach_com"
+msgid "1st AD. Detachment Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_driver"
+msgid "1st AD. Driver [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_driver_smg"
+msgid "1st AD. Driver [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_builder"
+msgid "1st AD. Engineer Builder [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_flamer"
+msgid "1st AD. Engineer Flamer Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_mg"
+msgid "1st AD. Engineer MG Operator [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_mg_asst"
+msgid "1st AD. Engineer MG Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_mine_ap"
+msgid "1st AD. Engineer AP Miner [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_mine_at"
+msgid "1st AD. Engineer AT Miner [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_sapper"
+msgid "1st AD. Engineer Sapper [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_sec_2ic"
+msgid "1st AD. Engineer Section 2IC [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_eng_sec_com"
+msgid "1st AD. Engineer Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_medic"
+msgid "1st AD. Medic [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mg"
+msgid "1st AD. MG Operator [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mg_asst"
+msgid "1st AD. MG Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_mg"
+msgid "1st AD. Motor MG Operator [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_mg_asst"
+msgid "1st AD. Motor MG Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_piat"
+msgid "1st AD. Motor AT Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_piat_asst"
+msgid "1st AD. Motor AT Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_rifle"
+msgid "1st AD. Motor Rifleman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_rifle_band"
+msgid "1st AD. Motor Rifleman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_rifle_sniper"
+msgid "1st AD. Motor Sniper [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_detach_com_cpl"
+msgid "1st AD. Motor Scout Detachment Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_detach_com_lcpl"
+msgid "1st AD. Motor Scout Detachment Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_driver"
+msgid "1st AD. Motor Scout Driver [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_mg"
+msgid "1st AD. Motor Scout MG Operator [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_piat"
+msgid "1st AD. Motor Scout AT Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_rifle"
+msgid "1st AD. Motor Scout [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_scout_sec_com"
+msgid "1st AD. Motor Scout Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_sec_2ic"
+msgid "1st AD. Motor Section 2IC [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_mot_sec_com"
+msgid "1st AD. Motor Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_pio"
+msgid "1st AD. Pioneer [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_pio_builder"
+msgid "1st AD. Pioneer Builder [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_pio_sec_com_cpl"
+msgid "1st AD. Pioneer Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_pio_sec_com_sgt"
+msgid "1st AD. Pioneer Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_plt_com"
+msgid "1st AD. Platoon Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_plt_sgt"
+msgid "1st AD. Platoon Sergeant [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_rifle"
+msgid "1st AD. Rifleman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_rifle_band"
+msgid "1st AD. Rifleman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_rifle_sniper"
+msgid "1st AD. Sniper [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sec_2ic"
+msgid "1st AD. Section 2IC [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sec_com"
+msgid "1st AD. Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sec_com_sgt"
+msgid "1st AD. Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sec_subcom"
+msgid "1st AD. Sub-Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_smg"
+msgid "1st AD. SMG Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_sniper"
+msgid "1st AD. Sniper [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_tank_com"
+msgid "1st AD. Tank Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_tank_com_m1928"
+msgid "1st AD. Tank Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_tankman"
+msgid "1st AD. Tank Crew [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_vehicle_com_cpl"
+msgid "1st AD. Vehicle Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_vehicle_com_sgt"
+msgid "1st AD. Vehicle Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_ad_vehicle_crew"
+msgid "1st AD. Vehicle Crew [PSZ]"
+msgstr ""
+
+
+
+
+
+msgctxt "desc/human/mp/pol/late/1st_para_coy_2ic"
+msgid "1st Parachute Company 2IC [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_coy_com"
+msgid "1st Parachute Company Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_crew"
+msgid "1st Parachute Crew [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng"
+msgid "1st Parachute Engineer [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_at_mine"
+msgid "1st Parachute Engineer AT Miner [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_flamer"
+msgid "1st Parachute Engineer Flamer Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_mg"
+msgid "1st Parachute Engineer MG Operator [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_mg_asst"
+msgid "1st Parachute Engineer MG Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_piat"
+msgid "1st Parachute Engineer AT Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_piat_asst"
+msgid "1st Parachute Engineer AT Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_sapper"
+msgid "1st Parachute Engineer Sapper [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_2ic"
+msgid "1st Parachute Engineer Section 2IC [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_com"
+msgid "1st Parachute Engineer Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_eng_sec_com_sgt"
+msgid "1st Parachute Engineer Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_medic"
+msgid "1st Parachute Medic [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_mg"
+msgid "1st Parachute MG Operator [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_mg_asst"
+msgid "1st Parachute MG Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_mg_asst_smg"
+msgid "1st Parachute MG Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_mortar"
+msgid "1st Parachute Mortarman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_mortar_asst"
+msgid "1st Parachute Mortar Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_piat"
+msgid "1st Parachute AT Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_piat_asst"
+msgid "1st Parachute AT Asst. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_plt_com"
+msgid "1st Parachute Platoon Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_plt_sgt"
+msgid "1st Parachute Platoon Sergeant [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_rifle"
+msgid "1st Parachute Rifleman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_rifle_band"
+msgid "1st Parachute Rifleman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_rifle_gren"
+msgid "1st Parachute Rifle Grenadier [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_sec_2ic"
+msgid "1st Parachute Section 2IC [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_sec_com"
+msgid "1st Parachute Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_sec_com_cpl"
+msgid "1st Parachute Section Commander [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_sec_mortar"
+msgid "1st Parachute Section Mortarman [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_smg"
+msgid "1st Parachute SMG Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_smg_band"
+msgid "1st Parachute SMG Inf. [PSZ]"
+msgstr ""
+
+msgctxt "desc/human/mp/pol/late/1st_para_sniper"
+msgid "1st Parachute Sniper [PSZ]"
+msgstr ""

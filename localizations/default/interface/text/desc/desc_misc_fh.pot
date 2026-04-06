@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/ammo/76mm_landmattress"
+msgid "3-inch Barrage Rocket 'Land Mattress' [<c(ff1200)>HE</c>]"
+msgstr ""
+
+msgctxt "desc/entity/tram_eu"
+msgid "Tram"
+msgstr ""
+
+msgctxt "info/special/tram_eu"
+msgid "<c(c3baae)>Railcar</c>"
+msgstr ""
+
+msgctxt "desc/entity/tram_sov"
+msgid "Tram"
+msgstr ""
+
+msgctxt "info/special/tram_sov"
+msgid "<c(c3baae)>Railcar</c>"
+msgstr ""
+
+msgctxt "info/special/tram_sov"
+msgid "<c(c3baae)>Railcar</c>"
+msgstr ""
+
+msgctxt "mp/army/eng_early"
+msgid "United Kingdom (Early War)"
+msgstr ""
+
+msgctxt "mp/army/eng_mid"
+msgid "United Kingdom (Mid War)"
+msgstr ""
+
+msgctxt "mp/army/eng_late"
+msgid "United Kingdom (Late War)"
+msgstr ""
+
+msgctxt "mp/army/can_late"
+msgid "Canada (Late War)"
+msgstr ""
+
+msgctxt "mp/army/pol_late"
+msgid "Poland (Late War)"
+msgstr ""
+
+msgctxt "mp/army/fra_early"
+msgid "France (Early War)"
+msgstr ""
+
+msgctxt "mp/army/fra_late"
+msgid "France (Late War)"
+msgstr ""
+
+msgctxt "mp/army/ned_late"
+msgid "Netherlands (Late War)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_cruiser_mk3"
+msgid "<c(B29557)>( I )</c> Cruiser Mk.III"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/early/hl_bw_sniper"
+msgid "Royal HL. Black Watch Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_coy_signalman"
+msgid "7th AD. Company Signalman"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/7th_ad_sec_com_sten"
+msgid "7th AD. Section Commander"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_piat"
+msgid "Royal Marine Commando AT Inf."
+msgstr ""
+
+msgctxt "desc/human/mp/eng/mid/rm_com_piat_asst"
+msgid "Royal Marine Commando AT Asst."
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/6th_air_land_rec_sniper"
+msgid "6th Airlanding Recon Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/eng/late/gds_ad_driver_smg"
+msgid "Guards AD. Driver"
+msgstr ""
+
+msgctxt "desc/ammo/bulleteng_20_auto box ap"
+msgid "20mm AP Shot Mk.IX.T Box Magazine [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulleteng_20_auto box he"
+msgid "20mm HE/HE-T Shell Box Magazine [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulleteng_20_auto box hei"
+msgid "20mm HEI/HEI-T Shell Box Magazine [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulleteng_20_auto drum ap"
+msgid "20mm AP Shot Mk.IX.T Drum Magazine [<c(ff6a00)>AP</c>] <c(65696d)>L/70</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulleteng_20_auto drum he"
+msgid "20mm HE/HE-T Shell Drum Magazine [<c(ff1200)>HE</c>] <c(65696d)>L/70</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulleteng_20_auto drum hei"
+msgid "20mm HEI/HEI-T Shell Drum Magazine [<c(ff1200)>HE-I</c>] <c(65696d)>L/70</c>"
+msgstr ""

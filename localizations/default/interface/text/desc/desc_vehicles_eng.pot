@@ -1,0 +1,2021 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell British vehicles\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/entity/willys_mb_eng"
+msgid "Willys MB"
+msgstr ""
+
+msgctxt "info/special/willys_mb_eng"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/willys_mb_mg_eng"
+msgid "Willys MB (Vickers)"
+msgstr ""
+
+msgctxt "info/special/willys_mb_mg_eng"
+msgid "<c(c3baae)>Armed Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/willys_mb_vgo_eng"
+msgid "Willys MB (VGO)"
+msgstr ""
+
+msgctxt "info/special/willys_mb_vgo_eng"
+msgid "<c(c3baae)>Armed Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_oyc_fuel"
+msgid "Bedford OYC (Fuel)"
+msgstr ""
+
+msgctxt "info/special/bedford_oyc_fuel"
+msgid "<c(c3baae)>Fuel Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_oyd"
+msgid "Bedford OYD (Transport)"
+msgstr ""
+
+msgctxt "info/special/bedford_oyd"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_oyd_boys"
+msgid "Bedford OYD (Transport)"
+msgstr ""
+
+msgctxt "info/special/bedford_oyd_boys"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_oyd_piat"
+msgid "Bedford OYD (Transport)"
+msgstr ""
+
+msgctxt "info/special/bedford_oyd_piat"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_oyd_art_ammo"
+msgid "Bedford OYD (Supply)"
+msgstr ""
+
+msgctxt "info/special/bedford_oyd_art_ammo"
+msgid "<c(c3baae)>Ammo Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_oyd_engineer"
+msgid "Bedford OYD (Engineer)"
+msgstr ""
+
+msgctxt "info/special/bedford_oyd_engineer"
+msgid "<c(c3baae)>Engineering Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_qld_art_ammo"
+msgid "Bedford QLD (Supply)"
+msgstr ""
+
+msgctxt "info/special/bedford_qld_art_ammo"
+msgid "<c(c3baae)>Ammo Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_qld_engineer"
+msgid "Bedford QLD (Engineer)"
+msgstr ""
+
+msgctxt "info/special/bedford_qld_engineer"
+msgid "<c(c3baae)>Engineering Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_qlt"
+msgid "Bedford QLT (Transport)"
+msgstr ""
+
+msgctxt "info/special/bedford_qlt"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/bedford_qlt_piat"
+msgid "Bedford QLT (Transport)"
+msgstr ""
+
+msgctxt "info/special/bedford_qlt_piat"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/morris_c8"
+msgid "Morris C8 FAT"
+msgstr ""
+
+msgctxt "info/special/morris_c8"
+msgid "<c(c3baae)>Artillery Tractor</c>"
+msgstr ""
+
+msgctxt "desc/entity/morris_c8_engineer"
+msgid "Engineering Morris C8 FAT"
+msgstr ""
+
+msgctxt "info/special/morris_c8_engineer"
+msgid "<c(c3baae)>Artillery Tractor</c>"
+msgstr ""
+
+msgctxt "desc/entity/morris_c9_aa"
+msgid "Morris C9/B"
+msgstr ""
+
+msgctxt "info/special/morris_c9_aa"
+msgid "<c(c3baae)>AA Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/aec_mk1"
+msgid "AEC Mk.I"
+msgstr ""
+
+msgctxt "info/special/aec_mk1"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/aec_mk2"
+msgid "AEC Mk.II"
+msgstr ""
+
+msgctxt "info/special/aec_mk2"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/aec_mk3"
+msgid "AEC Mk.III"
+msgstr ""
+
+msgctxt "info/special/aec_mk3"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/bren_carrier"
+msgid "Bren No.2"
+msgstr ""
+
+msgctxt "info/special/bren_carrier"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/bren_carrier_boys"
+msgid "Bren No.2"
+msgstr ""
+
+msgctxt "info/special/bren_carrier_boys"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/daimler_dingo"
+msgid "Daimler Dingo Mk.II"
+msgstr ""
+
+msgctxt "info/special/daimler_dingo"
+msgid "<c(c3baae)>Scout Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/3x_daimler_dingo"
+msgid "3X Daimler Dingo Mk.II"
+msgstr ""
+
+msgctxt "info/special/3x_daimler_dingo"
+msgid "<c(c3baae)>Scout Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/daimler_dingo_boys"
+msgid "Daimler Dingo Mk.II (Boys)"
+msgstr ""
+
+msgctxt "info/special/daimler_dingo_boys"
+msgid "<c(c3baae)>Scout Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/daimler_dingo_early"
+msgid "Daimler Dingo Mk.II (Early)"
+msgstr ""
+
+msgctxt "info/special/daimler_dingo_early"
+msgid "<c(c3baae)>Scout Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/daimler_mk1"
+msgid "Daimler Mk.I"
+msgstr ""
+
+msgctxt "info/special/daimler_mk1"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/daimler_mk1_lj"
+msgid "Daimler Mk.I 'Littlejohn'"
+msgstr ""
+
+msgctxt "info/special/daimler_mk1_lj"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/daimler_mk2"
+msgid "Daimler Mk.II"
+msgstr ""
+
+msgctxt "info/special/daimler_mk2"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/daimler_mk2_lj"
+msgid "Daimler Mk.II 'Littlejohn'"
+msgstr ""
+
+msgctxt "info/special/daimler_mk2_lj"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/daimler_mk2_mid"
+msgid "Daimler Mk.II (Mid)"
+msgstr ""
+
+msgctxt "info/special/daimler_mk2_mid"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/humber_mk2"
+msgid "Humber Mk.II"
+msgstr ""
+
+msgctxt "info/special/humber_mk2"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/humber_mk4"
+msgid "Humber Mk.IV"
+msgstr ""
+
+msgctxt "info/special/humber_mk4"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/humber_recon_mk2"
+msgid "Humber Light Reconnaissance Car Mk.II"
+msgstr ""
+
+msgctxt "info/special/humber_recon_mk2"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/humber_recon_mk3"
+msgid "Humber Light Reconnaissance Car Mk.IIIA"
+msgstr ""
+
+msgctxt "info/special/humber_recon_mk3"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/humber_scout"
+msgid "Humber Scout Mk.II"
+msgstr ""
+
+msgctxt "info/special/humber_scout"
+msgid "<c(c3baae)>Scout Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/m5_halftrack"
+msgid "M5 Halftrack"
+msgstr ""
+
+msgctxt "info/special/m5_halftrack"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/m5_halftrack_at"
+msgid "M5 Halftrack"
+msgstr ""
+
+msgctxt "info/special/m5_halftrack_at"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/m5a1_halftrack"
+msgid "M5A1 Halftrack"
+msgstr ""
+
+msgctxt "info/special/m5a1_halftrack"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/m5a1_halftrack_at"
+msgid "M5A1 Halftrack"
+msgstr ""
+
+msgctxt "info/special/m5a1_halftrack_at"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/mmg_carrier_mk1"
+msgid "Machine Gun Carrier Mk.I"
+msgstr ""
+
+msgctxt "info/special/mmg_carrier_mk1"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/mmg_carrier_mk2"
+msgid "Machine Gun Carrier Mk.II"
+msgstr ""
+
+msgctxt "info/special/mmg_carrier_mk2"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/mortar_carrier_mk1"
+msgid "2-inch Mortar Carrier Mk.I"
+msgstr ""
+
+msgctxt "info/special/mortar_carrier_mk1"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/mortar_carrier_mk1_boys"
+msgid "2-inch Mortar Carrier Mk.I (Boys)"
+msgstr ""
+
+msgctxt "info/special/mortar_carrier_mk1_boys"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/mortar_carrier_mk2"
+msgid "2-inch Mortar Carrier Mk.II"
+msgstr ""
+
+msgctxt "info/special/mortar_carrier_mk2"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/mortar_carrier_3_inch"
+msgid "3-inch Mortar Carrier Mk.II"
+msgstr ""
+
+msgctxt "info/special/mortar_carrier_3_inch"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/universal_carrier_mk1"
+msgid "Universal Mk.I"
+msgstr ""
+
+msgctxt "info/special/universal_carrier_mk1"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/universal_carrier_mk1_2mg"
+msgid "Universal Mk.I (2 MG)"
+msgstr ""
+
+msgctxt "info/special/universal_carrier_mk1_2mg"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/universal_carrier_mk1_boys"
+msgid "Universal Mk.I (Boys)"
+msgstr ""
+
+msgctxt "info/special/universal_carrier_mk1_boys"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/universal_carrier_mk2"
+msgid "Universal Mk.II"
+msgstr ""
+
+msgctxt "info/special/universal_carrier_mk2"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/3x_universal_carrier_mk2"
+msgid "3X Universal Mk.II"
+msgstr ""
+
+msgctxt "info/special/3x_universal_carrier_mk2"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/universal_carrier_mk2_2mg"
+msgid "Universal Mk.II (2 MG)"
+msgstr ""
+
+msgctxt "info/special/universal_carrier_mk2_2mg"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/universal_carrier_mk2_boys"
+msgid "Universal Mk.II (Boys)"
+msgstr ""
+
+msgctxt "info/special/universal_carrier_mk2_boys"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/universal_carrier_mk2_piat"
+msgid "Universal Mk.II (PIAT)"
+msgstr ""
+
+msgctxt "info/special/universal_carrier_mk2_piat"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/wasp_mk2c"
+msgid "Wasp Mk.IIc"
+msgstr ""
+
+msgctxt "info/special/wasp_mk2c"
+msgid "<c(c3baae)>Carrier</c>"
+msgstr ""
+
+msgctxt "desc/entity/morris_cs9"
+msgid "Morris CS9"
+msgstr ""
+
+msgctxt "info/special/morris_cs9"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/staghound_mk1"
+msgid "Staghound Mk.I"
+msgstr ""
+
+msgctxt "info/special/staghound_mk1"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/staghound_mk1_tulip"
+msgid "Staghound Mk.I 'Tulip'"
+msgstr ""
+
+msgctxt "info/special/staghound_mk1_tulip"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/staghound_mk2"
+msgid "Staghound Mk.II CS"
+msgstr ""
+
+msgctxt "info/special/staghound_mk2"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/staghound_mk3"
+msgid "Staghound Mk.III"
+msgstr ""
+
+msgctxt "info/special/staghound_mk3"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/staghound_mkaa"
+msgid "Staghound AA"
+msgstr ""
+
+msgctxt "info/special/staghound_mkaa"
+msgid "<c(c3baae)>Armoured Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/goatley_boat"
+msgid "Goatley Boat"
+msgstr ""
+
+msgctxt "info/special/goatley_boat"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/cromwell4"
+msgid "Cromwell Mk.IV"
+msgstr ""
+
+msgctxt "info/special/cromwell4"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/3x_cromwell4"
+msgid "3X Cromwell Mk.IV"
+msgstr ""
+
+msgctxt "info/special/3x_cromwell4"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cromwell4_tulip"
+msgid "Cromwell Mk.IV 'Tulip'"
+msgstr ""
+
+msgctxt "info/special/cromwell4_tulip"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cromwell5"
+msgid "Cromwell Mk.V"
+msgstr ""
+
+msgctxt "info/special/cromwell5"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cromwell6"
+msgid "Cromwell Mk.VI CS"
+msgstr ""
+
+msgctxt "info/special/cromwell6"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cromwell7"
+msgid "Cromwell Mk.VII"
+msgstr ""
+
+msgctxt "info/special/cromwell7"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cromwell8"
+msgid "Cromwell Mk.VIII CS"
+msgstr ""
+
+msgctxt "info/special/cromwell8"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/comet1_a34"
+msgid "Comet I"
+msgstr ""
+
+msgctxt "info/special/comet1_a34"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/comet1_a34_vet"
+msgid "Veteran Comet I"
+msgstr ""
+
+msgctxt "info/special/comet1_a34"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/challenger_a30"
+msgid "Challenger"
+msgstr ""
+
+msgctxt "info/special/challenger_a30"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman1"
+msgid "Sherman I"
+msgstr ""
+
+msgctxt "info/special/sherman1"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman1_armor"
+msgid "Sherman I (Armor)"
+msgstr ""
+
+msgctxt "info/special/sherman1_armor"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman1b"
+msgid "Sherman Ib"
+msgstr ""
+
+msgctxt "info/special/sherman1b"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman1c_armor"
+msgid "Sherman Ic [Armoured]"
+msgstr ""
+
+msgctxt "info/special/sherman1c_armor"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman1c"
+msgid "Sherman Ic"
+msgstr ""
+
+msgctxt "info/special/sherman1c"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman1c_hybrid"
+msgid "Sherman Ic (H)"
+msgstr ""
+
+msgctxt "info/special/sherman1c_hybrid"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman1c_tulip_hybrid"
+msgid "Sherman Ic (H) 'Tulip'"
+msgstr ""
+
+msgctxt "info/special/sherman1c_tulip_hybrid"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman1c_tulip_hybrid_vet"
+msgid "Sherman Ic (H) 'Tulip' [Veteran]"
+msgstr ""
+
+msgctxt "info/special/sherman1c_tulip_hybrid_vet"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman2_dd"
+msgid "Sherman II (DD)"
+msgstr ""
+
+msgctxt "info/special/sherman2_dd"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman2_dv"
+msgid "Sherman II (Early DV)"
+msgstr ""
+
+msgctxt "info/special/sherman2_dv"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman2_late"
+msgid "Sherman II"
+msgstr ""
+
+msgctxt "info/special/sherman2_late"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman2a"
+msgid "Sherman IIa"
+msgstr ""
+
+msgctxt "info/special/sherman2a"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman3_dv"
+msgid "Sherman III (Early DV)"
+msgstr ""
+
+msgctxt "info/special/sherman3_dv"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman3_dv_armor"
+msgid "Sherman III (Early DV) (Armor)"
+msgstr ""
+
+msgctxt "info/special/sherman3_dv_armor"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman3_early"
+msgid "Sherman III (Early)"
+msgstr ""
+
+msgctxt "info/special/sherman3_early"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman3_early_armor"
+msgid "Sherman III (Early) (Armor)"
+msgstr ""
+
+msgctxt "info/special/sherman3_early_armor"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman3_late"
+msgid "Sherman III"
+msgstr ""
+
+msgctxt "info/special/sherman3_late"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman3_mid"
+msgid "Sherman III (Mid)"
+msgstr ""
+
+msgctxt "info/special/sherman3_mid"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman3_mid_armor"
+msgid "Sherman III (Mid) (Armor)"
+msgstr ""
+
+msgctxt "info/special/sherman3_mid_armor"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5_crab"
+msgid "Sherman V 'Crab'"
+msgstr ""
+
+msgctxt "info/special/sherman5_crab"
+msgid "<c(c3baae)>Flail Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5_croc"
+msgid "Sherman V 'Crocodile'"
+msgstr ""
+
+msgctxt "info/special/sherman5_croc"
+msgid "<c(c3baae)>Flame Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5_dv"
+msgid "Sherman V (Early DV)"
+msgstr ""
+
+msgctxt "info/special/sherman5_dv"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5_dv_armor"
+msgid "Sherman V (Early DV) (Armor)"
+msgstr ""
+
+msgctxt "info/special/sherman5_dv_armor"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5_mid"
+msgid "Sherman V (Mid)"
+msgstr ""
+
+msgctxt "info/special/sherman5_mid"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5_mid_armor"
+msgid "Sherman V (Mid) (Armor)"
+msgstr ""
+
+msgctxt "info/special/sherman5_mid_armor"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5_late"
+msgid "Sherman V"
+msgstr ""
+
+msgctxt "info/special/sherman5_late"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5_late_tulip"
+msgid "Sherman V 'Tulip'"
+msgstr ""
+
+msgctxt "info/special/sherman5_late_tulip"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5c"
+msgid "Sherman Vc"
+msgstr ""
+
+msgctxt "info/special/sherman5c"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sherman5c_vet"
+msgid "Sherman Vc [Veteran]"
+msgstr ""
+
+msgctxt "info/special/sherman5c_vet"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/grant"
+msgid "Grant I"
+msgstr ""
+
+msgctxt "info/special/grant"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/wolverine_mk1"
+msgid "3-in SP Mk.I"
+msgstr ""
+
+msgctxt "info/special/wolverine_mk1"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/achilles_mk2"
+msgid "17-pdr SP Achilles Mk.IIc"
+msgstr ""
+
+msgctxt "info/special/achilles_mk2"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/squad/achilles_mk2_ss"
+msgid "Achilles Mk.IIc"
+msgstr ""
+
+msgctxt "desc/entity/achilles_mk2_vet"
+msgid "17-pdr SP Achilles Mk.IIc [Veteran]"
+msgstr ""
+
+msgctxt "info/special/achilles_mk2_vet"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/squad/achilles_mk2_vet_ss"
+msgid "Achilles Mk.IIc [Vet]"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk1"
+msgid "Churchill Mk.I"
+msgstr ""
+
+msgctxt "info/special/churchill_mk1"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk2"
+msgid "Churchill Mk.II"
+msgstr ""
+
+msgctxt "info/special/churchill_mk2"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk3"
+msgid "Churchill Mk.III"
+msgstr ""
+
+msgctxt "info/special/churchill_mk3"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk3_l50"
+msgid "Churchill Mk.III"
+msgstr ""
+
+msgctxt "info/special/churchill_mk3_l50"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk3_l50_late"
+msgid "Churchill Mk.III"
+msgstr ""
+
+msgctxt "info/special/churchill_mk3_l50_late"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk3_qf75"
+msgid "Churchill Mk.III* (75mm)"
+msgstr ""
+
+msgctxt "info/special/churchill_mk3_qf75"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill3"
+msgid "Churchill Mk.III"
+msgstr ""
+
+msgctxt "info/special/churchill3"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk4"
+msgid "Churchill Mk.IV"
+msgstr ""
+
+msgctxt "info/special/churchill_mk4"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk4_l50"
+msgid "Churchill Mk.IV"
+msgstr ""
+
+msgctxt "info/special/churchill_mk4_l50"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk4_l50_late"
+msgid "Churchill Mk.IV"
+msgstr ""
+
+msgctxt "info/special/churchill_mk4_l50_late"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk4_qf75"
+msgid "Churchill Mk.IV (75mm)"
+msgstr ""
+
+msgctxt "info/special/churchill_mk4_qf75"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk4_avre"
+msgid "Churchill Mk.IV (AVRE)"
+msgstr ""
+
+msgctxt "info/special/churchill_mk4_avre"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk4_roo"
+msgid "Churchill Mk.IV Kangaroo"
+msgstr ""
+
+msgctxt "info/special/churchill_mk4_roo"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk4_roo_b"
+msgid "Churchill Mk.IV Kangaroo"
+msgstr ""
+
+msgctxt "info/special/churchill_mk4_roo_b"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk5"
+msgid "Churchill Mk.V CS"
+msgstr ""
+
+msgctxt "info/special/churchill_mk5"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk7"
+msgid "Churchill Mk.VII"
+msgstr ""
+
+msgctxt "info/special/churchill_mk7"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk7_croc"
+msgid "Churchill Mk.VII 'Crocodile'"
+msgstr ""
+
+msgctxt "info/special/churchill_mk7_croc"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/churchill_mk8"
+msgid "Churchill Mk.VIII"
+msgstr ""
+
+msgctxt "info/special/churchill_mk8"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/centurion"
+msgid "A41 Centurion"
+msgstr ""
+
+msgctxt "info/special/centurion"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/tog2"
+msgid "TOG II"
+msgstr ""
+
+msgctxt "info/special/tog2"
+msgid "<c(c3baae)>Superheavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/universal_carrier"
+msgid "Universal Carrier"
+msgstr ""
+
+msgctxt "info/special/universal_carrier"
+msgid "<c(c3baae)>Troop transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine2"
+msgid "Valentine Mk.II"
+msgstr ""
+
+msgctxt "info/special/valentine2"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine7"
+msgid "Valentine Mk.VII"
+msgstr ""
+
+msgctxt "info/special/valentine7"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine9"
+msgid "Valentine Mk.IX"
+msgstr ""
+
+msgctxt "info/special/valentine9"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine11"
+msgid "Valentine Mk.XI"
+msgstr ""
+
+msgctxt "info/special/valentine11"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/lca"
+msgid "Land Craft Assault (LCA)"
+msgstr ""
+
+msgctxt "info/special/lca"
+msgid "<c(c3baae)>Landing Caft</c>"
+msgstr ""
+
+msgctxt "desc/entity/lca_grh"
+msgid "Land Craft Assault (LCA)"
+msgstr ""
+
+msgctxt "info/special/lca_grh"
+msgid "<c(c3baae)>Landing Caft</c>"
+msgstr ""
+
+msgctxt "desc/entity/2_inch_mk_ii"
+msgid "ML 2-inch Mortar"
+msgstr ""
+
+msgctxt "info/special/2_inch_mk_ii"
+msgid "<c(c3baae)>Light Mortar</c>"
+msgstr ""
+
+msgctxt "desc/entity/81mm_ml3_early"
+msgid "ML 3-inch Mortar (Early)"
+msgstr ""
+
+msgctxt "info/special/81mm_ml3_early"
+msgid "<c(c3baae)>Medium Mortar</c>"
+msgstr ""
+
+msgctxt "desc/entity/81mm_ml3"
+msgid "ML 3-inch Mortar"
+msgstr ""
+
+msgctxt "info/special/81mm_ml3"
+msgid "<c(c3baae)>Medium Mortar</c>"
+msgstr ""
+
+msgctxt "desc/entity/81mm_ml3_mortar_barrage"
+msgid "Medium Mortar Barrage"
+msgstr ""
+
+msgctxt "info/squad/81mm_ml3_mortar_barrage"
+msgid "ML 3-inch Mortar"
+msgstr ""
+
+msgctxt "desc/entity/107mm_ml4_2"
+msgid "ML 4.2-inch Mortar"
+msgstr ""
+
+msgctxt "info/special/107mm_ml4_2"
+msgid "<c(c3baae)>Heavy Mortar</c>"
+msgstr ""
+
+msgctxt "desc/entity/107mm_ml4_2_mortar_barrage"
+msgid "Heavy Mortar Barrage"
+msgstr ""
+
+msgctxt "info/squad/107mm_ml4_2_mortar_barrage"
+msgid "ML 3-inch Mortar"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_vickers_mg"
+msgid "Vickers Mk.I"
+msgstr ""
+
+msgctxt "info/special/heavy_mg_vickers_mg"
+msgid "<c(c3baae)>Medium MG</c>"
+msgstr ""
+
+msgctxt "desc/entity/vickers_mg"
+msgid "Vickers Mk.I"
+msgstr ""
+
+msgctxt "info/special/vickers_mg"
+msgid "<c(c3baae)>Medium MG</c>"
+msgstr ""
+
+msgctxt "desc/entity/20mm_oerlikon"
+msgid "Oerlikon No.2 Universal Mount"
+msgstr ""
+
+msgctxt "info/special/20mm_oerlikon"
+msgid "<c(c3baae)>Light AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/20mm_polsten"
+msgid "Polsten No.2 Universal Mount"
+msgstr ""
+
+msgctxt "info/special/20mm_polsten"
+msgid "<c(c3baae)>Light AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/37mm_qf_mk1"
+msgid "QF 37mm Mk.I"
+msgstr ""
+
+msgctxt "info/special/37mm_qf_mk1"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/40mm_qf2_early"
+msgid "QF 2-pdr (Early)"
+msgstr ""
+
+msgctxt "info/special/40mm_qf2_early"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/40mm_qf2_mid"
+msgid "QF 2-pdr (Mid)"
+msgstr ""
+
+msgctxt "info/special/40mm_qf2_mid"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/40mm_qf2_late"
+msgid "QF 2-pdr"
+msgstr ""
+
+msgctxt "info/special/40mm_qf2_late"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/40mm_qf2_littlejohn_mid"
+msgid "QF 2-pdr 'Littlejohn' (Mid)"
+msgstr ""
+
+msgctxt "info/special/40mm_qf2_littlejohn_mid"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/40mm_qf2_littlejohn_late"
+msgid "QF 2-pdr 'Littlejohn'"
+msgstr ""
+
+msgctxt "info/special/40mm_qf2_littlejohn_late"
+msgid "<c(c3baae)>Light AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/40mm_qf40_early"
+msgid "QF 40mm Mk.III (Early)"
+msgstr ""
+
+msgctxt "info/special/40mm_qf40_early"
+msgid "<c(c3baae)>Medium AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/40mm_qf40"
+msgid "QF 40mm Mk.III"
+msgstr ""
+
+msgctxt "info/special/40mm_qf40"
+msgid "<c(c3baae)>Medium AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/57mm_qf6_mk2_early"
+msgid "QF 6-pdr Mk.II (Early)"
+msgstr ""
+
+msgctxt "info/special/57mm_qf6_mk2_early"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/57mm_qf6_mk2_late"
+msgid "QF 6-pdr Mk.II"
+msgstr ""
+
+msgctxt "info/special/57mm_qf6_mk2_late"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/57mm_qf6_mk4_early"
+msgid "QF 6-pdr Mk.IV"
+msgstr ""
+
+msgctxt "info/special/57mm_qf6_mk4_early"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/57mm_qf6_mk4_late"
+msgid "QF 6-pdr Mk.IV"
+msgstr ""
+
+msgctxt "info/special/57mm_qf6_mk4_late"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/75mm_m1a1_eng"
+msgid "75mm M1A1 (M8 Carriage)"
+msgstr ""
+
+msgctxt "info/special/75mm_m1a1_eng"
+msgid "<c(c3baae)>Light Pack Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_qf17_early"
+msgid "QF 17-pdr"
+msgstr ""
+
+msgctxt "info/special/76mm_qf17_early"
+msgid "<c(c3baae)>Heavy AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_qf17_mid"
+msgid "QF 17-pdr"
+msgstr ""
+
+msgctxt "info/special/76mm_qf17_mid"
+msgid "<c(c3baae)>Heavy AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_qf17_late"
+msgid "QF 17-pdr"
+msgstr ""
+
+msgctxt "info/special/76mm_qf17_late"
+msgid "<c(c3baae)>Heavy AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_qf17_25"
+msgid "QF 17/25-pdr 'Pheasant'"
+msgstr ""
+
+msgctxt "info/special/76mm_qf17_25"
+msgid "<c(c3baae)>Heavy AT Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_land_mattress"
+msgid "Land Mattress"
+msgstr ""
+
+msgctxt "info/special/76mm_land_mattress"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr ""
+
+msgctxt "desc/entity/84mm_qf18_2pa"
+msgid "QF 18-pdr Mk.IIPA"
+msgstr ""
+
+msgctxt "info/special/84mm_qf18_2pa"
+msgid "<c(c3baae)>Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/84mm_qf18_4p"
+msgid "QF 18-pdr Mk.IV"
+msgstr ""
+
+msgctxt "info/special/84mm_qf18_4p"
+msgid "<c(c3baae)>Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/84mm_qf18_5p"
+msgid "QF 18-pdr Mk.IV"
+msgstr ""
+
+msgctxt "info/special/84mm_qf18_5p"
+msgid "<c(c3baae)>Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/88mm_qf25_mk1_4p"
+msgid "QF 18/25-pdr Mk.I"
+msgstr ""
+
+msgctxt "info/special/88mm_qf25_mk1_4p"
+msgid "<c(c3baae)>Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/88mm_qf25_mk1_5p"
+msgid "QF 18/25-pdr Mk.I"
+msgstr ""
+
+msgctxt "info/special/88mm_qf25_mk1_5p"
+msgid "<c(c3baae)>Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/88mm_qf25_mk2"
+msgid "QF 25-pdr Mk.II"
+msgstr ""
+
+msgctxt "info/special/88mm_qf25_mk2"
+msgid "<c(c3baae)>Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/88mm_qf25_mk2_late"
+msgid "QF 25-pdr Mk.II"
+msgstr ""
+
+msgctxt "info/special/88mm_qf25_mk2_late"
+msgid "<c(c3baae)>Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/3x_88mm_qf25_mk2_late"
+msgid "Battery: QF 25-pdr Mk.II"
+msgstr ""
+
+msgctxt "info/special/3x_88mm_qf25_mk2_late"
+msgid "<c(c3baae)>Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/94mm_qf_how_early"
+msgid "QF 3.7-inch Howitzer (Early)"
+msgstr ""
+
+msgctxt "info/special/94mm_qf_how_early"
+msgid "<c(c3baae)>Mountain Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/94mm_qf_how"
+msgid "QF 3.7-inch Howitzer"
+msgstr ""
+
+msgctxt "info/special/94mm_qf_how"
+msgid "<c(c3baae)>Mountain Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/94mm_qf_3_7_aa_early"
+msgid "QF 3.7-inch AA (Early)"
+msgstr ""
+
+msgctxt "info/special/94mm_qf_3_7_aa_early"
+msgid "<c(c3baae)>Heavy AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/94mm_qf_3_7_aa_mid"
+msgid "QF 3.7-inch AA (Mid)"
+msgstr ""
+
+msgctxt "info/special/94mm_qf_3_7_aa_mid"
+msgid "<c(c3baae)>Heavy AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/94mm_qf_3_7_aa_late"
+msgid "QF 3.7-inch AA"
+msgstr ""
+
+msgctxt "info/special/94mm_qf_3_7_aa_late"
+msgid "<c(c3baae)>Heavy AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/114mm_bl_4_5_mk1"
+msgid "BL 4.5-inch Mk.I Gun"
+msgstr ""
+
+msgctxt "info/special/114mm_bl_4_5_mk1"
+msgid "<c(c3baae)>Medium Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/114mm_bl_4_5"
+msgid "BL 4.5-inch Mk.II Gun"
+msgstr ""
+
+msgctxt "info/special/114mm_bl_4_5"
+msgid "<c(c3baae)>Medium Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/114mm_bl_4_5_smoke_barrage"
+msgid "Medium Smoke Barrage"
+msgstr ""
+
+msgctxt "desc/squad/114mm_bl_4_5_smoke_barrage"
+msgid "BL 4.5-inch Mk.II Gun"
+msgstr ""
+
+msgctxt "desc/entity/114mm_bl_4_5_artillery_barrage"
+msgid "Medium Artillery Barrage"
+msgstr ""
+
+msgctxt "desc/squad/114mm_bl_4_5_artillery_barrage"
+msgid "BL 4.5-inch Mk.II Gun"
+msgstr ""
+
+msgctxt "desc/entity/114mm_qf_how"
+msgid "QF 4.5-inch Howitzer"
+msgstr ""
+
+msgctxt "info/special/114mm_qf_how"
+msgid "<c(c3baae)>Medium Field Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/114mm_qf_how_wooden"
+msgid "QF 4.5-inch Howitzer"
+msgstr ""
+
+msgctxt "info/special/114mm_qf_how_wooden"
+msgid "<c(c3baae)>Medium Field Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/140mm_bl_5_5"
+msgid "BL 5.5-inch Mk.III Gun"
+msgstr ""
+
+msgctxt "info/special/140mm_bl_5_5"
+msgid "<c(c3baae)>Medium Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/140mm_bl_5_5_late"
+msgid "BL 5.5-inch Mk.III Gun"
+msgstr ""
+
+msgctxt "info/special/140mm_bl_5_5_late"
+msgid "<c(c3baae)>Medium Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/152mm_bl_6"
+msgid "BL 6-inch 26-cwt Howitzer Mk.I"
+msgstr ""
+
+msgctxt "info/special/152mm_bl_6"
+msgid "<c(c3baae)>Medium Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/152mm_bl_6_artillery_barrage"
+msgid "Heavy Artillery Barrage"
+msgstr ""
+
+msgctxt "desc/squad/152mm_bl_6_artillery_barrage"
+msgid "BL 6-inch 26-cwt Howitzer Mk.I"
+msgstr ""
+
+msgctxt "desc/entity/152mm_bl_6_mk19"
+msgid "BL 6-inch Mk.XIX"
+msgstr ""
+
+msgctxt "info/special/152mm_bl_6_mk19"
+msgid "<c(c3baae)>Heavy Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/155mm_m1a1_longtom_eng"
+msgid "155mm Gun M1A1 'Long Tom'"
+msgstr ""
+
+msgctxt "info/special/155mm_m1a1_longtom_eng"
+msgid "<c(c3baae)>Heavy Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/183mm_bl_7_2"
+msgid "BL 7.2-inch Howitzer Mk.III"
+msgstr ""
+
+msgctxt "info/special/183mm_bl_7_2"
+msgid "<c(c3baae)>Heavy Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/183mm_bl_7_2_mk6"
+msgid "BL 7.2-inch Howitzer Mk.VI"
+msgstr ""
+
+msgctxt "info/special/183mm_bl_7_2_mk6"
+msgid "<c(c3baae)>Heavy Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/203mm_bl_8"
+msgid "BL 8-inch Howitzer Mk.VIII"
+msgstr ""
+
+msgctxt "info/special/203mm_bl_8"
+msgid "<c(c3baae)>Heavy Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/mimosa"
+msgid "Motor Yacht"
+msgstr ""
+
+msgctxt "info/special/mimosa"
+msgid "<c(c3baae)>Boat</c>"
+msgstr ""
+
+msgctxt "desc/entity/drifter_eng"
+msgid "Naval Drifter"
+msgstr ""
+
+msgctxt "info/special/drifter_eng"
+msgid "<c(c3baae)>Boat</c>"
+msgstr ""
+
+msgctxt "desc/entity/hms_boadicea"
+msgid "HMS Boadicea"
+msgstr ""
+
+msgctxt "info/special/hms_boadicea"
+msgid "<c(c3baae)>Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk1"
+msgid "Cruiser Mk.I"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk1"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk1_cs"
+msgid "Cruiser Mk.I CS"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk1_cs"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk2"
+msgid "Cruiser Mk.II"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk2"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk2a"
+msgid "Cruiser Mk.IIA"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk2a"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk2a_cs"
+msgid "Cruiser Mk.IIA CS"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk2a_cs"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk3"
+msgid "Cruiser Mk.III"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk3"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk3_late"
+msgid "Cruiser Mk.III*"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk3_late"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk4"
+msgid "Cruiser Mk.IV"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk4"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/cruiser_mk4a"
+msgid "Cruiser Mk.IVA"
+msgstr ""
+
+msgctxt "info/special/cruiser_mk4a"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/crusader_mk1"
+msgid "Crusader Mk.I"
+msgstr ""
+
+msgctxt "info/special/crusader_mk1"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/crusader_mk1_cs"
+msgid "Crusader Mk.I CS"
+msgstr ""
+
+msgctxt "info/special/crusader_mk1_cs"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/crusader_mk2"
+msgid "Crusader Mk.II"
+msgstr ""
+
+msgctxt "info/special/crusader_mk2"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/crusader_mk2_cs"
+msgid "Crusader Mk.II CS"
+msgstr ""
+
+msgctxt "info/special/crusader_mk2_cs"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/crusader_mk3"
+msgid "Crusader Mk.III"
+msgstr ""
+
+msgctxt "info/special/crusader_mk3"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/3x_crusader_mk3"
+msgid "3X Crusader Mk.III"
+msgstr ""
+
+msgctxt "info/special/3x_crusader_mk3"
+msgid "<c(c3baae)>Cruiser Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/crusader_aa_mk1"
+msgid "Crusader Mk.III AA Mk.I"
+msgstr ""
+
+msgctxt "info/special/crusader_aa_mk1"
+msgid "<c(c3baae)>Medium AA</c>"
+msgstr ""
+
+msgctxt "desc/entity/crusader_aa_mk2"
+msgid "Crusader Mk.III AA Mk.II"
+msgstr ""
+
+msgctxt "info/special/crusader_aa_mk2"
+msgid "<c(c3baae)>Light AA</c>"
+msgstr ""
+
+msgctxt "desc/entity/vickers_mk6"
+msgid "Light Mk.VIb"
+msgstr ""
+
+msgctxt "info/special/vickers_mk6"
+msgid "<c(c3baae)>Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/tetrarch_mk7"
+msgid "Light Mk.VII Tetrarch"
+msgstr ""
+
+msgctxt "info/special/tetrarch_mk7"
+msgid "<c(c3baae)>Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/tetrarch_mk7_littlejohn"
+msgid "Light Mk.VII Tetrarch 'Little John'"
+msgstr ""
+
+msgctxt "info/special/tetrarch_mk7_littlejohn"
+msgid "<c(c3baae)>Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/m22_locust"
+msgid "M22 Locust"
+msgstr ""
+
+msgctxt "info/special/m22_locust"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/m22_locust_littlejohn"
+msgid "M22 Locust 'Little John'"
+msgstr ""
+
+msgctxt "info/special/m22_locust_littlejohn"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/vickers_aa_mk1"
+msgid "Light AA Mk.I"
+msgstr ""
+
+msgctxt "info/special/vickers_aa_mk1"
+msgid "<c(c3baae)>Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/light_tank_mk8"
+msgid "Light Mk.VIII 'Harry Hopkins'"
+msgstr ""
+
+msgctxt "info/special/light_tank_mk8"
+msgid "<c(c3baae)>Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine_mk1"
+msgid "Valentine Mk.I"
+msgstr ""
+
+msgctxt "info/special/valentine_mk1"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine_mk2"
+msgid "Valentine Mk.II"
+msgstr ""
+
+msgctxt "info/special/valentine_mk2"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine_mk3"
+msgid "Valentine Mk.III"
+msgstr ""
+
+msgctxt "info/special/valentine_mk3"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine_mk3cs"
+msgid "Valentine Mk.III CS"
+msgstr ""
+
+msgctxt "info/special/valentine_mk3cs"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine_mk9"
+msgid "Valentine Mk.IX"
+msgstr ""
+
+msgctxt "info/special/valentine_mk9"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine_mk10"
+msgid "Valentine Mk.X"
+msgstr ""
+
+msgctxt "info/special/valentine_mk10"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/valentine_mk11"
+msgid "Valentine Mk.XI"
+msgstr ""
+
+msgctxt "info/special/valentine_mk11"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/3x_valentine_mk11"
+msgid "3X Valentine Mk.XI"
+msgstr ""
+
+msgctxt "info/special/3x_valentine_mk11"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/lvt4_eng"
+msgid "LVT-4"
+msgstr ""
+
+msgctxt "info/special/lvt4_eng"
+msgid "<c(c3baae)>Amphibious Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/matilda1"
+msgid "Matilda I"
+msgstr ""
+
+msgctxt "info/special/matilda1"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/matilda1_50"
+msgid "Matilda I (.5-inch)"
+msgstr ""
+
+msgctxt "info/special/matilda1_50"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/matilda2_mk1"
+msgid "Matilda II Mk.I"
+msgstr ""
+
+msgctxt "info/special/matilda2_mk1"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/matilda2_mk3"
+msgid "Matilda II Mk.III"
+msgstr ""
+
+msgctxt "info/special/matilda2_mk3"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/matilda2_mk4_cs"
+msgid "Matilda II Mk.IV CS"
+msgstr ""
+
+msgctxt "info/special/matilda2_mk4_cs"
+msgid "<c(c3baae)>Infantry Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/stuart1"
+msgid "Stuart I 'Honey'"
+msgstr ""
+
+msgctxt "info/special/stuart1"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/stuart3"
+msgid "Stuart III"
+msgstr ""
+
+msgctxt "info/special/stuart3"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/stuart5"
+msgid "Stuart V"
+msgstr ""
+
+msgctxt "info/special/stuart5"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/stuart5_recce"
+msgid "Stuart V Recce"
+msgstr ""
+
+msgctxt "info/special/stuart5_recce"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/stuart6"
+msgid "Stuart VI"
+msgstr ""
+
+msgctxt "info/special/stuart6"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/bishop"
+msgid "Valentine 25-pdr Mk.I 'Bishop'"
+msgstr ""
+
+msgctxt "info/special/bishop"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/archer"
+msgid "Valentine 17-pdr Mk.I 'Archer'"
+msgstr ""
+
+msgctxt "info/special/archer"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/sexton_mk2"
+msgid "25-pdr SP Tracked Mk.II 'Sexton'"
+msgstr ""
+
+msgctxt "info/special/sexton_mk2"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/horsa_mk1"
+msgid "Airspeed AS.51 Horsa Mk.I"
+msgstr ""
+
+msgctxt "info/special/horsa_mk1"
+msgid "<c(c3baae)>Transport Aircraft</c>"
+msgstr ""
+
+msgctxt "desc/human/blenheim_mk1_eng"
+msgid "Bristol Blenheim Mk.I"
+msgstr ""
+
+msgctxt "desc/entity/blenheim_mk1_eng"
+msgid "Bristol Blenheim Mk.I"
+msgstr ""
+
+msgctxt "info/special/blenheim_mk1_eng"
+msgid "<c(c3baae)>Bomber</c>"
+msgstr ""
+
+msgctxt "desc/human/blenheim_mk1_eng_recon"
+msgid "Bristol Blenheim Mk.I"
+msgstr ""
+
+msgctxt "desc/entity/blenheim_mk1_eng_recon"
+msgid "Bristol Blenheim Mk.I"
+msgstr ""
+
+msgctxt "info/special/blenheim_mk1_eng_recon"
+msgid "<c(c3baae)>Recon</c>"
+msgstr ""
+
+msgctxt "desc/human/hurricane_mk1a"
+msgid "Hawker Hurricane Ia"
+msgstr ""
+
+msgctxt "desc/entity/hurricane_mk1a"
+msgid "Hawker Hurricane Ia"
+msgstr ""
+
+msgctxt "info/special/hurricane_mk1a"
+msgid "<c(c3baae)>Fighter</c>"
+msgstr ""
+
+msgctxt "desc/human/hurribomber_mk2c"
+msgid "Hawker Hurribomber IIc"
+msgstr ""
+
+msgctxt "desc/entity/hurribomber_mk2c"
+msgid "Hawker Hurribomber IIc"
+msgstr ""
+
+msgctxt "info/special/hurribomber_mk2c"
+msgid "<c(c3baae)>Bomber</c>"
+msgstr ""
+
+msgctxt "desc/human/typhoon_mk1b"
+msgid "Hawker Typhoon Ib"
+msgstr ""
+
+msgctxt "desc/entity/typhoon_mk1b"
+msgid "Hawker Typhoon Ib"
+msgstr ""
+
+msgctxt "info/special/typhoon_mk1b"
+msgid "<c(c3baae)>Fighter</c>"
+msgstr ""
+
+msgctxt "desc/human/typhoon_mk1b_recon"
+msgid "Hawker Typhoon Ib"
+msgstr ""
+
+msgctxt "desc/entity/typhoon_mk1b_recon"
+msgid "Hawker Typhoon Ib"
+msgstr ""
+
+msgctxt "info/special/typhoon_mk1b_recon"
+msgid "<c(c3baae)>Recon</c>"
+msgstr ""
+
+msgctxt "desc/entity/inf_crate_eng"
+msgid "British Ammo Crate"
+msgstr ""
+
+msgctxt "info/special/inf_crate_eng"
+msgid "<c(c3baae)>Supply</c>"
+msgstr ""
+
+msgctxt "desc/entity/ammo_trailer_eng"
+msgid "British Ammo Trailer"
+msgstr ""
+
+msgctxt "info/special/ammo_trailer_eng"
+msgid "<c(c3baae)>Supply</c>"
+msgstr ""
+
+msgctxt "desc/entity/ram_kangaroo"
+msgid "Ram Mk.I Kangaroo"
+msgstr ""
+
+msgctxt "info/special/ram_kangaroo"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/ram_kangaroo_mk2"
+msgid "Ram Mk.II Kangaroo"
+msgstr ""
+
+msgctxt "info/special/ram_kangaroo_mk2"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""

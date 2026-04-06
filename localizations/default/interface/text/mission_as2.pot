@@ -1,0 +1,1063 @@
+# RobZ
+
+
+# 1V1 Maps
+msgctxt "mission/multi/1v1_Crossroad/name"
+msgid "Crossroad <e(shadow)><c(00ff0aff)>1x1</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_afro/name"
+msgid "African expedition <e(shadow)><c(00ff0aff)>1x1</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_argentan/name"
+msgid "Argentan <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_boot_hill/name"
+msgid "Boot hill <e(shadow)><c(00ff0aff)>1x1</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_frozen_river/name"
+msgid "Frozen River <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_highwayn13/name"
+msgid "Highway N13 <e(shadow)><c(00ff0aff)>1x1</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_icy_village/name"
+msgid "Ice village <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_pegasus-bridge/name"
+msgid "Pegasus Bridge <e(shadow)><c(00ff0aff)>1x1</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_reloading_point/name"
+msgid "Reloading Point <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_road/name"
+msgid "Road <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_snowfields/name"
+msgid "Snow Fields <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_spring/name"
+msgid "Spring <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_vierville/name"
+msgid "Vierville <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_wake_island/name"
+msgid "Wake island <e(shadow)><c(00ff0aff)>1x1</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_winter_church/name"
+msgid "Winter Church <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_winter_fields/name"
+msgid "Winter Fields <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_winter_harbor/name"
+msgid "Winter Harbor <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_winter_hills/name"
+msgid "Winter Hills <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/1v1_winter_town/name"
+msgid "Winter Town <e(shadow)><c(bebebe)>1x1</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+
+# 2V2 Maps
+msgctxt "mission/multi/2v2_The_Hill_138/name"
+msgid "The Hill 138 <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_ardennes_original/name"
+msgid "Ardennes <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_atlanticwall/name"
+msgid "Atlanticwall <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_authie/name"
+msgid "Authie <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_avranches/name"
+msgid "Avranches <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_beachlandia/name"
+msgid "Beachlandia <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_bocage/name"
+msgid "Bocage <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_bridges/name"
+msgid "Bridges <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_caen_outskirts/name"
+msgid "Caen Outskirts <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_canyon/name"
+msgid "Canyon <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_castle/name"
+msgid "Castle <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_cold_day/name"
+msgid "Cold day <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_cold_stream/name"
+msgid "Cold Stream <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_colleville/name"
+msgid "Colleville <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_costal_railway_town/name"
+msgid "Costal railway town <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_crossroads/name"
+msgid "Crossroads <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_fareast/name"
+msgid "Far East <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_farm/name"
+msgid "Farm <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_farmlandia/name"
+msgid "Farmlandia <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_farmstead/name"
+msgid "Farmstead <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_finland/name"
+msgid "Finland Scopes <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_frontline3_2x2/name"
+msgid "Ice Castle <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_frontline4_2x2/name"
+msgid "Fortress <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_frontline6/name"
+msgid "City Edge<e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_heights/name"
+msgid "Heights <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_kanawa_mine/name"
+msgid "Kanawa mine <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_koenigsplatz/name"
+msgid "Koenigsplatz <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_la pointe du hoc/name"
+msgid "Lapointe du Hoc <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_meeting_engagement/name"
+msgid "Meeting engagement <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_moskow/name"
+msgid "Moskow <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_plateau/name"
+msgid "Plateau <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_ramelle/name"
+msgid "Ramelle <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_redoctober/name"
+msgid "Red October <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_river_town/name"
+msgid "River town <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_route/name"
+msgid "Route <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_silent_town/name"
+msgid "Silent Town <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_singapore/name"
+msgid "Singapore <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_sthilaire/name"
+msgid "St Hilaire <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_trainyard/name"
+msgid "Trainyard <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_tram_depot/name"
+msgid "Tramway depot <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_urban_garden/name"
+msgid "Urban Garden <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_warehouse/name"
+msgid "Workshop <e(shadow)><c(bebebe)>2x2</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_winter_hill/name"
+msgid "Winter hill <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2v2_winter_line/name"
+msgid "Winter line <e(shadow)><c(00ff0aff)>2x2</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2x2_gsm_Bestland/name"
+msgid "Bestland <e(shadow)><c(00ff0aff)>2x2</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2x2_gsm_fields_near_sherbourg/name"
+msgid "Fields near Sherbourg <e(shadow)><c(00ff0aff)>2x2</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2x2_gsm_lumber/name"
+msgid "Lumber <e(shadow)><c(00ff0aff)>2x2</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2x2_gsm_tattarby/name"
+msgid "Tattarby <e(shadow)><c(00ff0aff)>2x2</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/2x2_gsm_theorchard/name"
+msgid "The Orchard <e(shadow)><c(00ff0aff)>2x2</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+
+# 3V3 Maps
+msgctxt "mission/multi/3v3_atlantikwall/name"
+msgid "Atlantikwall <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_beachland/name"
+msgid "Beachland <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_bog/name"
+msgid "Bog <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_carentan/name"
+msgid "Carentan <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_crossing/name"
+msgid "Crossing <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_crossroads/name"
+msgid "Crossroads <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_dead_hils/name"
+msgid "Dead Hills <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_deadriver/name"
+msgid "Dead river <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_desert_fields/name"
+msgid "Desert fields <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_docklands/name"
+msgid "Docklands <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_elalamein/name"
+msgid "El alamein <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_elzas/name"
+msgid "Elzas <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_falaise/name"
+msgid "Falaise <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_farmland/name"
+msgid "Farmland <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_frag_town/name"
+msgid "Frag town <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_frontline2/name"
+msgid "Railway crossings <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_frontline8/name"
+msgid "Winter Station <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_jungle/name"
+msgid "Jungle battle <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_kasserine_pass/name"
+msgid "Kasserine Pass <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_oasis/name"
+msgid "Oasis <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_outskirtscherbourg/name"
+msgid "Cherbourg Outskirts <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_overlord/name"
+msgid "Overlord <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_river_bank/name"
+msgid "River Bank <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_russian_hutor/name"
+msgid "Remoteness <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_russy/name"
+msgid "Russy <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_saipan/name"
+msgid "Saipan <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_sevastopol/name"
+msgid "Sevastopol <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_shattered/name"
+msgid "Shattered town <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_shattered_town/name"
+msgid "Shattered Town <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3v3_westland/name"
+msgid "Westland <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_Arad/name"
+msgid "Arad <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_Hemeroulle_1219/name"
+msgid "Hemeroulle 1219 <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_Road to StVith/name"
+msgid "Road to St.Vith <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_bastogne/name"
+msgid "Bastogne <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_bastogne_town/name"
+msgid "Bastogne Town <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_bastogne_town_remix/name"
+msgid "Bastogne Town remix <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_gazala/name"
+msgid "Gazala <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_german_Village/name"
+msgid "German Village <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_homefront/name"
+msgid "Homefront <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_moskow/name"
+msgid "Moskow Outskirts <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_railway/name"
+msgid "Railway <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_thebeach/name"
+msgid "The Beach <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_west_front/name"
+msgid "West Front <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_gsm_winter_hills/name"
+msgid "Winter Hills <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/3x3_uman/name"
+msgid "Uman <e(shadow)><c(00ff0aff)>3x3 <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+
+# 4V4 Maps
+msgctxt "mission/multi/4v4_Countryside/name"
+msgid "Countryside <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_PH_Hutor/name"
+msgid "Hutor <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_advance2/name"
+msgid "Advance <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_alamo/name"
+msgid "Alamo <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_bazerville/name"
+msgid "Bazerville <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_bocage2/name"
+msgid "Bocage <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_bridges_quartet/name"
+msgid "Bridges Quartet <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_creek/name"
+msgid "Creek <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_depot/name"
+msgid "Depot <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_desert_airport/name"
+msgid "Desert Airport <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_falaise1944/name"
+msgid "Falaise <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_falaise1944_remix/name"
+msgid "Falaise Remix <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_gold_rush/name"
+msgid "Gold Rush <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_heilshoop/name"
+msgid "Heilshoop <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_heilshoop_remix/name"
+msgid "Heilshoop Remix <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_hutor/name"
+msgid "Hutor <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_lakeland/name"
+msgid "Lakeland <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_langres/name"
+msgid "Road to Langres <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_leningrad/name"
+msgid "Leningrad <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_nijmegen/name"
+msgid "Nijmegen <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_omaha-beach/name"
+msgid "Omaha Beach <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_seek_and_destroy/name"
+msgid "Seek and destroy <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_southland/name"
+msgid "Southland <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_st-mere-eglise/name"
+msgid "St Mere Eglise <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_suburb/name"
+msgid "Suburb 2 <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_town/name"
+msgid "Town <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_town_remix/name"
+msgid "Town remix <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_village/name"
+msgid "Village <e(shadow)><c(bebebe)>4x4</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_warfare3/name"
+msgid "Warfare 3 <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_warfare3_remix/name"
+msgid "Warfare 3 Remix<e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_warfare4/name"
+msgid "Warfare 4 <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4v4_warfare4_remix/name"
+msgid "Warfare 4 Remix <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_africa/name"
+msgid "Africa <e(shadow)><c(00ff0aff)>4x4 <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_africa_remix/name"
+msgid "Africa remix <e(shadow)><c(00ff0aff)>4x4 <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_bulge/name"
+msgid "Bulge forest <e(shadow)><c(00ff0aff)>4x4 <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_general_winter/name"
+msgid "General winter <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_general_winter_remix/name"
+msgid "General winter remix <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_general_winter_remix2/name"
+msgid "General winter remix2 <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Bog/name"
+msgid "Bog <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Ga'an/name"
+msgid "Ga'an <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Roadway/name"
+msgid "Roadway <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Spaetburgunder/name"
+msgid "Spaetburgunder <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_St._Lo/name"
+msgid "St. Lo <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_St._Lo_remix/name"
+msgid "St. Lo remix <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Station2/name"
+msgid "Train Station <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Tessel/name"
+msgid "Tessel <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Tessel_remix/name"
+msgid "Tessel remix <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Wetland/name"
+msgid "Wetland <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_Wetland_remix/name"
+msgid "Wetland remix <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_cat_merville/name"
+msgid "Merville Battery <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_elzas/name"
+msgid "Elsas-Lothringen <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_foggy_wood/name"
+msgid "Foggy Wood <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_frenchcommunity/name"
+msgid "French Community <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_ostfront/name"
+msgid "Ostfront <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_road_to_takama/name"
+msgid "Road To Takama <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_seaside/name"
+msgid "Seaside <e(shadow)><c(00ff0aff)>2x2</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_summer_fields/name"
+msgid "Summer Fields <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_to_berlin/name"
+msgid "To Berlin <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_trun/name"
+msgid "Trun <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_gsm_westland/name"
+msgid "Westland <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_utah/name"
+msgid "Utah <e(shadow)><c(00ff0aff)>4x4 <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_utah_remix/name"
+msgid "Utah remix <e(shadow)><c(00ff0aff)>4x4 <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/4x4_valour_stalingrad/name"
+msgid "Stalingrad <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+
+# 5V5 Maps
+msgctxt "mission/multi/5v5_borovaya/name"
+msgid "River <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_country/name"
+msgid "Country <e(shadow)><c(00ff0aff)>5x5</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_country_roads/name"
+msgid "Country Roads <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_docks/name"
+msgid "Docks <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_factory/name"
+msgid "Factory <e(shadow)><c(00ff0aff)>5x5</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_fields/name"
+msgid "Fields <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_forest/name"
+msgid "Forest <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_march/name"
+msgid "Ostwind <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_normandy/name"
+msgid "Normandy <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_port/name"
+msgid "Port <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_railway_station/name"
+msgid "Railway Station <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_rustle_of_sands/name"
+msgid "Rustle of sands <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_suburb_3/name"
+msgid "Grand suburb <e(shadow)><c(bebebe)>5x5</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_warfare_2/name"
+msgid "Warfare 2 <e(shadow)><c(00ff0aff)>5x5 <c(730d0d)>[Warfare11]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5v5_warfare_2_remix/name"
+msgid "Warfare 2 remix <e(shadow)><c(00ff0aff)>5x5</c> <c(730d0d)>[Warfare11]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_bulge/name"
+msgid "Bulge <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_bulge_remix/name"
+msgid "Bulge remix <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_bulge_remix2/name"
+msgid "Bulge remix 2 <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_bulge_remix3/name"
+msgid "Bulge remix 3 <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_greece/name"
+msgid "Greece <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_greece_remix/name"
+msgid "Greece remix <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_greece_remix2/name"
+msgid "Greece remix 2 <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_greece_remix3/name"
+msgid "Greece remix 3 <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[Old boy]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_Bir_Hacheim/name"
+msgid "Bir Hacheim <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_Breakthrough/name"
+msgid "Warfare11 <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_Breakthrough_remix/name"
+msgid "Warfare11 remix <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_Brettevillette/name"
+msgid "Brettevillette <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_Brettevillette_remix/name"
+msgid "Brettevillette remix <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_Cauldron/name"
+msgid "Cauldron <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_Derna/name"
+msgid "Derna <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_bigdeserttown/name"
+msgid "Big Desert Town <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_bigdeserttown_remix/name"
+msgid "Big Desert Town remix <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_bumpkin/name"
+msgid "Bumpkin <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_iwo_jima/name"
+msgid "Iwo Jima <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_nikolaev/name"
+msgid "Nikolaev <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_ostwindrmx/name"
+msgid "Ostwind Remix <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_ostwindrmx_remix/name"
+msgid "Ostwind Remix2 <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_province/name"
+msgid "Province <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_red_flag/name"
+msgid "Red Flag <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_rochefort/name"
+msgid "Rochefort <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_romanian_outpost/name"
+msgid "Romania <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_russy/name"
+msgid "Russy <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/5x5_gsm_ukrainia/name"
+msgid "Ukrainia <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+
+# 6V6 Maps
+msgctxt "mission/multi/6v6_december/name"
+msgid "December <e(shadow)><c(00ff0aff)>5x5</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_december_remix/name"
+msgid "December remix <e(shadow)><c(00ff0aff)>5x5</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_desert_hills/name"
+msgid "Desert Hills <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_desert_hills_remix/name"
+msgid "Desert Hills remix <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_dubovka/name"
+msgid "Dubovka <e(shadow)><c(bebebe)>6x6</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_dubovka_remix/name"
+msgid "Dubovka remix <e(shadow)><c(bebebe)>6x6</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_glubinka/name"
+msgid "Glubinka <e(shadow)><c(bebebe)>6x6</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_glubinka_remix/name"
+msgid "Glubinka remix <e(shadow)><c(bebebe)>6x6</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_hunting/name"
+msgid "Hunting <e(shadow)><c(bebebe)>6x6</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_hunting_remix/name"
+msgid "Hunting remix <e(shadow)><c(bebebe)>6x6</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_river_valley/name"
+msgid "River valley <e(shadow)><c(00ff0aff)>6x6</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_river_valley_remix/name"
+msgid "River valley remix <e(shadow)><c(00ff0aff)>6x6</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6v6_station/name"
+msgid "Hills <e(shadow)><c(bebebe)>6x6</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Carpiquet_Airfield/name"
+msgid "Carpiquet Airfield <e(shadow)><c(00ff0aff)>6x6</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Kharkov/name"
+msgid "Kharkov <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Medvedovka/name"
+msgid "Medvedovka <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Medvedovka_remix/name"
+msgid "Medvedovka remix <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Minsk/name"
+msgid "Minsk <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Poland/name"
+msgid "Poland <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Prokhorovka/name"
+msgid "Prokhorovka <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Russia/name"
+msgid "Russia <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_Ukraine/name"
+msgid "Ukraine <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_general_winter/name"
+msgid "General Winter <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_general_winter_remix/name"
+msgid "General Winter remix <e(shadow)><c(00ff0aff)>3x3</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_june/name"
+msgid "June <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_june_remix/name"
+msgid "June remix <e(shadow)><c(00ff0aff)>5x5</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_rauray/name"
+msgid "Rauray <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_rauray_remix/name"
+msgid "Rauray remix <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+msgctxt "mission/multi/6x6_gsm_rauray_remix2/name"
+msgid "Rauray remix2 <e(shadow)><c(00ff0aff)>4x4</c> <c(ffff00)>[GSM]</c>"
+msgstr ""
+
+
+# 8V8 Maps
+msgctxt "mission/multi/8v8_costal_town/name"
+msgid "Costal Town <e(shadow)><c(00ff0aff)>3x3</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_desert_walk/name"
+msgid "Desert walk <e(shadow)><c(bebebe)>8x8</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_desert_walk_remix/name"
+msgid "Desert walk remix <e(shadow)><c(bebebe)>8x8</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_disaster/name"
+msgid "Disaster <e(shadow)><c(00ff0aff)>5x5</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_elalamein/name"
+msgid "El Alamein <e(shadow)><c(00ff0aff)>4x4</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_facility/name"
+msgid "Facility <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_foothills/name"
+msgid "Foot Hills <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_forest2/name"
+msgid "Forest <e(shadow)><c(00ff0aff)>8x8</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_frostbite/name"
+msgid "Frostbite <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_market/name"
+msgid "Market <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_ostwind/name"
+msgid "Ostwind <e(shadow)><c(bebebe)>8x8</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_port/name"
+msgid "Port <e(shadow)><c(00ff0aff)>6x6</c> <c(00ff0aff)>[RobZ]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_sands/name"
+msgid "Sands <e(shadow)><c(bebebe)>3x3</c> <c(bebebe)>[AS2]</c>"
+msgstr ""
+
+msgctxt "mission/multi/8v8_winter_walk/name"
+msgid "Winter walk <e(shadow)><c(bebebe)>8x8</c> <c(bebebe)>[AS2]</c>"
+msgstr ""

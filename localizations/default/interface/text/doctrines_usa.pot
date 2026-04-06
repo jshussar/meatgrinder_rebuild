@@ -1,0 +1,48 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA - Gates of Hell (usa doctrines)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+
+
+msgctxt "mp/lobby/doctrine/mid_usa_defensive"
+msgid "Defensive"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_usa_irregular"
+msgid "Irregular"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_usa_offensive"
+msgid "Offensive"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/mid_usa_allround"
+msgid "Project Realism: 44-45"
+msgstr ""
+
+
+msgctxt "mp/lobby/doctrine/late_usa_defensive"
+msgid "Defensive"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_usa_irregular"
+msgid "Irregular"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_usa_offensive"
+msgid "Offensive"
+msgstr ""
+
+msgctxt "mp/lobby/doctrine/late_usa_allround"
+msgid "Project Realism: 44-45"
+msgstr ""

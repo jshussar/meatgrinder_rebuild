@@ -1,0 +1,426 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German gear\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/stuff/engineering_tools"
+msgid "Engineer's tools"
+msgstr ""
+
+msgctxt "desc/stuff/ammo_box_mortar"
+msgid "Mortar Ammo Box"
+msgstr ""
+
+msgctxt "desc/stuff/ammo_box_small"
+msgid "Small ammunition box"
+msgstr ""
+
+msgctxt "desc/stuff/can_grenade"
+msgid "Canister with grenade"
+msgstr ""
+
+msgctxt "desc/stuff/grenade_mine"
+msgid "Anti-Tank Tellermine 35 with M24 fuse"
+msgstr ""
+
+msgctxt "desc/stuff/mortar_grenade"
+msgid "5cm Wgr.36 Mortar (grenade)"
+msgstr ""
+
+msgctxt "desc/stuff/m39"
+msgid "Eihandgranate M39"
+msgstr ""
+
+msgctxt "desc/stuff/oto_mod35"
+msgid "OTO Mod. 35"
+msgstr ""
+
+msgctxt "desc/stuff/m24x5"
+msgid "Geballte Ladung M24x5"
+msgstr ""
+
+msgctxt "desc/stuff/rg42x3"
+msgid "Rgd-33 x3"
+msgstr ""
+
+msgctxt "desc/stuff/cos_m39_sidecaps_3"
+msgid "Feldmütze 34 [Kosak]"
+msgstr ""
+
+msgctxt "desc/stuff/cos_sidecap_m42_3"
+msgid "Feldmütze 34 [Kosak]"
+msgstr ""
+
+msgctxt "desc/stuff/roa_off_cap_crusher_inf"
+msgid "Officer 'Knautschmütze' 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_off_cap_crusher_pz"
+msgid "Panzer Officer 'Knautschmütze' 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_don_late_var1"
+msgid "Papakha <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_don_late_var2"
+msgid "Papakha <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_don_late_var3"
+msgid "Papakha <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_sib_var1"
+msgid "Papakha <c(ffff00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_sib_var2"
+msgid "Papakha <c(ffff00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_sib_var3"
+msgid "Papakha <c(ffff00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_m39_sidecap_3"
+msgid "Feldmütze 34 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_m39_sidecap_3_off"
+msgid "Feldmütze 34 - Officer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecap_m42_3"
+msgid "Feldmütze 34 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43"
+msgid "Einheitsfeldmütze 43 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_gog_b_down"
+msgid "Einheitsfeldmütze 43 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_gog_b_up"
+msgid "Einheitsfeldmütze 43 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_off"
+msgid "Einheitsfeldmütze 43 - Officer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_var3"
+msgid "Einheitsfeldmütze 43 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_pz"
+msgid "Einheitsfeldmütze 43 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_pz_gog_b_down"
+msgid "Einheitsfeldmütze 43 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_pz_gog_b_up"
+msgid "Einheitsfeldmütze 43 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_pz_off"
+msgid "Einheitsfeldmütze 43 - Officer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_fieldcap_m43_pz_var3"
+msgid "Einheitsfeldmütze 43 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecap_m39_1"
+msgid "Feldmütze 34 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecap_m42_1"
+msgid "Feldmütze 34 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecap_m42_gog_b_down"
+msgid "Feldmütze 34 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecaps_m39_2"
+msgid "Feldmütze 34 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecaps_m39_2_c"
+msgid "Feldmütze 34 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecaps_m39_2_off"
+msgid "Feldmütze 34 - Officer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecaps_m42_var2"
+msgid "Feldmütze 34 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/terek_kubanka_black_var1"
+msgid "Kubanka <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/terek_kubanka_black_var2"
+msgid "Kubanka <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/terek_kubanka_black_var3"
+msgid "Kubanka <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/don_kubanka_black"
+msgid "Kubanka <c(F44336)>[DON]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/don_kubanka_black_inf"
+msgid "Kubanka"
+msgstr ""
+
+msgctxt "desc/stuff/don_kubanka_black_off"
+msgid "Kubanka"
+msgstr ""
+
+msgctxt "desc/stuff/jung_kubanka_b"
+msgid "Kubanka <c(CC0352)>[Jungschulz]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/jung_sidecaps_m39"
+msgid "Feldmütze 34 <c(CC0352)>[Jungschulz]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/kub_kubanka_black"
+msgid "Kubanka <c(460101)>[KUBAN]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/m39_sidecaps_terek_var1"
+msgid "Feldmütze 34 <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_b"
+msgid "Papakha"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_off_b"
+msgid "Papakha"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_sib"
+msgid "Papakha <c(ffff00)>[SIBIR]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_terek"
+msgid "Papakha <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/papakha_terek_c"
+msgid "Papakha <c(2B6FA2)>[TEREK]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_kubanka_b"
+msgid "Kubanka <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_kubanka_w"
+msgid "Kubanka <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_m39_sidecaps_v1_off_panzer"
+msgid "Feldmütze 34 - Officer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_off_cap_inf"
+msgid "Schirmmütze 34 - Officer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_sidecap_m39_off"
+msgid "Feldmütze 34 - Officer <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/s_overseascap_ss_var1"
+msgid "Feldmütze M40"
+msgstr ""
+
+msgctxt "desc/stuff/schuma_m43_fieldcaps_var3"
+msgid "Einheitsfeldmütze 43"
+msgstr ""
+
+msgctxt "desc/stuff/ger_stalhelm_m39_g_cl"
+msgid "Heer Stahlhelm 35"
+msgstr ""
+
+msgctxt "desc/stuff/stalhelm_m39_var1_c"
+msgid "Stahlhelm 38"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_band"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_cloth"
+msgid "Heer Stahlhelm 35 - Cloth <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_gog_a_down"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_gog_a_up"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_gog_b_down"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_gog_b_up"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_grass"
+msgid "Heer Stahlhelm 35 - Grass <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_strap"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_strap_holder"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_v2"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_v3"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var1_wire"
+msgid "Heer Stahlhelm 35 - Wire <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_band"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_cloth"
+msgid "Heer Stahlhelm 35 - Cloth <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_gog_a_down"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_gog_a_up"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_gog_b_down"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_gog_b_up"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_grass"
+msgid "Heer Stahlhelm 35 - Grass <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_strap"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_strap_holder"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_v2"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_v3"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var2_wire"
+msgid "Heer Stahlhelm 35 - Wire <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_band"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_cloth"
+msgid "Heer Stahlhelm 35 - Cloth <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_gog_a_down"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_gog_a_up"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_gog_b_down"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_gog_b_up"
+msgid "Heer Stahlhelm 35 - Goggles <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_grass"
+msgid "Heer Stahlhelm 35 - Grass <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_strap"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_strap_holder"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_v2"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_v3"
+msgid "Heer Stahlhelm 35 <c(FFE200)>[ROA]</c>"
+msgstr ""
+
+msgctxt "desc/stuff/roa_stalhelm_m39_var3_wire"
+msgid "Heer Stahlhelm 35 - Wire <c(FFE200)>[ROA]</c>"
+msgstr ""

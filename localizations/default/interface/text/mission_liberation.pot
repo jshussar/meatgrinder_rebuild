@@ -1,0 +1,250 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (liberation mp maps)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+
+msgctxt "mission/multi/1v1_holzbach/name"
+msgid "Holzbach <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_isigny_ruins/name"
+msgid "Isigny Ruins <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_losheim_gap/name"
+msgid "Losheim Gap <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_ouren_valley/name"
+msgid "Ouren Valley <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_radar_hill/name"
+msgid "Radar Hill <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_bubingen/name"
+msgid "Bübingen <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_marvie_ridge/name"
+msgid "Marvie Ridge <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_mortain/name"
+msgid "Mortain <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_rouncy/name"
+msgid "Roncey <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_sainte_marie_du_mont/name"
+msgid "St. Marie du Mont <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_st_vith/name"
+msgid "St. Vith <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_hurtgenwald/name"
+msgid "Hurtgenwald <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_lalobbe/name"
+msgid "Elsenborn <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_mortain_station/name"
+msgid "Mortain Train Station <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_ranes/name"
+msgid "Ranes <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_samree/name"
+msgid "Samrée <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_hill_331/name"
+msgid "Hill 331 <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_houdremont/name"
+msgid "Houdremont <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_fields/name"
+msgid "Fields <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_martinville_ridge/name"
+msgid "Martinville Ridge <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_purple_heart_lane/name"
+msgid "Purple Heart Lane <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_schoppen/name"
+msgid "Schoppen <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/1v1_cobra/name"
+msgid "Operation Cobra <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/2v2_bastogne/name"
+msgid "Bastogne <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/3v3_normandy/name"
+msgid "Normandy <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/4v4_siegfried/name"
+msgid "Siegfried Line <c(8B4513)>[Liberation] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_anciens/name"
+msgid "Anceins <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_atzerath_valley/name"
+msgid "Atzerath Valley <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_bubingen/name"
+msgid "Bübingen <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_cadran_chateau/name"
+msgid "Cadran Château <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_crisbecq_battery/name"
+msgid "Crisbecq Battery <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_deulin_chataeu/name"
+msgid "Deulin Château <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_dom_burtgen/name"
+msgid "Dom Bütgenbach <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_flooded_lowlands/name"
+msgid "Flooded Lowlands <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_gullheim_airfield/name"
+msgid "Göllheim Airfield <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_heistern/name"
+msgid "Heistern <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_hill_331/name"
+msgid "Hill 331 <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_honsfeld/name"
+msgid "Honsfeld <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_hotton/name"
+msgid "Hotton <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_houdremont/name"
+msgid "Houdremont <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_hurtgenwald/name"
+msgid "Hurtgenwald <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_isigny_ruins/name"
+msgid "Isigny Ruins <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_lalobbe/name"
+msgid "Elsenborn <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_la_vallee/name"
+msgid "La Vallée <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_malschbach/name"
+msgid "Malschbach <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_martinville_ridge/name"
+msgid "Martinville Ridge <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_maupertus_airfield/name"
+msgid "Maupertus Airfield <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_pont_hebert/name"
+msgid "Pont Hebert <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_purple_heart_lane/name"
+msgid "Purple Heart Lane <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_ranes/name"
+msgid "Rânes <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_rouncy/name"
+msgid "Roncey <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_sainte_marie_du_mont/name"
+msgid "St. Marie du Mont <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_samree/name"
+msgid "Samrée <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_samree_depot/name"
+msgid "Samrée Depot <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_schoppen/name"
+msgid "Schoppen <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_semois_river/name"
+msgid "Semois River <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_sieg_river/name"
+msgid "Sieg River <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_utah_beach/name"
+msgid "Utah Beach <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_verviers_airfield/name"
+msgid "Verviers Airfield <c(8B4513)>(VANILLA)"
+msgstr ""

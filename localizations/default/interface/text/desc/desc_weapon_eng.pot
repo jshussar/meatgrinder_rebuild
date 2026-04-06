@@ -1,0 +1,453 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell British weaponry\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/weapon/pistol_no2_mk1"
+msgid "Pistol No.2 Mk.I*"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_no2_mk1"
+msgid "Enfield No.2 Mk.I* Revolver"
+msgstr ""
+
+msgctxt "desc/weapon/flare_pistol_mk5"
+msgid "Pistol Flare 1-inch No.2 Mk.V"
+msgstr ""
+
+msgctxt "desc/weapon/flare_pistol_mk5_sp"
+msgid "Pistol Flare 1-inch No.2 Mk.V"
+msgstr ""
+
+msgctxt "desc/weapon/webley_mk4"
+msgid "Webley No.I Mk.IV Revolver"
+msgstr ""
+
+msgctxt "desc/weapon/webley_mk6"
+msgid "Webley No.I Mk.VI Revolver"
+msgstr ""
+
+msgctxt "desc/weapon/welrod"
+msgid "Welrod Mk.IIA"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_p14"
+msgid "Rifle P14 No.3 Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_p14t"
+msgid "Rifle P14 No.3 Mk.I (Telescopic)"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_m1917"
+msgid "Enfield cal .30 M1917"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_no1_mk3"
+msgid "SMLE No.1 Mk.III*"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_no1_mk3_grenade_launcher"
+msgid "SMLE No.1 Mk.III* (No.1 Mk.1 Cup Discharger)"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_no1_mk3t"
+msgid "SMLE No.1 Mk.III* (HT)"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_no4_mk1"
+msgid "Rifle No.4 Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_no4_mk1_grenade_launcher"
+msgid "Rifle No.4 Mk.I (No.1 Mk.1 Cup Discharger)"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_no4_mk1t"
+msgid "Rifle No.4 Mk.I (Telescopic)"
+msgstr ""
+
+msgctxt "desc/weapon/de_lisle_carbine"
+msgid "De Lisle Carbine"
+msgstr ""
+
+msgctxt "desc/weapon/lanchester_mk1"
+msgid "Lanchester Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/lanchester_mk1_2"
+msgid "Lanchester Mk.I*"
+msgstr ""
+
+msgctxt "desc/weapon/patchett"
+msgid "Patchett Machine Carbine Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/sten_mk1"
+msgid "STEN Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/sten_mk2"
+msgid "STEN Mk.II"
+msgstr ""
+
+msgctxt "desc/weapon/sten_mk2_can"
+msgid "STEN Mk.II (Canadian)"
+msgstr ""
+
+msgctxt "desc/weapon/sten_mk2s"
+msgid "Sten Mk.II(S)"
+msgstr ""
+
+msgctxt "desc/weapon/sten_mk3"
+msgid "STEN Mk.III"
+msgstr ""
+
+msgctxt "desc/weapon/sten_mk5"
+msgid "STEN Mk.V"
+msgstr ""
+
+msgctxt "desc/weapon/sten_mk6"
+msgid "STEN Mk.VI"
+msgstr ""
+
+msgctxt "desc/weapon/besa"
+msgid "BESA"
+msgstr ""
+
+msgctxt "desc/weapon/besa_x4"
+msgid "Quad BESA"
+msgstr ""
+
+msgctxt "desc/weapon/15mm_besa"
+msgid "15mm BESA Mk.II"
+msgstr ""
+
+msgctxt "desc/weapon/boys_mk1"
+msgid "Boys Mk.I AT Rifle"
+msgstr ""
+
+msgctxt "desc/weapon/browning_303_mk2"
+msgid "Browning .303 Mk.II"
+msgstr ""
+
+msgctxt "desc/weapon/browning_303_mk2_x8"
+msgid "8x Browning .303 Mk.II"
+msgstr ""
+
+msgctxt "desc/weapon/vickers"
+msgid "Vickers Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/vickers_tank"
+msgid "Vickers Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/vickers_k"
+msgid "Vickers GO No.1 Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/vickers_50"
+msgid "Vickers .5-inch Mk.II"
+msgstr ""
+
+msgctxt "desc/weapon/vickers_go_no1"
+msgid "Vickers GO No.1 Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/vickers_go_no2"
+msgid "Vickers GO No.2 Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/vickers_berthier_mk3"
+msgid "Vickers-Berthier Mk.III"
+msgstr ""
+
+msgctxt "desc/weapon/bren_mk1"
+msgid "BREN Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/bren_mk1_drum"
+msgid "BREN Mk.I (Drum)"
+msgstr ""
+
+msgctxt "desc/weapon/bren_mk2"
+msgid "BREN Mk.II"
+msgstr ""
+
+msgctxt "desc/weapon/bren_mk2_drum"
+msgid "BREN Mk.II (Drum)"
+msgstr ""
+
+msgctxt "desc/weapon/bren_mk3"
+msgid "BREN Mk.III"
+msgstr ""
+
+msgctxt "desc/weapon/lewis_gun"
+msgid "Lewis Gun"
+msgstr ""
+
+msgctxt "desc/weapon/piat"
+msgid "PIAT"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_hispano_mk2_hur_x4"
+msgid "20mm Hispano Mk.II"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_hispano_mk2_x4"
+msgid "20mm Hispano Mk.II"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_oerlikon_mk1"
+msgid "20mm Oerlikon Mk.I L/70"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_oerlikon_mk2"
+msgid "20mm Oerlikon Mk.II L/70"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_polsten"
+msgid "20mm Polsten L/72"
+msgstr ""
+
+msgctxt "desc/weapon/25mm_hotchkiss"
+msgid "25mm Hotchkiss Mk.I L/72"
+msgstr ""
+
+msgctxt "desc/weapon/37mm_m6_littlejohn"
+msgid "37mm Gun M6 L/53.5 'Littlejohn'"
+msgstr ""
+
+msgctxt "desc/weapon/37mm_qf_mk1"
+msgid "QF 37mm Mk.I L/72"
+msgstr ""
+
+msgctxt "desc/weapon/40mm_qf_mk3"
+msgid "QF 40mm Mk.III L/60"
+msgstr ""
+
+msgctxt "desc/weapon/40mm_qf_mk6"
+msgid "QF 40mm Mk.VI L/60"
+msgstr ""
+
+msgctxt "desc/weapon/40mm_qf2_vickers"
+msgid "40mm Vickers QF 2-pdr Mk.II* L/39"
+msgstr ""
+
+msgctxt "desc/weapon/40mm_qf2"
+msgid "40mm QF 2-pounder L/50"
+msgstr ""
+
+msgctxt "desc/weapon/40mm_qf2_2"
+msgid "40mm QF 2-pounder L/50"
+msgstr ""
+
+msgctxt "desc/weapon/40mm_qf2_littlejohn"
+msgid "40mm QF 2-pounder L/50 'Littlejohn'"
+msgstr ""
+
+msgctxt "desc/weapon/51mm_sbml_2in"
+msgid "51mm SBML 2-inch Mortar"
+msgstr ""
+
+msgctxt "desc/weapon/57mm_qf6"
+msgid "57mm QF 6-pounder Mk.II L/43"
+msgstr ""
+
+msgctxt "desc/weapon/57mm_qf6_l50"
+msgid "57mm QF 6-pounder Mk.IV L/50"
+msgstr ""
+
+msgctxt "desc/weapon/57mm_qf6_mk3"
+msgid "57mm QF 6-pounder Mk.III L/43"
+msgstr ""
+
+msgctxt "desc/weapon/57mm_qf6_mk5"
+msgid "57mm QF 6-pounder Mk.V L/50"
+msgstr ""
+
+msgctxt "desc/weapon/57mm_qf6_hotchkiss"
+msgid "57mm QF Hotchkiss 6-pdr Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_qf"
+msgid "QF 75mm Mk.V L/40"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_qf3"
+msgid "76mm QF 3-inch howitzer Mk.I L/25"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_qf17"
+msgid "76mm QF 17-pounder Mk.I L/55"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_qf17_mk2"
+msgid "76mm QF 17-pounder Mk.II L/55"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_qf17_mk4"
+msgid "76mm QF 17-pounder Mk.IV L/55"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_qf17_mk5"
+msgid "76mm QF 17-pounder Mk.V L/55"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_qf17_mk4_vet"
+msgid "76mm QF 17-pounder Mk.IV L/55 [Veteran]"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_qf17_mk5_vet"
+msgid "76mm QF 17-pounder Mk.V L/55 [Veteran]"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_qf_17_pounder"
+msgid "76mm QF 17-pounder"
+msgstr ""
+
+msgctxt "desc/weapon/94mm_28pdr_oqf"
+msgid "94mm OQF 28-pounder"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_landmattress"
+msgid "Projector Rocket 3-inch No.8 Mk.I"
+msgstr ""
+
+msgctxt "desc/weapon/77mm_qf_hv"
+msgid "QF 77mm HV L/55"
+msgstr ""
+
+msgctxt "desc/weapon/77mm_qf_hv_vet"
+msgid "QF 77mm HV L/55"
+msgstr ""
+
+msgctxt "desc/weapon/81mm_ml_3in"
+msgid "ML 3-inch Mortar"
+msgstr ""
+
+msgctxt "desc/weapon/84mm_qf18_mk2"
+msgid "84mm QF 18-pounder Mk.II L/29.4"
+msgstr ""
+
+msgctxt "desc/weapon/84mm_qf18_mk4"
+msgid "84mm QF 18-pounder Mk.IV L/29.4"
+msgstr ""
+
+msgctxt "desc/weapon/88mm_qf25_mk1"
+msgid "88mm QF 25-pounder Mk.I L/28"
+msgstr ""
+
+msgctxt "desc/weapon/88mm_qf25_bishop"
+msgid "88mm QF 25-pounder Mk.I L/28"
+msgstr ""
+
+msgctxt "desc/weapon/88mm_qf25_mk2"
+msgid "88mm QF25-pounder Mk.II L/28"
+msgstr ""
+
+msgctxt "desc/weapon/88mm_qf25_mk2_late"
+msgid "88mm QF 25-pounder Mk.II L/28"
+msgstr ""
+
+msgctxt "desc/weapon/94mm_qf3_7_how"
+msgid "94mm QF 3.7-inch howitzer L/11.8"
+msgstr ""
+
+msgctxt "desc/weapon/94mm_qf3_7_cs"
+msgid "94mm QF 3.7-inch Mk.IV howitzer L/15"
+msgstr ""
+
+msgctxt "desc/weapon/94mm_qf3_7_aa"
+msgid "94mm QF 3.7-inch AA L/50"
+msgstr ""
+
+msgctxt "desc/weapon/95mm_qf95"
+msgid "QF 95mm L/21.5"
+msgstr ""
+
+msgctxt "desc/weapon/107mm_ml_42in"
+msgid "ML 4.2-inch Mortar"
+msgstr ""
+
+msgctxt "desc/weapon/114mm_bl4_5"
+msgid "114mm BL 4.5-inch medium gun L/42.8"
+msgstr ""
+
+msgctxt "desc/weapon/114mm_qf4_5"
+msgid "114mm QF 4.5-inch howitzer L/13.2"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_qf4_7_mk9"
+msgid "120mm QF 4.7-inch Mk.IX Gun L/45"
+msgstr ""
+
+msgctxt "desc/weapon/127mm_bl60"
+msgid "127mm BL 60-pounder L/36.8"
+msgstr ""
+
+msgctxt "desc/weapon/140mm_bl5_5"
+msgid "140mm BL 5.5-inch medium gun L/30"
+msgstr ""
+
+msgctxt "desc/weapon/152mm_bl6_mk19"
+msgid "152mm BL 6-inch Mk.XIX L/35"
+msgstr ""
+
+msgctxt "desc/weapon/152mm_bl6_26cwt"
+msgid "152mm BL 6-inch 26cwt howitzer L/13.3"
+msgstr ""
+
+msgctxt "desc/weapon/183mm_bl7_2"
+msgid "183mm BL 7.2-inch howitzer Mk.III L/22.4"
+msgstr ""
+
+msgctxt "desc/weapon/183mm_bl7_2_mk6"
+msgid "183mm BL 7.2-inch howitzer Mk.VI L/33.1"
+msgstr ""
+
+msgctxt "desc/weapon/203mm_bl8"
+msgid "203mm BL 8-inch howitzer Mk.VIII L/17"
+msgstr ""
+
+msgctxt "desc/weapon/230mm_spigot_mortar"
+msgid "230mm Spigot Mortar"
+msgstr ""
+
+msgctxt "desc/weapon/bomb_dropper_eng_100x2"
+msgid "2x GP 250lb Bomb"
+msgstr ""
+
+msgctxt "desc/weapon/bomb_dropper_eng_250x2"
+msgid "2x GP 500lb Bomb"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_rp3_x2"
+msgid "Rocket Launcher Rails Mk.I 'Tulip'"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_rp3_x4"
+msgid "Rocket Launcher Rails Mk.I 'Tulip'"
+msgstr ""
+
+msgctxt "desc/weapon/no2_flame_thrower"
+msgid "Flamethrower Portable No.2"
+msgstr ""
+
+msgctxt "desc/weapon/croc_flame_thrower"
+msgid "Flame Projector"
+msgstr ""
+
+msgctxt "desc/weapon/wasp_flame_thrower"
+msgid "Flamethrower Wasp Mk.II"
+msgstr ""

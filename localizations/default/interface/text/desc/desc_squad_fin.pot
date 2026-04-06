@@ -1,0 +1,1214 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+;PROJECT REALISM SQUADS----------------------------------------------------------------------
+
+msgctxt "desc/squad/squad_reservists(fin)"
+msgid "Reserviläisryhmä [2]"
+msgstr ""
+
+msgctxt "desc/squad/squad_swedish(fin)"
+msgid "Svenska Frivillig-Grupp [3]"
+msgstr ""
+
+msgctxt "desc/squad/squad_scoutjaos(fin)"
+msgid "Tiedustelupartio [5] (RECON)"
+msgstr ""
+
+msgctxt "desc/squad/squad_lynx(fin)"
+msgid "5. Kivääriryhmä “Ilves”’  [5]"
+msgstr ""
+
+msgctxt "desc/squad/squad_sword(fin)"
+msgid "7. Rynnäkköryhmä “Miekka” [5]"
+msgstr ""
+
+msgctxt "desc/squad/squad_pioneer(fin)"
+msgid "Pioneeriryhmä [5]"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav(fin)"
+msgid "Moottoroitu Ratsuväkiryhmä [5]"
+msgstr ""
+
+msgctxt "desc/squad/squad_raja(fin)"
+msgid "Rajajääkäripartio [6] (RECON)"
+msgstr ""
+
+msgctxt "desc/squad/squad_raskas(fin)"
+msgid "Raskas Pioneeriryhmä  [6]"
+msgstr ""
+
+msgctxt "desc/squad/squad_jaak(fin)"
+msgid "Jääkäriryhmä [6] (RECON)"
+msgstr ""
+
+msgctxt "desc/squad/squad_armjaak(fin)"
+msgid "Mekanisoitu Jääkäriryhmä [6] (RECON)"
+msgstr ""
+
+msgctxt "desc/squad/squad_veteraan(fin)"
+msgid "Veteraanijääkäriryhmä [7] (RECON)"
+msgstr ""
+
+msgctxt "desc/squad/squad_partio(fin)"
+msgid "Veteraanitiedustelupartio [7] (RECON)"
+msgstr ""
+
+msgctxt "desc/squad/squad_vetsuvak(fin)"
+msgid "Moottoroitu Veteraaniratsuväkiryhmä [7]"
+msgstr ""
+
+msgctxt "desc/squad/squad_eliteriflefin(fin)"
+msgid "Eliittijääkäriryhmä [8]"
+msgstr ""
+
+msgctxt "desc/squad/squad_sissi(fin)"
+msgid "Sissiryhmä [8] (RECON)"
+msgstr ""
+
+msgctxt "desc/squad/squad_hrr(fin)"
+msgid "Moottoroitu Hämeen Ratsurykmentti [8]"
+msgstr ""
+
+msgctxt "desc/squad/squad_uud(fin)"
+msgid "Moottoroitu Uudenmaan Rakuunarykmentti  [8]"
+msgstr ""
+
+msgctxt "desc/squad/squad_kauko(fin)"
+msgid "Kaukopartio [9] (RECON)"
+msgstr ""
+
+
+
+;SINGLE CALLINS
+
+msgctxt "desc/squad/single_mg(fin)"
+msgid "DP-27 Machine Gun Team"
+msgstr ""
+
+msgctxt "desc/squad/single_mg_swed(fin)"
+msgid "PK-21 Machine Gun Team"
+msgstr ""
+
+msgctxt "desc/squad/single_mg_m26(fin)"
+msgid "M26 Machine Gun Team"
+msgstr ""
+
+
+msgctxt "desc/squad/single_m20(fin)"
+msgid "M20 SMG Team"
+msgstr ""
+
+msgctxt "desc/squad/single_panzerfaust(fin)"
+msgid "Panzerfaust 60 Team"
+msgstr ""
+
+
+
+msgctxt "desc/squad/single_radioman(fin)"
+msgid "Radiooperaattori"
+msgstr ""
+
+
+
+msgctxt "desc/squad/support_crew(fin)"
+msgid "Support Crew"
+msgstr ""
+
+msgctxt "desc/squad/tank_crew(fin)"
+msgid "Tank Crew"
+msgstr ""
+
+msgctxt "desc/squad/tank_crew_vet(fin)"
+msgid "Veteran Tank Crew"
+msgstr ""
+
+
+;SP CALLINS------------------------------------------------
+
+msgctxt "desc/squad/squad_vetsniper(fin)"
+msgid "Veteran Sniper [8]"
+msgstr ""
+
+msgctxt "desc/squad/squad_whitedeath(fin)"
+msgid "‘White Death’ [9]"
+msgstr ""
+
+msgctxt "desc/squad/squad_civilguards(fin)"
+msgid "Suojeluskunta [2]"
+msgstr ""
+
+msgctxt "desc/squad/squad_sissi_sp(fin)"
+msgid "Sissiryhmä [8] (RECON)"
+msgstr ""
+
+msgctxt "desc/squad/squad_inf_support(fin)"
+msgid "Infantry Support Detachment"
+msgstr ""
+
+msgctxt "desc/squad/squad_pioneer_sp(fin)"
+msgid "Pioneerirykmentti"
+msgstr ""
+
+msgctxt "desc/squad/squad_grenadiers(fin)"
+msgid "Mechanized 169. Infanterie-Platoon [4]"
+msgstr ""
+
+msgctxt "desc/squad/squad_lightat_sp(fin)"
+msgid "Light AT Support Detachment"
+msgstr ""
+
+msgctxt "desc/squad/squad_medium_aa_sp(fin)"
+msgid "Medium AA Support Detachment"
+msgstr ""
+
+msgctxt "desc/squad/squad_gebirgs_sp(fin)"
+msgid "3. Gebirgsjäger-Platoon [6]"
+msgstr ""
+
+msgctxt "desc/squad/squad_medium_at_sp(fin)"
+msgid "Medium AT Support Detachment"
+msgstr ""
+
+msgctxt "desc/squad/squad_stug_sp(fin)"
+msgid "Stug Battle Group"
+msgstr ""
+
+msgctxt "desc/squad/squad_heavymortar_sp(fin)"
+msgid "Super Heavy Mortar Support Detachment"
+msgstr ""
+
+msgctxt "desc/squad/squad_105battery_sp(fin)"
+msgid "105 H/33 Battery"
+msgstr ""
+
+msgctxt "desc/squad/squad_t34_sp(fin)"
+msgid "Dual T34-85 Battlegroup"
+msgstr ""
+
+msgctxt "desc/squad/squad_150battery_sp(fin)"
+msgid "150 H/40 Battery"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;-------------------------------------------------------------------------------
+
+msgctxt "desc/squad/conquest_blenheim"
+msgid "Blenheim 250kg Bomb"
+msgstr ""
+
+msgctxt "desc/squad/conquest_blenheim_light"
+msgid "Blenheim 50kg Bomb"
+msgstr ""
+
+msgctxt "desc/squad/conquest_blenheim_recon"
+msgid "Blenheim Recon"
+msgstr ""
+
+msgctxt "desc/squad/fin_captured_v"
+msgid "Captured Vehicles"
+msgstr ""
+
+msgctxt "desc/squad/fin_captured_v_bt5"
+msgid "Captured Vehicles"
+msgstr ""
+
+msgctxt "desc/squad/fin_captured_v_t26"
+msgid "Captured Vehicles"
+msgstr ""
+
+msgctxt "desc/squad/fin_captured_v_t26_late"
+msgid "Captured Vehicles"
+msgstr ""
+
+msgctxt "desc/squad/fin_captured_v_t37a"
+msgid "Captured Vehicles"
+msgstr ""
+
+msgctxt "desc/squad/fin_captured_v_t3476_mid"
+msgid "Captured Vehicles"
+msgstr ""
+
+msgctxt "desc/squad/fin_captured_v_t3476"
+msgid "Captured Vehicles"
+msgstr ""
+
+msgctxt "desc/squad/fin_captured_v_t3485"
+msgid "Captured Vehicles"
+msgstr ""
+
+msgctxt "desc/squad/single_ap_miner(fin)"
+msgid "AP Miners"
+msgstr ""
+
+msgctxt "desc/squad/single_at(fin)"
+msgid "AT Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_at_miner(fin)"
+msgid "AT Miners"
+msgstr ""
+
+msgctxt "desc/squad/single_at_pzs_late_con(fin)"
+msgid "Panzerschreck Team"
+msgstr ""
+
+msgctxt "desc/squad/single_auxiliary(fin)"
+msgid "Auxiliary Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_bazooker(fin)"
+msgid "AT Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_engineer(fin)"
+msgid "Field Engineers"
+msgstr ""
+
+msgctxt "desc/squad/single_flamer(fin)"
+msgid "Flamethrower"
+msgstr ""
+
+msgctxt "desc/squad/single_medic(fin)"
+msgid "Medic"
+msgstr ""
+
+msgctxt "desc/squad/single_mg2(fin)"
+msgid "Reserve LMG Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_mg(fin)"
+msgid "LMG Detachment"
+msgstr ""
+
+msgctxt "desc/squad/single_officer(fin)"
+msgid "Officer"
+msgstr ""
+
+msgctxt "desc/squad/single_sniper(fin)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/squad/single_tankman(fin)"
+msgid "Tank crew"
+msgstr ""
+
+msgctxt "desc/squad/single_support(fin)"
+msgid "Support crew"
+msgstr ""
+
+msgctxt "desc/squad/squad_antitank_late(fin)"
+msgid "AT Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_assault(fin)"
+msgid "Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_assault_mid_con(fin)"
+msgid "Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_at_late_con(fin)"
+msgid "Anti-Tank Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_guard_early_con(fin)"
+msgid "Border Guard Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_late(fin)"
+msgid "Border Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_mid(fin)"
+msgid "Border Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_mid_con(fin)"
+msgid "Border Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_early(fin)"
+msgid "Cavalry Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_late(fin)"
+msgid "Cavalry Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_mid(fin)"
+msgid "Cavalry Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_civil_guard_early(fin)"
+msgid "Civil Guard Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_civil_guard_early_con(fin)"
+msgid "Civil Guard Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_engineer_mid_con(fin)"
+msgid "Engineer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_heavy_engineer_mid_con(fin)"
+msgid "Heavy Engineers"
+msgstr ""
+
+msgctxt "desc/squad/squad_jaeger_early(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jaeger_lmg_early(fin)"
+msgid "Jaeger LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_antitank_late(fin)"
+msgid "Jäger AT Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_late(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_mid(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_mid_con(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_marksmen(fin)"
+msgid "Marksmen"
+msgstr ""
+
+msgctxt "desc/squad/squad_officer_con(fin)"
+msgid "Command Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_reserves_late(fin)"
+msgid "Reserve Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_reserves_mid(fin)"
+msgid "Reserve Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_reserves_mid_con(fin)"
+msgid "Reserve Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_early(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_early_con(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_late(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_lmg_early(fin)"
+msgid "LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_lmg_early_con(fin)"
+msgid "LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mid(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mid_con(fin)"
+msgid "Rifle Squad (LS)"
+msgstr ""
+
+msgctxt "desc/squad/squad_scout_early(fin)"
+msgid "Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_scout_late(fin)"
+msgid "Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_scout_mid(fin)"
+msgid "Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_scout_mid_con(fin)"
+msgid "Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_sissi_mid_con(fin)"
+msgid "Sissi Patrol"
+msgstr ""
+
+msgctxt "desc/squad/team_officer_con(fin)"
+msgid "Command Team"
+msgstr ""
+
+msgctxt "desc/squad/white_death_con(fin)"
+msgid "Elite Sniper"
+msgstr ""
+
+msgctxt "desc/squad/squad_sissi_late(fin)"
+msgid "Sissi Commandos"
+msgstr ""
+
+
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/squad/single_rifle(fin)"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/single_smg(fin)"
+msgid "SMG Soldier"
+msgstr ""
+
+msgctxt "desc/squad/single_sa(fin)"
+msgid "Semi-Auto Rifleman"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_early_all(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mg_early_all(fin)"
+msgid "LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_early_all(fin)"
+msgid "Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_mg_early_all(fin)"
+msgid "Cavalry LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_early_all(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_mg_early_all(fin)"
+msgid "Jäger LMG Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_rifle_early_def(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mg_early_def(fin)"
+msgid "LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_eng_early_def(fin)"
+msgid "Engineer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_guard_early_def(fin)"
+msgid "Border Guards Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_early_def(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_mg_early_def(fin)"
+msgid "Jäger LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_pio_early(fin)"
+msgid "Heavy Pioneer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_early_irr(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mg_early_irr(fin)"
+msgid "LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_early_irr(fin)"
+msgid "Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_early_off(fin)"
+msgid "Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_mg_early_irr(fin)"
+msgid "Cavalry LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_scout_irr(fin)"
+msgid "Jäger Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_scout_mid(fin)"
+msgid "Jäger Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_scout_late(fin)"
+msgid "Jäger Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_early_off(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_mg_early_off(fin)"
+msgid "LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_marksmen_rifle_early_off(fin)"
+msgid "Marksmen Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_early_off(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_mg_early_off(fin)"
+msgid "Jäger LMG Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_rifle_mid_all(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_rifle_mid_all(fin)"
+msgid "Veteran Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_mid_all(fin)"
+msgid "Border Jäger Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_rifle_mid_def(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_eng_mid_def(fin)"
+msgid "Engineer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_eng_flame_mid_def(fin)"
+msgid "Engineer Flamer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_pio_mid(fin)"
+msgid "Heavy Pioneer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_rifle_mid_def(fin)"
+msgid "Veteran Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_elite_rifle_mid_def(fin)"
+msgid "Elite Rifle Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_rifle_mid_irr(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_scout_irr(fin)"
+msgid "Veteran Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_mid_irr(fin)"
+msgid "Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_mid_off(fin)"
+msgid "Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_cav_mid_irr(fin)"
+msgid "Veteran Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_cav_mid_off(fin)"
+msgid "Veteran Cavalry Rifle Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_rifle_mid_len(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_marksmen_rifle_mid_len(fin)"
+msgid "Marksmen Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_mid_len(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_rifle_late_all(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_antitank_late_all(fin)"
+msgid "Anti-Tank Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_pio_late(fin)"
+msgid "Heavy Pioneer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_rifle_late_all(fin)"
+msgid "Veteran Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_late_all(fin)"
+msgid "Border Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_at_late_all(fin)"
+msgid "Border Jäger AT Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_rifle_late_def(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_eng_late_def(fin)"
+msgid "Engineer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_antitank_late_def(fin)"
+msgid "Anti-Tank Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_rifle_late_def(fin)"
+msgid "Veteran Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_elite_rifle_late_def(fin)"
+msgid "Elite Rifle Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_rifle_late_irr(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_antitank_late_irr(fin)"
+msgid "Anti-Tank Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_late_irr(fin)"
+msgid "Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_cav_late_off(fin)"
+msgid "Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_cav_late_irr(fin)"
+msgid "Veteran Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_rifle_late_len(fin)"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_antitank_late_len(fin)"
+msgid "Anti-Tank Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_marksmen_rifle_late_len(fin)"
+msgid "Marksmen Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_late_len(fin)"
+msgid "Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_antitank_late_len(fin)"
+msgid "Jäger AT Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_mid_vet(fin)"
+msgid "Veteran Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_late_vet(fin)"
+msgid "Veteran Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_volunteers(fin)"
+msgid "Swedish Volunteer Squad"
+msgstr ""
+
+
+msgctxt "desc/squad/maxim_m32_33_early"
+msgid "Maxim M/32-33"
+msgstr ""
+
+msgctxt "desc/squad/maxim_m32_33_early_off"
+msgid "Maxim M/32-33"
+msgstr ""
+
+msgctxt "desc/squad/maxim_m32_33_mid"
+msgid "Maxim M/32-33"
+msgstr ""
+
+msgctxt "desc/squad/maxim_m32_33_late"
+msgid "Maxim M/32-33"
+msgstr ""
+
+msgctxt "desc/squad/maxim_m1910_30_early"
+msgid "Maxim M/09-09"
+msgstr ""
+
+msgctxt "desc/squad/maxim_m1910_30_mid"
+msgid "Maxim M/09-09"
+msgstr ""
+
+msgctxt "desc/squad/maxim_m1910_30_late"
+msgid "Maxim M/09-09"
+msgstr ""
+
+msgctxt "desc/squad/ds39_stand_fin_early"
+msgid "DS-39/VKT Stand"
+msgstr ""
+
+msgctxt "desc/squad/ds39_stand_fin_mid"
+msgid "DS-39/VKT Stand"
+msgstr ""
+
+msgctxt "desc/squad/ds39_stand_fin_late"
+msgid "DS-39/VKT Stand"
+msgstr ""
+
+msgctxt "desc/squad/mg08_fin_mid"
+msgid "Maxim MG 08"
+msgstr ""
+
+msgctxt "desc/squad/mg08_fin_late"
+msgid "Maxim MG 08"
+msgstr ""
+
+msgctxt "desc/squad/squad_civil_guard_early_all(fin)"
+msgid "Civil Guard Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_fortress_rifle_early_def(fin)"
+msgid "Fortress Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_military_police_early_irr(fin)"
+msgid "Military Police Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_civil_guard_early_off(fin)"
+msgid "Civil Guard Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hrr_cav_rifle_early_all(fin)"
+msgid "Häme Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hrr_cav_mg_early_all(fin)"
+msgid "Häme Cavalry LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_urr_cav_rifle_early_all(fin)"
+msgid "Uusimaa Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_urr_cav_mg_early_all(fin)"
+msgid "Uusimaa Cavalry LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_marksmen_rifle_early_irr(fin)"
+msgid "Marksmen Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_recon_early_irr(fin)"
+msgid "Swedish Recon Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_rifle_early_irr(fin)"
+msgid "Swedish Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_jag_early_irr(fin)"
+msgid "Swedish Jägar Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_light_scout_rifle_early_off(fin)"
+msgid "Light Scout Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_light_scout_mg_early_off(fin)"
+msgid "Light Scout LMG Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_assault_early_1_off(fin)"
+msgid "Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_assault_early_2_off(fin)"
+msgid "Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_scout_off(fin)"
+msgid "Jäger Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_reserves_mid_all(fin)"
+msgid "Reserve Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_fortress_rifle_mid_def(fin)"
+msgid "Fortress Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_military_police_mid_irr(fin)"
+msgid "Military Police Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_reserves_mid_len(fin)"
+msgid "Reserve Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_scout_all(fin)"
+msgid "Veteran Scout Section"
+msgstr ""
+
+msgctxt "desc/squad/squad_light_scout_mid_all(fin)"
+msgid "Light Scout Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_assault_mid_all(fin)"
+msgid "Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_elite_rifle_mid_all(fin)"
+msgid "Elite Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_pio_mid_def(fin)"
+msgid "HQ Long-Range Pioneer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_mid_def(fin)"
+msgid "Border Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_recon_mid_def(fin)"
+msgid "HQ Long-Range Recon Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_mid_def(fin)"
+msgid "HQ Long-Range Patrol Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_jag_mid_def(fin)"
+msgid "HQ Long-Range Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_penal_mid_irr(fin)"
+msgid "Penal 'Black Arrow' Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_marksmen_rifle_mid_irr(fin)"
+msgid "Marksmen Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hrr_cav_mid_irr(fin)"
+msgid "Häme Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_urr_cav_mid_irr(fin)"
+msgid "Uusimaa Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_rifle_mid_len(fin)"
+msgid "Veteran Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_mid_len(fin)"
+msgid "Swedish Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_strike_mid_len(fin)"
+msgid "Jäger Strike Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_fortress_rifle_late_def(fin)"
+msgid "Fortress Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_military_police_late_irr(fin)"
+msgid "Military Police Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_reserves_late_len(fin)"
+msgid "Reserve Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_assault_late_all(fin)"
+msgid "Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_arm_pio_late_all(fin)"
+msgid "Armor Div. Pioneer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_arm_pio_late_mot_all(fin)"
+msgid "Motorized Armor Div. Pioneer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_elite_rifle_late_all(fin)"
+msgid "Elite Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_arm_jag_late_all(fin)"
+msgid "Armor Div. Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_arm_jag_late_mot_all(fin)"
+msgid "Motorized Armor Div. Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_pio_late_def(fin)"
+msgid "HQ Long-Range Pioneer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_late_def(fin)"
+msgid "Border Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_border_jag_at_late_def(fin)"
+msgid "Border Jäger AT Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_recon_late_def(fin)"
+msgid "HQ Long-Range Recon Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_late_def(fin)"
+msgid "HQ Long-Range Patrol Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_jag_late_def(fin)"
+msgid "HQ Long-Range Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_penal_late_irr(fin)"
+msgid "Penal 'Black Arrow' Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_marksmen_rifle_late_irr(fin)"
+msgid "Marksmen Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hrr_cav_late_irr(fin)"
+msgid "Häme Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_urr_cav_late_irr(fin)"
+msgid "Uusimaa Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_rifle_late_len(fin)"
+msgid "Veteran Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_late_len(fin)"
+msgid "Swedish Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_strike_late_len(fin)"
+msgid "Jäger Strike Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_military_police_early_con(fin)"
+msgid "Military Police Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_fortress_rifle_early_con(fin)"
+msgid "Fortress Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_penal_mid_con(fin)"
+msgid "Penal 'Black Arrow' Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_recon_early_con(fin)"
+msgid "Swedish Recon Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_rifle_early_con(fin)"
+msgid "Swedish Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_jag_early_con(fin)"
+msgid "Swedish Jägar Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_light_scout_mid_con(fin)"
+msgid "Light Scout Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_pio_mid_con(fin)"
+msgid "HQ Long-Range Pioneer Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_pio_late_con(fin)"
+msgid "HQ Long-Range Pioneer Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_arm_pio_late_mot_con(fin)"
+msgid "Motorized Armor Div. Pioneer Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_mid_con(fin)"
+msgid "Swedish Rifle Squad [Mid]"
+msgstr ""
+
+msgctxt "desc/squad/squad_swe_late_con(fin)"
+msgid "Swedish Rifle Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_arm_jag_late_mot_con(fin)"
+msgid "Motorized Armor Div. Jäger Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_hrr_cav_mid_con(fin)"
+msgid "Häme Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hrr_cav_late_con(fin)"
+msgid "Häme Cavalry Rifle Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_mid_con(fin)"
+msgid "HQ Long-Range Patrol Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_recon_mid_con(fin)"
+msgid "HQ Long-Range Recon Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_late_con(fin)"
+msgid "HQ Long-Range Patrol Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_recon_late_con(fin)"
+msgid "HQ Long-Range Recon Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_strike_mid_con(fin)"
+msgid "Jäger Strike Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_jag_strike_late_con(fin)"
+msgid "Jäger Strike Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_urr_cav_mid_con(fin)"
+msgid "Uusimaa Cavalry Rifle Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_urr_cav_late_con(fin)"
+msgid "Uusimaa Cavalry Rifle Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_jag_mid_con(fin)"
+msgid "HQ Long-Range Jäger Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_lr_jag_late_con(fin)"
+msgid "HQ Long-Range Jäger Squad [Late]"
+msgstr ""
+
+msgctxt "desc/squad/squad_hq_long_range_patrol(fin)"
+msgid "HQ Long-range Patrol"
+msgstr ""
+
+msgctxt "desc/squad/squad_stormtroop(fin)"
+msgid "Precision Strike Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad_light4(fin)"
+msgid "Light Detachment 4"
+msgstr ""
+
+msgctxt "desc/squad/squad_militia(fin)"
+msgid "Winter War Militia Squad"
+msgstr ""
+
+msgctxt "desc/squad/conquest_po2_fin"
+msgid "Po-2 Recon"
+msgstr ""

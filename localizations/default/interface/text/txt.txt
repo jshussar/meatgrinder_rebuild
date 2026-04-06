@@ -1,0 +1,7 @@
+Okay, let's make the map names a little nicer. You should indicate which mod the maps came from. I'll give you the rules.
+
+Maps with colour bebebe are from AS2, so a gray [AS2] should be added after the player count.
+
+Maps with colour 00ff0aff come from RobZ, so a green ff0aff [RobZ] should be added after the player count.
+
+If the name contains GSM, a yellow [GSM] should be added after the player count.

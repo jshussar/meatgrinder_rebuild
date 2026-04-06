@@ -1,0 +1,287 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German Airborne soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+
+msgctxt "desc/human/mp/ger/late/lw_flak_crew"
+msgid "Flak crew [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/lw_flak_nco"
+msgid "Flak crew Squadleader [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/lw_flak_rifle"
+msgid "Flak crew [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_arty"
+msgid "SS-Artilleryman [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_mg"
+msgid "SS-Grenadier MG Operator [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_mg_asst"
+msgid "SS-Grenadier MG Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_rifle"
+msgid "SS-Grenadier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_rifle_gren"
+msgid "SS-Grenadier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_rifle_pzf"
+msgid "SS-Grenadier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sa"
+msgid "SS-Grenadier [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sl"
+msgid "SS-Grenadier Gruppenführer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sl_asst"
+msgid "SS-Grenadier Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sl_asst_sa_scope"
+msgid "SS-Grenadier Asst. (Sniper) [Gewehr 43 (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_sl_asst_smg"
+msgid "SS-Grenadier Asst. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_smg"
+msgid "SS-Grenadier [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_gren_stg"
+msgid "SS-Grenadier [StG 44]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_medic"
+msgid "SS-Medic [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_mg_crew"
+msgid "SS-MG Crew [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_mg_crew_asst"
+msgid "SS-MG crew Asst. [K98]"
+msgstr """"
+
+msgctxt "desc/human/mp/ger/late/waffen_nco_plt"
+msgid "SS-Oberscharführer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_officer_bat"
+msgid "SS-Sturmbannführer [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_officer_coy"
+msgid "SS-Hauptsturmführer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_officer_plt"
+msgid "SS-Untersturmführer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_flame"
+msgid "SS-Panzerpionier Flamer [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_mg"
+msgid "SS-Panzerpionier MG Operator [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_mg_asst"
+msgid "SS-Panzerpionier MG Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_mine"
+msgid "SS-Panzerpionier Miner [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_rifle"
+msgid "SS-Panzerpionier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_rifle_pzf"
+msgid "SS-Panzerpionier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_sa"
+msgid "SS-Panzerpionier [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_sl"
+msgid "SS-Panzerpionier Gruppenführer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_pio_sl_asst"
+msgid "SS-Panzerpionier Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_mg"
+msgid "SS-Panzer Aufklärer MG Operator [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_mg_asst"
+msgid "SS-Panzer Aufklärer MG Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_rifle"
+msgid "SS-Panzer Aufklärer [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sa"
+msgid "SS-Panzer Aufklärer [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sl"
+msgid "SS-Panzer Aufklärer Gruppenführer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sl_asst_rifle"
+msgid "SS-Panzer Aufklärer Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sl_asst_sa"
+msgid "SS-Panzer Aufklärer Asst. [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pz_recon_sl_asst_stg"
+msgid "SS-Panzer Aufklärer Asst. [StG 44]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_at"
+msgid "SS-Panzergrenadier AT Inf. [RPzB 54 'Panzerschreck']"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_mg"
+msgid "SS-Panzergrenadier MG Operator [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_mg_asst"
+msgid "SS-Panzergrenadier MG Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_rifle"
+msgid "SS-Panzergrenadier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_rifle_pzf"
+msgid "SS-Panzergrenadier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sa"
+msgid "SS-Panzergrenadier [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sa_pzf"
+msgid "SS-Panzergrenadier [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sl"
+msgid "SS-Panzergrenadier Gruppenführer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sl_stg"
+msgid "SS-Panzergrenadier Gruppenführer [StG 44]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_sl_asst"
+msgid "SS-Panzergrenadier Asst. [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_pzgren_stg"
+msgid "SS-Panzergrenadier [StG 44]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_sniper"
+msgid "SS-Sniper [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_tank_commander"
+msgid "SS-Tank commander [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_tank_commander_aufklar"
+msgid "SS-Tank commander [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_tank_commander_stug"
+msgid "SS-Tank commander [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_tankman"
+msgid "SS-Tankman [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_tankman_aufklar"
+msgid "SS-Tankman [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_tankman_stug"
+msgid "SS-Tankman [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_mg"
+msgid "SS-Veteran Panzergrenadier MG Operator [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_mg_asst"
+msgid "SS-Veteran Panzergrenadier MG Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_rifle"
+msgid "SS-Veteran Panzergrenadier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_rifle_pzf"
+msgid "SS-Veteran Panzergrenadier [K98]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sa"
+msgid "SS-Veteran Panzergrenadier [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sl"
+msgid "SS-Veteran Panzergrenadier Gruppenführer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sl_stg"
+msgid "SS-Veteran Panzergrenadier Gruppenführer [StG 44]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sl_asst"
+msgid "SS-Veteran Panzergrenadier Asst. [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_sl_asst_stg"
+msgid "SS-Veteran Panzergrenadier Asst. [StG 44]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/waffen_vet_pzgren_stg"
+msgid "SS-Veteran Panzergrenadier [StG 44]"
+msgstr ""

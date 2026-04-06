@@ -1,0 +1,581 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (mission)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/multi/1v1_crossing/name"
+msgid "Crossing <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_farmland/name"
+msgid "Farmland <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_farmstead/name"
+msgid "Farmstead <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_forssa_dam/name"
+msgid "Forssa Dam <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_hiekalla/name"
+msgid "Hiekalla <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_jarven/name"
+msgid "Jarven <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_kalinin/name"
+msgid "Kalinin <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_nevel/name"
+msgid "Nevel <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_oryol/name"
+msgid "Oryol <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_reka/name"
+msgid "Reka <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_riverbank/name"
+msgid "River Bank <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_tormasenvaara/name"
+msgid "Tormasenvaara <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_uran/name"
+msgid "Uran <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_valley/name"
+msgid "Valley <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_volokolamsk/name"
+msgid "Frostbite <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_workshop/name"
+msgid "Workshop <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_ladoga/name"
+msgid "Ladoga <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_balaton/name"
+msgid "Spring Awakening <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_balzerweg/name"
+msgid "Balzerweg swamp <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_barrikady/name"
+msgid "Barrikadiy <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_blizzard/name"
+msgid "Blizzard <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_countryside/name"
+msgid "Countryside <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_courtyard/name"
+msgid "Courtyard <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_fall/name"
+msgid "Fall <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_gelid/name"
+msgid "Gelid <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_hakola/name"
+msgid "Hakola <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_industry/name"
+msgid "Industry <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_invanovka/name"
+msgid "Ivanovka <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_kainuo/name"
+msgid "Kainuo <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_karvola/name"
+msgid "Karvola <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_katrinovo/name"
+msgid "Katrinovo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_kavichy_factory/name"
+msgid "Kavichy Factory <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_mannerheim/name"
+msgid "Mannerheim <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_monastery/name"
+msgid "Monastery <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_olshanka/name"
+msgid "Olshanka <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_shaforovo/name"
+msgid "Shaforovo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_stalingrad/name"
+msgid "Stalingrad <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_suburbs/name"
+msgid "Suburbs <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_suishka/name"
+msgid "Suishka <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_tikhvin/name"
+msgid "Tikhvin <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_vainikalan/name"
+msgid "Vainikalan <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_ziborovo/name"
+msgid "Ziborovo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_urban_hell/name"
+msgid "Urban Hell <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_barrikady/name"
+msgid "Barrikadiy <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_brozha/name"
+msgid "Brozha <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_elanskaya/name"
+msgid "Elanskaya <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_factory/name"
+msgid "Steelworks factory <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_glushkovo/name"
+msgid "Glushkovo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_hqvistvaara/name"
+msgid "Hqvistvaara <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_hungary/name"
+msgid "Carpathians <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_king_of_the_hill/name"
+msgid "King Of The Hill <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_lakeside_airfield/name"
+msgid "Lakeside Airfield <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_lakhta/name"
+msgid "Lakhta <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_mikli/name"
+msgid "Mikli <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_natramala/name"
+msgid "Natramala <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_posenov/name"
+msgid "Posenov <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_sopheke_quarry/name"
+msgid "Sopheke Quarry <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_steppe/name"
+msgid "Steppe <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_trenches/name"
+msgid "Trenches of Hell <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_wotan/name"
+msgid "Wotan <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_radusha_airfield/name"
+msgid "Radusha Airfield <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_voronezh/name"
+msgid "Voronezh <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_dubovka/name"
+msgid "Dubovka <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_grassland/name"
+msgid "Grassland <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_hanhijarvi/name"
+msgid "Hanhijarvi <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_hills/name"
+msgid "Hills <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_kirjavala/name"
+msgid "Kirjavala <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_krasny_bor/name"
+msgid "Krasny Bor <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_kylmapuro/name"
+msgid "Kylmapuro <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_lysovo/name"
+msgid "Lysovo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_niemen/name"
+msgid "Niemen <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_rikila/name"
+msgid "Rikila <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_shiryayevo/name"
+msgid "Shiryayevo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_sikovitsy/name"
+msgid "Sikovitsy <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_swamp/name"
+msgid "Pinsk Marshes <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_vahikkala/name"
+msgid "Vahikalla <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_vitebsk/name"
+msgid "Vitebsk <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_olkhovatka/name"
+msgid "Olkhovatka <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_a_kalinin/name"
+msgid "Kalinin Airfield <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_a_runway/name"
+msgid "Runway <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_d_uran/name"
+msgid "Narva <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_d_vyazma/name"
+msgid "Vyazma <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_dubovka/name"
+msgid "Dubovka <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_f_barrikady/name"
+msgid "Barrikadiy Factory <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_f_bridges_of_lysovo/name"
+msgid "Lysovo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_f_bykovo/name"
+msgid "Bykovo Factory <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_f_factory/name"
+msgid "Steelworks Factory <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_f_lazurnyi/name"
+msgid "Lazurnyi <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_glushkovo/name"
+msgid "Glushkovo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_hanhijarvi/name"
+msgid "Hanhijarvi <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_hanhijarvi_winter/name"
+msgid "Hanhijarvi Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_hilltop/name"
+msgid "Hilltop <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_hills/name"
+msgid "Hills <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_karvola/name"
+msgid "Karvola <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_karvola_winter/name"
+msgid "Karvola Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_kirjavala/name"
+msgid "Kirjavala <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_kirjavala_winter/name"
+msgid "Kirjavala Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_kirkenes_airfield/name"
+msgid "Kirkenes Airfield <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_kylmapuro/name"
+msgid "Kylmapuro <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_kylmapuro_winter/name"
+msgid "Kylmapuro Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_kymhi_airfield/name"
+msgid "Kymhi Airfield <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_kymhi_airfield_winter/name"
+msgid "Kymhi Airfield Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_laisniemi/name"
+msgid "Laisniemi <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_laisniemi_winter/name"
+msgid "Laisniemi Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_lakhta/name"
+msgid "Lakhta <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_lakhta_winter/name"
+msgid "Lakhta Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_mannerheim/name"
+msgid "Mannerheim <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_mikli/name"
+msgid "Mikli <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_mikli_winter/name"
+msgid "Mikli Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_narofominsk/name"
+msgid "Narofominsk <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_natramala/name"
+msgid "Natramala <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_natramala_winter/name"
+msgid "Natramala Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_niemen/name"
+msgid "Neman <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_pinsk/name"
+msgid "Pinsk <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_puhoksen/name"
+msgid "Puhoksen <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_puhoksen_winter/name"
+msgid "Puhoksen Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_radekhiv/name"
+msgid "Radevkiy <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_raseiniai/name"
+msgid "Raseiniai <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_rasputitsa/name"
+msgid "Rasputitsa <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_ruetzen/name"
+msgid "Rützen <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_rzhev/name"
+msgid "Rzhev <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_shiryayevo/name"
+msgid "Shiryayevo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_tormasenvaara/name"
+msgid "Tormasenvaara <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_vainikalan/name"
+msgid "Vainikalan <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_vainikalan_winter/name"
+msgid "Vainikalan Winter <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_velikiyeluki/name"
+msgid "Velikiy Luki <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_olkhovatka/name"
+msgid "Olkhovatka <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_shaforovo/name"
+msgid "Shaforovo <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_wasteland/name"
+msgid "Wasteland <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_frozen_highlands/name"
+msgid "Frozen Highlands <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_black_sea_coast/name"
+msgid "Black Sea Coast <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_radusha_airfield/name"
+msgid "Radusha Airfield <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_hungarian_swamps/name"
+msgid "Hungarian Swamps <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/dcg_stalingrad_outskirts/name"
+msgid "Stalingrad Outskirts <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/1v1_barbarossa/name"
+msgid "Operation Barbarossa <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/2v2_stalingrad_factory/name"
+msgid "Stalingrad Factory <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/3v3_crimea/name"
+msgid "Crimea <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/4v4_kursk/name"
+msgid "Kursk <c(8B4513)>(VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/1v1_karjala/name"
+msgid "Karjala <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/2v2_tali_ihantala/name"
+msgid "Tali-Ihantala <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/3v3_volga/name"
+msgid "Volga <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/4v4_mannerheim/name"
+msgid "Mannerheim Line <c(8B4513)>[Talvisota] (VANILLA)"
+msgstr ""

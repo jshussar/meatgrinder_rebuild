@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German vehicles\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/entity/jagdsturmpanzer"
+msgid "jagdsturmpanzer Tank Destroyer"
+msgstr ""
+
+msgctxt "info/special/jagdsturmpanzer"
+msgid "<c(c3baae)>Medium Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/t34_3"
+msgid "T-34-85 Red Army"
+msgstr ""
+
+msgctxt "info/special/t34_3"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/panzer1_flak38"
+msgid "Panzerkampfwagen I"
+msgstr ""
+
+msgctxt "info/special/panzer1_flak38"
+msgid "<c(c3baae)>Light AA tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/panzer5g_43"
+msgid "Pz.Kpfw Panther Classis PAK43 Tank Destroyer"
+msgstr ""
+
+msgctxt "info/special/panzer5g_43"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz234_w2l"
+msgid "Sd.Kfz 234 2L(MK103)"
+msgstr ""
+
+msgctxt "info/special/sdkfz234_w2l"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/mg42_tripod"
+msgid "MG 42"
+msgstr ""
+
+msgctxt "info/special/mg42_tripod"
+msgid "<c(c3baae)>MG 42</c>"
+msgstr ""
+
+msgctxt "desc/entity/panzer4j_cv"
+msgid "Pz.Kpfw IV Ausf.J Command"
+msgstr ""
+
+msgctxt "info/special/panzer4j_cv"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/tiger2h_cv"
+msgid "Pz.Kpfw Tiger II Ausf.B CV"
+msgstr ""
+
+msgctxt "info/special/tiger2h_cv"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz232_cv"
+msgid "Sd.Kfz 232 CV"
+msgstr ""
+
+msgctxt "info/special/sdkfz232_cv"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/panzer5f"
+msgid "Pz.Kpfw Panther Ausf.F"
+msgstr ""
+
+msgctxt "info/special/panzer5f"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/flak38_wheeled"
+msgid "flak38_wheeled"
+msgstr ""
+
+msgctxt "info/special/flak38_wheeled"
+msgid "<c(c3baae)>Light AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251c_flak38"
+msgid "sdkfz251c_flak38"
+msgstr ""
+
+msgctxt "info/special/sdkfz251c_flak38"
+msgid "<c(c3baae)>Light AA Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251c_pak36"
+msgid "sdkfz251c_pak36"
+msgstr ""
+
+msgctxt "info/special/sdkfz251c_pak36"
+msgid "<c(c3baae)>Light AT Halftrack</c>"
+msgstr ""

@@ -1,0 +1,730 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell ROA soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEger-ss; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_builder"
+msgid "Pionier Engineer <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_demo"
+msgid "Pionier <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_flamer"
+msgid "Pionier Flamer <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_demo_1"
+msgid "Pionier <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_mg"
+msgid "MG Operator <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_mg_asst"
+msgid "MG Asst. <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_rifle_1"
+msgid "Pionier <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_sa"
+msgid "Pionier <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_sl"
+msgid "Pionier Feldwebel <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/armenian_pio_sl_asst"
+msgid "Pionier Unteroffizier <c(f9fb01)>[Armenische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_builder"
+msgid "Pionier Engineer <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_demo"
+msgid "Pionier <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_mg"
+msgid "Pionier MG Operator <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_mg_asst"
+msgid "Pionier MG Asst. <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_miner_ap"
+msgid "Pionier <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_miner_at"
+msgid "Pionier <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_rifle_pzf"
+msgid "Pionier <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_sl"
+msgid "Pionier Feldwebel <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/aserbaidschan_pio_sl_asst"
+msgid "Pionier Unteroffizier <c(09c70c)>[Aserbaidschanische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/georgian_mg"
+msgid "MG Operator <c(ff0067)>[Georgische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/georgian_mg_ammo"
+msgid "MG Ammo <c(ff0067)>[Georgische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/georgian_mg_asst"
+msgid "MG Asst. <c(ff0067)>[Georgische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/georgian_rifle_1"
+msgid "Rifleman <c(ff0067)>[Georgische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/georgian_sa"
+msgid "Rifleman <c(ff0067)>[Georgische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/georgian_sl"
+msgid "Feldwebel <c(ff0067)>[Georgische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/georgian_sl_asst"
+msgid "Unteroffizier <c(ff0067)>[Georgische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/georgian_smg_grl"
+msgid "Rifle Grenadier <c(ff0067)>[Georgische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/id_ur_rifle_1"
+msgid "Rifleman <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/id_ur_rifle_2"
+msgid "Rifleman <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/id_ur_rifle_mg"
+msgid "MG Operator <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/id_ur_rifle_mg_asst"
+msgid "MG Asst. <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/id_ur_sl"
+msgid "Feldwebel <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/id_ur_sl_asst"
+msgid "Unteroffizier <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/id_ur_smg_1"
+msgid "SMG Inf. <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_mg"
+msgid "Aufklärer MG Operator <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_mg_asst"
+msgid "Aufklärer MG Asst. <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_mg26t"
+msgid "Aufklärer MG Operator <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_mg26_asst"
+msgid "Aufklärer MG Asst. <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_rifle_1"
+msgid "Aufklärer <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_rifle_gren"
+msgid "Aufklärer Rifle Grenadier <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_sa_pzf"
+msgid "Aufklärer <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_sl"
+msgid "Aufklärer Feldwebel <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/n_caucas_sl_asst"
+msgid "Aufklärer Unteroffizier <c(c7870e)>[Nordkaukasische Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_at_rifle"
+msgid "AT. Inf. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_mg"
+msgid "MG Operator <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_mg_ammo"
+msgid "MG Asst. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_rifle_1"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_rifle_2"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_sl"
+msgid "Squadleader <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_sl_asst"
+msgid "Asst. Leader <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_smg"
+msgid "SMG-inf. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_arty"
+msgid "Artilleryman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_recon_mg"
+msgid "Aufklärer MG Operator <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_recon_mg_asst"
+msgid "Aufklärer MG Asst. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_recon_rifle"
+msgid "Aufklärer <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_recon_rifle_gren"
+msgid "Aufklärer Rifle Grenadier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_recon_sl_asst_rfl"
+msgid "Aufklärer Unteroffizier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_recon_sl_asst_sa"
+msgid "Aufklärer Unteroffizier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_recon_sl_sa"
+msgid "Aufklärer Feldwebel <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_recon_sl_smg"
+msgid "Aufklärer Feldwebel <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/bergk_mg"
+msgid "MG Operator <c(f1c232)>[Bergkaukasien Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/bergk_mg_asst"
+msgid "MG Asst. <c(f1c232)>[Bergkaukasien Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/bergk_rifle"
+msgid "Rifleman <c(f1c232)>[Bergkaukasien Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/bergk_sa"
+msgid "Rifleman <c(f1c232)>[Bergkaukasien Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/bergk_sl"
+msgid "Feldwebel <c(f1c232)>[Bergkaukasien Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/bergk_sl_asst"
+msgid "Unteroffizier <c(f1c232)>[Bergkaukasien Legion]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/id_ur_mg"
+msgid "MG Operator <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/id_ur_mg_asst_smg"
+msgid "MG Asst. <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/id_ur_rfl_1"
+msgid "Rifleman <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/id_ur_rfl_2"
+msgid "Rifleman <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/id_ur_sl"
+msgid "Feldwebel <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/id_ur_sl_asst"
+msgid "Unteroffizier <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/id_ur_smg"
+msgid "SMG Inf. <c(5bb473)>[Idel-Ural]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_mg"
+msgid "MG Operator <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_mg_ammo"
+msgid "MG Asst. <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_mg_asst"
+msgid "MG Asst. <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_nco"
+msgid "Squadleader <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_nco_asst"
+msgid "Asst. Leader <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_recon_mg"
+msgid "Aufklärer MG Operator <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_recon_mg_asst"
+msgid "Aufklärer MG Asst. <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_recon_nco"
+msgid "Aufklärer Squadleader <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_recon_nco_asst"
+msgid "Aufklärer Asst. Leader <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_recon_rfl_1"
+msgid "Aufklärer Rifleman <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/nachtigall_rfl_1"
+msgid "Rifleman <c(f1c232)>[Nacht</c><c(0b5394)>igall]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/shuma_pio_rifle_2"
+msgid "Pionier <c(bf9000)>[Arbeitsbataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/shuma_pio_builder"
+msgid "Pionier Engineer <c(bf9000)>[Arbeitsbataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/shuma_pio_mine"
+msgid "Pionier <c(bf9000)>[Arbeitsbataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/shuma_pio_rifle_1"
+msgid "Pionier <c(bf9000)>[Arbeitsbataillon]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/od_ua_rfl_2"
+msgid "Rifleman <c(3d85c6)>[Ordnungsdienst]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/od_ua_rfl_1"
+msgid "Rifleman <c(3d85c6)>[Ordnungsdienst]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/br_shuma_43_sa_1"
+msgid "Korporal <c(93c47d)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/br_shuma_43_rfl_3"
+msgid "Unterkorporal <c(93c47d)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/br_shuma_43_rfl_2"
+msgid "Rifleman <c(93c47d)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/br_shuma_43_rfl_1"
+msgid "Rifleman <c(93c47d)>[Schutzmannschaft]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_sl"
+msgid "Unteroffizier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_sl_asst"
+msgid "Gefreiter <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_sa"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_rfl_1"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_rfl_2"
+msgid "Rifleman <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/uvv_nco_1"
+msgid "Feldwebel <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/uvv_smg_1"
+msgid "Unteroffizier <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/uvv_sa_1"
+msgid "Rifleman <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/uvv_smg_2"
+msgid "SMG inf. <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/uvv_rfl_1"
+msgid "Rifleman <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/uvv_mg_1"
+msgid "MG Operator <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/uvv_at_rfl"
+msgid "MG Asst. <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/uvv_rfl_1"
+msgid "AT. Inf. <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/turk_rifle_gren"
+msgid "Rifle Grenadier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/rona_rfl_gren"
+msgid "Rifle Grenadier <c(818181)>[RONA]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/ukraine_sl"
+msgid "Feldwebel <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/ukraine_sl_asst"
+msgid "Unteroffizier <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/ukraine_smg_1"
+msgid "SMG inf. <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/ukraine_rfl_pzf"
+msgid "Rifleman <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/ukraine_rfl_gren"
+msgid "Rifle Grenadier <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/ukraine_rfl"
+msgid "Rifleman <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/ukraine_mg"
+msgid "MG Operator <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/ukraine_mg_asst"
+msgid "MG Asst. <c(f1c232)>[Ukrainische </c><c(0b5394)>Befreiungsarmee]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_43_sl"
+msgid "Unterscharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_43_sl_asst"
+msgid "Rottenführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_43_sa"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_43_rfl_1"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_43_rfl_2"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_43_mg"
+msgid "MG Operator <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_43_mg_asst"
+msgid "MG Asst. <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_43_rfl_gren"
+msgid "Rifle Grenadier <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_pio_sl_asst"
+msgid "Pionier Sl. Asst. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_pio_miner"
+msgid "Pionier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_pio_rfl_3"
+msgid "Pionier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_pio_build"
+msgid "Pionier Engineer <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_pio_rfl_1"
+msgid "Pionier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_pio_rfl_2"
+msgid "Pionier <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_pio_mg"
+msgid "MG Operator <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/turk_pio_mg_asst"
+msgid "MG Asst. <c(2986CC)>[TURKISTAN]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/saboteur_nco"
+msgid "Squadleader [Heer]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/saboteur_sa"
+msgid "Rifleman [Heer]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/saboteur_smg"
+msgid "SMG inf. [Heer]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/saboteur_rifle"
+msgid "Rifleman [Heer]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sl_smg"
+msgid "Scharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sl_asst_smg"
+msgid "Unterscharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sa"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sa_pzf"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_rfl_1"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_rfl_gren"
+msgid "Rifle Grenadier <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_mg"
+msgid "MG Operator <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_mg_asst"
+msgid "MG Asst. <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_recon_sl_smg"
+msgid "Aufklärer Scharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_recon_sl_asst_sa"
+msgid "Aufklärer Unterscharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_recon_sa"
+msgid "Aufklärer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_recon_sa_pzf"
+msgid "Aufklärer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_recon_smg"
+msgid "Aufklärer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_recon_rfl_pzf"
+msgid "Aufklärer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_recon_mg"
+msgid "Aufklärer MG Operator <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_recon_mg_asst"
+msgid "Aufklärer MG Asst. <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sturm_sl_smg"
+msgid "Scharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sturm_sl_asst"
+msgid "Unterscharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sturm_rfl_2"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sturm_stg"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sturm_rfl_gren"
+msgid "Rifle Grenadier <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sturm_rfl_1"
+msgid "Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sturm_mg"
+msgid "MG Operator <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_sturm_mg_asst"
+msgid "MG Asst. <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_vet_sl_smg"
+msgid "Veteran Oberscharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_vet_sl_asst"
+msgid "Veteran Unterscharführer <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_vet_rfl"
+msgid "Veteran Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_vet_stg_pzf"
+msgid "Veteran Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_vet_sa"
+msgid "Veteran Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_vet_stg"
+msgid "Veteran Rifleman <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_vet_mg"
+msgid "Veteran MG Operator <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/late/galicia_vet_mg_asst"
+msgid "Veteran MG Asst. <c(bcbcbc)>[SS Galizien]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/hifs_mg_lew"
+msgid "Hiwi MG Operator <c(7d9db4)>[Ost-Hilfswilligen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/hifs_rfl_1"
+msgid "Hiwi <c(7d9db4)>[Ost-Hilfswilligen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/hifs_rfl_2"
+msgid "Hiwi <c(7d9db4)>[Ost-Hilfswilligen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/hifs_rfl_3"
+msgid "Hiwi <c(7d9db4)>[Ost-Hilfswilligen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/hifs_rfl_4"
+msgid "Hiwi <c(7d9db4)>[Ost-Hilfswilligen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/hifs_sl"
+msgid "Hiwi Squadleader <c(7d9db4)>[Ost-Hilfswilligen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/hifs_smg_1"
+msgid "Hiwi <c(7d9db4)>[Ost-Hilfswilligen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/hifs_smg_2"
+msgid "Hiwi <c(7d9db4)>[Ost-Hilfswilligen]</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/engineer_art"
+msgid "Field Engineer [Heer]"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/mid/engineer_art_sl"
+msgid "Field Engineer Squadleader [Heer]"
+msgstr ""

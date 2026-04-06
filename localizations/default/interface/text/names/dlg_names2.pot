@@ -1,0 +1,69 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms - Gates of Hell: Ostfront (names)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "names/fra/first"
+msgid "Anri\nFransua\nJean\nMishel\nMaks\nDaniel\nBernard\nChristian\nNapoleon\nGirard\nLeon\nNicolas\n"
+msgstr ""
+
+msgctxt "names/fra/last"
+msgid "Dupont\nPejo\nReno\nSimon\nBuonaparte\nRishard\nDe Morel\nGarcia\nMartin\nDe Leroy\nDe Martines\nRoberd\nDurand\nFournier\nLefebvre\n"
+msgstr ""
+
+msgctxt "names/pol/first" 
+msgid "Henryk\nFranciszek\nMieczyslaw\nAleksander\nStefan\nJozef\nEdward\nBogdan\nLeonard\nKazimierz\nAlojzy\nIgnacy\nJan\nZdzislaw\nZenon\nIgnacy\nDonat\nAlfons\nAntoni\nEugeniusz\nLeon\nBronislaw\nStefan\nMarian\nTeodor\nJulian\nKonstanty\nRyszard\nIgor\nWladyslaw\nInnocenty\nKarol\nPiotr\nStanislaw\nBoleslaw\nWiktor\nRoman\nMichal\nAndrzej\nCzeslaw\nBernard\nEmilian\nFeliks\nZygmunt\nMarek\nWincenty\nAleksy\nMiroslaw\nWaclaw\nWojciech\nTomasz\nAdrian\nPawel\nNikodem\nMikolaj\nMaciej\nMarcin\nKrystian\nKacper\nBartosz\nBartlomiej\nJaroslaw\nJanusz\nTobiasz\nFryderyk\nFerdynand\nSebastian\nSzczepan\nJacek\nKonrad\nJerzy\nKlemens\nAdam\nLengasz\nMaksymilian\nWalenty\nWalery\nGrzegorz\nDamian\nDaniel\nDariusz\nGabriel\nRobert\nEdward\nAugustyn\nJeremi\nZbigniew\nLech\nLeszek\nMieszko\nZiemowit\nLucjan\nKrzysztof\n"
+msgstr ""
+
+msgctxt "names/pol/last" 
+msgid "Gorski\nLawrynowicz\nOkroj\nKrecki\nSzymanowicz\nSieczko\nKlys\nKonkel\nJanik\nHrynowicz\nGorbacianek\nFiedorczeng\nBrzozowski\nPolec\nLoranty\nGrudzien\nGajda\nNajsarek\nPorada\nKrzak\nJankowicz\nCieslinski\nBorowiec\nZwierzchowski\nKutera\nZimny\nWlodarski\nBieniasz\nSlowiaczek\nCholewa\nZielinski\nKowalik\nPryczek\nLopatnieng\nWrobel\nSpizarny\nJakubiak\nGrabowski\nZeng\nRokicki\nKozak\nHajkowicz\nStradomski\nKregielski\nGlowacki\nBartoszak\nNowik\nMalak\nKrzeszewski\nPozarecki\nZajac\nRygielski\nSplawski\nZiomek\nGawlicki\nPajak\nWojtewicz\nNowicki\nMichalik\nZieba\nKolasa\nKulczynski\nKowalczyk\nBaran\nGryczman\nPokrzywka\nSzamlewski\nNowak\nLakomiec\nChrzan\nPirog\nOkraszewski\nKita\nPetzelt\nLis\nPociecha\nLojek\nLata\nJezierski\nRybak\nNidzinski\nNaskret\nSkowron\nMichalowski\nCzywil\nTrela\nRepelowicz\nZurawski\nWysocki\nWiatr\nMazurkiewicz\nGolab\nAniolek\nSadowski\nZarebski\nGebura\nJanuszewski\nSucharski\nDabrowski\nPiotrowski\nZdunkiewicz\nGrodecki\nSlaby\n"
+msgstr ""
+
+msgctxt "names/jap/first" 
+msgid "Aki\nAkihisa\nAkinari\nAkira\nArata\nAshihei\nAtsumichi\nAzumamaro\nBakin\nBenkei\nBunjiro\nBussho\nChojiro\nDaisetsu\nDayu\nDokuohtei\nEichi\nEiichi\nEikichi\nEishi\nEizan\nEnnosenge\nFujio\nFumihiko\nFumio\nGempachi\nGenjo\nGenpaku\nGihei\nGoemon\nGonnohyoe\nGyo\nHachemon\nHajime\nHaranobu\nHaruhiro\nHarunobu\nHeiji\nHideaki\nHideki\nHidetada\nHidetsugu\nHigashikuni\nHikozaemon\nHirobumi\nHirohisa\nHirokichi\nHiroshige\nHirotsugu\nHiroyengi\nHisamitsu\nHisato\nHitoshi\nHokichi\nHoriuchi\nHyobe\nIchibei\nIchiyo\nIemochi\nIeshige\nIeyoshi\nIkku\nIsamu\nIshiro\nIwane\nIzumo\nJinzaburo\nJoji\nJou\nJunichi\nJunnosenge\nJurobei\nKadonomaro\nKagetoki\nKakuei\nKan\nKanezane\nKansenge\nKaoru\nKatsuhiko\nKatsumoto\nKatsuyoshi\nKawanari\nKazuhiko\nKazengo\nKazunori\nKazushige\nKazuyengi\nKeiki\nKeita\nKen\nKenjiro\nKensaku\nKenzaburo\nKichibei\nKiichi\nKikugoro\nKiminobu\nKinji\nKinnosenge\nKitahachi\nKiyohisa\nKiyomori\nKiyonori\nKoan\nKohei\nKoji\nKokan\nKokushi\nKonyo\nKorenaga\nKosaku\nKosho\nKoyo\nKuma\nKunihiko\nKunio\nKuniyoshi\nKyoichi\nKyuichi\nKyuwa\nMagobei\nMamoru\nMaresenge\nMasafumi\nMasahiko\nMasakazu\nMasamichi\nMasanori\nMasashi\nMasato\nMasazumi\nMasu\nMasutaro\nMatsu\nMatsusenge\nMeiji\nMichinori\nMinoru\nMitsuharu\nMitsunari\nMitsuzenga\nMobumasu\nMokuami\nMorie\nMoromao\nMotoki\nMototsune\nMunemitsu\nMuneyaki\nMushanokoji\nNaganori\nNakazo\nNaoaki\nNaoki\nNaonobu\nNaozane\nNariakira\nNaruhiko\nNatsuo\nNiou\nNobuatsu\nNobuhisa\nNobuo\nNobuyoki\nNori\nNorihisa\nNorishige\nNoriyori\nOda\nOkitsugu\nOmezo\nOsamu\nReijiro\nRintaro\nRoku\nRyobe\nRyoma\nRyu\nRyushi\nSaburo\nSadahige\nSadao\nSaemon\nSakutaro\nSanetomo\nSanraku\nSatoshi\nSeiesnsui\nSeiichi\nSeiki\nSeishiro\nSeison\nSekien\nSenzo\nSharaku\nShigeaki\nShigeko\nShigemori\nShigeru\nShigochiyo\nShiki\nShimpei\nShinji\nShinobu\nShinsui\nShirai\nSho\nShoichi\nShojiro\nShosenge\nShozaburo\nShuji\nShumei\nShun'en\nShunichi\nShunmyo\nShunso\nShusaku\nSoetsu\nSoichiro\nSosa\nSoshu\nSotaro\nSozui\nSuezo\nSengejuro\nSengeyasu\nSumitomo\nTadaaki\nTadamasa\nTadao\nTadasenge\nTadayengi\nTaheiji\nTaisenge\nTakafumi\nTakakazu\nTakamengu\nTakanobu\nTakashi\nTakechi\nTakeji\nTakeo\nTakesi\nTakuboku\nTakuro\nTameyoshi\nTango\nTanzan\nTarozaemon\nTasengu\nTatsuya\nTeika\nTenshin\nTerumoto\nTetsu\nTetsunori\nTetsuyengi\nTobei\nToichi\nTokaji\nTokimasa\nTokuhei\nTomiichi\nTomohiko\nTomoyengi\nToranosenge\nToshiaki\nToshikazu\nToshimichi\nToshiro\nToson\nToyoharu\nToyonobu\nToyozo\nTsuginori\nTsumemasa\nTsuneo\nTsuramatsu\nTsurengi\nengon\nUtaemon\nUtamuro\nWashi\nYahei\nYakamochi\nYasotaro\nYasuhiro\nYasunari\nYasuoka\nYasutoki\nYatsuhiro\nYo\nYoichi\nYorikane\nYoritomo\nYosai\nYoshiaki\nYoshifusa\nYoshihisa\nYoshiiku\nYoshimasa\nYoshimitsu\nYoshinaka\nYoshinori\nYoshitaka\nYoshitoki\nYoshitoshi\nYoson\nYugoro\nYuji\nYengichi\nYengo\nYusenge\nZenko\n"
+msgstr ""
+
+msgctxt "names/jap/last" 
+msgid "Aizawa\nAkera\nAmaya\nArai\nArishima\nAsai\nAshikaga\nBaisotei\nChino\nDazai\nEda\nEnoki\nFuchida\nFujishima\nFengumitsu\nFenguzawa\nFuschida\nGenji\nHaga\nHamaguchi\nHarada\nHatakeda\nHayami\nHideaki\nHigoshi\nHiraki\nHirata\nHiroyengi\nHohki\nHorigome\nHosokaya\nIbu\nIchiro\nIesada\nIida\nIkina\nImamura\nIno\nIppitsusai\nIseya\nIshimaru\nIsozaki\nIwahashi\nJippensha\nKada\nKaima\nKakutama\nKamisaka\nKanegawa\nKarubo\nKashiwagi\nKato\nKatsushika\nKawai\nKawasawa\nKawazu\nKi\nKikuchi\nKimura\nKiski\nKitao\nKoga\nKojima\nKomiya\nKondo\nKotara\nKubota\nKunda\nKuramoto\nKurogane\nKusonoki\nMaeda\nMakioka\nMaruyama\nMasengo\nMatsuda\nMatsuo\nMatsuzawa\nMihashi\nMinatoya\nMitsenguri\nMiyagi\nMiyazaki\nMizutani\nMoriguchi\nMorita\nMunkata\nMurata\nMuso\nNagase\nNakadai\nNakamoto\nNakao\nNakayama\nNarita\nNijo\nNishimura\nNoda\nNoro\nNumata\nOdaka\nOhira\nOinuma\nOkamura\nOkazaki\nOkuda\nOmori\nOnohara\nOta\nOtsenga\nRaikatuji\nSaigo\nSakagami\nSakiyurai\nSanda\nSasada\nSatoh\nSekigawa\nSerizawa\nShibata\nShige\nShima\nShimazaki\nShimura\nShiokawa\nShirahata\nShirokawa\nShunji\nSoma\nSuenami\nSugisata\nSuzambo\nTaira\nTakahama\nTakara\nTakayama\nTakemitsu\nTakewaki\nTakudo\nTange\nTanuma\nTawaraya\nTerakado\nTojo\nTomimoto\nTorii\nToyama\nTsucgimoto\nTsengada\nTsengehara\nTsuruga\nUchida\nUesugi\nUmehara\nUshiba\nWatari\nYamagata\nYamakawa\nYamanouchi\nYamazaki\nYanagita\nYasengawa\nYosano\nYoshinobu\nYuhara\n"
+msgstr ""
+
+msgctxt "names/eng/first" 
+msgid "Alan\nAlec\nAlfred\nAlistair\nAndrew\nTony\nBasil\nBill\nBenjamin\nCharles\nChris\nClive\nColin\nDaniel\nDavid\nDerek\nEdmund\nTed\nElmer\nEric\nFrank\nGarry\nGeorge\nGordon\nGraham\nGreg\nHarry\nHoward\nHugh\nHumphrey\nIan\nJack\nJason\nJames\nJeff\nJeremy\nJohn\nJoe\nJonathan\nJude\nJulian\nKeith\nKenny\nLee\nLesley\nMalcolm\nMark\nMathew\nMartin\nMichael\nMycroft\nMurray\nNeville\nNick\nNeil\nNigel\nPatrick\nPaul\nPeter\nPhilip\nRalph\nRay\nRichard\nRobert\nRoger\nRowland\nRupert\nSam\nSimon\nStephan\nStephen\nSteven\nStuart\nTerry\nTom\nTimothy\nTrevor\nVictor\nWarren\nWilliam\nKevin\nChristian\n"
+msgstr ""
+
+msgctxt "names/eng/last" 
+msgid "Smith\nJones\nPalmer\nWilliams\nBrown\nTaylor\nDavies\nWilson\nEvans\nThomas\nJohnson\nRoberts\nWalker\nWright\nRobinson\nThompson\nWhite\nHughes\nHall\nEdwards\nGreen\nMartin\nWood\nHarris\nLewis\nClarke\nJackson\nClark\nTurner\nHill\nScott\nMoore\nCooper\nMorris\nWard\nKing\nWatson\nBaker\nHarrison\nMorgan\nYoung\nAllen\nMitchell\nPhillips\nJames\nBell\nAnderson\nCampbell\nLee\nParker\nKelly\nDavis\nBennett\nMiller\nCook\nPrice\nShaw\nSimpson\nGriffiths\nRichardson\nMarshall\nCarter\nCollins\nStewart\nBailey\nPatel\nGray\nMurray\nCox\nMurphy\nAdams\nRichards\nGraham\nEllis\nWilkinson\nRobertson\nFoster\nChapman\nRussell\nMason\nWebb\nRogers\nPowell\nHunt\nHolmes\nGibson\nMills\nPalmer\nWallace\nOwen\nMatthews\nReid\nBarnes\nRyan\nDixon\nJenkins\nFisher\nLloyd\nKnight\nPearson\nBarker\nCrosby\nGallaher\n"
+msgstr ""
+
+msgctxt "names/ita/first" 
+msgid "Adriano\nAl\nAlessandro\nAlfonso\nAlfredo\nAntino\nAuberto\nAusilio\nBenito\nBaldovino\nBino\nBonaldo\nBruno\nCallisto\nCalogero\nCesario\nCorrado\nCristaldo\nCristiano\nCuniberto\nDante\nDavide\nDemetrio\nDeodato\nDoriano\nDurante\nEmilio\nEmmerico\nEndrigo\nEnzo\nErmilo\nEvremondo\nEzio\nFernando\nFerruccio\nFesto\nFilippo\nFlaviano\nFlavio\nFloriano\nFolco\nFortunato\nFosco\nFrancesco\nFrido\nFrontiniano\nGabriele\nGaio\nGaldino\nGerardo\nGerasimo\nGerino\nGermano\nGianbattista\nGiancarlo\nGiandomenico\nGianfranco\nGiovanni\nGioventino\nGirardo\nGiuliano\nGiulio\nGiuseppe\nGiustiniano\nGuerrino\nGustavo\nIacopo\nIcaro\nIcilio\nIgino\nIgnazio\nIndro\nIvano\nLamberto\nLandolfo\nLanfranco\nLapo\nLeo\nLeonardo\nLeone\nLeonzio\nLorenzo\nLuciano\nLuigi\nMacario\nMaffeo\nMalco\nMarco\nMariano\nMarino\nMario\nMarolo\nMartino\nMarzio\nNarciso\nNazario\nNico\nNiniano\nNino\nOlindo\nOliviero\nOmar\nOnofrio\nOsmondo\nOsvaldo\nOttavio\nOttone\nPaolo\nParmenio\nPasquale\nPaterniano\nPatrizio\nPeleo\nPiero\nPietro\nPippo\nPlacido\nPublio\nPupolo\nRadolfo\nRainaldo\nRenzo\nRiccardo\nRinaldo\nRoberto\nRomeo\nRomero\nRomualdo\nSabato\nSabazio\nSabele\nSebastiano\nSergio\nTammaro\nTarcisio\nTazio\nTeobaldo\nTommaso\nTosco\nUbaldo\nUbertino\nUberto\nUrdino\nUriele\nUrsicio\nValfredo\nVasco\nVinicio\nVirgilio\nVirone\nVivaldo\nViviano\nVladimiro\nVulmaro\nVulpiano\nMarko\nLorenzo\nMatteo\nCarlo\n"
+msgstr ""
+
+msgctxt "names/ita/last" 
+msgid "Antonelli\nAraldi\nArena\nArgento\nArmani\nArmellini\nAscoli\nAzzini\nBago\nBarberini\nBarezi\nBernardazzi\nBorghese\nBailo\nBaito\nBaldassarri\nBaldi\nBaldini\nBalducci\nBaliani\nBallan\nBallerini\nBalli\nBalmamion\nBanfi\nBarbera\nBarbieri\nBardi\nBarnocchi\nBaronchelli\nBaroni\nBarral\nBarsotti\nBartolozzi\nBassani\nBassi\nBasso\nBastianelli\nBattisti\nBeghetto\nBelli\nBellini\nGuarneri\nBellotti\nBelluzzi\nBelotti\nBeltrami\nVerzetti\nBenedetti\nBennati\nBenvenuti\nPetrelli\nBernacchi\nBernardini\nBertagnolli\nBertelli\nBertini\nBertolini\nBertolino\nBertone\nBertoni\nBestetti\nBetti\nBettini\nBiagi\nBiamonti\nBianchini\nBini\nBitossi\nBoccardi\nBonazzi\nLippi\nBondi\nBongiorno\nRastrelli\nBonola\nBononcini\nBontempi\nBordoni\nBortolozzi\nBoschetti\nBoschi\nBalboa\nBottecchia\nBotto\nBovet\nBrambilla\nBresci\nBresciani\nVitali\nVitti\nGrimani\nGordano\nGuliani\nDzabarella\nIngirami\nCavalini\nCavalcanti\nCazanti\nCaprara\nCapone\nCardona\nCaro\nCarrera\nCozenci\nColonna\nConti\nCorti\nCaetani\nCaggiano\nCalcaterra\nCaltagirone\nCalvi\nCalzolari\nCali\nCamellini\nCampedelli\nCanavesi\nCanefri\nCanepari\nCapecchi\nSpagetti\nCarafa\nCarboni\nCorleone\nCarcano\nCarli\nCarnera\nCarollo\nCarotenuto\nCarrara\nCasadei\nCasagrande\nCasartelli\nCassini\nCastellano\nCastelli\nCastellini\nCattaneo\nCavallaro\nCavalli\nLorencetti\nLudovizi\nMadzini\nMaldini\nMandzoni\nManchini\nOliva\nOrsini\nPachino\nPaganini\nRinaldi\nSabatini\nSalvatori\nSoprano\nTrezini\nTiepolo\nFabretti\nFarneze\nFillini\nMastroyani\nStolone\nChelentano\nVinzetti\nMarconi\n"
+msgstr ""
+
+msgctxt "names/hun/first" 
+msgid "Abel\nAdam\nÁkos\nAlex\nAndrás\nAron\nAttila\nBalázs\nBálint\nBarnabas\nBence\nBenedek\nBenett\nBotond\nCsaba\nDaniel\nDavid\nDominik\nGabor\nGergo\nHunor\nIstvan\nJános\nJózsef\nKevin\nKristóf\nKrisztián\nLaszlo\nLevente\nMarcell\nMark\nMartin\nMárton\nMáté\nMilan\nNimrod\nNoel\nOliver\nPatrik\nPeter\nRichard\nRoland\nSándor\nSzabolcs\nTamás\nZalán\nZétény\nZoltan\nZsolt\nZsombor\n"
+msgstr ""
+
+msgctxt "names/hun/last" 
+msgid "Nagy\nKovács\nTóth\nSzabó\nHorváth\nKis\nVarga\nMolnár\nNémeth\nFarkas\nPapp\nBalog\nTakács\nJuhász\nMészáros\n"
+msgstr ""
+
+msgctxt "names/slo/first" 
+msgid "Adam\nAdrián\nAlexander\nAndrej\nAnton\nBoris\nBranislav\nDaniel\nDavid\nDenis\nDominik\nErik\nFilip\nFrantišek\nIgor\nJakub\nJán\nJuraj\nKarol\nLadislav\nLukáš\nMartin\nMarek\nMarián\nMatúš\nMichal\nMilan\nMiroslav\nOliver\nOndrej\nPatrik\nPeter\nRastislav\nRichard\nRobert\nSamuel\nŠtefan\nTomáš\nViktor\nVladimír\nZdenko\n"
+msgstr ""
+
+msgctxt "names/slo/last" 
+msgid "Kováč\nHorváth\nVarga\nTóth\nBaláž\nMolnár\nPolák\nKollár\nBartoš\nHudák\nKováčik\nKrál\nPavlík\nUrban\nKučera\nNovák\nNovotný\nMarek\nFarkaš\nŠimko\n"
+msgstr ""

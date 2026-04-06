@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Squads\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/squad/squad_sms_g_late_ost(ger)"
+msgid "<c(A5A095)>(1)</c> (Gendarmerie) Schuma"
+msgstr ""
+
+msgctxt "desc/squad/squad_turk_recon_late_ost_1(ger)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>1.</c> (Aufklärer Squad) Turkestanischen L."
+msgstr ""
+
+msgctxt "desc/squad/squad_turk_recon_late_ost_2(ger)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>2.</c> (Aufklärer Squad) Turkestanischen L."
+msgstr ""
+
+msgctxt "desc/squad/squad_turk_recon_late_ost_3(ger)"
+msgid "<c(A5A095)>(2)</c> <c(E56042)>3.</c> (Aufklärer Squad) Turkestanischen L."
+msgstr ""
+
+msgctxt "desc/squad/squad_idel_late_ost(ger)"
+msgid "<c(A5A095)>(2)</c> (Grenadier Squad) Idel-Ural L."
+msgstr ""
+
+msgctxt "desc/squad/squad_aser_pio_late_ost(ger)"
+msgid "<c(A5A095)>(2)</c> (Pionier Squad) Aserbaidschanische L."
+msgstr ""
+
+msgctxt "desc/squad/squad_n_caucas_recon_late_ost_1(ger)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>1.</c> (Aufklärer Squad) Nordkaukasische L."
+msgstr ""
+
+msgctxt "desc/squad/squad_n_caucas_recon_late_ost_2(ger)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>2.</c> (Aufklärer Squad) Nordkaukasische L."
+msgstr ""
+
+msgctxt "desc/squad/squad_n_caucas_recon_late_ost_3(ger)"
+msgid "<c(A5A095)>(3)</c> <c(E56042)>3.</c> (Aufklärer Squad) Nordkaukasische L."
+msgstr ""
+
+msgctxt "desc/squad/squad_rona_late_ost(ger)"
+msgid "<c(A5A095)>(3)</c> Kaminski Brigade"
+msgstr ""
+
+msgctxt "desc/squad/squad_georgian_late_ost(ger)"
+msgid "<c(A5A095)>(3+)</c> Georgische Legion"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_armenian_pio_2bren_late"
+msgid "<c(B29557)>( I )</c> (Motorisiert Pionier Squad) Armenische Legion"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_76mm_f22g_late"
+msgid "<c(B29557)>( I )</c> 7,62 см FK 36(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_turk_w_76mm1927_late_ost"
+msgid "<c(B29557)>( I )</c> Motorized Turkistanische Legion + 7.62cm i.K.H 290(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_88_85mm_flak_m39r_late"
+msgid "<c(B29557)>( II )</c> 8.5/8.8 cm Flak M.39(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_88_85mm_flak_m39r_late"
+msgid "<c(B29557)>( II )</c> 8.5/8.8 cm Flak M.39(r) (Rebored)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_pzt_3485r"
+msgid "<c(B29557)>( II )</c> Pz.Kpfw. T34/85 747(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_tankodesantniki_rona_late"
+msgid "<c(B29557)>( II )</c> 2x 7.62 cm T-34 747 (r) + Panzerlandungstruppe RONA"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_12cm_lefh396_late"
+msgid "<c(B29557)>( II )</c> 12,2 cm s.F.H.396(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_15cm_kh433_late"
+msgid "<c(B29557)>( III )</c> 15,2 cm KH.433/1(r)"
+msgstr ""
+
+msgctxt "desc/squad/doctrine_pz754r_late"
+msgid "<c(B29557)>( III )</c> Pz.754(r)"
+msgstr ""
+
+
+msgctxt "desc/squad/squad_shuma_builders_con(ger)"
+msgid "<c(A5A095)>(1)</c> Östliches Bautrupp"
+msgstr ""
+
+msgctxt "desc/squad/squad_od_ua_con(ger)"
+msgid "<c(A5A095)>(1)</c> Ordnungsdienst Late"
+msgstr ""
+
+msgctxt "desc/squad/squad_nachtigall_recon_con(ger)"
+msgid "<c(A5A095)>(2)</c> Aufklärungsabteilung Nachtigall"
+msgstr ""
+
+msgctxt "desc/squad/squad_nachtigall_con(ger)"
+msgid "<c(A5A095)>(2)</c> Nachtigall-Trupp"
+msgstr ""
+
+msgctxt "desc/squad/squad_uvv_mid_con(ger)"
+msgid "<c(A5A095)>(2)</c> Detachment of Ukrainian volunteers"
+msgstr ""
+
+msgctxt "desc/squad/squad_uvv_mid_motor_con"
+msgid "<c(A5A095)>(2)</c> Motorisiert detachment of Ukrainian volunteers"
+msgstr ""
+
+msgctxt "desc/squad/squad_uvv_late_con(ger)"
+msgid "<c(A5A095)>(2)</c> Detachment of Ukrainian volunteers Late"
+msgstr ""
+
+msgctxt "desc/squad/squad_galicia_43_con(ger)"
+msgid "<c(A5A095)>(2)</c> Waffen-SS «Galizien» (1943)"
+msgstr ""
+
+msgctxt "desc/squad/squad_galicia_44_con(ger)"
+msgid "<c(A5A095)>(3)</c> Waffen-SS «Galizien»"
+msgstr ""
+
+msgctxt "desc/squad/squad_r_saboteur_con(ger)"
+msgid "<c(A5A095)>(3)</c> Sabotagekommando"
+msgstr ""
+
+msgctxt "desc/squad/squad_galicia_recon_late_con(ger)"
+msgid "<c(A5A095)>(3)</c> Aufklärungsabteilung Waffen-SS «Galizien»"
+msgstr ""
+
+msgctxt "desc/squad/squad_galicia_armor_con"
+msgid "<c(A5A095)>(3)</c> Armored Waffen-SS «Galizien»"
+msgstr ""
+
+msgctxt "desc/squad/squad_vet_galicia_armor_con"
+msgid "<c(A5A095)>(3+)</c> Armored Veteran Waffen-SS «Galizien»"
+msgstr ""
+
+msgctxt "desc/squad/squad_turk_pionier_con(ger)"
+msgid "<c(A5A095)>(2)</c> (Bau- und Pioniertrupp) Turkestanischen L."
+msgstr ""
+
+msgctxt "desc/squad/squad_armenian_pio_con(ger)"
+msgid "<c(A5A095)>(2)</c> (Pionier Squad) Armenische L."
+msgstr ""
+
+msgctxt "desc/squad/squad_aser_pio_late_con"
+msgid "<c(A5A095)>(2)</c> (Motorisiert Pionier Squad) Aserbaidschanische L."
+msgstr ""
+
+msgctxt "desc/squad/squad_turk_recon_late_con(ger)"
+msgid "<c(A5A095)>(2)</c> (Aufklärer Squad) Turkestanischen L."
+msgstr ""
+
+msgctxt "desc/squad/squad_idel_late_con(ger)"
+msgid "<c(A5A095)>(2)</c> (Rifle squad) Idel-Ural"
+msgstr ""
+
+msgctxt "desc/squad/squad_turk_def_late_con"
+msgid "<c(A5A095)>(2)</c> (Konsolidierungstrupp) Turkestanischen L."
+msgstr ""
+
+msgctxt "desc/squad/squad_turk_rfl_mid_con(ger)"
+msgid "<c(A5A095)>(2)</c> (Sicherheitsgruppe) Turkestanischen L."
+msgstr ""
+
+msgctxt "desc/squad/squad_еinsatz_idel_con(ger)"
+msgid "<c(A5A095)>(2)</c> (Einsatzgruppe) Idel-Ural"
+msgstr ""
+
+msgctxt "desc/squad/squad_bergk_con(ger)"
+msgid "<c(A5A095)>(4)</c> Bergkaukasien Legion"
+msgstr ""
+
+msgctxt "desc/squad/squad_n_caucas_recon_con(ger)"
+msgid "<c(A5A095)>(3)</c> (Aufklärer Squad) Nordkaukasische L."
+msgstr ""
+
+msgctxt "desc/squad/squad_georgian_con(ger)"
+msgid "<c(A5A095)>(3+)</c> (Veteranen Squad) Georgische L."
+msgstr ""
+
+msgctxt "desc/squad/squad_br_shuma_rfl_con(ger)"
+msgid "<c(A5A095)>(1)</c> Weißrussische Sicherheitspolizei"
+msgstr ""
+
+msgctxt "desc/squad/squad_hivi_con(ger)"
+msgid "<c(A5A095)>(1)</c> Ost-Hilfswilligen"
+msgstr ""
+
+msgctxt "desc/squad/squad_art_pio_280mm_con"
+msgid "28cm Wk Spr"
+msgstr ""

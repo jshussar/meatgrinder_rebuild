@@ -1,0 +1,174 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Name (desc_ammo)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+
+msgctxt "desc/ammo/11x21"
+msgid ".455 Webley"
+msgstr ""
+
+msgctxt "desc/ammo/11x59"
+msgid "11 x 59 mm R"
+msgstr ""
+
+msgctxt "desc/ammo/11x17"
+msgid "11 x 17.8 mm R"
+msgstr ""
+
+msgctxt "desc/ammo/11x23"
+msgid ".45 ACP" 
+msgstr ""
+
+msgctxt "desc/ammo/12x99"
+msgid ".50 BMG"
+msgstr ""
+
+msgctxt "desc/ammo/13x81"
+msgid "12.7 x 81 mm"
+msgstr ""
+
+msgctxt "desc/ammo/13x96"
+msgid "13.2 x 96 mm Hotchkiss"
+msgstr ""
+
+msgctxt "desc/ammo/13x99h"
+msgid "13.2 x 99 mm"
+msgstr ""
+
+msgctxt "desc/ammo/13x99"
+msgid ".55 Boys"
+msgstr ""
+
+msgctxt "desc/ammo/15x104"
+msgid "15 x 104mm Brno"
+msgstr ""
+
+msgctxt "desc/ammo/5x15"
+msgid ".22 LR"
+msgstr ""
+
+msgctxt "desc/ammo/7,5x54"
+msgid "7.5 x 54 mm MAS 1929C"
+msgstr ""
+
+msgctxt "desc/ammo/7x17" 
+msgid ".32 ACP" 
+msgstr ""
+
+msgctxt "desc/ammo/7x20"
+msgid "7.65 x 20 mm Longue"
+msgstr ""
+
+msgctxt "desc/ammo/7x25"
+msgid "7.62 x 25 mm"
+msgstr ""
+
+msgctxt "desc/ammo/7x33"
+msgid ".30 Carbine"
+msgstr ""
+
+msgctxt "desc/ammo/7x56" 
+msgid ".303 British" 
+msgstr ""
+
+msgctxt "desc/ammo/7x63" 
+msgid ".30-06 Springfield" 
+msgstr ""
+
+msgctxt "desc/ammo/8x27"
+msgid "8 x 27 mm [FR]"
+msgstr ""
+
+msgctxt "desc/ammo/8x33"
+msgid "7.92 x 33 mm Kurz"
+msgstr ""
+
+msgctxt "desc/ammo/8x50"
+msgid "8 x 50 mm R"
+msgstr ""
+
+msgctxt "desc/ammo/8x50b"
+msgid "8 x 50 mm R"
+msgstr ""
+
+msgctxt "desc/ammo/8x56"
+msgid "8 x 56 mm R"
+msgstr ""
+
+msgctxt "desc/ammo/9x19b"
+msgid "9 x 19mm Parabellum"
+msgstr ""
+
+msgctxt "desc/ammo/9x25"
+msgid "9 x 25 mm Mauser"
+msgstr ""
+
+msgctxt "desc/ammo/9x19c"
+msgid "9 x 19 mm Glisenti"
+msgstr ""
+
+msgctxt "desc/ammo/8x59"
+msgid "8 x 59 mm RB Breda"
+msgstr ""
+
+msgctxt "desc/ammo/6x52"
+msgid "6.5 x 52 mm Mannlicher-Carcano"
+msgstr ""
+
+msgctxt "desc/ammo/7x51"
+msgid "7.35 x 51 mm Mannlicher-Carcano"
+msgstr ""
+
+msgctxt "desc/ammo/9x17"
+msgid "9 x 17 mm Beretta"
+msgstr ""
+
+msgctxt "desc/ammo/10x20"
+msgid "10.35 x 20 mm Glisenti"
+msgstr ""
+
+msgctxt "desc/ammo/12x81"
+msgid "12.7 x 81 mm SR Breda"
+msgstr ""
+
+msgctxt "desc/ammo/7x57b"
+msgid "7.92 x 57mm Mauser"
+msgstr ""
+
+msgctxt "desc/ammo/9x19"
+msgid "9 x 19 mm Parabellum"
+msgstr ""
+
+msgctxt "desc/ammo/7x107"
+msgid "7.92 x 107mm DS"
+msgstr ""
+
+msgctxt "desc/ammo/7x57"
+msgid "7.92 x 57 mm Mauser"
+msgstr ""
+
+msgctxt "desc/ammo/6x50"
+msgid "6.5 x 50mm SR Arisaka"
+msgstr ""
+
+msgctxt "desc/ammo/7x58"
+msgid "7.7 x 58mm SR Arisaka"
+msgstr ""
+
+msgctxt "desc/ammo/7x21"
+msgid "7.65 x 21 mm Parabellum"
+msgstr ""
+
+msgctxt "desc/ammo/8x22"
+msgid "8 x 22mm Nambu"
+msgstr ""

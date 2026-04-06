@@ -1,0 +1,42 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell American MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "desc/human/mp/usa/late/17th_glider_bar"
+msgid "17th Glider Automatic Rifleman [USAGF]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/17th_glider_bar_ammo"
+msgid "17th Glider AR Ammo Bearer [USAGF]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/17th_glider_mg"
+msgid "17th Glider MG Operator [USAGF]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/17th_glider_mg_ammo"
+msgid "17th Glider MG Ammo Bearer [USAGF]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/17th_glider_rifle"
+msgid "17th Glider Rifleman [USAGF]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/17th_glider_rifle_band2"
+msgid "17th Glider Rifleman [USAGF]"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/late/17th_glider_sl_smg"
+msgid "17th Glider Squadleader [USAGF]"
+msgstr ""

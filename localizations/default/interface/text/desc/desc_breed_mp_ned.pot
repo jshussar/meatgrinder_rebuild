@@ -1,0 +1,51 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell American MP soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+
+msgctxt "desc/human/mp/ned/late/resistance_bren"
+msgid "Dutch Resistance Fighter"
+msgstr ""
+
+msgctxt "desc/human/mp/ned/late/resistance_enfield"
+msgid "Dutch Resistance Fighter"
+msgstr ""
+
+msgctxt "desc/human/mp/ned/late/resistance_k98"
+msgid "Dutch Resistance Fighter"
+msgstr ""
+
+msgctxt "desc/human/mp/ned/late/resistance_k98_pzf"
+msgid "Dutch Resistance Fighter"
+msgstr ""
+
+msgctxt "desc/human/mp/ned/late/resistance_mg34"
+msgid "Dutch Resistance Fighter"
+msgstr ""
+
+msgctxt "desc/human/mp/ned/late/resistance_mg42"
+msgid "Dutch Resistance Fighter"
+msgstr ""
+
+msgctxt "desc/human/mp/ned/late/resistance_mp40"
+msgid "Dutch Resistance Fighter"
+msgstr ""
+
+msgctxt "desc/human/mp/ned/late/resistance_sten"
+msgid "Dutch Resistance Fighter"
+msgstr ""
+
+msgctxt "desc/human/mp/ned/late/resistance_medic"
+msgid "Dutch Resistance Medic"
+msgstr ""

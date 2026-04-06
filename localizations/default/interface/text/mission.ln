@@ -1,0 +1,1044 @@
+{tags
+	{"multi"
+;---------------Vanilla Maps--------------------
+
+		{"a_frontlines"
+			{"1v1_icy_village"
+				{"name" "<c(00556a)>Ice village <c(ffffff)>1x1</c>"}
+			}
+			{"1v1_sittang"
+				{"name" "<c(f5d231)>Sittang <c(00cecb)>1x1</c>"}
+			}
+			{"1v1_burma"
+				{"name" "<c(f5d231)>Burma <c(00cecb)>1x1</c>"}
+			}
+			{"1v1_countryside"
+				{"name" "<c(f5d231)>Country side <c(00cecb)>1x1</c>"}
+			}
+			{"1v1_forrest_town"
+				{"name" "<c(f5d231)>Forest town <c(00cecb)>1x1</c>"}
+			}
+			{"2v2_moskow"
+				{"name" "<c(00556a)>Moskow <c(ffffff)>2x2</c>"}
+			}
+			{"2v2_silent_town"
+				{"name" "<c(00556a)>Silent Town <c(ffffff)>2x2</c>"}
+			}
+			{"2v2_ardennes"
+				{"name" "<c(f5d231)>Ardennes <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_homefront"
+				{"name" "<c(f5d231)>Homefront <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_overlord"
+				{"name" "<c(f5d231)>Overlord <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_torch"
+				{"name" "<c(f5d231)>Torch <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_koenigsberg_defense"
+				{"name" "<c(f5d231)>Koenigsberg counteroffensive <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_koenigsberg_attack"
+				{"name" "<c(f5d231)>Koenigsberg <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_carentan"
+				{"name" "<c(f5d231)>Overlord <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_benghazi"
+				{"name" "<c(f5d231)>Benghazi <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_biakisland"
+				{"name" "<c(f5d231)>Biak island <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_ileningrad"
+				{"name" "<c(f5d231)>Leningrad <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_depot"
+				{"name" "<c(f5d231)>Depot <c(00cecb)>2x2</c>"}
+			}
+			{"2v2_swampland_fort"
+				{"name" "<c(f5d231)>Swampland fort <c(00cecb)>2x2</c>"}
+			}
+			{"3v3_jungle"
+				{"name" "<c(00556a)>Jungle battle <c(ffffff)>3x3</c>"}
+				}
+			{"3v3_sevastopol"
+				{"name" "<c(00556a)>Sevastopol <c(ffffff)>3x3</c>"}
+			}
+			{"3v3_omaha"
+				{"name" "<c(00556a)>Omaha <c(ffffff)>3x3</c>"}
+			}
+			{"3v3_arnhem"
+				{"name" "<c(f5d231)>Arnhem <c(00cecb)>3x3</c>"}
+			}
+			{"3v3_iwojima"
+				{"name" "<c(f5d231)>Iwojima <c(00cecb)>3x3</c>"}
+			}
+			{"3v3_smolensk"
+				{"name" "<c(f5d231)>Smolensk <c(00cecb)>3x3</c>"}
+			}
+			{"3v3_tobruk"
+				{"name" "<c(f5d231)>Tobruk <c(00cecb)>3x3</c>"}
+			}
+			{"3v3_bastogne"
+				{"name" "<c(f5d231)>Bastogne <c(00cecb)>3x3</c>"}
+			}
+			{"3v3_Sidi_Abdel_Rahman"
+				{"name" "<c(f5d231)>Sidi Abdel Rahman <c(00cecb)>3x3</c>"}
+			}
+		}
+
+;---------------1x1-----------------------------
+
+		{"1v1_winter_harbor"
+			{"name" "<c(00556a)>Winter Harbor <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_spring"
+			{"name" "<c(00556a)>Spring <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_snowfields"
+			{"name" "<c(00556a)>Snow Fields <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_frozen_river"
+			{"name" "<c(00556a)>Frozen River <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_reloading_point"
+			{"name" "<c(00556a)>Reloading Point <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_winter_hills"
+			{"name" "<c(00556a)>Winter Hills <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_winter_church"
+			{"name" "<c(00556a)>Winter Church <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_road"
+			{"name" "<c(00556a)>Road <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_winter_fields"
+			{"name" "<c(00556a)>Winter Fields <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_argentan"
+			{"name" "<c(00556a)>Argentan <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_winter_town"
+			{"name" "<c(00556a)>Winter Town <c(ffffff)>1x1</c>"}
+		}
+		{"1v1_vierville"
+			{"name" "<c(00556a)>Vierville <c(ffffff)>1x1</c>"}
+		}
+
+;---------------2x2-----------------------------
+
+		{"2v2_plateau"
+			{"name" "<c(00556a)>Plateau <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_crossroads"
+			{"name" "<c(00556a)>Crossroads <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_redoctober"
+			{"name" "<c(00556a)>Red October <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_urban_garden"
+			{"name" "<c(00556a)>Urban Garden <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_cold_stream"
+			{"name" "<c(00556a)>Cold Stream <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_bocage"
+			{"name" "<c(00556a)>Bocage <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_tram_depot"
+			{"name" "<c(00556a)>Tramway depot <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_farmstead"
+			{"name" "<c(00556a)>Farmstead <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_heights"
+			{"name" "<c(00556a)>Heights <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_kanawa_mine"
+			{"name" "<c(00556a)>Kanawa mine <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_trainyard"
+			{"name" "<c(00556a)>Trainyard <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_warehouse"
+			{"name" "<c(00556a)>Workshop <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_canyon"
+			{"name" "<c(00556a)>Canyon <c(ffffff)>2x2</c>"}
+		}
+		{"2v2_ramelle"
+			{"name" "<c(00556a)>Ramelle <c(00cecb)><c(ffffff)>2x2</c>"}
+		}
+		{"2v2_colleville"
+			{"name" "<c(00556a)>Colleville <c(00cecb)><c(ffffff)>2x2</c>"}
+		}
+
+;---------------3x3-----------------------------
+
+		{"3v3_farmland"
+			{"name" "<c(00556a)>Farmland <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_frag_town"
+			{"name" "<c(00556a)>Frag town <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_deadriver"
+			{"name" "<c(00556a)>Dead river <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_kasserine_pass"
+			{"name" "<c(00556a)>Kasserine Pass <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_westland"
+			{"name" "<c(00556a)>Westland <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_crossing"
+			{"name" "<c(00556a)>Crossing <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_saipan"
+			{"name" "<c(00556a)>Saipan <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_river_bank"
+			{"name" "<c(00556a)>River Bank <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_bog"
+			{"name" "<c(00556a)>Bog <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_oasis"
+			{"name" "<c(00556a)>Oasis <c(ffffff)>3x3</c>"}
+		}
+		{"3v3_elalamein"
+			{"name" "<c(00556a)>El Alamein <c(00cecb)><c(ffffff)>3x3</c>"}
+		}
+		{"3v3_shattered"
+			{"name" "<c(00556a)>Shattered <c(00cecb)><c(ffffff)>3x3</c>"}
+		}
+		{"3v3_russy"
+			{"name" "<c(00556a)>Russy <c(00cecb)><c(ffffff)>3x3</c>"}
+		}
+
+;---------------4x4-----------------------------
+
+		{"4v4_bazerville"
+			{"name" "<c(00556a)>Bazerville <c(ffffff)>4x4</c>"}
+		}
+		{"4v4_town"
+			{"name" "<c(00556a)>Town <c(ffffff)>4x4</c>"}
+		}
+		{"4v4_lakeland"
+			{"name" "<c(00556a)>Lakeland <c(ffffff)>4x4</c>"}
+		}
+		{"4v4_langres"
+			{"name" "<c(00556a)>Road to Langres <c(ffffff)>4x4</c>"}
+		}
+		{"4v4_suburb"
+			{"name" "<c(00556a)>Suburb 2 <c(ffffff)>4x4</c>"}
+		}
+		{"4v4_nijmegen"
+			{"name" "<c(00556a)>Nijmegen <c(ffffff)>4x4</c>"}
+		}
+		{"4v4_village"
+			{"name" "<c(00556a)>Village <c(ffffff)>4x4</c>"}
+		}
+		{"4v4_hutor"
+			{"name" "<c(00556a)>Hutor <c(ffffff)>4x4</c>"}
+		}
+		{"4v4_depot"
+			{"name" "<c(00556a)>Depot <c(ffffff)>4x4</c>"}
+		}
+
+;---------------5x5-----------------------------
+
+		{"5v5_suburb_3"
+			{"name" "<c(00556a)>Grand suburb <c(ffffff)>5x5</c>"}
+		}
+		{"5v5_forest"
+			{"name" "<c(00556a)>Forest <c(ffffff)>5x5</c>"}
+		}
+		{"5v5_fields"
+			{"name" "<c(00556a)>Fields <c(ffffff)>5x5</c>"}
+		}
+		{"5v5_rustle_of_sands"
+			{"name" "<c(00556a)>Rustle of sands <c(ffffff)>5x5</c>"}
+		}
+		{"5v5_march"
+			{"name" "<c(00556a)>Ostwind <c(ffffff)>5x5</c>"}
+		}
+		{"5v5_normandy"
+			{"name" "<c(00556a)>Normandy <c(ffffff)>5x5</c>"}
+		}
+		{"5v5_port"
+			{"name" "<c(00556a)>Port <c(ffffff)>5x5</c>"}
+		}
+		{"5v5_railway_station"
+			{"name" "<c(00556a)>Railway Station <c(ffffff)>5x5</c>"}
+		}
+		{"5v5_docks"
+			{"name" "<c(00556a)>Docks <c(00cecb)><c(ffffff)>5x5</c>"}
+		}
+
+;---------------6x6-----------------------------
+
+		{"6v6_station"
+			{"name" "<c(00556a)>Hills <c(ffffff)>6x6</c>"}
+		}
+		{"6v6_hunting"
+			{"name" "<c(00556a)>Hunting <c(ffffff)>6x6</c>"}
+		}
+		{"6v6_dubovka"
+			{"name" "<c(00556a)>Dubovka <c(ffffff)>6x6</c>"}
+		}
+		{"6v6_glubinka"
+			{"name" "<c(00556a)>Glubinka <c(ffffff)>6x6</c>"}
+		}
+
+;---------------8x8-----------------------------
+
+		{"8v8_facility"
+			{"name" "<c(00556a)>Facility <c(ffffff)>8x8</c>"}
+		}
+		{"8v8_foothills"
+			{"name" "<c(00556a)>Foot Hills <c(ffffff)>8x8</c>"}
+		}
+		{"8v8_frostbite"
+			{"name" "<c(00556a)>Frostbite <c(ffffff)>8x8</c>"}
+		}
+		{"8v8_market"
+			{"name" "<c(00556a)>Market <c(ffffff)>8x8</c>"}
+		}
+		{"8v8_sands"
+			{"name" "<c(00556a)>Sands <c(ffffff)>8x8</c>"}
+		}
+		{"8v8_desert_walk"
+			{"name" "<c(00556a)>Desert walk <c(ffffff)>8x8</c>"}
+		}
+		{"8v8_ostwind"
+			{"name" "<c(00556a)>Ostwind <c(ffffff)>8x8</c>"}
+		}
+		{"8v8_winter_walk"
+			{"name" "<c(00556a)>Winter walk <c(ffffff)>8x8</c>"}
+		}
+
+;---------------Mod Maps-----------------------------
+
+		{"1v1_escape"
+			{"name" "<c(f5d231)>Escape <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_scheldt_obs"
+			{"name" "<c(f5d231)>Scheldt <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_stalingrad_obs"
+			{"name" "<c(f5d231)>Stalingrad  <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_submarine"
+			{"name" "<c(f5d231)>Submarine <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_tobruk"
+			{"name" "<c(f5d231)>Tobruk <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_torch_uprising"
+			{"name" "<c(f5d231)>Torch uprising <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_ardennes_breach"
+			{"name" "<c(f5d231)>Ardennes breach <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_falaise"
+			{"name" "<c(f5d231)>Falaise <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_icy_village"
+			{"name" "<c(f5d231)>Icy village <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_marvie"
+			{"name" "<c(f5d231)>Marvie <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_mountains"
+			{"name" "<c(f5d231)>Mountains <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_Montecassino"
+			{"name" "<c(f5d231)>Montecassino <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_radar"
+			{"name" "<c(f5d231)>Radar <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_louvain"
+			{"name" "<c(f5d231)>Louvain <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_cherkassy"
+			{"name" "<c(f5d231)>Cherkassy <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_rivercrossroad"
+			{"name" "<c(f5d231)>River crossroad <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_abbey"
+			{"name" "<c(f5d231)>Abbey <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_africa"
+			{"name" "<c(f5d231)>Africa <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_deb_obs"
+			{"name" "<c(f5d231)>Deb <c(00cecb)>1x1</c>"}
+		}
+		{"1v1_kreuzberg_obs"
+			{"name" "<c(f5d231)>Kreuzberg <c(00cecb)>1x1</c>"}
+		}
+		{"2v2_marvie"
+			{"name" "<c(f5d231)>Marvie <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_ardennes"
+			{"name" "<c(f5d231)>Ardennes (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_deb_obs_workshop"
+			{"name" "<c(f5d231)>Deb obs (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_falaise"
+			{"name" "<c(f5d231)>Falaise (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_malmedy"
+			{"name" "<c(f5d231)>Malmedy <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_outskirts_arnhem"
+			{"name" "<c(f5d231)>Outskirts Arnhem (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_arnhem"
+			{"name" "<c(f5d231)>Arnhem (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_chebourg"
+			{"name" "<c(f5d231)>Chebourg (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_iasi"
+			{"name" "<c(f5d231)>Iasi <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_smolensk"
+			{"name" "<c(f5d231)>Smolensk (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_carentan"
+			{"name" "<c(f5d231)>Carentan (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_bestland"
+			{"name" "<c(f5d231)>Bestland <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_kesthell"
+			{"name" "<c(f5d231)>Kesthell <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_vierville"
+			{"name" "<c(f5d231)>Vierville <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_avalanche"
+			{"name" "<c(f5d231)>Avalanche (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_kharkov"
+			{"name" "<c(f5d231)>Kharkov (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_koenigsberg_obs"
+			{"name" "<c(f5d231)>Koenigsberg (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_kreuzberg_obs"
+			{"name" "<c(f5d231)>Kreuzberg (Workshop) <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_peleliu"
+			{"name" "<c(f5d231)>Peleliu <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_shtrafbat"
+			{"name" "<c(f5d231)>Shtrafbat <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_mirage"
+			{"name" "<c(f5d231)>Mirage <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_sainte-mere-eglise"
+			{"name" "<c(f5d231)>Sainte-Mere-Eglise <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_torch_willa"
+			{"name" "<c(f5d231)>Torch willa <c(00cecb)>2x2</c>"}
+		}
+		{"2v2_louvain"
+			{"name" "<c(f5d231)>Louvain <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_africa"
+			{"name" "<c(f5d231)>Africa <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_tattarby"
+			{"name" "<c(f5d231)>Tattarby <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_theorchard"
+			{"name" "<c(f5d231)>The orchard <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_snake_ice"
+			{"name" "<c(f5d231)>Snake ice <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_tannenberg"
+			{"name" "<c(f5d231)>Tannenberg <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_hurtgen"
+			{"name" "<c(f5d231)>Hurtgen <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_vienna"
+			{"name" "<c(f5d231)>Vienna <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_dieppe"
+			{"name" "<c(f5d231)>Dieppe (Workshop) <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_mosa"
+			{"name" "<c(f5d231)>Mosa (Workshop) <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"2v2_warsaw"
+			{"name" "<c(f5d231)>Warsaw <c(00cecb)><c(00cecb)>2x2</c>"}
+		}
+		{"3v3_ardennes"
+			{"name" "<c(f5d231)>Ardennes (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_anzio_farmland"
+			{"name" "<c(f5d231)>Anzio (farmland) <c(00cecb)>3x3</c>"}
+		}		{"3v3_ardennes"
+		}
+		{"3v3_bardia_fragtown"
+			{"name" "<c(f5d231)>Bardia (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_berlin_farmland"
+			{"name" "<c(f5d231)>Berlin (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_berlin_fragtown"
+			{"name" "<c(f5d231)>Berlin (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_bastogne_farm"
+			{"name" "<c(f5d231)>Bastogne (farm) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_bastogne_fragtown"
+			{"name" "<c(f5d231)>Bastogne (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_colleville"
+			{"name" "<c(f5d231)>Colleville (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_deb_obs_fragtown"
+			{"name" "<c(f5d231)>Deb obs (Workshop) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_desant"
+			{"name" "<c(f5d231)>Desant (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_duvizka"
+			{"name" "<c(f5d231)>Duvizka (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_Dnieper"
+			{"name" "<c(f5d231)>Dnieper (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_desert_walk_farmland"
+			{"name" "<c(f5d231)>Desert (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_desert_walk_fragtown"
+			{"name" "<c(f5d231)>Desert (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_dorsten_farmland"
+			{"name" "<c(f5d231)>Dorsten (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_giarratana_fragtown"
+			{"name" "<c(f5d231)>Giarratana (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_guadalcanal_farmland"
+			{"name" "<c(f5d231)>Guadalcanal (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_Hal_far_farm"
+			{"name" "<c(f5d231)>Hal far (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_kharkov_farmland"
+			{"name" "<c(f5d231)>Kharkov (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_malmedy_farmland"
+			{"name" "<c(f5d231)>Malmedy (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_netherlands_farmland"
+			{"name" "<c(f5d231)>Jekschot (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_jarkov_1941"
+			{"name" "<c(f5d231)>Jarkov 1941 (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_jarkov_1943"
+			{"name" "<c(f5d231)>Jarkov 1943 (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_junction"
+			{"name" "<c(f5d231)>Junction (fragtown) <c(00cecb)><c(00cecb)>3x3</c>"}
+		}
+		{"3v3_Kursk_farmland"
+			{"name" "<c(f5d231)>Kursk (farmland) <c(00cecb)><c(00cecb)>3x3</c>"}
+		}
+		{"3v3_leningrad_farmland"
+			{"name" "<c(f5d231)>Leningrad (farmland) <c(00cecb)><c(00cecb)>3x3</c>"}
+		}
+		{"3v3_tripoli"
+			{"name" "<c(f5d231)>Tripoli (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_bel_map"
+			{"name" "<c(f5d231)>Oder (fragtown) <c(00cecb)><c(00cecb)>3x3</c>"}
+		}
+		{"3v3_africa"
+			{"name" "<c(f5d231)>Africa (bazerville) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_falaise"
+			{"name" "<c(f5d231)>Falaise (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_general_winter_farmland"
+			{"name" "<c(f5d231)>Chudovo (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_village"
+			{"name" "<c(f5d231)>Village (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_budapest"
+			{"name" "<c(f5d231)>Budapest (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_elzas"
+			{"name" "<c(f5d231)>Elzas (newfragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_langres"
+			{"name" "<c(f5d231)>Langres (newfragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_outskirts_lublin"
+			{"name" "<c(f5d231)>Outskirts Lublin (newfarmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_outskirts_novohrad"
+			{"name" "<c(f5d231)>Outskirts Novohrad (newfarmland2) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_outskirts_Moscow"
+			{"name" "<c(f5d231)>Outskirts Moscow (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_rhineland"
+			{"name" "<c(f5d231)>Rhineland (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_Sidi_Abdel_Rahman"
+			{"name" "<c(f5d231)>Sidi Abdel Rahman (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_stanlingrad_farmland"
+			{"name" "<c(f5d231)>Stalingrad (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_stanlingrad_fragtown"
+			{"name" "<c(f5d231)>Stalingrad (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_tunisia"
+			{"name" "<c(f5d231)>Tunisia (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_voronezh"
+			{"name" "<c(f5d231)>Voronezh (fragtown) <c(00cecb)>3x3</c>"}
+		}
+		{"3v3_warsaw"
+			{"name" "<c(f5d231)>Warsaw  (farmland) <c(00cecb)>3x3</c>"}
+		}
+		{"4v4_ardennes"
+			{"name" "<c(f5d231)>Ardennes (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_anzio_village"
+			{"name" "<c(f5d231)>Anzio (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_berlin_bazerville"
+			{"name" "<c(f5d231)>Berlin (bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_berlin_suburb2"
+			{"name" "<c(f5d231)>Berlin (suburb2) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_berlin_town"
+			{"name" "<c(f5d231)>Berlin (town) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_berlin_village"
+			{"name" "<c(f5d231)>Berlin (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_bastogne_town"
+			{"name" "<c(f5d231)>Bastogne (Suburb 2) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_bastogne_town_front"
+			{"name" "<c(f5d231)>Bastogne (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_bastogne_town_geometric"
+			{"name" "<c(f5d231)>Bastogne (Town) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_bastogne_village"
+			{"name" "<c(f5d231)>Bastogne (Village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_buinichi"
+			{"name" "<c(f5d231)>Buinichi (Suburb 2) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_air_threat"
+			{"name" "<c(f5d231)>Air threat (Suburb 2) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_cassino"
+			{"name" "<c(f5d231)>Cassino (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_deadriver_bazerville"
+			{"name" "<c(f5d231)>Dead River (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_deb_obs_bazerville"
+			{"name" "<c(f5d231)>Deb obs (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_Dnieper"
+			{"name" "<c(f5d231)>Dnieper (Village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_desert_walk_village"
+			{"name" "<c(f5d231)>Desert Walk (Village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_dorsten_suburb2"
+			{"name" "<c(f5d231)>Dorsten (Suburb 2)<c(00cecb)>4x4</c>"}
+		}
+		{"4v4_dorsten_village"
+			{"name" "<c(f5d231)>Dorsten (Village)<c(00cecb)>4x4</c>"}
+		}
+		{"4v4_frag_town_bazerville"
+			{"name" "<c(f5d231)>Fragtown (bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_giarratana_bazerville"
+			{"name" "<c(f5d231)>Giarratana (bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_jarkov"
+			{"name" "<c(f5d231)>Jarkov (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_jarkov_1941_bazerville"
+			{"name" "<c(f5d231)>Jarkov 1941 (bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_karelia"
+			{"name" "<c(f5d231)>Karelia (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_kaunas"
+			{"name" "<c(f5d231)>Kaunas (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_kasserine_pass_bazerville"
+			{"name" "<c(f5d231)>Kasserine Pass (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_kharkov_town"
+			{"name" "<c(f5d231)>Kharkov (town) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_kharkov_village"
+			{"name" "<c(f5d231)>Kharkov (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_Kursk_suburb2"
+			{"name" "<c(f5d231)>Kursk (suburb) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_Kursk_village"
+			{"name" "<c(f5d231)>Kursk (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_leningrad_village"
+			{"name" "<c(f5d231)>Leningrad (village) <c(00cecb)><c(00cecb)>4x4</c>"}
+		}
+		{"4v4_leningrad_suburb"
+			{"name" "<c(f5d231)>Leningrad (suburb) <c(00cecb)><c(00cecb)>4x4</c>"}
+		}
+		{"4v4_lombardia"
+			{"name" "<c(f5d231)>Lombardia (suburb) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_netherlands_village"
+			{"name" "<c(f5d231)>Jekschot (Village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_essen"
+			{"name" "<c(f5d231)>Essen (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_ramelle"
+			{"name" "<c(f5d231)>Ramelle (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_russy"
+			{"name" "<c(f5d231)>Russy (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_outskirts_Rangoon"
+			{"name" "<c(f5d231)>Outskirts Rangoon (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_malmedy_suburb"
+			{"name" "<c(f5d231)>Malmedy (suburb) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_malmedy_village"
+			{"name" "<c(f5d231)>Malmedy (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_minsk"
+			{"name" "<c(f5d231)>Minsk (Village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_brettevillette"
+			{"name" "<c(f5d231)>Brettevillette (New) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_general_winter_village"
+			{"name" "<c(f5d231)>Chudovo (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_guadalcanal_suburb"
+			{"name" "<c(f5d231)>Guadalcanal (suburb) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_guadalcanal_village"
+			{"name" "<c(f5d231)>Guadalcanal (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_foothills_town"
+			{"name" "<c(f5d231)>Foothills town (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_bocage"
+			{"name" "<c(f5d231)>Bocage (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_bardia_bazerville"
+			{"name" "<c(f5d231)>Bardia (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_hedge_maze"
+			{"name" "<c(f5d231)>Hedge maze (newSuburb) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_caen"
+			{"name" "<c(f5d231)>Caen (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_crete"
+			{"name" "<c(f5d231)>Crete (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_farmland"
+			{"name" "<c(f5d231)>Farmland (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_Hal_far_village"
+			{"name" "<c(f5d231)>Hal far (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_karlsplatz_stadtbahn"
+			{"name" "<c(f5d231)>Karlsplatz Stadtbahn (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_prague"
+			{"name" "<c(f5d231)>Prague (newBazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_renesse"
+			{"name" "<c(f5d231)>Renesse (newBazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_salerno_suburb"
+			{"name" "<c(f5d231)>Salerno (suburb) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_Sidi_Abdel_Rahman"
+			{"name" "<c(f5d231)>Sidi Abdel Rahman (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_Sibiu"
+			{"name" "<c(f5d231)>Sibiu <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_stanlingrad_bazerville"
+			{"name" "<c(f5d231)>Stanlingrad (bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_stanlingrad_village"
+			{"name" "<c(f5d231)>Stanlingrad (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_facility"
+			{"name" "<c(f5d231)>Facility (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_frostbite"
+			{"name" "<c(f5d231)>Frostbite (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_market"
+			{"name" "<c(f5d231)>Market (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_ostwind"
+			{"name" "<c(f5d231)>Ostwind (Suburb 2) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_ostwind_front"
+			{"name" "<c(f5d231)>Ostwind front (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_outskirts_Moscow"
+			{"name" "<c(f5d231)>Outskirts Moscow (Village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_poland_village"
+			{"name" "<c(f5d231)>Borowa Gora (Village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_rhineland"
+			{"name" "<c(f5d231)>Rhineland (village) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_sainte-mere-eglise"
+			{"name" "<c(f5d231)>Sainte-mere-eglise (bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"4v4_voronezh"
+			{"name" "<c(f5d231)>Voronezh (Bazerville) <c(00cecb)>4x4</c>"}
+		}
+		{"5v5_anzio_suburb3"
+			{"name" "<c(f5d231)>Anzio <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_bastogne_town"
+			{"name" "<c(f5d231)>Bastogne <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_berlin_forest"
+			{"name" "<c(f5d231)>Berlin (NvS) <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_berlin_suburb3"
+			{"name" "<c(f5d231)>Berlin (EvW) <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_caen"
+			{"name" "<c(f5d231)>Caen <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_dorsten"
+			{"name" "<c(f5d231)>Dorsten <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_fury"
+			{"name" "<c(f5d231)>Fury <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_farmland"
+			{"name" "<c(f5d231)>Farmland <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_desert_walk_suburb3"
+			{"name" "<c(f5d231)>Desert walk <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_kharkov"
+			{"name" "<c(f5d231)>Kharkov <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_Kursk_suburb3"
+			{"name" "<c(f5d231)>Kursk <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_leningrad"
+			{"name" "<c(f5d231)>Leningrad <c(00cecb)><c(00cecb)>5x5</c>"}
+		}
+		{"5v5_lombardia"
+			{"name" "<c(f5d231)>Lombardia <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_qattarah"
+			{"name" "<c(f5d231)>Munkhafad al-Qattarah <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_malmedy"
+			{"name" "<c(f5d231)>Malmedy <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_narva"
+			{"name" "<c(f5d231)>Narva <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_netherlands"
+			{"name" "<c(f5d231)>Jekschot <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_Dnieper"
+			{"name" "<c(f5d231)>Dnieper <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_Cirenaica"
+			{"name" "<c(f5d231)>Cirenaica <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_outskirts_Moscow"
+			{"name" "<c(f5d231)>Outskirts Moscow <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_salerno"
+			{"name" "<c(f5d231)>Salerno <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_sebastopol"
+			{"name" "<c(f5d231)>Sebastopol <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_Sidi_el-Barrani"
+			{"name" "<c(f5d231)>Sidi el-Barrani <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_general_winter_forest"
+			{"name" "<c(f5d231)>Chudovo <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_guadalcanal"
+			{"name" "<c(f5d231)>Guadalcanal <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_ardennes"
+			{"name" "<c(f5d231)>Ardennes <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_medenine"
+			{"name" "<c(f5d231)>Medenine <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_poland_suburb3"
+			{"name" "<c(f5d231)>Borowa Gora <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_pomerania"
+			{"name" "<c(f5d231)>Pomerania <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_hellmedovka"
+			{"name" "<c(f5d231)>Hellmedovka <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_rhineland"
+			{"name" "<c(f5d231)>Rhineland <c(00cecb)>5x5</c>"}
+		}
+		{"5v5_village"
+			{"name" "<c(f5d231)>Village <c(00cecb)>5x5</c>"}
+		}
+		{"6v6_anzio"
+			{"name" "<c(f5d231)>Anzio <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_berlin"
+			{"name" "<c(f5d231)>Berlin <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_caen"
+			{"name" "<c(f5d231)>Caen <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_Dnieper"
+			{"name" "<c(f5d231)>Dnieper <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_desert_walk_hunting"
+			{"name" "<c(f5d231)>Desert walk <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_farmland"
+			{"name" "<c(f5d231)>Farmland <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_kharkov"
+			{"name" "<c(f5d231)>Kharkov <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_Kursk_hunting"
+			{"name" "<c(f5d231)>Kursk <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_leningrad"
+			{"name" "<c(f5d231)>Leningrad <c(00cecb)><c(00cecb)>6v6</c>"}
+		}
+		{"6v6_lombardia"
+			{"name" "<c(f5d231)>Lombardia <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_malmedy"
+			{"name" "<c(f5d231)>Malmedy <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_moldova"
+			{"name" "<c(f5d231)>Moldova <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_near_of_moscow"
+			{"name" "<c(f5d231)>Near of Moscow <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_netherlands"
+			{"name" "<c(f5d231)>Jekschot <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_outskirts_bastogne"
+			{"name" "<c(f5d231)>Outskirts Bastogne <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_pomorze"
+			{"name" "<c(f5d231)>Pomorze <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_dorsten"
+			{"name" "<c(f5d231)>Dorsten <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_general_winter"
+			{"name" "<c(f5d231)>Chudovo <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_guadalcanal"
+			{"name" "<c(f5d231)>Guadalcanal <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_far_general_winter"
+			{"name" "<c(f5d231)>Bolshoy Uzhin <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_hellmedovka"
+			{"name" "<c(f5d231)>Hellmedovka <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_poland"
+			{"name" "<c(f5d231)>Borowa Gora <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_salerno"
+			{"name" "<c(f5d231)>Salerno <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_salerno"
+			{"name" "<c(f5d231)>Salerno <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_sebastopol"
+			{"name" "<c(f5d231)>Sebastopol <c(00cecb)>6x6</c>"}
+		}
+		{"6v6_village"
+			{"name" "<c(f5d231)>Village <c(00cecb)>6x6</c>"}
+		}
+		{"8v8_anzio"
+			{"name" "<c(f5d231)>Anzio <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_caen"
+			{"name" "<c(f5d231)>Caen <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_Dnieper"
+			{"name" "<c(f5d231)>Dnieper <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_dorsten"
+			{"name" "<c(f5d231)>Dorsten <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_farmland"
+			{"name" "<c(f5d231)>Farmland <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_hellmedovka"
+			{"name" "<c(f5d231)>Hellmedovka <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_lombardia"
+			{"name" "<c(f5d231)>Lombardia <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_netherlands"
+			{"name" "<c(f5d231)>Jekschot <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_poland"
+			{"name" "<c(f5d231)>Borowa Gora <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_sicily"
+			{"name" "<c(f5d231)>Sicily <c(00cecb)>8x8</c>"}
+		}
+		{"8v8_village"
+			{"name" "<c(f5d231)>Village <c(00cecb)>8x8</c>"}
+		}
+	}
+}

@@ -1,0 +1,87 @@
+
+
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Finnish vehicles\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/entity/t37a_shkas"
+msgid "T-37A (ShKAS)"
+msgstr ""
+
+msgctxt "info/special/t37a_shkas"
+msgid "<c(c3baae)>Amphibious Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/bren_carrier_rus"
+msgid "Universal Carrier (Bren)"
+msgstr ""
+
+msgctxt "info/special/bren_carrier_rus"
+msgid "<c(c3baae)>APC</c>"
+msgstr ""
+
+msgctxt "desc/entity/dshk_carrier_rus"
+msgid "Universal Carrier (DShK)"
+msgstr ""
+
+msgctxt "info/special/dshk_carrier_rus"
+msgid "<c(c3baae)>APC</c>"
+msgstr ""
+
+msgctxt "desc/entity/50mm_krh38_su"
+msgid "50mm RM-38 M1938"
+msgstr ""
+
+msgctxt "info/special/50mm_krh38_su"
+msgid "<c(c3baae)>Light Mortar</c>"
+msgstr ""
+
+msgctxt "desc/entity/flammpanzer1"
+msgid "Pz.Kpfw I Ausf.A (Flamm)"
+msgstr ""
+
+msgctxt "info/special/flammpanzer1"
+msgid "<c(c3baae)>Flammpanzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/flammhetzer"
+msgid "Flammpanzer 38"
+msgstr ""
+
+msgctxt "info/special/flammhetzer"
+msgid "<c(c3baae)>Flammpanzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz222b"
+msgid "Sd.Kfz 222 Ausf.B"
+msgstr ""
+
+msgctxt "info/special/sdkfz222b"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz221_spzb"
+msgid "Sd.Kfz 221 mit SPzB 41"
+msgstr ""
+
+msgctxt "info/special/sdkfz221_spzb"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/kfz13_early"
+msgid "Kfz. 13 (MG13)"
+msgstr ""
+
+msgctxt "info/special/kfz13_early"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""

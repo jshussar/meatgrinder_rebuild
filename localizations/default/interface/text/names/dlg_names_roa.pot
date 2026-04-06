@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms - Gates of Hell: Ostfront (names for finland)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "names/nk/first"
+msgid "Georgy\nDavid\nAlan\nAzamat\nAstemir\nDaniel\nShamil\nBeslan\nRuslan\nAlbert\nAhmed\nMagomed\nMurad\nIsmail\nAli\n"
+msgstr ""
+
+msgctxt "names/nk/last"
+msgid "Anzorov\nBabukov\nBorov\nBzhekhonov\nDautokov\nDokshukov\nKaramurzin\nKozhokov\nKonov\nKudenetov\nMardzhanetov\nRakhmetov\nRabihatov\nSaferov\nShakhmanov\nShikharkhanov\nChabahanov\nGashkhaov\nDzekhanov\nShaidetov\nShamsetov\nShagdetov\n"
+msgstr ""
+
+msgctxt "names/idur/first"
+msgid "Amirkhan\nArslan\nBulat\nDamir\nTimur\nTamerlane\nAidar\nVladimir\nYaroslav\nBogdan\nVadim\nTihomir\nBatyr\nBayras\nSabit\nAidar\nBuranbay\nKamal\nNaked\n"
+msgstr ""
+
+msgctxt "names/idur/last"
+msgid "Shakirov\nZakirov\nGaliev\nValiev\nSafin\nKhairullin\nZaripov\nKarimov\nIbragimov\nKhasanov\nAkhmetov\nMuratov\nYusupov\nDavletshin\nNigmatullin\n"
+msgstr ""
+
+msgctxt "names/arm/first"
+msgid "Tigran\nAshot\nAram\nLevon\nArmen\nSamvel\nKaren\nSuren\nZurab\nVardan\nAndranik\nHarutyun\nBagrat\nNorayr\nSargis\nKarapet\nGrigor\nDavid\nGevorg\nMikael\n"
+msgstr ""
+
+msgctxt "names/arm/last"
+msgid "Avetisyan\nHakobyan\nHarutyunyan\nAsryan\nGrigoryan\nOganesyan\nPetrosyan\nKhachatryan\nGevorgyan\nMartirosyan\nDzhigarkhanyan\n"
+msgstr ""
+
+msgctxt "names/aser/first"
+msgid "Ugur\nYusif\nAli\nMurad\nIbrahim\nSaid\nOmar\nMagomed\nHuseyn\nAgil\nAgshin\nAdil\nAziz\nAzer\nAkram\nAraz\nVugar \nVagif\nTeymur\nElshan\nEmil\nZaur\nJafar\n"
+msgstr ""
+
+msgctxt "names/aser/last"
+msgid "Abbasov\nAliyev\nBabayev\nGadzhiev\nGuliyev\nGuseynov\nIbragimov\nIsmailov\nMamedov\nMusayev\nOrujov\nSuleimonov\nRustamkhanli\nOsmanli\nMammadzade\nAkhmedzade\noglu Aliyev\n"
+msgstr ""
+
+msgctxt "names/geor/first"
+msgid "Giorgiy\nDavid\nAlexandre\nLuka\nNikoloz\nIrakli\nZurab\nSaba\nLevan\nAvtandil\nArchil\nVakhtang\nGocha\nKakha\nLasha\nMamuka\nMirab\nShalva\nShota\n"
+msgstr ""
+
+msgctxt "names/geor/last"
+msgid "Beridze\nKvaratskhelia\nMikeladze\nShengelia\nNozadze\nAbuladze\nTabatadze\nZhvania\nZhordania\nKapanadze\nGelashvili\nMaisuradze\nGiorgadze\nLomidze\nTsutskiridze\n"
+msgstr ""
+
+msgctxt "names/turk/first"
+msgid "Georgy\nDavid\nAlan\nAzamat\nAstemir\nDaniel\nShamil\nBeslan\nRuslan\nAlbert\nAhmed\nMagomed\nMurad\nIsmail\nAli\nAmirkhan\nArslan\nBulat\nDamir\nTimur\nTamerlane\nAidar\nVladimir\nYaroslav\nBogdan\nVadim\nTihomir\nBatyr\nBayras\nSabit\nAidar\nBuranbay\nKamal\nNaked\nYusif\nMurad\nIbrahim\nSaid\nOmar\nMagomed\nHuseyn\nAgil\nAgshin\nAdil\nAziz\nAzer\nAkram\nAraz\nVugar \nVagif\nTeymur\nElshan\nEmil\nZaur\nJafar\n"
+msgstr ""
+
+msgctxt "names/turk/last"
+msgid "Anzorov\nBabukov\nBorov\nBzhekhonov\nDautokov\nDokshukov\nKaramurzin\nKozhokov\nKonov\nKudenetov\nMardzhanetov\nRakhmetov\nRabihatov\nSaferov\nShakhmanov\nShikharkhanov\nChabahanov\nGashkhaov\nDzekhanov\nShaidetov\nShamsetov\nShagdetov\nZakirov\nGaliev\nValiev\nSafin\nKhairullin\nZaripov\nKarimov\nIbragimov\nKhasanov\nAkhmetov\nMuratov\nYusupov\nDavletshin\nNigmatullin\n"
+msgstr ""
+
+msgctxt "names/roa/first"
+msgid "Mitrofan\nPantelei\nAfanasiy\nSergey\nArtem\nEfim\nYevstrat\nGavriil\nZinoviy\nPlaton\nRuslan\nKornei\nVincent\nMakar\nTerentiy\nRodion\nVeniamin\nSerafim\nFilipp\nProkhor\nAfrican\nCaesar\nAnisii\nAkim\nAnisim\nAlexander\nAleksei\nAndrei\nAnton\nBogdan\nBoris\nBorislav\nDaniil\nDavyd\nDemian\nDenis\nDmitri\nDorofei\nEgor\nErmolai\nEvgeniy\nFedot\nFoma\nFyodor\nGavrila\nGennady\nGeorgiy\nGerasim\nGleb\nGrigoriy\nIgor\nIlya\nInnokentiy\nJoseph\nIvan\nKazimir\nKirill\nKliment\nKonstantin\nKuzma\nLavrentiy\nLazar\nLeonid\nLev\nLuka\nMackay\nMaksim\nMark\nMatvei\nMikhail\nMiloslav\nModest\nMstislav\nNaum\nNikifor\nNikita\nNikodim\nNikolai\nOleg\nOsip\nPavel\nPetr\nSavva\nRoman\nRostislav\nSamuil\nSaveliy\nSemyon\nSergei\nSevastian\nSpiridon\nStanislav\nStepan\nSvyatoslav\nTaras\nTikhon\nTimofei\nVadim\nValentin\nVarfolomei\nVasiliy\nVeniamin\nViktor\nVitaliy\nOrest\nVladislav\nVsevolod\nVyacheslav\nYakim\nYakov\nYaroslav\nEfrem\nYuriy\nZakhar\nNikolai\nVladimir\nYuriy\nAnatoliy\nVitaliy\nSaveliy\nIgnat\nArkadiy\nKalistrat\nHavrila\nJeremiah\nTrifon\nEvgenij\nVarlam\nArkady\nGerman\n"
+msgstr ""
+
+msgctxt "names/roa/last"
+msgid "Knyazev\nZhelanov\nSamoilov\nMonastyrskikh\nBondarenko\nChekunov\nRusin\nShpak\nKorablyov\nChuts\nKhodyrev\nKhodakov\nKhlebov\nKhakimov\nFreze\nFadeev\nUdod\nTyashenko\nSudeisky\nSkvortsov\nProkofiev\nPetrukhin\nParkhomchuk\nOchelenko\nOkatenko\nNedogibchenko\nMinenkov\nMedvedev\nMebsha\nBunsha\nMakeenok\nLyutiy\nLisitsin\nKupriyanov\nKotov\nKonovalov\nKovtun\nKipenko\nKazachenko\nIndusov\nEvteyev\nDermanovsky\nDemianenko\nDementiev\nGrebenyuk\nGolenev\nZigun\nGovorukhin\nVishnevskiy\nVansetskiy\nBochkovich\nBachurin\nArtemov\nAvramenko\nVinokurov\nChumachenko\nKordy\nVoloshko\nGolovlev\nOlshankiy\nGladkov\nGlushko\nSinitsin\nRynkov\nShurupov\nPigunov\nKhryap\nZnoba\nTsibaylo\nDrogin\nFunikov\nShumskiy\nMiroshnik\nKrivenko\nAndryushenko\nDubkovskiy\nSidorkin\nSivkov\nTsygankov\nZhobov\nMaksimenko\nGloba\nNikulin\nVeretennikov\nVolonchuk\nKostetskiy\nTolstov\nIglin\nGukasov\nGvozdev\nRybkin\nShvainitskiy\nBykhchinov\nAlekseev\nKoveshnikov\nTrufanov\nOvcharov\nMoiseenko\nGrikhin\nShtokolov\nRubakho\nKirillov\nKolot\nBotylev\nKolossovskiy\nKhavarov\nDadadzhanov\nFedorenko\nKoptev\nKulish\nLarikov\nKrasnikov\nRutskoi\nGrechkin\nBrezhnev\nSmorzhevkiy\nPoterya\nSavalov\nTsibizov\nKunikov\nPyrin\nKoryakin\nIvakhin\nShikarev\nRubanov\nIvanov\nSmirnov\nGrishenko\nVasiliev\nPetrov\nKuznetsov\nFyodorov\nMikhailov\nSokolov\nPavlov\nSemyonov\nStepanov\nEgorov\nNikolaev\nKozlov\nPopov\nLebedev\nYakovlev\nVolkov\nGrigoriev\nMorozov\nNovikov\nNikitin\nDmitriev\nKuzmin\nAleksandrov\nZaytsev\nZakharov\nBogdanov\nVorobiev\nBelov\nBaranov\nFilippov\nTimofeev\nEfimov\nBorisov\nIlyin\nKiselyov\nFrolov\nSorokon\nGolubev\nPolyakov\nOsipov\nKovalyov\nTarasov\nBelyaev\nGerasimov\nMironov\nMelnikov\nAbramtsev\nZhuravlyov\nVlasov\nTitov\nDanilov\nKovalenko\nNazarov\nKarpov\nDenisov\nTikhonov\nSaveliev\nGromov\nTikhomirov\nFomin\nScherbakov\nAnisimov\nErmakov\nChistyakov\nBykov\nLeonov\nVoronin\nIgnatiev\nEvdokimov\nArkhipov\nChernov\nBelyakov\nPonomaryov\nFilatov\nProkhorov\nVoronov\nKolesnikov\nKlimov\nLoginov\nSavin\nNesterov\nDemidov\nLobanov\nAksenov\nLukin\nBelousov\nSpiridonov\nYudin\nAkimov\nSuvorov\nLarionov\nLukanov\nUshakov\nPetrenko\nBiryukov\nKhokhlov\nFilimonov\nChernyshov\nSmolenskiy\nKornev\nNovitskiy\nKvashenkin\nPankratov\nPashkov\nRucheikin\nYamskoi\nMakhnev\nShilin\nTorban\nSobolev\nPetro-Vodkin\nDimitrienko\nVcherashniy\nLisiev\nVyalov\nCharupa\nMatvienko\nNegreba\nEliseev\nKorolyov\nLeontiev\nKotikov\nLitovchenko\nPerepelitsa\nKunin\nGavrilov\nChernyak\nChupov\nBovt\nZemtsov\nAidinov\nAndreev\nTrifonov\nAltunin\nUkraintsev\nMalyshko\nSankin\nAvdeev\nGareev\nKhmyrov\nPetin\nTereshin\nChabanov\nKostenko\nDashichev\nSemichev\nKambiev\nEvtushenko\nKhorkov\nPanasenko\nPetrushenko\nMagorchuk\nTsipulindra\nShalakhov\nZamraev\nViskubov\nChizhov\nGogin\nShishkin\nKvashin\nVolnov\nNyashin\nMikheev\nKubarev\nShmelev\nLatyshev\nSolyanikov\nAnikin\nKulinich\nKolesnichenko\nRyazanov\nMaryin\nZavadskiy\nGodyna\nKalyuzhniy\nKuzmin\nMazur\nPlotnikov\nPanfilov\nOst\n"
+msgstr ""
+
+msgctxt "names/fra/first"
+msgid "Anri\nFransua\nJean\nMishel\nMaks\nDaniel\nBernard\nChristian\nNapoleon\nGirard\nLeon\nNicolas\n"
+msgstr ""
+
+msgctxt "names/fra/last"
+msgid "Dupont\nPejo\nReno\nSimon\nBuonaparte\nRishard\nDe Morel\nGarcia\nMartin\nDe Leroy\nDe Martines\nRoberd\nDurand\nFournier\nLefebvre\n"
+msgstr ""
+
+msgctxt "names/den/first"
+msgid "Ulrik\nFrans\nThorvald\nStorm\nBjoern\nDavid\nHenrik\nBendt\nRune\nSigmund\nJohn\nAsbjørn\nMads\nTycho\nGabriel\nGeorg\nPatrick\nNiclas\nFilip\nKevin\nAdrian\nAnton\nJesper\nFrederik\nEspen\n"
+msgstr ""
+
+msgctxt "names/den/last"
+msgid "Anthonsen\nNordskov\nIsaksen\nJenson\nOttosen\nAntonisen\nDalgaard\nAnker\nAntonsen\nOlesen\nGuldbrandsen\nCarstensen\nMathiasen\nAlbertsen\nPedersen\nNikolajsen\nØster\nKristiansen\nChristensen\nAndreasen\nDahl\nBodilsen\nPaulsen\nMatthiasen\nØstergaard\nLund\n"
+msgstr ""
+
+msgctxt "names/ita/first" 
+msgid "Adriano\nAl\nAlessandro\nAlfonso\nAlfredo\nAntino\nAuberto\nAusilio\nBenito\nBaldovino\nBino\nBonaldo\nBruno\nCallisto\nCalogero\nCesario\nCorrado\nCristaldo\nCristiano\nCuniberto\nDante\nDavide\nDemetrio\nDeodato\nDoriano\nDurante\nEmilio\nEmmerico\nEndrigo\nEnzo\nErmilo\nEvremondo\nEzio\nFernando\nFerruccio\nFesto\nFilippo\nFlaviano\nFlavio\nFloriano\nFolco\nFortunato\nFosco\nFrancesco\nFrido\nFrontiniano\nGabriele\nGaio\nGaldino\nGerardo\nGerasimo\nGerino\nGermano\nGianbattista\nGiancarlo\nGiandomenico\nGianfranco\nGiovanni\nGioventino\nGirardo\nGiuliano\nGiulio\nGiuseppe\nGiustiniano\nGuerrino\nGustavo\nIacopo\nIcaro\nIcilio\nIgino\nIgnazio\nIndro\nIvano\nLamberto\nLandolfo\nLanfranco\nLapo\nLeo\nLeonardo\nLeone\nLeonzio\nLorenzo\nLuciano\nLuigi\nMacario\nMaffeo\nMalco\nMarco\nMariano\nMarino\nMario\nMarolo\nMartino\nMarzio\nNarciso\nNazario\nNico\nNiniano\nNino\nOlindo\nOliviero\nOmar\nOnofrio\nOsmondo\nOsvaldo\nOttavio\nOttone\nPaolo\nParmenio\nPasquale\nPaterniano\nPatrizio\nPeleo\nPiero\nPietro\nPippo\nPlacido\nPublio\nPupolo\nRadolfo\nRainaldo\nRenzo\nRiccardo\nRinaldo\nRoberto\nRomeo\nRomero\nRomualdo\nSabato\nSabazio\nSabele\nSebastiano\nSergio\nTammaro\nTarcisio\nTazio\nTeobaldo\nTommaso\nTosco\nUbaldo\nUbertino\nUberto\nUrdino\nUriele\nUrsicio\nValfredo\nVasco\nVinicio\nVirgilio\nVirone\nVivaldo\nViviano\nVladimiro\nVulmaro\nVulpiano\nMarko\nLorenzo\nMatteo\nCarlo\n"
+msgstr ""
+
+msgctxt "names/ita/last" 
+msgid "Antonelli\nAraldi\nArena\nArgento\nArmani\nArmellini\nAscoli\nAzzini\nBago\nBarberini\nBarezi\nBernardazzi\nBorghese\nBailo\nBaito\nBaldassarri\nBaldi\nBaldini\nBalducci\nBaliani\nBallan\nBallerini\nBalli\nBalmamion\nBanfi\nBarbera\nBarbieri\nBardi\nBarnocchi\nBaronchelli\nBaroni\nBarral\nBarsotti\nBartolozzi\nBassani\nBassi\nBasso\nBastianelli\nBattisti\nBeghetto\nBelli\nBellini\nGuarneri\nBellotti\nBelluzzi\nBelotti\nBeltrami\nVerzetti\nBenedetti\nBennati\nBenvenuti\nPetrelli\nBernacchi\nBernardini\nBertagnolli\nBertelli\nBertini\nBertolini\nBertolino\nBertone\nBertoni\nBestetti\nBetti\nBettini\nBiagi\nBiamonti\nBianchini\nBini\nBitossi\nBoccardi\nBonazzi\nLippi\nBondi\nBongiorno\nRastrelli\nBonola\nBononcini\nBontempi\nBordoni\nBortolozzi\nBoschetti\nBoschi\nBalboa\nBottecchia\nBotto\nBovet\nBrambilla\nBresci\nBresciani\nVitali\nVitti\nGrimani\nGordano\nGuliani\nDzabarella\nIngirami\nCavalini\nCavalcanti\nCazanti\nCaprara\nCapone\nCardona\nCaro\nCarrera\nCozenci\nColonna\nConti\nCorti\nCaetani\nCaggiano\nCalcaterra\nCaltagirone\nCalvi\nCalzolari\nCali\nCamellini\nCampedelli\nCanavesi\nCanefri\nCanepari\nCapecchi\nSpagetti\nCarafa\nCarboni\nCorleone\nCarcano\nCarli\nCarnera\nCarollo\nCarotenuto\nCarrara\nCasadei\nCasagrande\nCasartelli\nCassini\nCastellano\nCastelli\nCastellini\nCattaneo\nCavallaro\nCavalli\nLorencetti\nLudovizi\nMadzini\nMaldini\nMandzoni\nManchini\nOliva\nOrsini\nPachino\nPaganini\nRinaldi\nSabatini\nSalvatori\nSoprano\nTrezini\nTiepolo\nFabretti\nFarneze\nFillini\nMastroyani\nStolone\nChelentano\nVinzetti\nMarconi\n"
+msgstr ""
+
+msgctxt "names/hun/first" 
+msgid "Abel\nAdam\nÁkos\nAlex\nAndrás\nAron\nAttila\nBalázs\nBálint\nBarnabas\nBence\nBenedek\nBenett\nBotond\nCsaba\nDaniel\nDavid\nDominik\nGabor\nGergo\nHunor\nIstvan\nJános\nJózsef\nKevin\nKristóf\nKrisztián\nLaszlo\nLevente\nMarcell\nMark\nMartin\nMárton\nMáté\nMilan\nNimrod\nNoel\nOliver\nPatrik\nPeter\nRichard\nRoland\nSándor\nSzabolcs\nTamás\nZalán\nZétény\nZoltan\nZsolt\nZsombor\n"
+msgstr ""
+
+msgctxt "names/hun/last" 
+msgid "Nagy\nKovács\nTóth\nSzabó\nHorváth\nKis\nVarga\nMolnár\nNémeth\nFarkas\nPapp\nBalog\nTakács\nJuhász\nMészáros\n"
+msgstr ""
+
+msgctxt "names/ukr/first" 
+msgid "Oleksandr\nAndriy\nSerhiy\nDmytro\nVladimir\nMykola\nYuriy\nVasyl\nYaroslav\nRoman\nViktor\nTaras\nMykhailo\nOleg\nMaxim\nBogdan\nEvgeny\nIgor\nAnatoly\nRuslan\nPavlo\nOlexy\nVitaly\nDenys\nArtyom\nNazar\nSvyatoslav\nOstap\nDanylo\nPetro\nStepan\nHryhory\nLeonid\nRostislav\nMarko\nValentyn\nDemyan\nYulian\nMyroslav\nVsevolod\nZakhar\nBoris\nGlib\nArkady\nValery\nPylip\nGordiy\nAdriyan\nLyubomyr\n"
+msgstr ""
+
+msgctxt "names/ukr/last" 
+msgid "Shevchenko\nBondarenko\nKovalchuk\nTkachenko\nKravchenko\nOliynyk\nKovalchuk\nTkachuk\nPolishchuk\nLysenko\nMazur\nSavchenko\nMelnyk\nKononenko\nPavlenko\nMoroz\nPetrenko\nMarchenko\nKhomenko\nKuzmenko\nPanchenko\nMelnychuk\nFedorenko\nStepanenkoKostyuk\nHnatyuk\nRudenkoTyshchenko\nKozakGonchar\nKlymenko\nDyachenko\nSoroka\nKolisnyk\nBondar\nGavrilyuk\nLytvyn\nKharchenko\nBabenko\nKulyk\nBoyko\nVorona\nShvets\nPonomarenko\nSydorenko\nVasylenko\nYakovenko\nDanylyuk\nLukyanenko\nRomanyuk\nDoroshenko\n"
+msgstr ""

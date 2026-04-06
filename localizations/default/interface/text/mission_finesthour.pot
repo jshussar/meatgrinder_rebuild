@@ -1,0 +1,93 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA:GoH (mission)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/multi/1v1_fall_gelb_sum/name"
+msgid "Fall Gelb <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_oosterbeek_sum/name"
+msgid "Oosterbeek <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_solingen_factory_aut/name"
+msgid "Solingen Factory <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/1v1_weteringsteeg/name"
+msgid "Weteringsteeg <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_dunkirk_dunes_sum/name"
+msgid "Dunkirk Dunes <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_grave_sum/name"
+msgid "Grave <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_heelsum_sum/name"
+msgid "Heelsum <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/2v2_wesel_aut/name"
+msgid "Wesel <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_canals_sum/name"
+msgid "Canals <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_hamminkeln_aut/name"
+msgid "Hamminkeln <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_mont_cassel/name"
+msgid "Mont Cassel <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/3v3_zeeland_sum/name"
+msgid "Zeeland <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_arras_countryside_sum/name"
+msgid "Arras Countryside <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_eindhoven/name"
+msgid "Eindhoven <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_remagen_aut/name"
+msgid "Remagen <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/4v4_vlissingen_breach/name"
+msgid "Vlissingen Breach <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/1v1_reichswald_aut/name"
+msgid "Reichswald <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/2v2_blitzkrieg/name"
+msgid "Blitzkrieg <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/3v3_hells_highway/name"
+msgid "Hell's Highway <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""
+
+msgctxt "mission/multi/0_frontlines/4v4_goodwood/name"
+msgid "Goodwood <c(8B4513)>[Their Finest Hour] (VANILLA)"
+msgstr ""

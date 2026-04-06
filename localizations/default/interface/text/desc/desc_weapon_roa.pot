@@ -1,0 +1,612 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Name (desc_weapon)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/weapon/2x120mm_sgrw42"
+msgid "Zwilling 12 cm Granatwerfer 42"
+msgstr ""
+
+msgctxt "desc/weapon/280mm_spr"
+msgid "28cm Wk Spr"
+msgstr ""
+
+msgctxt "desc/weapon/280mm_w40_x8"
+msgid "28cm Wurfrahmen 40"
+msgstr ""
+
+msgctxt "desc/weapon/280mm_raketenwerfer"
+msgid "28cm Wurfrahmen 40"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_pak36"
+msgid "7.62 cm Pak 36(r)"
+msgstr ""
+
+msgctxt "desc/weapon/pak36r_late"
+msgid "7.62 cm Pak 36(r)"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_gebg36"
+msgid "7.5 cm GebG 36"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_pak50"
+msgid "7.5 cm Pak 50.L/30"
+msgstr ""
+
+msgctxt "desc/weapon/100mm_skoda_14_19"
+msgid "Skoda houfnice vz 14"
+msgstr ""
+
+msgctxt "desc/weapon/105mm_wz_29"
+msgid "10,5 cm K 29(p)"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_de_bange2"
+msgid "120-mm wz. 78/09/31"
+msgstr ""
+
+msgctxt "desc/weapon/25mm_1934"
+msgid "25mm SARF"
+msgstr ""
+
+msgctxt "desc/weapon/maximi"
+msgid "Maxim M/32-33"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_m35"
+msgid "2cm Breda M35 L/65"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_m39_at"
+msgid "2cm Solothurn S/100"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_madsen_l60"
+msgid "20-mm Madsen l60"
+msgstr ""
+
+msgctxt "desc/weapon/37mm_m37_40"
+msgid "3.7cm Vickers-Terni L/40"
+msgstr ""
+
+msgctxt "desc/weapon/47mm_m47_40"
+msgid "4.7cm Ansaldo L/40"
+msgstr ""
+
+msgctxt "desc/weapon/47mm_m47_32"
+msgid "4.7cm Ansaldo L/32"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_m75_18"
+msgid "7.5cm Ansaldo L/18"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_m75_27"
+msgid "7.5cm Ansaldo L/27"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_m75_32"
+msgid "7.5cm Ansaldo L/32"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_m75_34"
+msgid "7.5cm Ansaldo L/34"
+msgstr ""
+
+msgctxt "desc/weapon/75mml36_1897"
+msgid "75-mm L36 mod.1897"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_pak97_38"
+msgid "7.5cm Pak 97/38"
+msgstr ""
+
+msgctxt "desc/weapon/90mm_m90_53"
+msgid "9cm 90/53 mod.41"
+msgstr ""
+
+msgctxt "desc/weapon/105mm_m100_17"
+msgid "10cm FH M14"
+msgstr ""
+
+msgctxt "desc/weapon/105mm_m105_28"
+msgid "10.5cm Schneider L/28"
+msgstr ""
+
+msgctxt "desc/weapon/210mm_gun"
+msgid "21cm Obice L/22"
+msgstr ""
+
+msgctxt "desc/weapon/solothurn"
+msgid "Solothurn S/100"
+msgstr ""
+
+msgctxt "desc/weapon/mab_38a"
+msgid "Beretta M38 | <c(FFC923)>Cartridge :9x19mm for Beretta M38</c>"
+msgstr ""
+
+msgctxt "desc/ammo/mab38"
+msgid "9x19mm for Beretta M38"
+msgstr ""
+
+msgctxt "desc/weapon/blyskawica"
+msgid "Blyskawica | <c(FFC923)>Cartridge :9×19mm for Blyskawica</c>"
+msgstr ""
+
+msgctxt "desc/ammo/blyskawica"
+msgid "	9×19mm for Blyskawica"
+msgstr ""
+
+msgctxt "desc/ammo/bulletroa_75 aphebc2"
+msgid "7,5 см K.Gr. Pz. (P) [<c(ff6a00)>APHEBC</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletroa_75 he"
+msgid "7,5 см Sprgr. 233/1 [<c(ff1200)>HE</c>]"
+msgstr ""
+
+
+msgctxt "desc/ammo/bullet100_pol he"
+msgid "100mm HE wz.1914 [<c(ff1200)>HE</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bullet105_pol sm"
+msgid "105mm SMOKE wz.1914 [SMOKE]"
+msgstr ""
+
+msgctxt "desc/ammo/bullet105_pol he"
+msgid "105mm HE wz.1914 [<c(ff1200)>HE</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bullet120_pol he"
+msgid "120mm HE wz.1914 [<c(ff1200)>HE</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletroa_75 heat"
+msgid "7,5 см Gr.38/97Hl/A [<c(c9a6ff)>HEAT</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletroa_75 fs"
+msgid "7,5 см Phosphor [SMOKE Phosphorus]"
+msgstr ""
+
+msgctxt "desc/ammo/mortar50_ger fg"
+msgid "[<c(ff1200)>HE</c>] 5cm HE mine"
+msgstr ""
+
+msgctxt "desc/weapon/mors_wz39"
+msgid "Mors wz.39 | <c(FFC923)>Cartridge :9×19mm for Mors wz.39</c>"
+msgstr ""
+
+msgctxt "desc/ammo/wz39"
+msgid "9×19mm for Mors wz.39"
+msgstr ""
+
+msgctxt "desc/weapon/orita"
+msgid "Orita | <c(FFC923)>Cartridge :Ammo MP38/40</c>"
+msgstr ""
+
+msgctxt "desc/weapon/mp717"
+msgid "MP 717(r)"
+msgstr ""
+
+msgctxt "desc/weapon/ppk41"
+msgid "PPK-41 | <c(FFC923)>Cartridge :Ammo PPS</c>"
+msgstr ""
+
+msgctxt "desc/weapon/ppk41_folded"
+msgid "PPK-41 folder | <c(FFC923)>Cartridge :Ammo PPS</c>"
+msgstr ""
+
+msgctxt "desc/weapon/zk383"
+msgid "ZK-383 | <c(FFC923)>Cartridge :9×19mm for ZK-383 stik</c>"
+msgstr ""
+
+msgctxt "desc/ammo/zk_stik"
+msgid "9×19mm for ZK-383 stik"
+msgstr ""
+
+msgctxt "desc/weapon/c96_carbine"
+msgid "Mauser C96 Schnellfeuer | <c(FFC923)>Cartridge :7.63×25mm Mauser</c>"
+msgstr ""
+
+msgctxt "desc/ammo/c96_clip"
+msgid "7.63×25mm Mauser"
+msgstr ""
+
+msgctxt "desc/weapon/danuvia_43m"
+msgid "Danuvia 43M | <c(FFC923)>Cartridge :9×25mm for Danuvia 43M</c>"
+msgstr ""
+
+msgctxt "desc/ammo/danuvia_stick"
+msgid "	9×25mm for Danuvia 43M"
+msgstr ""
+
+msgctxt "desc/weapon/erma_vollmer"
+msgid "Erma EMP | <c(FFC923)>Cartridge :Ammo MP38/40</c>"
+msgstr ""
+
+msgctxt "desc/weapon/labora_fontbernat"
+msgid "Labora Fontbernat M1938 | <c(FFC923)>Cartridge :9x23mm for Labora Fontbernat</c>"
+msgstr ""
+
+msgctxt "desc/ammo/labora"
+msgid "9x23mm for Labora Fontbernat"
+msgstr ""
+
+msgctxt "desc/weapon/mp34"
+msgid "MP 34 | <c(FFC923)>Cartridge :Ammo MP38/40</c>"
+msgstr ""
+
+msgctxt "desc/weapon/mp717r"
+msgid "MP 717(r) | <c(FFC923)>Cartridge :Ammo MP38/40</c>"
+msgstr ""
+
+msgctxt "desc/weapon/sten_mkii"
+msgid "Sten mk II | <c(FFC923)>Cartridge :9×19mm for Sten</c>"
+msgstr ""
+
+msgctxt "desc/ammo/sten_stik"
+msgid "9×19mm for Sten"
+msgstr ""
+
+msgctxt "desc/weapon/thompson_m1_30"
+msgid "MP.761(a) | <c(FFC923)>Cartridge :.45 ACP for MP.761(a)</c>"
+msgstr ""
+
+msgctxt "desc/ammo/thompson_stick"
+msgid ".45 ACP for MP.761(a)"
+msgstr ""
+
+msgctxt "desc/weapon/grb39"
+msgid "Grenade launcher GzB-39"
+msgstr ""
+
+msgctxt "desc/weapon/ur35"
+msgid "Wz.35 «Ur»"
+msgstr ""
+
+msgctxt "desc/ammo/rifle_roa.clip"
+msgid "Ammo 6.5×50mm Arisaka"
+msgstr ""
+
+msgctxt "desc/weapon/avs36"
+msgid "AVS 36 | <c(FFC923)>Cartridge :7.62-mm 54R Rounds</c>"
+msgstr ""
+
+msgctxt "desc/weapon/berdanka"
+msgid "Berdana | <c(FFC923)>Cartridge :10,75x58mm R</c>"
+msgstr ""
+
+msgctxt "desc/weapon/berdana_kozak"
+msgid "Berdana Cossack | <c(FFC923)>Cartridge :10,75x58mm R</c>"
+msgstr ""
+
+msgctxt "desc/ammo/rifle_berdan"
+msgid "10,75x58mm R"
+msgstr ""
+
+msgctxt "desc/weapon/berthier"
+msgid "Berthier Mle 1907/15 M16 | <c(FFC923)>Cartridge :8x50mm rifle ammo</c>"
+msgstr ""
+
+msgctxt "desc/weapon/berthier_mle1892_16"
+msgid "Berthier Mle 1892/M16 | <c(FFC923)>Cartridge :8x50mm rifle ammo</c>"
+msgstr ""
+
+msgctxt "desc/ammo/8x50"
+msgid "8x50mm rifle ammo"
+msgstr ""
+
+msgctxt "desc/weapon/double_barreled_shotgun_long"
+msgid "Shotgun"
+msgstr ""
+
+msgctxt "desc/weapon/feg_35m"
+msgid "FEG 35M (G98/40) | <c(FFC923)>Cartridge :7.92mm Mauser Rounds</c>"
+msgstr ""
+
+msgctxt "desc/weapon/gewehr_259"
+msgid "SiGewehr 259/2(r) | <c(FFC923)>Cartridge :7.62-mm 54R Rounds</c>"
+msgstr ""
+
+msgctxt "desc/weapon/karabinek_wz29"
+msgid "Karabinek wz.29 | <c(FFC923)>Cartridge :7.92mm Mauser Rounds</c>"
+msgstr ""
+
+msgctxt "desc/weapon/lebel_m1886"
+msgid "Lebel m1886 | <c(FFC923)>Cartridge :8x50mm rifle ammo</c>"
+msgstr ""
+
+msgctxt "desc/weapon/m91_carcano"
+msgid "Modello 1891 | <c(FFC923)>Cartridge :6,5x52mm rifle ammo</c>"
+msgstr ""
+
+msgctxt "desc/ammo/6,5x52"
+msgid "6,5x52mm rifle ammo"
+msgstr ""
+
+msgctxt "desc/weapon/mannlicher_m1895"
+msgid "Mannlicher M1895 | <c(FFC923)>Cartridge :8x50mm rifle ammo</c>"
+msgstr ""
+
+msgctxt "desc/weapon/mannlicher1903_late"
+msgid "Mannlicher-Schoenauer M1903/14 | <c(FFC923)>Cartridge :7.92mm Mauser Rounds</c>"
+msgstr ""
+
+msgctxt "desc/weapon/mas36"
+msgid "MAS 36 | <c(FFC923)>Cartridge :7,5х54mm rifle ammo</c>"
+msgstr ""
+
+msgctxt "desc/ammo/7,5х54"
+msgid "7,5х54mm rifle ammo"
+msgstr ""
+
+msgctxt "desc/weapon/mauzer98"
+msgid "Mauser Gewehr 98 | <c(FFC923)>Cartridge :7.92mm Mauser Rounds</c>"
+msgstr ""
+
+msgctxt "desc/weapon/mg13_mg"
+msgid "MG-13 | <c(FFC923)>Cartridge :7.92-mm MG ammo</c>"
+msgstr ""
+
+msgctxt "desc/ammo/mg13_1"
+msgid "7.92-mm MG ammo"
+msgstr ""
+
+msgctxt "desc/weapon/mosin_ger"
+msgid "Gewehr 252(r) | <c(FFC923)>Cartridge :7.62-mm 54R Rounds</c>"
+msgstr ""
+
+msgctxt "desc/weapon/obrez"
+msgid "Mosin obrez | <c(FFC923)>Cartridge :7.62-mm 54R Rounds</c>"
+msgstr ""
+
+msgctxt "desc/weapon/rsc-mle-1918"
+msgid "RSC 1917 | <c(FFC923)>Cartridge :8x50mm rifle ammo</c>"
+msgstr ""
+
+msgctxt "desc/weapon/type38rifle"
+msgid "Type 38 rifle | <c(FFC923)>Cartridge :Ammo 6.5×50mm Arisaka</c>"
+msgstr ""
+
+msgctxt "desc/weapon/zh-29"
+msgid "ZH-29 | <c(FFC923)>Cartridge :8×57mm IS</c>"
+msgstr ""
+
+msgctxt "desc/weapon/zh-29_20"
+msgid "ZH-29 | <c(FFC923)>Cartridge :8×57mm IS</c>"
+msgstr ""
+
+msgctxt "desc/ammo/zh_29"
+msgid "	8×57mm IS"
+msgstr ""
+
+msgctxt "desc/ammo/zh_29_20"
+msgid "	8×57mm IS"
+msgstr ""
+
+msgctxt "desc/weapon/c96"
+msgid "Mauser C96 | <c(FFC923)>Cartridge :7.63×25mm Mauser</c>"
+msgstr ""
+
+msgctxt "desc/weapon/kampfpistole_roa"
+msgid "Kampfpistole | <c(FFC923)>Cartridge :Eihandgranate M39/42 lp</c>"
+msgstr ""
+
+msgctxt "desc/ammo/42lp_grenade he"
+msgid "Eihandgranate M39"
+msgstr ""
+
+msgctxt "desc/ammo/42lp_grenade heat"
+msgid "42 lp"
+msgstr ""
+
+msgctxt "desc/weapon/luger_08"
+msgid "Luger P08 | <c(FFC923)>Cartridge :9mm Parabellum</c>"
+msgstr ""
+
+msgctxt "desc/weapon/steyer_pistol_1912"
+msgid "Steyr Hahn M1912 | <c(FFC923)>Cartridge :9×19mm Parabellum</c>"
+msgstr ""
+
+msgctxt "desc/ammo/steir_ammo"
+msgid "9×19mm Parabellum"
+msgstr ""
+
+
+msgctxt "desc/weapon/hotchkiss_m1922"
+msgid "Hotchkiss mod.1922 | <c(FFC923)>Cartridge :Ammo for Hotchkiss</c>"
+msgstr ""
+
+msgctxt "desc/ammo/hotchkiss"
+msgid "Ammo for Hotchkiss"
+msgstr ""
+
+msgctxt "desc/weapon/browning_wz28"
+msgid "Browning wz.1928 | <c(FFC923)>Cartridge :wz.28 ammo</c>"
+msgstr ""
+
+msgctxt "desc/ammo/wz28"
+msgid "wz.28 ammo"
+msgstr ""
+
+msgctxt "desc/weapon/lewis_mki"
+msgid "Lewis | <c(FFC923)>Cartridge :Lewis ammo</c>"
+msgstr ""
+
+msgctxt "desc/ammo/lewis_mag"
+msgid "Lewis ammo"
+msgstr ""
+
+msgctxt "desc/weapon/maximi"
+msgid "Maxim"
+msgstr ""
+
+msgctxt "desc/weapon/mg_120r"
+msgid "MG 120(r) | <c(FFC923)>Cartridge :7.62-mm DP Drum</c>"
+msgstr ""
+
+msgctxt "desc/weapon/mg-08-15"
+msgid "MG 08/15"
+msgstr ""
+
+msgctxt "desc/weapon/zb_vz26"
+msgid "ZB vz.26 | <c(FFC923)>Cartridge :Ammo for vz26</c>"
+msgstr ""
+
+msgctxt "desc/ammo/vz26"
+msgid "Ammo for vz26"
+msgstr ""
+
+msgctxt "desc/weapon/fm2429"
+msgid "MG 116 | <c(FFC923)>Cartridge :Ammo for MG 116</c>"
+msgstr ""
+
+msgctxt "desc/ammo/mg116"
+msgid "Ammo for MG 116"
+msgstr ""
+
+
+msgctxt "desc/weapon/berettam1918"
+msgid "Beretta M18 | <c(FFC923)>9×19mm Glisenti</c>"
+msgstr ""
+
+msgctxt "desc/weapon/breda_30"
+msgid "Breda M30 | <c(FFC923)>Cartridge :6,5×52mm Mannlicher-Carcano</c>"
+msgstr ""
+
+msgctxt "desc/ammo/breda"
+msgid "6,5×52mm Mannlicher-Carcano"
+msgstr ""
+
+msgctxt "desc/weapon/breda_37"
+msgid "Breda M37 | <c(FFC923)>Cartridge :8×59mm RB Breda</c>"
+msgstr ""
+
+msgctxt "desc/weapon/breda_38"
+msgid "Breda M38 | <c(FFC923)>Cartridge :8×59mm RB Breda</c>"
+msgstr ""
+
+msgctxt "desc/weapon/breda_38x2"
+msgid "2xBreda M38 | <c(FFC923)>Cartridge :8×59mm RB Breda</c>"
+msgstr ""
+
+msgctxt "desc/weapon/fiat_revelli_m1935"
+msgid "Revelli M35 | <c(FFC923)>Cartridge :8×59mm RB Breda</c>"
+msgstr ""
+
+msgctxt "desc/weapon/fiat_65_x2"
+msgid "2 x Revelli M35 | <c(FFC923)>Cartridge :8×59mm RB Breda</c>"
+msgstr ""
+
+msgctxt "desc/weapon/breda_safat"
+msgid "Breda M38 | <c(FFC923)>Cartridge :12.7×81mm SR</c>"
+msgstr ""
+
+msgctxt "desc/weapon/beretta_m1934"
+msgid "Beretta M34 | <c(FFC923)>Cartridge :9mm Beretta</c>"
+msgstr ""
+
+msgctxt "desc/weapon/scottix"
+msgid "Scotti X | <c(FFC923)>Cartridge :6,5×52 mm Mannlicher-Carcano</c>"
+msgstr ""
+
+msgctxt "desc/weapon/lanciafiamme"
+msgid "Flamethrower Mod. 40"
+msgstr ""
+
+msgctxt "desc/weapon/m38_carcano"
+msgid "Carcano M38 | <c(FFC923)>Cartridge :7,35×51 mm Mannlicher-Carcano</c>"
+msgstr ""
+
+msgctxt "desc/weapon/m9138_carcano"
+msgid "Carcano M91/38 | <c(FFC923)>Cartridge :7,35×51 mm Mannlicher-Carcano</c>"
+msgstr ""
+
+msgctxt "desc/weapon/ppd30"
+msgid "PPD 30 | <c(FFC923)>Cartridge :7.62-mm PPD-30 Drum</c>"
+msgstr ""
+
+msgctxt "desc/ammo/ppd30"
+msgid "7.62-mm PPD-30 Drum"
+msgstr ""
+
+msgctxt "desc/weapon/ppd38_d"
+msgid "PPD 34-38 Drum | <c(FFC923)>Cartridge :7.62-mm PPD-34-38 Drum</c>"
+msgstr ""
+
+msgctxt "desc/ammo/ppd38_drum"
+msgid "7.62-mm PPD-34-38 Drum"
+msgstr ""
+
+msgctxt "desc/weapon/ppd38_s"
+msgid "PPD 34 Stick | <c(FFC923)>Cartridge :7.62-mm PPD-34 Stick</c>"
+msgstr ""
+
+msgctxt "desc/ammo/ppd38_stick"
+msgid "7.62-mm PPD-34 Stick"
+msgstr ""
+
+msgctxt "desc/weapon/mg_15"
+msgid "MG 15"
+msgstr ""
+
+msgctxt "desc/weapon/mg15_no_dipod"
+msgid "MG 15"
+msgstr ""
+
+msgctxt "desc/weapon/st61"
+msgid "MG 15/ST 61"
+msgstr ""
+
+msgctxt "desc/weapon/75mm_pak41"
+msgid "7,5 cm Pak.41"
+msgstr ""
+
+msgctxt "desc/weapon/76mm_m5_08"
+msgid "7.65 cm FK5/8(j)"
+msgstr ""
+
+msgctxt "desc/weapon/100mm_skoda_m34"
+msgid "100mm model 34"
+msgstr ""
+
+msgctxt "desc/weapon/105mm_mle1913"
+msgid "Canon de 105 mle 1913 Schneider"
+msgstr ""
+
+msgctxt "desc/weapon/105mm_gebh40"
+msgid "10.5 cm GebH 40"
+msgstr ""
+
+msgctxt "desc/weapon/sa18"
+msgid "37 mm SA 18"
+msgstr ""
+
+msgctxt "desc/ammo/zb26 belt"
+msgid "7.92mm Belt-Fed Rounds"
+msgstr ""
+
+msgctxt "desc/ammo/zb26 mag"
+msgid "7.92mm ZB-26 Rounds"
+msgstr ""
+
+msgctxt "desc/ammo/mortarrockger_81 he"
+msgid "[<c(ff1200)>HE</c>] 81 mm FA 1924/27 Mortar"
+msgstr ""
+
+msgctxt "desc/weapon/81mm_werfer"
+msgid "8.14cm GrW 278(f)"
+msgstr ""

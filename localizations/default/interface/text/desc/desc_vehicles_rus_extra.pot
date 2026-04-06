@@ -1,0 +1,262 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Name (desc_vehicles_rus)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "desc/entity/76mm_f22_usv"
+msgid "76mm F-22 USV"
+msgstr ""
+
+msgctxt "info/special/76mm_f22_usv"
+msgid "<c(c3baae)>Light Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/bm8-48"
+msgid "BM-8-48"
+msgstr ""
+
+msgctxt "info/special/bm8-48"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr ""
+
+msgctxt "desc/entity/t18"
+msgid "T-18 M1930"
+msgstr ""
+
+msgctxt "info/special/t18"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/t80"
+msgid "T-80"
+msgstr ""
+
+msgctxt "info/special/t80"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/su57"
+msgid "SU-57"
+msgstr ""
+
+msgctxt "info/special/su57"
+msgid "<c(c3baae)>Self-propelled AT-gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/su5"
+msgid "SU-5"
+msgstr ""
+
+msgctxt "info/special/su5"
+msgid "<c(c3baae)>Self-propelled field gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/su12"
+msgid "SU-12"
+msgstr ""
+
+msgctxt "info/special/su12"
+msgid "<c(c3baae)>Self-propelled field gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/su76i"
+msgid "SU-76i"
+msgstr ""
+
+msgctxt "info/special/su76i"
+msgid "<c(c3baae)>Self-propelled gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/t44"
+msgid "T-44"
+msgstr ""
+
+msgctxt "info/special/t44"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/su14"
+msgid "SU-14"
+msgstr ""
+
+msgctxt "info/special/su14"
+msgid "<c(c3baae)>Heavy Self Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/m17"
+msgid "M17 MGMC"
+msgstr ""
+
+msgctxt "info/special/m17"
+msgid "<c(c3baae)>Anti Aircraft Vehicle</c>"
+msgstr ""
+
+msgctxt "desc/entity/m3_rus"
+msgid "M3 Halftrack"
+msgstr ""
+
+msgctxt "info/special/m3_rus"
+msgid "<c(c3baae)>Armored Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/wolverine"
+msgid "M10 3inch Gun Motor Carriage"
+msgstr ""
+
+msgctxt "info/special/wolverine"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/matilda2"
+msgid "Mk II Matilda Mk.IIA"
+msgstr ""
+
+msgctxt "desc/entity/ba27m"
+msgid "BA-27M"
+msgstr ""
+
+msgctxt "info/special/ba27m"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/yag10"
+msgid "YAG-10"
+msgstr ""
+
+msgctxt "info/special/yag10"
+msgid "<c(c3baae)>Supply Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/voroshilovets"
+msgid "Voroshilovets"
+msgstr ""
+
+msgctxt "desc/entity/kv122"
+msgid "KV-122"
+msgstr ""
+
+msgctxt "desc/entity/kv122_veteran"
+msgid "Veteran KV-122"
+msgstr ""
+
+msgctxt "desc/entity/kv2_39"
+msgid "KV-2 M1939"
+msgstr ""
+
+msgctxt "desc/entity/t3476_41w"
+msgid "T-34 M1941"
+msgstr ""
+
+msgctxt "desc/entity/t26_31a"
+msgid "T-26 M1931a"
+msgstr ""
+
+msgctxt "desc/entity/t28_late"
+msgid "T-28 M1939"
+msgstr ""
+
+msgctxt "desc/entity/kv8s"
+msgid "KV-8s"
+msgstr ""
+
+msgctxt "desc/entity/t26_40"
+msgid "T-26 Shielded"
+msgstr ""
+
+msgctxt "desc/entity/studebaker"
+msgid "Studebaker US6"
+msgstr ""
+
+msgctxt "desc/entity/isu122"
+msgid "ISU-122"
+msgstr ""
+
+msgctxt "info/special/isu122"
+msgid "<c(c3baae)>Heavy Assault Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/t3485_43"
+msgid "T-34-85 M1943"
+msgstr ""
+
+msgctxt "info/special/t3485_43"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/li-2"
+msgid "LI-2"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/late/para_smg"
+msgid "Para SMG [VVS]"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/late/para_rfl"
+msgid "Para Rifle [VVS]"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/late/para_mg"
+msgid "Para MG [VVS]]"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/late/para_mg_asst"
+msgid "Para MG assistant [VVS]"
+msgstr ""
+
+msgctxt "desc/entity/t3476_uztm"
+msgid "'Hero of the Soviet Union' T-34-76 M1942 UZTM"
+msgstr ""
+
+msgctxt "info/special/t3476_uztm"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/kv1_122"
+msgid "KV-1 122mm U-11"
+msgstr ""
+
+msgctxt "info/special/kv1_122"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/is2_44_e"
+msgid "IS-2 M1944"
+msgstr ""
+
+msgctxt "info/special/is2_44_e"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/zis6_61k"
+msgid "ZiS-6 37mm 61-K"
+msgstr ""
+
+msgctxt "info/special/zis6_61k"
+msgid "<c(c3baae)>AA Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/85mm_52k_armor"
+msgid "85mm 52-K M1939"
+msgstr ""
+
+msgctxt "info/special/85mm_52k_armor"
+msgid "<c(c3baae)>Heavy AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/m4a3e4_rus"
+msgid "M4A3E4"
+msgstr ""
+
+msgctxt "info/special/m4a3e4_rus"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""

@@ -1,0 +1,159 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: colors\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+
+msgctxt "mp/gs/social/color_friendlist_online"
+msgid "<c(E1E1BD)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_friendlist_offline"
+msgid "<c(4c4945)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_friendlist_ingame"
+msgid "<c(9ded90)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_blocked"
+msgid "<c(bdbdbd)>" 
+msgstr ""
+
+msgctxt "mp/gs/social/color_friend"
+msgid "<c(9ded90)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_officer"
+msgid "<c(ffcc00)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_neutral"
+msgid "<c(25 25 25)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_online"
+msgid "<c(000000)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_offline"
+msgid "<c(100 100 100)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_ignore"
+msgid "<c(bdbdbd)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_officer_chat"
+msgid "<c(ffcc00)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_supporter"
+msgid "<c(CC9F5B)>"
+msgstr ""
+
+msgctxt "mp/gs/social/color_supporter_self"
+msgid "<c(FFC672)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_supporter"
+msgid "<c(CC9F5B)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_supporter_self"
+msgid "<c(FFC672)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_friend"
+msgid "<c(a5a58d)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_mention"
+msgid "<c(9ded90)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_system"
+msgid "<c(cccc00)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_welcome_msg"
+msgid "<c(8ca0ba)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_report"
+msgid "<c(4c4945)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_default"
+msgid "<c(cdcdcd)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_officer_chat"
+msgid "<c(ffcc00)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_neutral"
+msgid "<c(gray)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_private"
+msgid "<c(9ded90)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_ignore"
+msgid "<c(bdbdbd)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_my_name"
+msgid "<c(9ded90)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_lobby"
+msgid "<c(4c4945)>"
+msgstr ""
+
+msgctxt "mp/chat2/color_officer"
+msgid "<c(ffcc00)>"
+msgstr ""
+
+msgctxt "mp/lobby/color_lobby"
+msgid "<c(4c4945)>"
+msgstr ""
+
+msgctxt "mp/lobby/color_system"
+msgid "<c(cccc00)>"
+msgstr ""
+
+msgctxt "mp/lobby/color_private"
+msgid "<c(9ded90)>"
+msgstr ""
+
+msgctxt "mp/lobby/color_my_name"
+msgid "<c(9ded90)>"
+msgstr ""
+
+msgctxt "mp/lobby/color_mention"
+msgid "<c(9adbf5)>"
+msgstr ""
+
+msgctxt "mp/lobby/color_my_name_dark"
+msgid "<c(78935C)>"
+msgstr ""
+
+msgctxt "mp/lobby/color_report"
+msgid "<c(4c4945)>"
+msgstr ""
+
+msgctxt "mp/lobby/session/team_color"
+msgid "<c(790505)>"
+msgstr ""

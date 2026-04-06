@@ -1,0 +1,1466 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Name (desc_vehicles)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/entity/pzt_3485r"
+msgid "Pz.Kpfw. T34/85 747(r)"
+msgstr ""
+
+msgctxt "desc/entity/bren_carrier_731"
+msgid "Bren Carrier 731(e)"
+msgstr ""
+
+msgctxt "info/special/bren_carrier_731"
+msgid "<c(c3baae)>Troop transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/bren_carrier_731_ammo"
+msgid "Bren Carrier 731(e) (Supply)"
+msgstr ""
+
+msgctxt "info/special/bren_carrier_731_ammo"
+msgid "<c(c3baae)>Ammo Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/renault_agr_ger"
+msgid "Renault AGR"
+msgstr ""
+
+msgctxt "info/special/renault_agr_ger"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/88_85mm_flak_m39r"
+msgid "8.5/8.8 cm Flak M.39(r) (Rebored)"
+msgstr ""
+
+msgctxt "info/special/88_85mm_flak_m39r"
+msgid "<c(c3baae)>Heavy AA Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/122mm_lefh396"
+msgid "12,2 cm s.F.H.396(r)"
+msgstr ""
+
+msgctxt "info/special/122mm_lefh396"
+msgid "<c(c3baae)>Medium Artillery</c>"
+msgstr ""
+
+msgctxt "desc/entity/15cm_kh4331r"
+msgid "15,2 cm KH.433/1(r)"
+msgstr ""
+
+msgctxt "info/special/15cm_kh4331r"
+msgid "<c(c3baae)>Heavy Artillery</c>"
+msgstr ""
+
+msgctxt "desc/entity/28cm_wkspr_stan"
+msgid "28cm Wk Spr (Stationary)"
+msgstr ""
+
+msgctxt "info/special/28cm_wkspr_stan"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr ""
+
+msgctxt "desc/entity/ab41"
+msgid "Panzerspähwagen Fiat/SPA Typ AB 41"
+msgstr ""
+
+msgctxt "desc/entity/gebg36"
+msgid "7.5 cm GebG 36"
+msgstr ""
+
+msgctxt "desc/entity/75mm_gebk15"
+msgid "7.5 cm GebK 15"
+msgstr ""
+
+msgctxt "desc/entity/75mm_pak50"
+msgid "7.5 cm Pak 50"
+msgstr ""
+
+msgctxt "info/special/75mm_pak50"
+msgid "<c(c3baae)>Medium AT Gun</c>"
+msgstr ""
+
+
+msgctxt "desc/entity/p40"
+msgid "Panzerkampfwagen P40 737(i)"
+msgstr ""
+
+msgctxt "desc/entity/9cm_flak41i"
+msgid "9 cmFlak 41(i)"
+msgstr ""
+
+msgctxt "desc/entity/obice_210_ger"
+msgid "21 cm Haubitze 520(i)"
+msgstr ""
+
+msgctxt "desc/entity/panzer35s_roa"
+msgid "Panzer 35S(f)"
+msgstr ""
+
+msgctxt "desc/entity/panzer4f1_sh"
+msgid "PzKpfw IV Ausf.F1"
+msgstr ""
+
+msgctxt "desc/entity/panzer5a_vet"
+msgid "PzKpfw V Ausf.A veteran"
+msgstr ""
+
+msgctxt "desc/entity/hummel"
+msgid "Hummel"
+msgstr ""
+
+msgctxt "desc/entity/m3_roa"
+msgid "M3"
+msgstr ""
+
+msgctxt "desc/entity/120mm_sgrw42_roa"
+msgid "12cm Granatwerfer 42"
+msgstr ""
+
+msgctxt "desc/entity/57mm_zis2_roa"
+msgid "ZIS 2"
+msgstr ""
+
+msgctxt "desc/entity/t34_turret"
+msgid "Tower T34"
+msgstr ""
+
+msgctxt "desc/entity/obice_210_roa"
+msgid "21 cm Haubitze 520(i)"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz4_roa"
+msgid "Sd.Kfz 4"
+msgstr ""
+
+msgctxt "desc/entity/t34_44engen"
+msgid "T 34 engineering"
+msgstr ""
+
+msgctxt "desc/entity/76mm_pak36r"
+msgid "FK36(r)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_pak36r_late"
+msgid "7.62 cm Pak 36(r)"
+msgstr ""
+
+msgctxt "desc/entity/t34_44supply"
+msgid "T 34 supply"
+msgstr ""
+
+msgctxt "desc/entity/maxim_g"
+msgid "Maxim M/32-33"
+msgstr ""
+
+msgctxt "desc/entity/amr35_roa"
+msgid "Pz.Kpfw ZT I 702(f)"
+msgstr ""
+
+msgctxt "desc/entity/r35_roa"
+msgid "Pz.Kpfw 731 (f)"
+msgstr ""
+
+msgctxt "desc/entity/r39_roa"
+msgid "Pz.Kpfw 39R (f)"
+msgstr ""
+
+msgctxt "desc/entity/r39_ger"
+msgid "Pz.Kpfw 39R (f)"
+msgstr ""
+
+msgctxt "desc/entity/fcm36_roa"
+msgid "Pz.Kpfw 736 FCM (f)"
+msgstr ""
+
+msgctxt "desc/entity/char_d2_roa"
+msgid "Pz.Kpfw 733(f)"
+msgstr ""
+
+msgctxt "desc/entity/bf110_e2_roa"
+msgid "BF-110"
+msgstr ""
+
+msgctxt "desc/entity/fai_m_roa"
+msgid "FAI-M"
+msgstr ""
+
+msgctxt "desc/entity/ba6_roa_1"
+msgid "BA-6"
+msgstr ""
+
+msgctxt "desc/entity/t20_roa"
+msgid "T-20"
+msgstr ""
+
+msgctxt "desc/entity/20mm_l39_roa"
+msgid "Lahti L-39"
+msgstr ""
+
+msgctxt "desc/entity/t28_38_roa"
+msgid "T-28"
+msgstr ""
+
+msgctxt "desc/entity/76mm_m1902_roa"
+msgid "76-mm divisional gun mod.1902"
+msgstr ""
+
+msgctxt "desc/entity/107mm_m1910_30_roa"
+msgid "107 mm gun M1910/30"
+msgstr ""
+
+msgctxt "desc/entity/zis5_roa"
+msgid "ZIS 5"
+msgstr ""
+
+msgctxt "desc/entity/t26_31_roa"
+msgid "T-26 mod.1931"
+msgstr ""
+
+msgctxt "desc/entity/t26_33_roa"
+msgid "T-26 mod.1933"
+msgstr ""
+
+msgctxt "desc/entity/t40_roa"
+msgid "T-40"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz250_8"
+msgid "Sd.Kfz. 250/8"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251c_2_roa"
+msgid "Sd.Kfz. 251/2 Ausf. C"
+msgstr ""
+
+msgctxt "info/special/sdkfz251c_2_roa"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr ""
+
+msgctxt "info/special/sdkfz250_8"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_k02_30_40_roa"
+msgid "76-mm divisional gun, M1902/30 L40"
+msgstr ""
+
+msgctxt "desc/entity/ft17_roa"
+msgid "Renault FT-17"
+msgstr ""
+
+msgctxt "desc/entity/panzer2c_roa"
+msgid "Panzer II Ausf. C"
+msgstr ""
+
+msgctxt "desc/entity/panzer3f_roa"
+msgid "Panzer III Ausf. F"
+msgstr ""
+
+msgctxt "desc/entity/panzer4d_roa"
+msgid "Panzer IV Ausf. D"
+msgstr ""
+
+msgctxt "desc/entity/ba6_roa"
+msgid "Pz.Sp.Wg. 204(r)"
+msgstr ""
+
+msgctxt "info/special/ba6_roa"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/ba6_ger2"
+msgid "Pz.Sp.Wg. 204(r)"
+msgstr ""
+
+msgctxt "info/special/ba6_ger2"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+
+msgctxt "desc/entity/sdkfz8_flak18_roa"
+msgid "Sd.Kfz 8 Flak 18"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz10_pak38_roa"
+msgid "Sd.Kfz.10 with PaK 38"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz250a_3_roa"
+msgid "Sd.Kfz. 250/3"
+msgstr ""
+
+msgctxt "info/special/sdkfz250a_3_roa"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/100mm_nbw35_roa"
+msgid "10 cm Nebelwerfer 35"
+msgstr ""
+
+msgctxt "desc/entity/105mm_sk18_roa"
+msgid "10cm sK 18"
+msgstr ""
+
+msgctxt "desc/entity/panzer3h_roa"
+msgid "Panzer III Ausf.H"
+msgstr ""
+
+msgctxt "desc/entity/panzer3h_roa1"
+msgid "Panzer III Ausf.H"
+msgstr ""
+
+msgctxt "desc/entity/panzer4d_roa1"
+msgid "Panzer IV Ausf. D"
+msgstr ""
+
+msgctxt "desc/entity/stug3b_roa"
+msgid "StuG III Ausf.B"
+msgstr ""
+
+msgctxt "desc/entity/stug3b_late_roa"
+msgid "StuG III Ausf.B"
+msgstr ""
+
+msgctxt "desc/entity/stug3f_roa_late"
+msgid "StuG III Ausf.F"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz7_2_roa"
+msgid "Sd.Kfz. 7/2"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz250a_9_roa"
+msgid "Sd.Kfz. 250/9"
+msgstr ""
+
+msgctxt "info/special/sdkfz250a_9_roa"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/10tp"
+msgid "10TP"
+msgstr ""
+
+msgctxt "desc/entity/20mm_itk35_roa"
+msgid "Cannone-Mitragliera da 20/65 Modello 35"
+msgstr ""
+
+msgctxt "desc/entity/203mm_h17_roa"
+msgid "203-mm Vickers Mk VI"
+msgstr ""
+
+msgctxt "desc/entity/np_zis5_flak"
+msgid "ZIS 5 with FlaK 30/38"
+msgstr ""
+
+msgctxt "desc/entity/75mm_1897_mod38"
+msgid "7,5 cm F.K.231(f)"
+msgstr ""
+
+msgctxt "desc/entity/m7518_roa"
+msgid "Sturmgeschütz M42 mit 75/18 850(i)"
+msgstr ""
+
+msgctxt "desc/entity/m7534_roa"
+msgid "Sturmgeschutz M 43 mit 75/34 (851)(i)"
+msgstr ""
+
+msgctxt "desc/entity/pansarbil"
+msgid "Pansarbil m/39 Lynx [ROA]"
+msgstr ""
+
+msgctxt "desc/entity/ford27"
+msgid "Ford Model A"
+msgstr ""
+
+msgctxt "desc/entity/pz1a_sdkfz223"
+msgid "Homemade PZ 1 with Sd.Kfz 223 turret"
+msgstr ""
+
+msgctxt "desc/entity/t-38_45"
+msgid "T-38 witk 47-mm Pak(t)"
+msgstr ""
+
+msgctxt "desc/entity/bergepanther_w37"
+msgid "3,7-cm FlaK 18 based Pz.V"
+msgstr ""
+
+msgctxt "desc/entity/inf_crate_roa"
+msgid "Ammo box"
+msgstr ""
+
+msgctxt "desc/entity/ferdinand_roa"
+msgid "Ferdinand"
+msgstr ""
+
+msgctxt "desc/entity/152mm_ml20_roa"
+msgid "152-mm ML-20"
+msgstr ""
+
+msgctxt "desc/entity/kv85_roa"
+msgid "KV-85 [ROA]"
+msgstr ""
+
+msgctxt "desc/entity/150mm_nebelwerfer41_roa"
+msgid "15cm Nebelwerfer"
+msgstr ""
+
+msgctxt "desc/entity/is2_roa_44"
+msgid "IS-2 mod.44 [ROA]"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz7_roa"
+msgid "Sd.Kfz. 7"
+msgstr ""
+
+msgctxt "desc/entity/hetzer_roa"
+msgid "Hetzer [ROA]"
+msgstr ""
+
+msgctxt "desc/entity/28mm_pzb41_roa"
+msgid "2.8 cm sPzB 41"
+msgstr ""
+
+msgctxt "desc/entity/zis30_roa"
+msgid "ZIS-30"
+msgstr ""
+
+msgctxt "info/special/zis30_roa"
+msgid "<c(c3baae)>Self-Propelled AT-Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/bison2"
+msgid "15 cm s.I.G.33B Sfl"
+msgstr ""
+
+msgctxt "desc/entity/panzer742r_roa"
+msgid "Panzer 742(r)"
+msgstr ""
+
+
+msgctxt "desc/entity/flakpanzer1a"
+msgid "2 cm Flak 38 auf Panzer I Ausf.A"
+msgstr ""
+
+msgctxt "desc/entity/marder_1fcm_36"
+msgid "Marder I on FCM 36 base"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251_22"
+msgid "Sd.Kfz251/22D PAK 40"
+msgstr ""
+
+msgctxt "desc/entity/as421"
+msgid "Fiat-SPA AS42"
+msgstr ""
+
+msgctxt "desc/entity/np_su12"
+msgid "SU-12 based on Moorland"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz301wanze"
+msgid "Borgward B IV (Wanze)"
+msgstr ""
+
+msgctxt "desc/entity/voroshilovets"
+msgid "Voroshilovets"
+msgstr ""
+
+msgctxt "desc/entity/as42"
+msgid "Fiat-SPA AS42"
+msgstr ""
+
+msgctxt "desc/entity/gaz_03_30_1932"
+msgid "GAZ AA"
+msgstr ""
+
+msgctxt "desc/entity/PzKw754"
+msgid "Pz.Kpfw. KW II 754(r)"
+msgstr ""
+
+msgctxt "desc/entity/su5"
+msgid "SU-5-1 [ROA]"
+msgstr ""
+
+msgctxt "desc/entity/t60r"
+msgid "Pz.Kpfw. T60-743(r)"
+msgstr ""
+
+msgctxt "info/special/t60r"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/t60r_ger"
+msgid "Pz.Kpfw. T60-743(r)"
+msgstr ""
+
+msgctxt "info/special/t60r_ger"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/vickersejw"
+msgid "Vickers Mark E [ROA]"
+msgstr ""
+
+
+msgctxt "desc/entity/PzKw747_57_43"
+msgid "Pz.Kpfw. T34/57 747(r)"
+msgstr ""
+
+msgctxt "desc/entity/PzKw747_76_41"
+msgid "Pz.Kpfw. T34/76 747(r)"
+msgstr ""
+
+msgctxt "desc/entity/PzKw747_85"
+msgid "Pz.Kpfw. T34/85 747(r)"
+msgstr ""
+
+msgctxt "desc/entity/bt2_da2_roa"
+msgid "Captured BT-2 DA-2 [ROA]"
+msgstr ""
+
+msgctxt "desc/entity/t26_39_roa"
+msgid "Pz.Kpfw. T 26 C 740(r)"
+msgstr ""
+
+msgctxt "desc/entity/ba6_roa"
+msgid "Pz.Sp.Wg. 203 (r)"
+msgstr ""
+
+msgctxt "desc/entity/ba6_ger"
+msgid "Pz.Sp.Wg. 203 (r)"
+msgstr ""
+
+msgctxt "desc/entity/ba20_roa"
+msgid "Pz.Sp.Wg. BA 202(r)"
+msgstr ""
+
+msgctxt "info/special/ba20_roa"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/pzspvwg202r_ger"
+msgid "Pz.Sp.Wg. BA 202(r)"
+msgstr ""
+
+msgctxt "info/special/pzspvwg202r_ger"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/45mm_m37_roa"
+msgid "4.5 cm Pak 184/1(r)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_haubitze_290r"
+msgid "7.62 cm Infanteriekanonehaubitze 290(r)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_bpk76_roa"
+msgid "BPK-76 76-mm"
+msgstr ""
+
+msgctxt "desc/entity/82mm_bm37_roa_mid"
+msgid "8.2 cm GrW 274/2(r)"
+msgstr ""
+
+msgctxt "desc/entity/82mm_bm37_roa"
+msgid "8.2 cm GrW 274/2(r)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_m1927_roa"
+msgid "7.62cm i.K.H 290(r)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_m1927_ger"
+msgid "7.62cm i.K.H 290(r)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_zis3_roa"
+msgid "ZIS-3"
+msgstr ""
+
+msgctxt "desc/entity/76mm_zis3_roa_mid"
+msgid "7,62 cm-Feldkanone 288(r)"
+msgstr ""
+
+msgctxt "desc/entity/122mm_m30_roa"
+msgid "12,2 cm s.F.H.396(r)"
+msgstr ""
+
+msgctxt "info/special/122mm_m30_roa"
+msgid "<c(c3baae)>Medium Artillery</c>"
+msgstr ""
+
+msgctxt "desc/entity/85mm_52k_roa"
+msgid "86-mm 52k"
+msgstr ""
+
+msgctxt "desc/entity/dshk_aa_roa"
+msgid "DShK AA"
+msgstr ""
+
+msgctxt "desc/entity/gaz_aaa_roa"
+msgid "GAZ-AAA"
+msgstr ""
+
+msgctxt "desc/entity/gaz_aaa_ger"
+msgid "GAZ-AAA"
+msgstr ""
+
+msgctxt "desc/entity/gaz_aaa_supply_ger"
+msgid "GAZ AAA Supply"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_kos"
+msgid "Opel Blitz 3.6"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_kos_ammo"
+msgid "Opel Blitz 3.6 Supply"
+msgstr ""
+
+msgctxt "desc/entity/gaz_aaa_maximx4_roa"
+msgid "GAZ-AAA Maxim-zenit"
+msgstr ""
+
+msgctxt "desc/entity/gaz67b_roa"
+msgid "GAZ-67"
+msgstr ""
+
+msgctxt "desc/entity/zis5eng_roa"
+msgid "ZIS-5 Engineering"
+msgstr ""
+
+msgctxt "desc/entity/kv1_40e_roa"
+msgid "KV-1E mod.1940"
+msgstr ""
+
+msgctxt "desc/entity/su85_roa"
+msgid "SU-85"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz231_roa"
+msgid "Sd.Kfz. 231"
+msgstr ""
+
+msgctxt "desc/entity/37mm_pak36_late_roa"
+msgid "3.7 cm Pak 36"
+msgstr ""
+
+msgctxt "desc/entity/25mm_72k_roa"
+msgid "2.5 cm Flak M1940(r)"
+msgstr ""
+
+msgctxt "desc/entity/75mm_leig18_roa"
+msgid "75-mm Leig 18"
+msgstr ""
+
+msgctxt "desc/entity/37mm_pak36_roa"
+msgid "3.7 cm Pak 36"
+msgstr ""
+
+msgctxt "desc/entity/50mm_pak38_roa"
+msgid "5 cm Pak 38"
+msgstr ""
+
+msgctxt "desc/entity/75mm_pak40_roa"
+msgid "7.5 cm Pak 40"
+msgstr ""
+
+msgctxt "desc/entity/80mm_sgrw34_roa"
+msgid "8 cm Granatwerfer 34"
+msgstr ""
+
+msgctxt "desc/entity/80mm_sgrw34_stat"
+msgid "8 cm Granatwerfer 34"
+msgstr ""
+
+msgctxt "desc/entity/88mm_flak18_roa"
+msgid "8.8 cm Flak 18"
+msgstr ""
+
+msgctxt "desc/entity/105mm_lefh18_roa"
+msgid "10.5 cm leFH 18"
+msgstr ""
+
+msgctxt "desc/entity/150mm_sig33_roa"
+msgid "15 cm sIG 33"
+msgstr ""
+
+msgctxt "desc/entity/mg42_lafette_roa"
+msgid "MG-42 Lafette"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_roa"
+msgid "Opel Blitz 3.6"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_art_roa_ammo"
+msgid "Opel Blitz 3.6 artillery"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_engineering_roa"
+msgid "Opel Blitz 3.6 engineering"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_flak30_roa"
+msgid "Opel Blitz 3.6 Flak-30"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_fuel_roa"
+msgid "Opel Blitz 3.6 Fuel"
+msgstr ""
+
+msgctxt "desc/entity/pz756r_roa"
+msgid "KV-1B 756(r)"
+msgstr ""
+
+msgctxt "desc/entity/tiger1e_roa"
+msgid "Tiger 1 Ausf.E"
+msgstr ""
+
+msgctxt "desc/entity/panzer731r_roa"
+msgid "Panzer 731(r)"
+msgstr ""
+
+msgctxt "desc/entity/panzer3j_roa"
+msgid "Pz.Kpfw. III Ausf.J"
+msgstr ""
+
+msgctxt "desc/entity/panzer3n_roa"
+msgid "Pz.Kpfw. III Ausf.N"
+msgstr ""
+
+msgctxt "desc/entity/panzer4f2_roa"
+msgid "Pz.Kpfw. IV Ausf.F2"
+msgstr ""
+
+msgctxt "desc/entity/panzer5a_roa"
+msgid "Panzer V Ausf.A"
+msgstr ""
+
+msgctxt "desc/entity/stug3f_roa"
+msgid "StuG III F"
+msgstr ""
+
+msgctxt "desc/entity/stuh42_roa"
+msgid "StuH 42"
+msgstr ""
+
+msgctxt "desc/entity/dshk_stan_roa"
+msgid "DSHK Stan"
+msgstr ""
+
+msgctxt "desc/entity/20mm_flak30_roa"
+msgid "2 cm Flak 30"
+msgstr ""
+
+msgctxt "desc/entity/maxim_roa"
+msgid "Maxim"
+msgstr ""
+
+msgctxt "desc/entity/maxim_kos"
+msgid "Maxim"
+msgstr ""
+
+msgctxt "desc/entity/mg42_lafette_kos"
+msgid "MG 42"
+msgstr ""
+
+msgctxt "desc/entity/bmw_r71_roa"
+msgid "BMW R71"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz222a_roa"
+msgid "Sd.Kfz 222 Ausf.A"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251c_roa"
+msgid "Sd.Kfz 251/1 Ausf. C"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251c_10"
+msgid "Sd.Kfz 251/10 with PaK 36"
+msgstr ""
+
+msgctxt "desc/entity/su26_roa"
+msgid "SU-26"
+msgstr ""
+
+msgctxt "desc/entity/horse_rus"
+msgid "Horse"
+msgstr ""
+
+msgctxt "desc/entity/a13_mk2a_roa"
+msgid "Pz.Kpf.Wg.A 13(e)"
+msgstr ""
+
+msgctxt "desc/entity/matilda_mkii_roa"
+msgid "Pz.Kpf.Wg.Mk.II 748(e)"
+msgstr ""
+
+msgctxt "desc/entity/m4a2_roa"
+msgid "Pz.Kpfw. M4 748 (a)"
+msgstr ""
+
+msgctxt "desc/entity/churchill3roa"
+msgid "Pz.Kpfw. Churchill"
+msgstr ""
+
+msgctxt "desc/entity/100mm_vz14_skoda_grc"
+msgid "10-cm leFH-316(j)"
+msgstr ""
+
+msgctxt "desc/entity/105mm_wz29"
+msgid "10,5 cm K 29(p)"
+msgstr ""
+
+msgctxt "desc/entity/120mm_wz1878_09_31"
+msgid "120-mm wz. 78/09/31"
+msgstr ""
+
+msgctxt "desc/entity/maxim_stand_roa"
+msgid "Maxim"
+msgstr ""
+
+msgctxt "desc/entity/praga_rv_inf"
+msgid "Praga RV"
+msgstr ""
+
+msgctxt "desc/entity/praga_rv_ammo"
+msgid "Praga RV Ammo"
+msgstr ""
+
+msgctxt "desc/entity/75mm_pak41"
+msgid "7.5 cm Pak 41"
+msgstr ""
+
+msgctxt "desc/entity/76mm_fk58j"
+msgid "7.65 cm FK5/8(j)"
+msgstr ""
+
+msgctxt "desc/entity/100mm_skoda_m1934"
+msgid "10 cm leFH 34(t)"
+msgstr ""
+
+msgctxt "desc/entity/105mm_k331f"
+msgid "10,5 cm K331(f)"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz253wpzit"
+msgid "Sd.Kfz. 253 w. Pz. I turn"
+msgstr ""
+
+msgctxt "info/special/sdkfz253wpzit"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/marder135"
+msgid "Marder I"
+msgstr ""
+
+msgctxt "desc/entity/maxim_m1910_30_roa"
+msgid "Maxim"
+msgstr ""
+
+msgctxt "desc/entity/20mm_breda_2065"
+msgid "2 cm Breda(i)"
+msgstr ""
+
+msgctxt "desc/entity/37mm_pakt36p"
+msgid "3,7 cm PaK 36(p)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_fk2951r"
+msgid "7,62 cm FK 295/1(r)"
+msgstr ""
+
+msgctxt "info/special/76mm_fk2951r"
+msgid "<c(c3baae)>Light Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_fk2952r_ger"
+msgid "7,62 cm FK 295/2(r)"
+msgstr ""
+
+msgctxt "info/special/76mm_fk2952r_ger"
+msgid "<c(c3baae)>Light Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_gebk_293r"
+msgid "7,62 cm GebK 293(r)"
+msgstr ""
+
+msgctxt "desc/entity/5cm_grw200r"
+msgid "5 cm GrW 200(r)"
+msgstr ""
+
+msgctxt "desc/entity/100mm_skoda_m1934"
+msgid "100 mm Skoda M1934"
+msgstr ""
+
+msgctxt "desc/entity/105mm_k331f"
+msgid "10,5 cm K331(f)"
+msgstr ""
+
+msgctxt "desc/entity/mg37t_lafette"
+msgid "MG 37(t)"
+msgstr ""
+
+msgctxt "desc/entity/mg37t_lafette_ss"
+msgid "MG 37(t)"
+msgstr ""
+
+msgctxt "desc/entity/37mm_flak39r"
+msgid "3,7 cm Flak 39(r)"
+msgstr ""
+
+msgctxt "desc/entity/ammo_trailer_eng"
+msgid "Ammo Trailer (Eng.)"
+msgstr ""
+
+msgctxt "desc/entity/120mm_granatwerfwer379r"
+msgid "12 cm GrW 379(r)"
+msgstr ""
+
+msgctxt "desc/entity/zis30_ger"
+msgid "Panzerjager ZIS30(r)"
+msgstr ""
+
+msgctxt "info/special/zis30_ger"
+msgid "<c(c3baae)>Self-Propelled AT-Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/zis30_ger2"
+msgid "Panzerjager ZIS30(r)"
+msgstr ""
+
+msgctxt "info/special/zis30_ger2"
+msgid "<c(c3baae)>Self-Propelled AT-Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/jagdpanzer_su76r"
+msgid "Jagdpanzer SU76(r)"
+msgstr ""
+
+msgctxt "info/special/jagdpanzer_su76r"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/jagdpanzer_su76r_ger"
+msgid "Jagdpanzer SU76(r)"
+msgstr ""
+
+msgctxt "info/special/jagdpanzer_su76r_ger"
+msgid "<c(c3baae)>Self-Propelled Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz135_1"
+msgid "15 cm sFH 13/1 (Sf.) auf Geschutzwagen Lorraine Schlepper(f)"
+msgstr ""
+
+msgctxt "desc/entity/gaz_aaa_ger"
+msgid "GAZ AAA"
+msgstr ""
+
+msgctxt "desc/entity/pzkpfw_kw_la753r"
+msgid "Pz.Kpfw. KW 1A 753(r)"
+msgstr ""
+
+msgctxt "desc/entity/pzkpfw34_7642"
+msgid "Pz.Kpfw. T34/76 747(r)"
+msgstr ""
+
+msgctxt "desc/entity/panzer1b_roa"
+msgid "Pz.Kpfw. I Ausf.B"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251c_dshk"
+msgid "Sd.Kfz 251/1 Ausf. C w. DSHK"
+msgstr ""
+
+msgctxt "info/special/sdkfz251c_dshk"
+msgid "<c(c3baae)>Medium Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/raketenwerfer"
+msgid "28 cm Raketenwerfer"
+msgstr ""
+
+msgctxt "desc/entity/flampanzer1"
+msgid "Flampanzer I"
+msgstr ""
+
+msgctxt "desc/entity/hummel_ss"
+msgid "Hummel"
+msgstr ""
+
+msgctxt "desc/entity/pz38h_735_ss"
+msgid "Pz.Kpfw. 38H 735(f)"
+msgstr ""
+
+msgctxt "desc/entity/pz38h_735_roa"
+msgid "Pz.Kpfw. 38H 735(f)"
+msgstr ""
+
+msgctxt "desc/entity/gebh40"
+msgid "10.5 cm GebH 40"
+msgstr ""
+
+msgctxt "desc/entity/pzkpfw747_t34r_ausf_d"
+msgid "Pz.Kpfw. T34 747(r) Ausf. D"
+msgstr ""
+
+msgctxt "desc/entity/werfer"
+msgid "m.SPW S307(f)"
+msgstr ""
+
+msgctxt "desc/entity/hetzer_auf"
+msgid "Panzer-Aufklärer auf 38"
+msgstr ""
+
+msgctxt "desc/entity/gaz_4_2m"
+msgid "GAZ-A Maxim-zenit"
+msgstr ""
+
+msgctxt "desc/entity/su_1_12"
+msgid "SU-1-12"
+msgstr ""
+
+msgctxt "desc/entity/steir_drilling"
+msgid "Steir Drilling"
+msgstr ""
+
+msgctxt "desc/entity/75mm_gebg36"
+msgid "7.5 cm GebG 36"
+msgstr ""
+
+msgctxt "desc/entity/45mm_m42_roa"
+msgid "4,5-cm Pak 186(r)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_zis3_roa"
+msgid "7,62 cm F.K. 298(r)"
+msgstr ""
+
+msgctxt "desc/entity/76mm_m1927_roa"
+msgid "7.62cm i.K.H 290(r)"
+msgstr ""
+
+msgctxt "desc/entity/pzspwgf204r"
+msgid "Pz.Sp.Wg F 204 (r)"
+msgstr ""
+
+msgctxt "desc/entity/marder139"
+msgid "Panzerjager 38(t) fur 7.62 cm PaK 36(r)"
+msgstr ""
+
+msgctxt "desc/entity/marder2_roa"
+msgid "Marder II"
+msgstr ""
+
+msgctxt "desc/entity/t26pak9738"
+msgid "7,5 cm Pak 97/38(f) auf Pz.740(r)"
+msgstr ""
+
+msgctxt "desc/entity/t26_pak9738"
+msgid "7,5 cm Pak 97/38(f) auf Pz.740(r)"
+msgstr ""
+
+msgctxt "info/special/t26_pak9738"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/t26_pak9738_ger"
+msgid "7,5 cm Pak 97/38(f) auf Pz.740(r)"
+msgstr ""
+
+msgctxt "info/special/t26_pak9738_ger"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/107mm_m1910_30_roa"
+msgid "10,7 cm Kanone 351(r)"
+msgstr ""
+
+msgctxt "desc/entity/kubelwagen_mg_roa"
+msgid "Kubelwagen"
+msgstr ""
+
+msgctxt "desc/entity/kfz15_kos"
+msgid "Kfz. 15"
+msgstr ""
+
+msgctxt "desc/entity/t60r_late"
+msgid "Pz.Kpfw. T-60 743(r)"
+msgstr ""
+
+msgctxt "desc/entity/t60r_late"
+msgid "Pz.Kpfw. T-60 743(r)"
+msgstr ""
+
+msgctxt "desc/entity/jagdpanzer_su85r"
+msgid "Jagdpanzer SU 85(r)"
+msgstr ""
+
+msgctxt "info/special/jagdpanzer_su85r"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251d_1_roa"
+msgid "Sd.Kfz. 251/1 Ausf.D"
+msgstr ""
+
+msgctxt "desc/entity/88mm_pak4341_roa"
+msgid "8,8 cm PaK 43"
+msgstr ""
+
+msgctxt "desc/entity/75mm_pak9738_kos_late"
+msgid "7.5 cm PaK 97/38(f)"
+msgstr ""
+
+msgctxt "desc/entity/carrier_731_flak38"
+msgid "Bren Carrier 731(e) 2cm FlaK 38"
+msgstr ""
+
+msgctxt "info/special/carrier_731_flak38"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/88mm_flak36_roa"
+msgid "8.8 cm Flak 36"
+msgstr ""
+
+msgctxt "desc/entity/bison_roa_late"
+msgid "Bison I"
+msgstr ""
+
+msgctxt "desc/entity/155mm_gpf_kos"
+msgid "15,5 cm K 418(f)"
+msgstr ""
+
+msgctxt "info/special/155mm_gpf_kos"
+msgid "<c(c3baae)>Heavy Field Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/300mm_nebelwerfer42_kos"
+msgid "300mm Nebelwerfer 42"
+msgstr ""
+
+msgctxt "desc/entity/kubelwagen_roa"
+msgid "VW82 Kübelwagen"
+msgstr ""
+
+msgctxt "desc/entity/ba20_command_roa"
+msgid "Pz.Sp.Wg. BA 202(r)"
+msgstr ""
+
+msgctxt "info/special/ba20_command_roa"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/zis5_ger"
+msgid "ZIS-5"
+msgstr ""
+
+msgctxt "info/special/zis5_ger"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "info/special/zis5_ger"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/ap_2_roa"
+msgid "2-AP-3 (Supply)"
+msgstr ""
+
+msgctxt "info/special/ap_2_roa"
+msgid "<c(c3baae)>Ammo Trailer</c>"
+msgstr ""
+
+msgctxt "desc/entity/150mm_sfh18_roa"
+msgid "15cm sFH 18"
+msgstr ""
+
+msgctxt "info/special/150mm_sfh18_roa"
+msgid "<c(c3baae)>Heavy Field Howitzer</c>"
+msgstr ""
+
+msgctxt "desc/entity/210mm_nebelwerfer42_roa"
+msgid "21cm Nebelwerfer 42"
+msgstr ""
+
+msgctxt "info/special/210mm_nebelwerfer42_roa"
+msgid "<c(c3baae)>Rocket Artillery</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz250a_1_roa"
+msgid "Sd.Kfz 250/1"
+msgstr ""
+
+msgctxt "info/special/sdkfz250a_1_roa"
+msgid "<c(c3baae)>Light Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/pz35t_roa"
+msgid "Pz.Kpfw 35(t)"
+msgstr ""
+
+msgctxt "info/special/pz35t_roa"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/pz38t_a_roa"
+msgid "Pz.Kpfw 38(t) Ausf.A"
+msgstr ""
+
+msgctxt "info/special/pz38t_a_roa"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/pz38t_f_roa"
+msgid "Pz.Kpfw 38(t) Ausf.F"
+msgstr ""
+
+msgctxt "info/special/pz38t_f_roa"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/jagdpanzer_su100r"
+msgid "Jagdpanzer SU 100(r)"
+msgstr ""
+
+msgctxt "info/special/jagdpanzer_su100r"
+msgid "<c(c3baae)>Tank Destroyer</c>"
+msgstr ""
+
+msgctxt "desc/entity/150mm_sfh18_artillery_barrage_roa"
+msgid "Heavy Artillery Barrage"
+msgstr ""
+
+msgctxt "desc/squad/150mm_sfh18_artillery_barrage_roa"
+msgid "15cm sFH 18"
+msgstr ""
+
+msgctxt "desc/entity/80mm_sgrw34_mortar_barrage_roa"
+msgid "Medium Mortar Barrage"
+msgstr ""
+
+msgctxt "desc/squad/80mm_sgrw34_mortar_barrage_roa"
+msgid "8cm sGrW 34"
+msgstr ""
+
+msgctxt "desc/entity/120mm_grw379r_mortar_barrage_roa"
+msgid "Heavy Mortar Barrage"
+msgstr ""
+
+msgctxt "desc/squad/120mm_grw379r_mortar_barrage_roa"
+msgid "12 cm GrW 379(r)"
+msgstr ""
+
+msgctxt "desc/entity/105mm_lefh18_smoke_barrage_roa"
+msgid "Medium Smoke Barrage"
+msgstr ""
+
+msgctxt "desc/squad/105mm_lefh18_smoke_barrage_roa"
+msgid "10.5cm LeFH 18"
+msgstr ""
+
+msgctxt "desc/entity/105mm_lefh18_artillery_barrage_roa"
+msgid "Medium Artillery Barrage"
+msgstr ""
+
+msgctxt "desc/squad/105mm_lefh18_artillery_barrage_roa"
+msgid "10.5cm LeFH 18"
+msgstr ""
+
+msgctxt "desc/entity/opel_maultier_inf"
+msgid "Opel Maultier (Transport)"
+msgstr ""
+
+msgctxt "info/special/opel_maultier_inf"
+msgid "<c(c3baae)>Transport</c>"
+msgstr ""
+
+msgctxt "desc/entity/gaz_aaa_drilling"
+msgid "Beutefahrzeug GAZ AAA mit MG 131 Drilling"
+msgstr ""
+
+msgctxt "info/special/gaz_aaa_drilling"
+msgid "<c(c3baae)>Light AA Truck</c>"
+msgstr ""
+
+
+msgctxt "desc/entity/sdkfz234_w_luchs"
+msgid "Sd.Kfz.234 w/Luchs turm"
+msgstr ""
+
+msgctxt "info/special/sdkfz234_w_luchs"
+msgid "<c(c3baae)>Armored Car</c>"
+msgstr ""
+
+msgctxt "desc/entity/t34_kwk37"
+msgid "Pz.Kpfw. 747(r) mit KwK 37 (L/24)"
+msgstr ""
+
+msgctxt "info/special/t34_kwk37"
+msgid "<c(c3baae)>Medium Modified Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/pzkpfw_kw_la753r_ger"
+msgid "Pz.Kpfw. KW 1A 753(r)"
+msgstr ""
+
+msgctxt "info/special/pzkpfw_kw_la753r_ger"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/pzkpfw_kv1b_753r"
+msgid "Pz.Kpfw. KW 1B 753(r)"
+msgstr ""
+
+msgctxt "info/special/pzkpfw_kv1b_753r"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/pz740r"
+msgid "Pz.Kpfw. 740(r)"
+msgstr ""
+
+msgctxt "info/special/pz740r"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/pz740r_ger"
+msgid "Pz.Kpfw. 740(r)"
+msgstr ""
+
+msgctxt "info/special/pz740r_ger"
+msgid "<c(c3baae)>Light Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_raketenwerfer"
+msgid "Opel Blitz Heulende Kuh 40 (sWu.R.40/28 cm)"
+msgstr ""
+
+msgctxt "info/special/blitz3_6_raketenwerfer"
+msgid "<c(c3baae)>Rocket Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/blitz3_6_raketenwerfer_ger"
+msgid "Opel Blitz Heulende Kuh 40 (sWu.R.40/28 cm)"
+msgstr ""
+
+msgctxt "info/special/blitz3_6_raketenwerfer_ger"
+msgid "<c(c3baae)>Rocket Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz10_armor_rocket"
+msgid "Sd.Kfz.10 (Engineer)"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz10_armor_rocket_ger"
+msgid "Sd.Kfz.10 (Engineer)"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz10_roa"
+msgid "Sd.Kfz.10"
+msgstr ""
+
+msgctxt "info/special/sdkfz10_armor_rocket"
+msgid "<c(c3baae)>Engineering Truck</c>"
+msgstr ""
+
+msgctxt "info/special/sdkfz10_armor_rocket_ger"
+msgid "<c(c3baae)>Engineering Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/pavesi_p4"
+msgid "Pavesi P4"
+msgstr ""
+
+msgctxt "info/special/pavesi_p4"
+msgid "<c(c3baae)>Truck</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251d_2xgrw42"
+msgid "Sd.Kfz.251 Ausf.D mit Zwilling 12 cm GrW 42"
+msgstr ""
+
+msgctxt "info/special/sdkfz251d_2xgrw42"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/sdkfz251d_37mm_f"
+msgid "Sd.Kfz.251 Ausf.D With R35 Turret"
+msgstr ""
+
+msgctxt "info/special/sdkfz251d_37mm_f"
+msgid "<c(c3baae)>Halftrack</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_f22_ger_late"
+msgid "7,62 см FK 36(r)"
+msgstr ""
+
+msgctxt "info/special/76mm_f22_ger_late"
+msgid "<c(c3baae)>Light Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/76mm_f22_ger"
+msgid "7,62 см FK 36(r)"
+msgstr ""
+
+msgctxt "info/special/76mm_f22_ger"
+msgid "<c(c3baae)>Light Field Gun</c>"
+msgstr ""
+
+msgctxt "desc/entity/pz754r"
+msgid "Pz.754(r)"
+msgstr ""
+
+msgctxt "info/special/pz754r"
+msgid "<c(c3baae)>Heavy Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/PzKw747_76_41_ger"
+msgid "Pz.Kpfw. T34/76 747(r)"
+msgstr ""
+
+msgctxt "info/special/PzKw747_76_41_ger"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/pzkpfw747_7641"
+msgid "Pz.Kpfw. T34/76 747(r)"
+msgstr ""
+
+msgctxt "info/special/pzkpfw747_7641"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/pzkpfw747_7641_ger"
+msgid "Pz.Kpfw. T34/76 747(r)"
+msgstr ""
+
+msgctxt "info/special/pzkpfw747_7641_ger"
+msgid "<c(c3baae)>Medium Tank</c>"
+msgstr ""
+
+msgctxt "desc/entity/mg08"
+msgid "MG-08 Lafette"
+msgstr ""

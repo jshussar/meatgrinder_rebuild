@@ -1,0 +1,82 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German ammo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+
+msgctxt "desc/ammo/bulletger_p43 apcr"
+msgid "Pzgr 41 (HK) [<c(48c445)>APCR</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_p43 he"
+msgid "7,5 cm Sprgr.41 [<c(ff1200)>HE</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_75_g36 he"
+msgid "7,5 cm Sprgr.34 AL [<c(ff1200)>HE</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_75_g36 heat"
+msgid "7.5cm Gr.38 HL [<c(c9a6ff)>HEAT</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_75_g36 heatb"
+msgid "7.5cm Gr.38 HL/B [<c(c9a6ff)>HEAT</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_75_g36 heatc"
+msgid "7.5cm Gr.38 HL/C [<c(c9a6ff)>HEAT</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_76x283 he"
+msgid "76,5x283 mm [<c(ff1200)>HE</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bullet_76x283 sm"
+msgid "76,5x283 mm [SMOKE]"
+msgstr ""
+
+msgctxt "desc/ammo/bullet100x241 he"
+msgid "100x241 mm R [<c(ff1200)>HE</c>]"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_105 sm"
+msgid "10.5cm Nb [SMOKE] <c(65696d)>L/28</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_76_36r apcbc"
+msgid "	7.62cm Pzgr.39 [<c(ff6a00)>APCBC-HE</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_76_36r apcr"
+msgid "7.62cm Pzgr.40 [<c(48c445)>APCR</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_76_36r he"
+msgid "7.62cm Gr.34 [<c(ff1200)>HE</c>] <c(65696d)>L/43 L/46 L/48</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_76_36r heatb"
+msgid "7.62cm Gr.38 Hl/B [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+msgstr ""
+
+msgctxt "desc/ammo/bulletger_76_36r heatc"
+msgid "7.62 cm Gr.38 Hl/С [<c(c9a6ff)>HEAT</c>] <c(65696d)>L/24</c>"
+msgstr ""
+
+msgctxt "desc/ammo/rifle_ger clip ap"
+msgid "7.92mm SmK Mauser Rounds"
+msgstr ""
+
+msgctxt "desc/ammo/rifle_ger clip ap2"
+msgid "7.92mm SmK(H) Mauser Rounds"
+msgstr ""

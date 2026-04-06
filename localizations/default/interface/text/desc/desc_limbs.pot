@@ -1,0 +1,69 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell French ammo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "desc/stuff/bm_arm1"
+msgid "Human arm"
+msgstr "Human arm"
+
+msgctxt "desc/stuff/bm_arm2"
+msgid "Human arm"
+msgstr "Human arm"
+
+msgctxt "desc/stuff/bm_arm3"
+msgid "Human arm"
+msgstr "Human arm"
+
+msgctxt "desc/stuff/bm_arm4"
+msgid "Human arm"
+msgstr "Human arm"
+
+msgctxt "desc/stuff/bm_foot1"
+msgid "Human foot"
+msgstr "Human foot"
+
+msgctxt "desc/stuff/bm_foot2"
+msgid "Human foot"
+msgstr "Human foot"
+
+msgctxt "desc/stuff/bm_foot3"
+msgid "Human foot"
+msgstr "Human foot"
+
+msgctxt "desc/stuff/bm_hand1"
+msgid "Human hand"
+msgstr "Human hand"
+
+msgctxt "desc/stuff/bm_stump4"
+msgid "Human flesh"
+msgstr "Human flesh"
+
+msgctxt "desc/stuff/bm_head1"
+msgid "Human head"
+msgstr "Human head"
+
+msgctxt "desc/stuff/bm_head2"
+msgid "Human head"
+msgstr "Human head"
+
+msgctxt "desc/stuff/bm_head3"
+msgid "Human head"
+msgstr "Human head"
+
+msgctxt "desc/stuff/bm_chunk3"
+msgid "Human flesh"
+msgstr "Human flesh
+
+msgctxt "desc/stuff/bm_chunk4"
+msgid "Human flesh"
+msgstr "Human flesh

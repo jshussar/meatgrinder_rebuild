@@ -1,0 +1,158 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell Generic weaponry\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgctxt "desc/ammo/ap"
+msgid "Armour-Piercing"
+msgstr ""
+
+msgctxt "desc/ammo/ap2"
+msgid "Armour-Piercing"
+msgstr ""
+
+msgctxt "desc/ammo/apbc"
+msgid "Armour-Piercing, Ballistic Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apbc2"
+msgid "Armour-Piercing, Ballistic Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apc"
+msgid "Armour-Piercing, Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apc2"
+msgid "Armour-Piercing, Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apcbc"
+msgid "Armour-Piercing, Capped, Ballistic Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apcbc2"
+msgid "Armour-Piercing, Capped, Ballistic Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apcbche"
+msgid "Armour-Piercing (HE), Capped, Ballistic Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apcbche2"
+msgid "Armour-Piercing (HE), Capped, Ballistic Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apche"
+msgid "Armour-Piercing (HE), Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apche2"
+msgid "Armour-Piercing (HE), Capped"
+msgstr ""
+
+msgctxt "desc/ammo/apcr"
+msgid "Armour-Piercing, Composite, Rigid"
+msgstr ""
+
+msgctxt "desc/ammo/apcr2"
+msgid "Armour-Piercing, Composite, Rigid"
+msgstr ""
+
+msgctxt "desc/ammo/apds"
+msgid "Armour-Piercing, Discarding Sabot"
+msgstr ""
+
+msgctxt "desc/ammo/apds2"
+msgid "Armour-Piercing, Discarding Sabot"
+msgstr ""
+
+msgctxt "desc/ammo/aphe"
+msgid "Armour-Piercing (HE)"
+msgstr ""
+
+msgctxt "desc/ammo/aphe2"
+msgid "Armour-Piercing (HE)"
+msgstr ""
+
+msgctxt "desc/ammo/aphebc"
+msgid "Armour-Piercing (HE), Ballistic Capped"
+msgstr ""
+
+msgctxt "desc/ammo/aphebc2"
+msgid "Armour-Piercing (HE), Ballistic Capped"
+msgstr ""
+
+msgctxt "desc/ammo/he"
+msgid "High-Explosive"
+msgstr ""
+
+msgctxt "desc/ammo/he2"
+msgid "High-Explosive"
+msgstr ""
+
+msgctxt "desc/ammo/heat"
+msgid "High-Explosive, Anti-Tank"
+msgstr ""
+
+msgctxt "desc/ammo/heat2"
+msgid "High-Explosive, Anti-Tank"
+msgstr ""
+
+msgctxt "desc/ammo/heata"
+msgid "High-Explosive, Anti-Tank"
+msgstr ""
+
+msgctxt "desc/ammo/heatb"
+msgid "High-Explosive, Anti-Tank"
+msgstr ""
+
+msgctxt "desc/ammo/heatc"
+msgid "High-Explosive, Anti-Tank"
+msgstr ""
+
+msgctxt "desc/ammo/hvap"
+msgid "High-Velocity Armour-Piercing"
+msgstr ""
+
+msgctxt "desc/ammo/ic"
+msgid "Incendiary"
+msgstr ""
+
+msgctxt "desc/ammo/ic2"
+msgid "Incendiary"
+msgstr ""
+
+msgctxt "desc/ammo/sm"
+msgid "Smoke"
+msgstr ""
+
+msgctxt "desc/ammo/sm2"
+msgid "Smoke"
+msgstr ""
+
+msgctxt "desc/ammo/sr"
+msgid "Shrapnel"
+msgstr ""
+
+msgctxt "desc/stuff/sr"
+msgid "Shrapnel"
+msgstr ""
+
+msgctxt "desc/ammo/wp"
+msgid "White Phosphorus"
+msgstr ""
+
+msgctxt "desc/ammo/wp2"
+msgid "White Phosphorus"
+msgstr ""

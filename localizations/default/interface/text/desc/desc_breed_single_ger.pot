@@ -1,0 +1,1386 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gates of Hell German singleplayer soldiers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "desc/human/single/ger/1941_summer/Officer"
+msgid "Leutnant  [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/Recruit1"
+msgid "Recruit"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/Recruit"
+msgid "Recruit"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/antitank_1"
+msgid "Panzerbüchse. Inf. [Panzerbüchse 39]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/antitank_2"
+msgid "AT support Inf. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/brand_1"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/brand_2"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/brand_3"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/engineer_1"
+msgid "Field Engineer [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/engineer_2"
+msgid "Field Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/fallsch_1"
+msgid "Fallschirmjäger NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/fallsch_2"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/fallsch_3"
+msgid "Fallschirmjäger [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/fallsch_4"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/flamer"
+msgid "Flamethrower Inf. [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/gebirgs_1"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/gebirgs_2"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/gebirgs_3"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/logistics"
+msgid "Logistics Operator [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/logistics_manager"
+msgid "Transport Officer [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/luft_1"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/luft_2"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/luft_3"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/medic"
+msgid "Medic [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/mgun2"
+msgid "MG Support [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/mgun"
+msgid "MG Operator [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/miner-ap"
+msgid "AP-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/miner-at"
+msgid "AT-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/nco"
+msgid "Feldwebel [MP 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/oberst"
+msgid "Oberst [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/pioneer_1"
+msgid "Pionier NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/pioneer_2"
+msgid "Pionier [PPSH-41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/pioneer_3"
+msgid "Pionier [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/pioneer_4"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/rifleman_1"
+msgid "Rifleman [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/rifleman_2"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/rifleman_3"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/sapper"
+msgid "Mine disposal Sapper [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/smg_1"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/smg_2"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/smg_3"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/sniper"
+msgid "Sniper [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_summer/tankman_stug"
+msgid "Tankman"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/Officer"
+msgid "Leutnant  [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/antitank_1"
+msgid "Panzerbüchse. Inf. [Panzerbüchse 39]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/antitank_2"
+msgid "AT support Inf. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/artilleryman"
+msgid "Artilleryman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/brand_1"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/brand_2"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/brand_3"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/engineer_1"
+msgid "Field Engineer [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/engineer_2"
+msgid "Field Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/fallsch_1"
+msgid "Fallschirmjäger NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/fallsch_2"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/fallsch_3"
+msgid "Fallschirmjäger [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/fallsch_4"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/flamer"
+msgid "Flamethrower Inf. [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/gebirgs_1"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/gebirgs_2"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/gebirgs_3"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/logistics"
+msgid "Logistics Operator [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/logistics_manager"
+msgid "Transport Officer [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/luft_1"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/luft_2"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/luft_3"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/medic"
+msgid "Medic [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/mgun2"
+msgid "MG Support [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/mgun"
+msgid "MG Operator [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/miner-ap"
+msgid "AP-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/miner-at"
+msgid "AT-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/nco"
+msgid "Feldwebel [MP 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/oberst"
+msgid "Oberst [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/pioneer_1"
+msgid "Pionier NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/pioneer_2"
+msgid "Pionier [PPSH-41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/pioneer_3"
+msgid "Pionier [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/pioneer_4"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/rifleman_1"
+msgid "Rifleman [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/rifleman_2"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/rifleman_3"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/sapper"
+msgid "Mine disposal Sapper [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/signaller"
+msgid "Artillery Signaller [MP 38]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/smg_1"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/smg_2"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/smg_3"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/sniper"
+msgid "Sniper [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1941_win/tankman_stug"
+msgid "Tankman"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/Officer"
+msgid "Leutnant  [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/antitank_1"
+msgid "Panzerbüchse. Inf. [Panzerbüchse 39]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/antitank_2"
+msgid "AT support Inf. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/artilleryman"
+msgid "Artilleryman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/brand_1"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/brand_2"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/brand_3"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/collaborator_1"
+msgid "Collaborator [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/collaborator_2"
+msgid "Collaborator [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/engineer_1"
+msgid "Field Engineer [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/engineer_2"
+msgid "Field Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/fallsch_1"
+msgid "Fallschirmjäger NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/fallsch_2"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/fallsch_3"
+msgid "Fallschirmjäger [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/fallsch_4"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/flamer"
+msgid "Flamethrower Inf. [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/gebirgs_1"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/gebirgs_2"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/gebirgs_3"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/logistics"
+msgid "Logistics Operator [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/logistics_manager"
+msgid "Transport Officer [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/luft_1"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/luft_2"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/luft_3"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/medic"
+msgid "Medic [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/mgun2"
+msgid "MG Support [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/mgun"
+msgid "MG Operator [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/miner-ap"
+msgid "AP-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/miner-at"
+msgid "AT-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/nco"
+msgid "Feldwebel [MP 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/oberst"
+msgid "Oberst [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/pioneer_1"
+msgid "Pionier NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/pioneer_2"
+msgid "Pionier [PPSH-41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/pioneer_3"
+msgid "Pionier [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/pioneer_4"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/rifleman_1"
+msgid "Rifleman [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/rifleman_2"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/rifleman_3"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/sapper"
+msgid "Mine disposal Sapper [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/smg_1"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/smg_2"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/smg_3"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/sniper"
+msgid "Sniper [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_autumn/tankman_stug"
+msgid "Tankman"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/Officer"
+msgid "Leutnant  [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/antitank_1"
+msgid "Panzerbüchse. Inf. [Panzerbüchse 39]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/antitank_2"
+msgid "AT support Inf. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/brand_1"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/brand_2"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/brand_3"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/engineer_1"
+msgid "Field Engineer [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/engineer_2"
+msgid "Field Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/fallsch_1"
+msgid "Fallschirmjäger NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/fallsch_2"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/fallsch_3"
+msgid "Fallschirmjäger [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/fallsch_4"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/flamer"
+msgid "Flamethrower Inf. [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/gebirgs_1"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/gebirgs_2"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/gebirgs_3"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/logistics"
+msgid "Logistics Operator [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/logistics_manager"
+msgid "Transport Officer [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/luft_1"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/luft_2"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/luft_3"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/medic"
+msgid "Medic [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/mgun2"
+msgid "MG Support [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/mgun"
+msgid "MG Operator [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/miner-ap"
+msgid "AP-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/miner-at"
+msgid "AT-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/nco"
+msgid "Feldwebel [MP 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/oberst"
+msgid "Oberst [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/pilot"
+msgid "Pilot [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/pioneer_1"
+msgid "Pionier NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/pioneer_2"
+msgid "Pionier [PPSH-41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/pioneer_3"
+msgid "Pionier [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/pioneer_4"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/rifleman_1"
+msgid "Rifleman [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/rifleman_2"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/rifleman_3"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/sapper"
+msgid "Mine disposal Sapper [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/smg_1"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/smg_2"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/smg_3"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/sniper"
+msgid "Sniper [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_summer/tankman_stug"
+msgid "Tankman"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/Officer"
+msgid "Leutnant  [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/antitank_1"
+msgid "Panzerbüchse. Inf. [Panzerbüchse 39]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/antitank_2"
+msgid "AT support Inf. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_1"
+msgid "Blau Div. SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_2"
+msgid "Blau Div. Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_3"
+msgid "Blau Div. Rifleman [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_4"
+msgid "Blau Div. MG Operator [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_5"
+msgid "Blau Div. Feldwebel [MP 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_6"
+msgid "Blau Div. MG Asst. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_antitank_1"
+msgid "Blau Div. AT Inf. [Panzerbüchse 39]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_antitank_2"
+msgid "Blau Div. AT support Inf. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_artilleryman"
+msgid "Blau Div. Artilleryman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_engineer"
+msgid "Blau Div. Field Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_medic"
+msgid "Blau Div. Medic [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_miner_ap"
+msgid "Blau Div. AP Miner. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/blau_miner_at"
+msgid "Blau Div. AT miner. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/brand_1"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/brand_2"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/brand_3"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/engineer_1"
+msgid "Field Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/engineer_2"
+msgid "Field Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/fallsch_1"
+msgid "Fallschirmjäger NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/fallsch_2"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/fallsch_3"
+msgid "Fallschirmjäger [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/fallsch_4"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/flamer"
+msgid "Flamethrower Inf. [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/gebirgs_1"
+msgid "Gebirgsjäger [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/gebirgs_2"
+msgid "Gebirgsjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/gebirgs_3"
+msgid "Gebirgsjäger [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/logistics"
+msgid "Logistics Operator"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/logistics_manager"
+msgid "Transport Officer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/luft_1"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/luft_2"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/luft_3"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/medic"
+msgid "Medic"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/mgun2"
+msgid "MG Support [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/mgun"
+msgid "MG Operator [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/miner-ap"
+msgid "AP-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/miner-at"
+msgid "AT-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/nco"
+msgid "Feldwebel [MP 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/oberst"
+msgid "Oberst"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/pioneer_1"
+msgid "Pionier NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/pioneer_2"
+msgid "Pionier [PPSH-41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/pioneer_3"
+msgid "Pionier [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/pioneer_4"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/rifleman_1"
+msgid "Rifleman [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/rifleman_2"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/rifleman_3"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/sapper"
+msgid "Mine disposal Sapper [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/smg_1"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/smg_2"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/smg_3"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/sniper"
+msgid "Sniper [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1942_win/tankman_stug"
+msgid "Tankman"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/Officer"
+msgid "Leutnant  [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/antitank_1"
+msgid "Panzerbüchse. Inf. [Panzerbüchse 39]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/antitank_2"
+msgid "AT support Inf. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/brand_1"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/brand_2"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/brand_3"
+msgid "Brandenburger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/engineer_1"
+msgid "Field Engineer [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/engineer_2"
+msgid "Field Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/fallsch_1"
+msgid "Fallschirmjäger NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/fallsch_2"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/fallsch_3"
+msgid "Fallschirmjäger [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/fallsch_4"
+msgid "Fallschirmjäger [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/flamer"
+msgid "Flamethrower Inf. [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/gebirgs_1"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/gebirgs_2"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/gebirgs_3"
+msgid "Gebirgsjäger"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/logistics"
+msgid "Logistics Operator [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/logistics_manager"
+msgid "Transport Officer [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/luft_1"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/luft_2"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/luft_3"
+msgid "LW Field Inf."
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/medic"
+msgid "Medic [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/mgun2"
+msgid "MG Support [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/mgun"
+msgid "MG Operator [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/miner-ap"
+msgid "AP-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/miner-at"
+msgid "AT-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/nco"
+msgid "Feldwebel [MP 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/oberst"
+msgid "Oberst [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/pioneer_1"
+msgid "Pionier NCO [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/pioneer_2"
+msgid "Pionier [PPSH-41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/pioneer_3"
+msgid "Pionier [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/pioneer_4"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/rall"
+msgid "Hauptmann Günther Rall [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/rifleman_1"
+msgid "Rifleman [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/rifleman_2"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/rifleman_3"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/sapper"
+msgid "Mine disposal Sapper [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/smg_1"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/smg_2"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/smg_3"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/sniper"
+msgid "Sniper [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_summer/tankman_stug"
+msgid "Tankman"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/Officer"
+msgid "Leutnant  [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/antitank_1"
+msgid "AT Inf. [RPzB 43 'Panzerschreck']"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/antitank_2"
+msgid "AT support Inf. [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/engineer_1"
+msgid "Field Engineer [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/engineer_2"
+msgid "Field Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/flamer"
+msgid "Flamethrower Inf. [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/medic"
+msgid "Medic [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/mgun_1"
+msgid "MG Operator [MG34]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/mgun_2"
+msgid "MG Support [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/miner-ap"
+msgid "AP-Mine Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/miner-at"
+msgid "AT-Mine Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/nco"
+msgid "Feldwebel [MKB 42]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/oberst"
+msgid "Oberst"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/pioneer_1"
+msgid "Pionier NCO"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/pioneer_2"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/pioneer_3"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/pioneer_4"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/rifleman_1"
+msgid "Rifleman [Gewehr 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/rifleman_2"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/rifleman_3"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/sapper"
+msgid "Mine disposal Sapper"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/smg_1"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/smg_2"
+msgid "SMG Inf. [MKB 42]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/smg_3"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/sniper"
+msgid "Sniper [Gewehr 43 (Scope)]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/sturm_1"
+msgid "Panzergrenadier [MKB 42]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/sturm_2"
+msgid "Panzergrenadier [Gewehr 43 Improved]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/sturm_3"
+msgid "Panzergrenadier [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/tank_commander"
+msgid "Leutnant [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/tank_commander_stug"
+msgid "Leutnant [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1943_win/tankman_stug"
+msgid "Tankman [Walther P38]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/Officer"
+msgid "Leutnant  [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/antitank_1"
+msgid "AT Inf. [RPzB 54 'Panzerschreck']"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/antitank_2"
+msgid "AT support Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/artilleryman"
+msgid "Artilleryman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/engineer_1"
+msgid "Field Engineer [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/engineer_2"
+msgid "Field Engineer [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/flamer"
+msgid "Flamethrower Inf. [Flammenwerfer 41]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/logistics"
+msgid "Logistics Operator [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/logistics_manager"
+msgid "Transport Officer [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/medic"
+msgid "Medic [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/mgun2"
+msgid "MG Support [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/mgun"
+msgid "MG Operator [MG42]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/miner-ap"
+msgid "AP-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/miner-at"
+msgid "AT-Mine Engineer"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/nco"
+msgid "Feldwebel [StG 44]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/oberst"
+msgid "Oberst [Luger LP08]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/pioneer_1"
+msgid "Pionier NCO"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/pioneer_2"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/pioneer_3"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/pioneer_4"
+msgid "Pionier"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/rifleman_1"
+msgid "Rifleman [Gewehr 43]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/rifleman_2"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/rifleman_3"
+msgid "Rifleman [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/sapper"
+msgid "Mine disposal Sapper [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/smg_1"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/smg_2"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/smg_3"
+msgid "SMG Inf. [MP40]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/smg_mkb"
+msgid "SMG Inf. [StG 44]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/sniper"
+msgid "Sniper [K98]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/tankman_com"
+msgid "Leutnant [Panzerwaffe]"
+msgstr ""
+
+msgctxt "desc/human/single/ger/1944_summer/tankman"
+msgid "Tankman [Panzerwaffe]"
+msgstr ""

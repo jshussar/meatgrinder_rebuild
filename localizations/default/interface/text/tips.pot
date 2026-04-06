@@ -1,0 +1,200 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (tips)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+
+msgctxt "tip25"
+msgid "\"One should never trust quotes on the internet, as one cannot verify their origin.\"\n\n<s(18)e(shadow)b+c(dacba2)>Abraham Lincoln"
+msgstr ""
+
+msgctxt "tip35"
+msgid "\"Fortifications, artillery, foreign aid - will be of no value, unless the ordinary soldier knows that it is HE guarding his country.\"\n\n<s(18)e(shadow)b+c(dacba2)>C.G.E. Mannerheim"
+msgstr ""
+
+msgctxt "tip12"
+msgid "\"Those who have long enjoyed such privileges as we enjoy, forget in time that men have died to win them.\"\n\n<s(18)e(shadow)b+c(dacba2)>F.D. Roosevelt"
+msgstr ""
+
+msgctxt "tip02"
+msgid "\"The only thing we have to fear is fear itself.\"\n\n<s(18)e(shadow)b+c(dacba2)>F.D. Roosevelt"
+msgstr ""
+
+msgctxt "tip03"
+msgid "\"We, and all others who believe in freedom as deeply as we do, would rather die on our feet than live on our knees.\"\n\n<s(18)e(shadow)b+c(dacba2)> F.D. Roosevelt"
+msgstr ""
+
+msgctxt "tip28"
+msgid "\"A bold general may be lucky, but no general can be lucky unless he is bold.  The general who allows himself to be bound and hampered by regulations is unlikely to win a battle.\"\n\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell "
+msgstr ""
+
+msgctxt "tip07"
+msgid "\"A general may succeed for some time in persuading his superiors that he is a good commander: he will never persuade his army that he is a good commander unless he has the real qualities of one.\"\n\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell "
+msgstr ""
+
+msgctxt "tip48"
+msgid "\"The higher commander who goes to Field Service Regulations for tactical guidance inspires about as much confidence as the doctor who turns to a medical dictionary for his diagnosis.\"\n\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell"
+msgstr ""
+
+msgctxt "tip22"
+msgid "\"No amount of study or learning will make a man a leader unless he has the natural qualities of one.\"\n\n<s(18)e(shadow)b+c(dacba2)>Archibald Wavell"
+msgstr ""
+
+msgctxt "tip04"
+msgid "\"Officers don't run, only corporals do that.\"\n\n<s(18)e(shadow)b+c(dacba2)>C.G.E. Mannerheim"
+msgstr ""
+
+msgctxt "tip06"
+msgid "\"If you want total security, go to prison. There you're fed, clothed, given medical care and so on. The only thing lacking... is freedom.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip30"
+msgid "\"The search for a scapegoat is the easiest of all hunting expeditions.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip08"
+msgid "\"You do not lead by hitting people over the head -- that's assault, not leadership.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip09"
+msgid "\"Get it all on record now - get the films - get the witnesses -because somewhere down the road of history some bastard will get up and say that this never happened.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip10"
+msgid "\"What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip11"
+msgid "\"Never send a battalion to take a hill if a regiment is available.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip13"
+msgid "\"Pessimism never won any battle.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip34"
+msgid "\"The problem in defense is how far you can go without destroying from within what you are trying to defend from without.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip14"
+msgid "\"I hate war as only a soldier who has lived it can, only as one who has seen its brutality, its futility, its stupidity.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip39"
+msgid "\"Leadership consists of nothing but taking responsibility for everything that goes wrong and giving your subordinates credit for everything that goes well.\"\n\n<s(18)e(shadow)b+c(dacba2)>Dwight D. Eisenhower"
+msgstr ""
+
+msgctxt "tip23"
+msgid "\"Every German soldier must be made to feel that he is living under the muzzle of a Russian gun.\"\n\n<s(18)e(shadow)b+c(dacba2)>Vasily Chuikov"
+msgstr ""
+
+msgctxt "tip42"
+msgid "\"Stalin ordered us to stand fast and save Stalingrad. So we knew then that it was 'do or die'. We could not retreat.\"\n\n<s(18)e(shadow)b+c(dacba2)>Vasily Chuikov"
+msgstr ""
+
+msgctxt "tip40"
+msgid "\"We are harassing them and will go on harassing them until they are totally exhausted. This is not merely tactics of a definite kind - it is a strategy with a broad perspective, directed at definitive and total victory.\"\n\n<s(18)e(shadow)b+c(dacba2)>Semyon Timoshenko"
+msgstr ""
+
+msgctxt "tip26"
+msgid "\"As long as there are sovereign nations possessing great power, war is inevitable.\"\n\n<s(18)e(shadow)b+c(dacba2)>Albert Einstein"
+msgstr ""
+
+msgctxt "tip44"
+msgid "\"It is a popular idea that a man is a hero just because he was killed in action. Rather, I think, a man is frequently a fool when he gets killed.\"\n\n<s(18)e(shadow)b+c(dacba2)>George Patton"
+msgstr ""
+
+msgctxt "tip31"
+msgid "\"Every man is scared in his first battle. If he says he's not, he's a liar. Some men are cowards but they fight the same as the brave men or they get the hell slammed out of them watching men fight who are just as scared as they are. The real hero is the man who fights even though he is scared.\"\n\n<s(18)e(shadow)b+c(dacba2)>George Patton"
+msgstr ""
+
+msgctxt "tip33"
+msgid "\"Few men are killed by bayonets, but many are scared by them. Having the bayonet fixed makes our men want to close. Only the threat to close will defeat a determined enemy.\"\n\n<s(18)e(shadow)b+c(dacba2)>George Patton"
+msgstr ""
+
+msgctxt "tip36"
+msgid "\"Those who can win a war well can rarely make a good peace, and those who could make a good peace would never have won the war.\"\n\n<s(18)e(shadow)b+c(dacba2)>Winston Churchill"
+msgstr ""
+
+msgctxt "tip54"
+msgid "\"\All the greatest things are simple, and many can be expressed in a single word: freedom; justice; honour; duty; mercy; hope.\"\n\n<s(18)e(shadow)b+c(dacba2)>Winston Churchill"
+msgstr ""
+
+msgctxt "tip50"
+msgid "\"Never hold discussions with the monkey when the organ grinder is in the room.\"\n\n<s(18)e(shadow)b+c(dacba2)>Winston Churchill"
+msgstr ""
+
+msgctxt "tip37"
+msgid "\"An appeaser is one who feeds a crocodile, hoping it will eat him last.\"\n\n<s(18)e(shadow)b+c(dacba2)>Winston Churchill"
+msgstr ""
+
+msgctxt "tip55"
+msgid "\"Some goddamn fool once said that flanks have got to be secure. Since then sonsofbitches all over the globe have been guarding their flanks. I don't agree with that. My flanks are something for the enemy to worry about, not me. Before he finds out where my flanks are, I'll be cutting the bastard's throat.\"\n\n<s(18)e(shadow)b+c(dacba2)>Patton"
+msgstr ""
+
+msgctxt "tip45"
+msgid "\"Leadership is the capacity and will to rally men and women to a common purpose and the character which inspires confidence\"\n\n<s(18)e(shadow)b+c(dacba2)>Bernard Montgomery"
+msgstr ""
+
+msgctxt "tip46"
+msgid "\"I am not one of those who see war as a cricket match where you first give anything to defeat the opponent and then shake hands.\"\n\n<s(18)e(shadow)b+c(dacba2)>Douglas Bader"
+msgstr ""
+
+msgctxt "tip47"
+msgid "\"Which would your men rather be, tired or dead?\"\n\n<s(18)e(shadow)b+c(dacba2)>Erwin Rommel"
+msgstr ""
+
+msgctxt "tip49"
+msgid "\"Never allow yourself to hate people because of the actions of a few. Hatred and bigotry destroyed my nation, and millions died. I would hope that most people do not hate Germans because of the Nazis, or Americans because of slaves. Never hate, it only eats you alive. Keep an open mind and always look for the good in people. You may be surprised at what you find.\"\n\n<s(18)e(shadow)b+c(dacba2)>Erich Hartmann"
+msgstr ""
+
+msgctxt "tip51"
+msgid "\"Good men and bad men alike are capable of weakness. The difference is simply that a bad man will be proud all his life of one good deed – while an honest man is hardly aware of his good acts, but remembers a single sin for years on end...\"\n\n<s(18)e(shadow)b+c(dacba2)>Vasily Grossman"
+msgstr ""
+
+msgctxt "tip52"
+msgid "\"We are not retreating... we are advancing in another direction.\"\n\n<s(18)e(shadow)b+c(dacba2)>Douglas MacArthur"
+msgstr ""
+
+msgctxt "tip43"
+msgid "\"It is often possible to decide the issue of a battle merely by making an unexpected shift of one's main weight.\"\n\n<s(18)e(shadow)b+c(dacba2)>Erwin Rommel"
+msgstr ""
+
+msgctxt "tip27"
+msgid "\"No plan survives contact with the enemy.\"\n\n<s(18)e(shadow)b+c(dacba2)>Erwin Rommel"
+msgstr ""
+
+msgctxt "tip53"
+msgid "\"Sweat saves blood, blood saves lives, but brains save both.\"\n\n<s(18)e(shadow)b+c(dacba2)>Erwin Rommel"
+msgstr ""
+
+msgctxt "tip56"
+msgid "\"Courage which goes against military expediency is stupidity, or, if it is insisted upon by a commander, irresponsibility.\"\n\n<s(18)e(shadow)b+c(dacba2)>Erwin Rommel"
+msgstr ""
+
+# Finland tips
+
+msgctxt "tip101"
+msgid "\"In war the psychological factors are often decisive. An adversary who feels inferior is in reality so.\"\n\n<s(18)e(shadow)b+c(dacba2)>C.G.E. Mannerheim"
+msgstr ""
+
+msgctxt "tip102"
+msgid "\"Officers don't run, only corporals do that.\"\n\n<s(18)e(shadow)b+c(dacba2)>C.G.E. Mannerheim"
+msgstr ""
+
+msgctxt "tip103"
+msgid "\"Soldiers, I have fought on many battlefields, but never have I seen your like as warriors.\"\n\n<s(18)e(shadow)b+c(dacba2)>C.G.E. Mannerheim"
+msgstr ""
+
+msgctxt "tip104"
+msgid "\"Fortifications, artillery, foreign aid - will be of no value, unless the ordinary soldier knows that it is HE guarding his country.\"\n\n<s(18)e(shadow)b+c(dacba2)>C.G.E. Mannerheim"
+msgstr ""

@@ -1,0 +1,581 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CtA - Gates of Hell (doctrines)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+
+msgctxt "mp/lobby/doctrine/early_usaf_allround"
+msgid "[All-Round] - early"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_usaf_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/mid_usaf_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_usaf_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/late_usaf_allround"
+msgid "[All-Round] - late"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_usaf_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_jap_allround"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_jap_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/mid_jap_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_jap_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/late_jap_allround"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_jap_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_fra_allround"
+msgid "[All-Round] - early"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_fra_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_fra_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_fra_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/late_fra_allround"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_fra_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_pol_allround"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_pol_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_pol_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_pol_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_pol_allround"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_pol_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_eng_allround"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_eng_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_eng_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_eng_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_eng_allround"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_eng_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_ita_allround"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_ita_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_ita_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_ita_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_usaf_offensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_usaf_offensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_usaf_offensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_usaf_offensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_eng_offensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_eng_offensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_jap_offensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_jap_offensive#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/early_hun_allround"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_hun_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/mid_hun_allround"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_hun_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/late_hun_allround"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_hun_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_ita_allround"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_ita_allround#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/late_usaf_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_usaf_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+msgctxt "mp/lobby/doctrine/late_eng_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_eng_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_jap_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_jap_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_ita_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_ita_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_pol_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_pol_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_fra_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_fra_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_hun_irregular"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_hun_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_eng_offensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_eng_offensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_fra_defensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_fra_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_eng_irregular"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_eng_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_pol_defensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_pol_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_ita_defensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_ita_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_jap_irregular"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_jap_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_eng_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_eng_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_usaf_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_usaf_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_jap_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_jap_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_fra_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_fra_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_ita_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_ita_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_hun_irregular"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_hun_irregular#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_usaf_support"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_usaf_support#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_eng_support"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_eng_support#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_jap_offensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_jap_offensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_usaf_extra"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_usaf_extra#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_usaf_offensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_usaf_offensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_jap_support"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_jap_support#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_usaf_defensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_usaf_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_usaf_defensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_usaf_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_eng_defensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_eng_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_eng_defensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_eng_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_jap_defensive"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_jap_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/mid_jap_defensive"
+msgid "Into the Fire: 41-43"
+msgstr ""
+msgctxt "mp/lobby/doctrine/mid_jap_defensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/early_jap_offensive"
+msgid "Into the Fire: 1941"
+msgstr ""
+msgctxt "mp/lobby/doctrine/early_jap_offensive#hint"
+msgid ""
+msgstr ""
+
+
+
+
+msgctxt "mp/lobby/doctrine/late_eng_extra"
+msgid "Into the Fire: 44-45"
+msgstr ""
+msgctxt "mp/lobby/doctrine/late_eng_extra#hint"
+msgid ""
+msgstr ""
