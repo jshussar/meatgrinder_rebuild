@@ -1,0 +1,5 @@
+{sound
+(include "\sound\defines.inc")
+("sturm_off")
+{volume 10}
+}
